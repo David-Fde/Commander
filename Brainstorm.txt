@@ -1,0 +1,15 @@
+1º Conseguir una lista en texto de todas las cartas impresas de MTG
+2º Asegurarse que la lista no tiene valores repetidos
+3º Añadir un valor númerico a cada carta
+4º Categorizar las cartas según su tipo (criatura, tierra, instantaneo...)
+5º Categorizar las cartas según identidad de color.
+6º Añadir pesos a las cartas en funcion del grado de relevancia en el formato.
+7º Flag baneadas (S/N), actualizado a la lista de miguel(jupiter norte)
+8º Los nombres de cartas mal escritos, o escritos de forma no literal daran problemas de lectura.
+9º Crear base de datos (tablon) con carta, tipo, identidad de color, valor númerico, alguno más...?
+10º Se podria hacer un recomendador de decks a partir de decirle el comandante (recomendar las 99 restantes)?
+11º Hacer un estudio del deck en funcion de las cartas que se juegan en el mismo.
+12º Llevar un tracking de los decks jugados y las posiciones en cada torneo en jupiter norte. (Pedir datos a Miguel)
+13º Se podria elaborar un tier list para jupiter norte. Se puede definir mas claramente el metagame.
+14º Repasar codificaciones en las colecciones, al pasarlos a excel (ej: Arabian Nights)
+15º ....
