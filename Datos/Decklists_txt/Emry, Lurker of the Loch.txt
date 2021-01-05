@@ -1,0 +1,93 @@
+1 Walking Ballista  
+1 Aether Chaser  
+1 Myr Retriever  
+1 Snapcaster Mage  
+1 Spellskite  
+1 Emry, Lurker of the Loch  
+1 Laboratory Maniac  
+1 Mirran Spy  
+1 Sai, Master Thopterist  
+1 Scrap Trawler  
+1 Spellseeker  
+1 Trinket Mage  
+1 Trophy Mage  
+1 Urza, Lord High Artificer  
+1 Pact of Negation  
+1 Brainstorm  
+1 Dispel  
+1 Force Spike  
+1 Mental Misstep  
+1 Mystical Tutor  
+1 Ponder  
+1 Pongify  
+1 Preordain  
+1 Rapid Hybridization  
+1 Serum Visions  
+1 Spell Pierce  
+1 Swan Song  
+1 Arcane Denial  
+1 Counterspell  
+1 Cyclonic Rift  
+1 Daze  
+1 Delay  
+1 Logic Knot  
+1 Memory Lapse  
+1 Merchant Scroll  
+1 Muddle the Mixture  
+1 Negate  
+1 Fabricate  
+1 Fierce Guardianship  
+1 Whir of Invention  
+1 Wizard's Retort  
+1 Force of Will  
+1 Sea Gate Restoration  
+1 Dig Through Time  
+1 Treasure Cruise  
+1 Chrome Mox  
+1 Everflowing Chalice  
+1 Lodestone Bauble  
+1 Lotus Petal  
+1 Mana Crypt  
+1 Mishra's Bauble  
+1 Mox Amber  
+1 Mox Diamond  
+1 Mox Opal  
+1 Tormod's Crypt  
+1 Urza's Bauble  
+1 Welding Jar  
+1 Aether Spellbomb  
+1 Chromatic Sphere  
+1 Chromatic Star  
+1 Conjurer's Bauble  
+1 Expedition Map  
+1 Mana Vault  
+1 Manifold Key  
+1 Sol Ring  
+1 Voltaic Key  
+1 Arcane Signet  
+1 Grim Monolith  
+1 Mind Stone  
+1 Commander's Sphere  
+1 Krark-Clan Ironworks  
+1 Paradox Engine  
+1 Academy Ruins  
+1 Ancient Tomb  
+1 Blast Zone  
+1 Cavern of Souls  
+1 Cephalid Coliseum  
+1 Darksteel Citadel  
+1 Flooded Strand  
+1 Inventors' Fair  
+5 Island  
+1 Minamo, School at Water's Edge  
+1 Misty Rainforest  
+1 Mystic Sanctuary  
+1 Polluted Delta  
+1 Prismatic Vista  
+1 Riptide Laboratory  
+1 Scalding Tarn  
+1 Seat of the Synod  
+5 Snow-Covered Island  
+1 Tectonic Edge  
+1 Wasteland  
+
