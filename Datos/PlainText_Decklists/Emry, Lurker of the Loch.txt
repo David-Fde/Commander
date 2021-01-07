@@ -89,5 +89,4 @@
 1 Seat of the Synod  
 5 Snow-Covered Island  
 1 Tectonic Edge  
-1 Wasteland  
-
+1 Wasteland
