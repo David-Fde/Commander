@@ -1,4 +1,3 @@
-from numpy.lib.function_base import place
 import pandas as pd
 import os
 
@@ -10,17 +9,25 @@ Datos = r"..\Datos"
 
 def PlainTextToExcel(respuesta):
     if respuesta == "1":
+        os.system("cls")
         lista = os.listdir(PlainText_Decklists)
         contador = 1
         for e in lista:
             print(f"Opción{contador}: {e}")
             contador += 1
-        opcion = input("Opción: ")
+        opcion = int(input("Opción: ")) -1
         df = pd.read_excel(f"{Datos}\Decklists.xlsx", header=None)
-        print(df)
-        f = open(lista[opcion],"r+")
+        f = open(PlainText_Decklists + f"\{lista[opcion]}","r+")
         text = f.read()
-        text = text.split('\n')
+        text = text.splitlines()
+        for e in range(len(text)):
+            text[e] = text[e].rstrip()
+            if text[e][0] != "1":
+                contador = 0
+                while contador < int(text[e][0]):
+                    text.append(f"1 {text[e][2:]}")
+                    contador += 1
+                text.remove(text[e])
         df[f"lista[{opcion}].split('.')[0]"] = text
         df.to_excel(f"{Datos}\Decklists.xlsx", index=False)
         input("Press enter to close")
