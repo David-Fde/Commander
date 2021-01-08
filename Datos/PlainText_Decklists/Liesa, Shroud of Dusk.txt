@@ -1,0 +1,100 @@
+Walking Ballista  
+Giver of Runes  
+Mother of Runes  
+Serra Ascendant  
+Drannith Magistrate  
+Grand Abolisher  
+Stoneforge Mystic  
+Archon of Emeria  
+Aven Mindcensor  
+Heliod, Sun-Crowned  
+Kambal, Consul of Allocation  
+Kunoros, Hound of Athreos  
+Lurrus of the Dream-Den  
+Opposition Agent  
+Ranger-Captain of Eos  
+Recruiter of the Guard  
+Resplendent Angel  
+Skyclave Apparition  
+Tymna the Weaver  
+Vito, Thorn of the Dusk Rose  
+Crypt Ghast  
+Keeper of the Accord  
+Linvala, Keeper of Silence  
+Ranger of Eos  
+Angel of Destiny  
+Liesa, Shroud of Dusk  
+Lyra Dawnbringer  
+Felidar Sovereign  
+Ajani, Strength of the Pride  
+Dark Ritual  
+Enlightened Tutor  
+Path to Exile  
+Swords to Plowshares  
+Vampiric Tutor  
+Demonic Tutor  
+Winds of Abandon  
+Agadeem's Awakening  
+Anguished Unmaking  
+Flawless Maneuver  
+Teferi's Protection  
+Toxic Deluge  
+Vindicate  
+Deadly Rollick  
+Ad Nauseam  
+Chrome Mox  
+Mana Crypt  
+Basilisk Collar  
+Sol Ring  
+Arcane Signet  
+Fellwar Stone  
+Lightning Greaves  
+Orzhov Signet  
+Swiftfoot Boots  
+Talisman of Hierarchy  
+Umezawa's Jitte  
+Sword of Feast and Famine  
+Sword of Fire and Ice  
+Sword of Light and Shadow  
+Sword of War and Peace  
+Batterskull  
+Bolas's Citadel  
+Land Tax  
+Aura of Silence  
+Phyrexian Arena  
+Court of Ambition  
+Court of Grace  
+Smothering Tithe  
+Exquisite Blood  
+Arid Mesa  
+Bloodstained Mire  
+Cabal Coffers  
+Cavern of Souls  
+Caves of Koilos  
+City of Brass  
+Command Tower  
+Field of Ruin  
+Flooded Strand  
+Godless Shrine  
+Isolated Chapel  
+Mana Confluence  
+Marsh Flats  
+Plains
+Plains
+Plains  
+Polluted Delta  
+Snow-Covered Plains
+Snow-Covered Plains
+Snow-Covered Plains  
+Snow-Covered Swamp
+Snow-Covered Swamp
+Snow-Covered Swamp  
+Swamp
+Swamp
+Swamp  
+Urborg, Tomb of Yawgmoth  
+Vault of Champions  
+Vault of the Archangel  
+Verdant Catacombs  
+Wasteland  
+Windswept Heath
