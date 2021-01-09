@@ -12,4 +12,5 @@
 - Se podria elaborar un tier list para jupiter norte. Se puede definir mas claramente el metagame.
 - Repasar codificaciones en las colecciones, al pasarlos a excel (ej: Arabian Nights)
 - Despues de convertir una nueva coleccion a excel, añadirla automaticamente a la mtg_database.
-- ....
+- Guardar los decklists con fecha.
+- ...
