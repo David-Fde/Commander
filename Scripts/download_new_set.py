@@ -17,34 +17,39 @@ for e in os.listdir(url_destino):
     downloaded_sets.append(e.split(".xlsx")[0])
 
 try:
-    search_set = WebDriverWait(driver, 15).until(
+    search_set = WebDriverWait(driver, 20).until(
         EC.presence_of_element_located((By.ID, "set"))
     )
 except:
     driver.quit()
+    
+long_list = driver.find_element_by_id("longlist")
+continue_button = driver.find_element_by_id("startbutton")
 
-for e in search_set.text:
+x = search_set.text
+x = x.replace(":","")
+x = x.replace("/","")
+
+sets_list = x
+sets_list = sets_list.split('\n')
+
+for e in sets_list:
     if e not in downloaded_sets:
-        long_list = driver.find_element_by_id("longlist")
-
-        continue_button = driver.find_element_by_id("startbutton")
-
+        search_set.send_keys(e)
         long_list.click()
-        for e in search_set.text:
-            if e == entrada:
-                search_set.send_keys(e)
-                break
         continue_button.click()
-
         time.sleep(10)
 
         elemento = driver.find_element_by_id("setJustGot")
         text = elemento.text
         text = text.split('\n')
 
-        driver.quit()
-
         df = pd.DataFrame()
-
-        df[f'{e.split(" ")[0]}'] = text
-        df.to_excel(f"{url_destino}\{e.split(' ')[0]}.xlsx", index=False)
+        try:
+            df[f'{e.split(" ")[0]}'] = text
+            df.to_excel(f"{url_destino}\{e}.xlsx", index=False)
+        except:
+            df[f'{e.split(" ")[0]}'] = text
+            df.to_excel(f"{url_destino}\{e.split(' ')[-1]}.xlsx", index=False) 
+        
+driver.quit()
