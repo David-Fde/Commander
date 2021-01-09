@@ -5,11 +5,16 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
+import os
 
 PATH = r"C:\Program Files (x86)\chromedriver.exe"
 driver = webdriver.Chrome(PATH)
 driver.get("https://tugbucket.net/tests/salvation/mtg_sets/")
 url_destino = r"..\Colecciones"
+downloaded_sets = []
+
+for e in os.listdir(url_destino):
+    downloaded_sets.append(e.split(".xlsx")[0])
 
 try:
     search_set = WebDriverWait(driver, 15).until(
@@ -18,27 +23,28 @@ try:
 except:
     driver.quit()
 
-entrada = "Kaldheim (KHM)"
-long_list = driver.find_element_by_id("longlist")
-
-continue_button = driver.find_element_by_id("startbutton")
-
-long_list.click()
 for e in search_set.text:
-    if e == entrada:
-        search_set.send_keys("Kaldheim (KHM)")
-        break
-continue_button.click()
+    if e not in downloaded_sets:
+        long_list = driver.find_element_by_id("longlist")
 
-time.sleep(10)
+        continue_button = driver.find_element_by_id("startbutton")
 
-elemento = driver.find_element_by_id("setJustGot")
-text = elemento.text
-text = text.split('\n')
+        long_list.click()
+        for e in search_set.text:
+            if e == entrada:
+                search_set.send_keys(e)
+                break
+        continue_button.click()
 
-driver.quit()
+        time.sleep(10)
 
-df = pd.DataFrame()
+        elemento = driver.find_element_by_id("setJustGot")
+        text = elemento.text
+        text = text.split('\n')
 
-df[f'{entrada.split(" ")[0]}'] = text
-df.to_excel(f"{url_destino}\{entrada.split(' ')[0]}.xlsx", index=False)
+        driver.quit()
+
+        df = pd.DataFrame()
+
+        df[f'{e.split(" ")[0]}'] = text
+        df.to_excel(f"{url_destino}\{e.split(' ')[0]}.xlsx", index=False)
