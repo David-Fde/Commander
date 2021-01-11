@@ -1,0 +1,10 @@
+Beast
+Dragon
+Goblin
+Homunculus
+Ooze
+Saproling
+Skeleton
+Soldier
+Thopter
+Zombie

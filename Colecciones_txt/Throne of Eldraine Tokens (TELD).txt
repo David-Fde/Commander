@@ -1,0 +1,20 @@
+Bear
+Boar
+Dwarf
+Faerie
+Food
+Food
+Food
+Food
+"Garruk, Cursed Huntsman Emblem"
+Giant
+Goat
+Human
+Human Cleric
+Human Rogue
+Human Warrior
+Knight
+Mouse
+On an Adventure
+Rat
+Wolf

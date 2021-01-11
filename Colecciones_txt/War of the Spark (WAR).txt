@@ -1,0 +1,311 @@
+Ahn-Crop Invader
+Aid the Fallen
+Ajani's Pridemate
+"Ajani, the Greathearted"
+寛大なる者、アジャニ
+"Angrath, Captain of Chaos"
+混沌の船長、アングラス
+Angrath's Rampage
+Arboreal Grazer
+Arlinn's Wolf
+"Arlinn, Voice of the Pack"
+群れの声、アーリン
+"Ashiok, Dream Render"
+夢を引き裂く者、アショク
+Ashiok's Skulker
+Augur of Bolas
+Aven Eternal
+Awakening of Vitu-Ghazi
+Band Together
+Banehound
+Battlefield Promotion
+Bioessence Hydra
+Blast Zone
+Bleeding Edge
+Blindblast
+Bloom Hulk
+Bolas's Citadel
+Bolt Bend
+Bond of Discipline
+Bond of Flourishing
+Bond of Insight
+Bond of Passion
+Bond of Revival
+Bulwark Giant
+Burning Prophet
+Callous Dismissal
+Casualties of War
+Centaur Nurturer
+Chainwhip Cyclops
+Challenger Troll
+"Chandra, Fire Artisan"
+炎の職工、チャンドラ
+Chandra's Pyrohelix
+Chandra's Triumph
+Charity Extractor
+Charmed Stray
+Command the Dreadhorde
+Commence the Endgame
+Contentious Plan
+Courage in Crisis
+Cruel Celebrant
+Crush Dissent
+Cyclops Electromancer
+"Davriel, Rogue Shadowmage"
+はぐれ影魔道士、ダブリエル
+Davriel's Shadowfugue
+Deathsprout
+Defiant Strike
+Deliver Unto Evil
+Demolish
+Despark
+Desperate Lunge
+Devouring Hellion
+Divine Arrow
+"Domri, Anarch of Bolas"
+ボーラスの壊乱者、ドムリ
+Domri's Ambush
+"Dovin, Hand of Control"
+支配の片腕、ドビン
+Dovin's Veto
+Dreadhorde Arcanist
+Dreadhorde Butcher
+Dreadhorde Invasion
+Dreadhorde Twins
+Dreadmalkin
+Duskmantle Operative
+Elite Guardmage
+Emergence Zone
+Enforcer Griffin
+Enter the God-Eternals
+Erratic Visionary
+Eternal Skylord
+Eternal Taskmaster
+Evolution Sage
+"Fblthp, the Lost"
+"Feather, the Redeemed"
+Finale of Devastation
+Finale of Eternity
+Finale of Glory
+Finale of Promise
+Finale of Revelation
+Firemind Vessel
+Flux Channeler
+Forced Landing
+Forest
+Forest
+Forest
+Gateway Plaza
+Giant Growth
+Gideon Blackblade
+黒き剣のギデオン
+Gideon's Battle Cry
+Gideon's Company
+Gideon's Sacrifice
+Gideon's Triumph
+"Gideon, the Oathsworn"
+Gleaming Overseer
+Goblin Assailant
+Goblin Assault Team
+God-Eternal Bontu
+God-Eternal Kefnet
+God-Eternal Oketra
+God-Eternal Rhonas
+God-Pharaoh's Statue
+Grateful Apparition
+Grim Initiate
+Guild Globe
+Guildpact Informant
+Heartfire
+Heartwarming Redemption
+Herald of the Dreadhorde
+Honor the God-Pharaoh
+Huatli's Raptor
+"Huatli, the Sun's Heart"
+太陽の義士、ファートリ
+Ignite the Beacon
+"Ilharg, the Raze-Boar"
+Interplanar Beacon
+Invade the City
+Invading Manticore
+Iron Bully
+Ironclad Krovod
+Island
+Island
+Island
+"Jace, Arcane Strategist"
+Jace's Projection
+Jace's Ruse
+Jace's Triumph
+"Jace, Wielder of Mysteries"
+神秘を操る者、ジェイス
+Jaya's Greeting
+"Jaya, Venerated Firemage"
+敬慕される炎魔道士、ヤヤ
+"Jiang Yanggu, Wildcrafter"
+野生造り、ジアン・ヤングー
+Karn's Bastion
+"Karn, the Great Creator"
+大いなる創造者、カーン
+"Kasmina, Enigmatic Mentor"
+謎めいた指導者、カズミナ
+Kasmina's Transmutation
+"Kaya, Bane of the Dead"
+死者の災厄、ケイヤ
+Kaya's Ghostform
+"Kiora, Behemoth Beckoner"
+ビヒモスを招く者、キオーラ
+Kiora's Dambreaker
+Kraul Stinger
+"Krenko, Tin Street Kingpin"
+Kronch Wrangler
+Law-Rune Enforcer
+Lazotep Behemoth
+Lazotep Plating
+Lazotep Reaver
+Leyline Prowler
+"Liliana, Dreadhorde General"
+戦慄衆の将軍、リリアナ
+Liliana's Triumph
+Living Twister
+Loxodon Sergeant
+Makeshift Battalion
+Mana Geode
+Martyr for the Cause
+Massacre Girl
+Mayhem Devil
+Merfolk Skydiver
+Mizzium Tank
+Mobilized District
+Mountain
+Mountain
+Mountain
+"Mowu, Loyal Companion"
+Naga Eternal
+Nahiri's Stoneblades
+"Nahiri, Storm of Stone"
+石の嵐、ナヒリ
+"Narset, Parter of Veils"
+覆いを割く者、ナーセット
+Narset's Reversal
+"Neheb, Dreadhorde Champion"
+Neoform
+New Horizons
+"Nicol Bolas, Dragon-God"
+龍神、ニコル・ボーラス
+Nissa's Triumph
+"Nissa, Who Shakes the World"
+世界を揺るがす者、ニッサ
+Niv-Mizzet Reborn
+No Escape
+Oath of Kaya
+Ob Nixilis's Cruelty
+"Ob Nixilis, the Hate-Twisted"
+憎悪に歪む者、オブ・ニクシリス
+Orzhov Guildgate
+Paradise Druid
+Parhelion II
+Plains
+Plains
+Plains
+Planewide Celebration
+Pledge of Unity
+Pollenbright Druid
+Pouncing Lynx
+Price of Betrayal
+Primordial Wurm
+Prismite
+Prison Realm
+Raging Kronch
+Rally of Wings
+Ral's Outburst
+"Ral, Storm Conduit"
+嵐の伝導者、ラル
+Ravnica at War
+Relentless Advance
+Rescuer Sphinx
+Return to Nature
+Rising Populace
+"Roalesk, Apex Hybrid"
+Role Reversal
+Rubblebelt Rioters
+Saheeli's Silverwing
+"Saheeli, Sublime Artificer"
+崇高な工匠、サヒーリ
+Samut's Sprint
+"Samut, Tyrant Smasher"
+暴君潰し、サムト
+Sarkhan's Catharsis
+Sarkhan the Masterless
+主無き者、サルカン
+Shriekdiver
+Silent Submersible
+Simic Guildgate
+Single Combat
+Sky Theater Strix
+Snarespinner
+Solar Blaze
+Sorin's Thirst
+"Sorin, Vengeful Bloodlord"
+復讐に燃えた血王、ソリン
+Soul Diviner
+Spark Double
+Spark Harvest
+Spark Reaper
+Spellgorger Weird
+Spellkeeper Weird
+Steady Aim
+Stealth Mission
+Storm the Citadel
+"Storrev, Devkarin Lich"
+Sunblade Angel
+Swamp
+Swamp
+Swamp
+"Tamiyo, Collector of Tales"
+伝承の収集者、タミヨウ
+Tamiyo's Epiphany
+Teferi's Time Twist
+"Teferi, Time Raveler"
+時を解す者、テフェリー
+Tenth District Legionnaire
+Teyo's Lightshield
+"Teyo, the Shieldmage"
+盾魔道士、テヨ
+"Tezzeret, Master of the Bridge"
+The Elderspell
+The Wanderer
+放浪者
+Thunder Drake
+Thundering Ceratok
+"Tibalt, Rakish Instigator"
+無頼な扇動者、ティボルト
+Tibalt's Rager
+Time Wipe
+Tithebearer Giant
+Toll of the Invasion
+"Tolsimir, Friend to Wolves"
+"Tomik, Distinguished Advokist"
+Topple the Statue
+Totally Lost
+Trusted Pegasus
+Turret Ogre
+Tyrant's Scorn
+Ugin's Conjurant
+"Ugin, the Ineffable"
+人知を超えるもの、ウギン
+Unlikely Aid
+Vampire Opportunist
+"Vivien, Champion of the Wilds"
+野獣の擁護者、ビビアン
+Vivien's Arkbow
+Vivien's Grizzly
+Vizier of the Scorpion
+Vraska's Finisher
+"Vraska, Swarm's Eminence"
+群集の威光、ヴラスカ
+Wall of Runes
+Wanderer's Strike
+Wardscale Crocodile
+War Screecher
+Widespread Brutality

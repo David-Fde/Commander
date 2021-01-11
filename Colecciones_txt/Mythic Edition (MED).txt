@@ -1,0 +1,24 @@
+"Ajani, Mentor of Heroes"
+Dack Fayden
+"Daretti, Ingenious Iconoclast"
+"Domri, Chaos Bringer"
+"Elspeth, Knight-Errant"
+"Garruk, Apex Predator"
+Gideon Blackblade
+"Jace, the Mind Sculptor"
+Jaya Ballard
+"Karn, Scion of Urza"
+"Kaya, Orzhov Usurper"
+"Liliana, the Last Hope"
+"Nahiri, the Harbinger"
+"Nicol Bolas, Dragon-God"
+"Nicol Bolas, Planeswalker"
+"Ral, Izzet Viceroy"
+Sarkhan Unbroken
+Sorin Markov
+"Tamiyo, the Moon Sage"
+"Teferi, Hero of Dominaria"
+"Tezzeret, Agent of Bolas"
+Tezzeret the Seeker
+"Ugin, the Spirit Dragon"
+"Vraska, Golgari Queen"

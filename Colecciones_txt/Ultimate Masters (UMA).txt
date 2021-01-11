@@ -1,0 +1,254 @@
+Aethersnipe
+Akroan Crusader
+All Is Dust
+Ancestor's Chosen
+Ancient Tomb
+Angelic Renewal
+Angel of Despair
+Anger
+Appetite for Brains
+Apprentice Necromancer
+Archaeomancer
+Arena Athlete
+Artisan of Kozilek
+Back to Basics
+Balefire Dragon
+Basking Rootwalla
+Beckon Apparition
+Become Immense
+Bitterblossom
+Blast of Genius
+Bloodflow Connoisseur
+Boar Umbra
+Boneyard Wurm
+Brawn
+Brazen Scourge
+Bridge from Below
+Buried Alive
+Canker Abomination
+Cathodion
+Cavern of Souls
+Celestial Colonnade
+Chainer's Edict
+Circular Logic
+Conflagrate
+Containment Priest
+Conviction
+Countersquall
+Creeping Tar Pit
+Crow of Dark Tidings
+Crushing Canopy
+Dakmor Salvage
+Dark Dabbling
+Dark Depths
+Dawn Charm
+Daybreak Coronet
+Death Denied
+Defy Gravity
+Demonic Tutor
+Deranged Assistant
+Desolate Lighthouse
+Desperate Ritual
+Devoted Druid
+Dig Through Time
+Dimir Guildmage
+Disrupting Shoal
+Double Cleave
+Dreamscape Artist
+Eel Umbra
+Eldrazi Conscription
+Emancipation Angel
+"Emrakul, the Aeons Torn"
+Engineered Explosives
+Entomb
+Eternal Witness
+Faithless Looting
+Faith's Fetters
+Fauna Shaman
+Fecundity
+Fiend Hunter
+Fiery Temper
+Fire // Ice
+Firewing Phoenix
+Flagstones of Trokair
+Flight of Fancy
+Foil
+Forbidden Alchemy
+Frantic Search
+Fulminator Mage
+Fume Spitter
+Furnace Celebration
+Gaddock Teeg
+Gamble
+"Garna, the Bloodflame"
+Generator Servant
+Ghoulcaller's Accomplice
+Ghoulsteed
+Glen Elendra Archmage
+Gods Willing
+Golgari Brownscale
+Golgari Charm
+Golgari Grave-Troll
+Golgari Thug
+Goryo's Vengeance
+Grave Scrabbler
+Grave Strength
+Groundskeeper
+Gurmag Angler
+Heap Doll
+Heliod's Pilgrim
+Hero of Iroas
+Hero of Leina Tower
+Hissing Iguanar
+Hooting Mandrills
+Hyena Umbra
+Icatian Crier
+Ingot Chewer
+Iridescent Drake
+Just the Wind
+Karakas
+Karn Liberated
+Kitchen Finks
+Kodama's Reach
+"Kozilek, Butcher of Truth"
+Laboratory Maniac
+Last Gasp
+Lavaclaw Reaches
+Lava Spike
+"Leovold, Emissary of Trest"
+Life from the Loam
+Liliana of the Veil
+Living Lore
+Lord of Extinction
+Lotus-Eye Mystics
+Mad Prophet
+Maelstrom Pulse
+Mage-Ring Network
+Magmaw
+Magus of the Bazaar
+Mahamoti Djinn
+Malevolent Whispers
+Mammoth Umbra
+Mana Vault
+Marang River Prowler
+Mark of the Vampire
+Martyr of Sands
+"Mikaeus, the Unhallowed"
+Miming Slime
+Miraculous Recovery
+Mistveil Plains
+Moan of the Unhallowed
+Molten Birth
+Murderous Redcap
+Myr Servitor
+Mystic Retrieval
+Nightbird's Clutches
+Noble Hierarch
+Nourishing Shoal
+Offalsnout
+Olivia's Dragoon
+Patchwork Gnomes
+Pattern of Rebirth
+Penumbra Wurm
+Phalanx Leader
+Phyrexian Altar
+Phyrexian Tower
+Platinum Emperion
+Plumeveil
+Prey Upon
+Prismatic Lens
+Pulse of Murasa
+Raging Ravine
+Raid Bombardment
+Rakdos Shred-Freak
+Rally the Peasants
+Reanimate
+Reckless Charge
+Reckless Wurm
+Repel the Darkness
+Resurrection
+Reveillark
+Reviving Vapors
+Reya Dawnbringer
+Rise from the Tides
+Rogue's Passage
+Rolling Temblor
+Ronom Unicorn
+Runed Halo
+Rune Snag
+Safehold Elite
+Sanitarium Skeleton
+Satyr Wayfinder
+Scuzzback Marauders
+Seismic Assault
+Seize the Day
+Shed Weakness
+Shielding Plax
+"Shirei, Shizo's Caretaker"
+Shriekmaw
+"Sigarda, Host of Herons"
+Sigil of the New Dawn
+Skyspear Cavalry
+Skywing Aven
+Sleight of Hand
+Slippery Bogle
+Slum Reaper
+Snake Umbra
+Snapcaster Mage
+Songs of the Damned
+Soul's Fire
+Sovereigns of Lost Alara
+Sparkspitter
+Spider Spawning
+Spider Umbra
+Spirit Cairn
+Spoils of the Vault
+"Squee, Goblin Nabob"
+Staunch-Hearted Warrior
+Stingerfling Spider
+Stirring Wildwood
+Stitched Drake
+Stitcher's Apprentice
+Stream of Consciousness
+Sublime Archangel
+Sultai Skullkeeper
+Swift Reckoning
+"Talrand, Sky Summoner"
+Tarmogoyf
+"Tasigur, the Golden Fang"
+Temporal Manipulation
+Terramorphic Expanse
+Tethmos High Priest
+Thermo-Alchemist
+Thespian's Stage
+Think Twice
+Through the Breach
+Travel Preparations
+Treasure Cruise
+Turn to Mist
+Twins of Maurer Estate
+Ulamog's Crusher
+"Ulamog, the Infinite Gyre"
+Unburial Rites
+Undying Rage
+Unholy Hunger
+Unstable Mutation
+Urban Evolution
+"Urborg, Tomb of Yawgmoth"
+Vengeful Rebirth
+Vengevine
+Verdant Eidolon
+Vessel of Endless Rest
+Vexing Devil
+Visions of Beyond
+Walker of the Grove
+Wall of Reverence
+Wandering Champion
+Warleader's Helix
+Whirlwind Adept
+Wickerbough Elder
+Wild Hunger
+Wild Mongrel
+Wingsteed Rider
+Woodfall Primus
+Young Pyromancer

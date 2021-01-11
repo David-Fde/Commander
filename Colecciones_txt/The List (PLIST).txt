@@ -1,0 +1,348 @@
+Abrade
+Acorn Catapult
+Adarkar Valkyrie
+Akroma's Memorial
+Alpha Kavu
+Amoeboid Changeling
+"Anax, Hardened in the Forge"
+Ancestor's Prophet
+Ancient Craving
+Angel's Grace
+"Angrath, Captain of Chaos"
+Anointer Priest
+Arcbound Slith
+Arcum's Astrolabe
+Army Ants
+Aven Riftwatcher
+Awakening
+Battle of Wits
+Beanstalk Giant // Fertile Footsteps
+Beck // Call
+Belfry Spirit
+Beseech the Queen
+Birthing Boughs
+Blight Sickle
+Bloodghast
+Bloodlord of Vaasgoth
+Body Snatcher
+Bogbrew Witch
+Boggart Arsonists
+Bojuka Bog
+Bonecrusher Giant // Stomp
+Bonehoard
+Boros Challenger
+Brain Freeze
+Brainstorm
+"Brallin, Skyshark Rider"
+Brazen Borrower // Petty Theft
+Brink of Madness
+Broodstar
+Brothers Yamazaki
+Burst Lightning
+Cadaverous Knight
+Calming Licid
+Cathedral of War
+Cavern of Souls
+Chemister's Insight
+Chromanticore
+"Chulane, Teller of Tales"
+Clearwater Goblet
+Cloudgoat Ranger
+Cold Storage
+Combustible Gearhulk
+Command Beacon
+Contagion Engine
+Council's Judgment
+Coveted Peacock
+Cradle Guard
+Cranial Plating
+Crested Sunmare
+Crown of Empires
+Cruel Tutor
+Cryptic Command
+Crystalline Sliver
+Curious Pair // Treats to Share
+Cut // Ribbons
+Dark Depths
+"Daxos, Blessed by the Sun"
+Decree of Annihilation
+Desolation Angel
+Diregraf Captain
+Disenchant
+Djinn Illuminatus
+Doom Blade
+Doomwake Giant
+Door to Nothingness
+"Doran, the Siege Tower"
+Drift of Phantasms
+"Dromar, the Banisher"
+Dryad Arbor
+Dune-Brood Nephilim
+Eldrazi Displacer
+Eldrazi Temple
+Electrostatic Pummeler
+Elspeth Conquers Death
+Elvish Archdruid
+Emeria Angel
+"Emeria, the Sky Ruin"
+"Emrakul, the Aeons Torn"
+Enclave Cryptologist
+Endling
+Enlightened Tutor
+Entreat the Angels
+Erratic Portal
+Eternal Dominion
+Eternal Witness
+Etherium-Horn Sorcerer
+Everflowing Chalice
+Evermind
+Extinction
+Eye of the Storm
+"Ezuri, Claw of Progress"
+Fabricate
+Fall of the Titans
+Fathom Mage
+Fellwar Stone
+Fiery Justice
+Fodder Cannon
+Fomori Nomad
+Food Chain
+Forced Fruition
+Fractured Powerstone
+"Freyalise, Llanowar's Fury"
+Frost Titan
+Gaea's Anthem
+Gatekeeper of Malakir
+Gempalm Polluter
+Gemstone Mine
+Genesis Hydra
+"Gideon, Ally of Zendikar"
+Gigantosaurus
+Giver of Runes
+Goblin Chieftain
+Goblin Grenade
+Goblin Lore
+Godsire
+Goldenglow Moth
+Golgari Thug
+Gorm the Great
+Grim Haruspex
+Grim Harvest
+Grizzly Fate
+Groundbreaker
+Hammer Mage
+Hammer of Purphoros
+Hans Eriksson
+Harmonize
+Hashep Oasis
+Helix Pinnacle
+Hell's Thunder
+Helm of Kaldra
+Herald's Horn
+Hidetsugu's Second Rite
+History of Benalia
+Horned Helm
+"Hua Tuo, Honored Physician"
+Hundred-Handed One
+Hunted Dragon
+Hunted Troll
+Ice Cave
+Ice-Fang Coatl
+Imperious Perfect
+Into the North
+Inventors' Fair
+"Ishkanah, Grafwidow"
+Isochron Scepter
+Iterative Analysis
+"Ith, High Arcanist"
+"Ixidor, Reality Sculptor"
+Jadelight Ranger
+Jaya's Immolating Inferno
+Jokulmorder
+Jötun Grunt
+Jwari Shapeshifter
+Kalastria Highborn
+Kalonian Hydra
+"Kaya, Ghost Assassin"
+Kazandu Blademaster
+Keeper of the Nine Gales
+Khalni Hydra
+Kher Keep
+Kilnmouth Dragon
+Kindred Discovery
+Kingpin's Pet
+"Korlash, Heir to Blackblade"
+"Korvold, Fae-Cursed King"
+Krark's Thumb
+Land Tax
+Lash Out
+Lashweed Lurker
+Latchkey Faerie
+"Lazav, the Multifarious"
+Lightning Angel
+Lightning Bolt
+Lightning Crafter
+Light Up the Stage
+Liliana's Devotee
+Living Death
+Llanowar Reborn
+Lord of the Undead
+"Lorthos, the Tidemaker"
+Lotus Bloom
+Loyal Unicorn
+Maelstrom Nexus
+Man-o'-War
+Marauding Raptor
+Memnite
+Merfolk Mistbinder
+Mischievous Quanar
+Moggcatcher
+Monastery Mentor
+Moon-Eating Dog
+Moonmist
+"Morophon, the Boundless"
+"Muldrotha, the Gravetide"
+Murderous Cut
+Murderous Redcap
+Muscle Sliver
+Mycosynth Golem
+Mystical Tutor
+"Nahiri, the Lithomancer"
+Necravolver
+Necromancy
+Necrotic Sliver
+Negate
+Nezumi Graverobber // Nighteyes the Desecrator
+Nicol Bolas
+Nightshade Peddler
+Nissa Revane
+Noble Benefactor
+Noggle Hedge-Mage
+"Nykthos, Shrine to Nyx"
+"Nylea, God of the Hunt"
+Octopus Umbra
+Odds // Ends
+Ohran Frostfang
+"Oloro, Ageless Ascetic"
+"Omnath, Locus of Rage"
+Oubliette
+Pact of Negation
+Panglacial Wurm
+Panharmonicon
+Parallax Wave
+Parallel Evolution
+Parcelbeast
+Patron of the Akki
+Patron Wizard
+Pegasus Stampede
+Phyrexian Obliterator
+Phyrexian Tower
+Phyrexian Tyranny
+Pillage
+Plains
+Plated Geopede
+Platinum Angel
+Pouncing Shoreshark
+Primal Vigor
+Prismatic Geoscope
+Progenitus
+Promise of Power
+Pteramander
+Puppet's Verdict
+Pyromancer Ascension
+Read the Runes
+Reality Shift
+Regal Caracal
+Release the Dogs
+Relentless Rats
+Rest in Peace
+Retreat to Coralhelm
+Reveillark
+Riptide Laboratory
+Rite of Flame
+Rootrunner
+Ruination Guide
+Runed Stalactite
+Saber Ants
+Scarecrone
+Scourge of the Throne
+Scroll Rack
+Scrying Sheets
+Sedge Sliver
+Seething Song
+Sensei Golden-Tail
+"Shabraz, the Skyshark"
+Shambling Shell
+Shelldock Isle
+Shivan Meteor
+Shuriken
+Simian Spirit Guide
+"Skithiryx, the Blight Dragon"
+Skred
+Skullclamp
+Skyclave Shade
+Sky Hussar
+Skyshroud Behemoth
+"Slimefoot, the Stowaway"
+Snubhorn Sentry
+Soltari Monk
+Song of the Dryads
+Soul of Zendikar
+Spike Weaver
+Spined Thopter
+Splicer's Skill
+Springjack Shepherd
+Squirrel Mob
+Stone Rain
+Stonybrook Banneret
+Sunscape Battlemage
+Swiftfoot Boots
+Tamiyo's Journal
+Tek
+Temporal Manipulation
+Terminate
+The Chain Veil
+The Flame of Keld
+Thought-Knot Seer
+Thought Vessel
+Thrumming Stone
+"Tibalt, Rakish Instigator"
+Tombstalker
+Tortured Existence
+Training Grounds
+Tree of Tales
+Triplicate Spirits
+Trokin High Guard
+Trusty Machete
+Tuktuk the Explorer
+Ulvenwald Mysteries
+Unburial Rites
+Urborg Panther
+Urza's Blueprints
+Vampire Nighthawk
+Vampire Nocturnus
+Vanguard of Brimaz
+Vernal Equinox
+Vesuva
+Victimize
+Virtus the Veiled
+Vitu-Ghazi Guildmage
+Vodalian Illusionist
+Voracious Dragon
+"Vorinclex, Voice of Hunger"
+Warp World
+Wastes
+Wayfarer's Bauble
+Weatherlight
+Wild Research
+Willow Dryad
+Winds of Abandon
+Wizened Cenn
+Workhorse
+Worn Powerstone
+Wrath of God
+Wrenn and Six
+Yavimaya Scion
+Yore-Tiller Nephilim
+Zendikar Incarnate
+Zendikar Resurgent

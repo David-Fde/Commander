@@ -1,0 +1,11 @@
+Angel
+Beast
+Bird
+Elemental
+Illusion
+Kor Soldier
+Merfolk
+Snake
+Vampire
+Wolf
+Zombie Giant

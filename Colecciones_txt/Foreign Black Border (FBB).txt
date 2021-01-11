@@ -1,0 +1,307 @@
+Elémental d'air
+Lampe d'aladdin
+Anneau d'Aladdin
+Animation d'artefact
+Animation des morts
+Animation de mur
+Ankh de Mishra
+Armaguedon
+Horloge de l'Armaguedon
+Aspect du loup
+Atog
+Désolation
+Lune blafarde
+Balance
+Monolithe de basalte
+Bayou
+Héroïne bénaliane
+Oiseaux de paradis
+Chevalier noir
+Etau de supplice
+Rune de garde noire
+Bénédiction
+Salve élémentaire bleue
+Rune de garde bleue
+Apparition des marécages
+Bouteille de Salomon
+Geyser cérébral
+Homme d'airain
+Fouisseur
+Château fort
+Prisme céleste
+Transfert
+Voile de chaos
+Cercle de protection : noir
+Cercle de protection : bleu
+Cercle de protection : vert
+Cercle de protection : rouge
+Cercle de protection : blanc
+Bête mécanique
+Clone
+Cocatrix
+Conservateur
+Contrat avec les enfers
+Contrôle magique
+Conversion
+Copie d'artefact
+Contresort
+Guivre vorace
+Lien animal
+Désagrégation
+Croisade
+Baguette de cristal
+Terrain maudit
+Cimeterre dansant
+Pacte ténébreux
+Messe noire
+Poigne de mort
+Voile de mort
+Survie
+Avocat diabolique
+Hordes démoniaques
+Précepteur diabolique
+Tornade du désert
+OEuf de Dingus
+Désenchantement
+Désintégration
+Sceptre de dislocation
+Dragon-machine
+Dragonnet
+Drain de vie
+Drain d'énergie
+Squelettes serviles
+Guerriers nains
+Forgeur d'armes nain
+Entrave chtonienne
+Élémental de terre
+Tremblement de terre
+Cheval d'ébène
+El-hajjâj
+Archers elfes
+Reflux d'énergie
+Pillards de l'erg
+Présence malveillante
+OEil pour OEil
+Ferme
+Enchaînements
+Peur
+Rétroaction
+Boule de feu
+Souffle ardent
+Élémental de feu
+Feu de brousse
+Vol
+Tapis volant
+Brouillard
+Force de la Nature
+Forêt
+Forêt
+Forêt
+Wald
+Fourche
+Ombre glaciale
+Fongosaure
+Noble féal de Gaïa
+Croissance gigantesque
+Araignée géante
+Lunettes d'Urza
+Langueur
+Aérostiers gobelins
+Roi des gobelins
+Gargouille de granit
+Ogre gris
+Rune de garde verte
+Grizzlis
+Ange gardien
+Onguent de soins
+Heaume de Chatzuk
+Géant des collines
+Armure sacrée
+Force sacrée
+Rugissement de l'au-delà
+Mine rugissante
+Rappel selon Hurkyl
+Minotaure de l'Hurloon
+Ouragan
+Spectre hypnotiseur
+Vivacité
+Sylvins de Ferracine
+Etoile de fer
+Ile
+Ile
+Ile
+Ile-poisson Seyidna yûnûs
+Ile sanctuaire
+Coupe d'ivoire
+Tour d'ivoire
+Monolithe de jade
+Anneau de Jouder
+Fontes de Jouder
+Grimoire de Jayemdae
+Djaggernaut
+Saut
+Karma
+Seigneur de guerre kelde
+Gorille beringeï
+Cloche de Kormus
+Kudzu
+Lance
+Druide des leys
+Bibliothèque de Leng
+Force de vie
+Voile de vie
+Ponction vitale
+Foudre
+Artefact vivant
+Terres vivantes
+Mur vivant
+Elfes de Llanowar
+Seigneur de l'Atlantide
+Seigneur de l'abîme
+Leurre
+Rature magique
+Montagne magnétique
+Djinn mahâmot
+Barbelures de mana
+Flamboiement de mana
+Pénurie de mana
+Arche de mana
+Pierre de soumission
+Ondins du Trident nacré
+Pégase de Mesa
+Djinn mijaëne
+Meule
+Convulsion cérébrale
+Machine de guerre de Mishra
+Pillards gobelins de Mons
+Montagne
+Montagne
+Montagne
+Mânes infernaux
+Diablotin provocateur
+Disque de Nevinyrral
+Cheval de cauchemar
+Paladin du nord
+Golem d'obsianite
+Onulet
+Artillerie orque
+Oriflamme orque
+Ornithoptère
+Paralysie
+Licorne nacrée
+Incarnation personnelle
+Peste
+Forces phantasmatiques
+Terrain fantasmatique
+Monstre fantomatique
+Navire pirate
+Rats de la peste
+Plaine
+Plaine
+Plaine
+Plateau
+Fuite d'énergie
+Siphon d'énergie
+Surtension
+Argile primordiale
+Sorcier sybarite
+Venin psychique
+Voile de pureté
+Exhumation
+Reconstruction
+Salve élémentaire rouge
+Rune de garde rouge
+Régénération
+Réapparition
+Résurrection
+Inversion des dégâts
+Inversion de polarité
+Droiture
+Lance-roquettes
+Hydre de pierre
+Rokh des Hauts de Kher
+Baguette de ruine
+Assassin royal
+Sacrifice
+Guérisseur sanctif
+Savane
+Lions des savanes
+Zombies dévastateurs
+Goule nécrophage
+Brousse
+Farfadets de la scrutaie
+Grand serpent de mer
+Troll fangeux
+Vampire sengien
+Efrit de Serendib
+Ange de Serra
+Dryades de Shanod
+Fracasser
+Tempête fracassante
+Dragon Shîvan
+Simulacre
+Chant des sirènes
+Tricherie mentale
+Fumée
+Anneau solaire
+Reine sorcière
+Rets des âmes
+Salve d'antimagie
+Stase
+Vol d'artefact
+Géant de pierre
+Pluie de pierres
+Source de vie
+Lunettes solaires d'Urza
+Marais
+Marais
+Marais
+Retour au pays
+Taïga
+Terreur
+L'Essaim
+Chevalet de torture
+Basilic des halliers
+Voile de pensées
+Trône d'os
+Loups des forêts
+Chanson de Titania
+Tranquilité
+Ile tropicale
+Tsunami
+Toundra
+Tunnel
+Mer sous-terraine
+Force impie
+Mutation instable
+Désinvocation
+Troll d'Uthden
+Enchanteresse verduralde
+Mutaforme Vesuvano
+Garde du corps émérite
+Eruption volcanique
+Ile volcanique
+Mur d'air
+Mur d'ossements
+Mur de ronces
+Mur de feu
+Mur de glace
+Mur de pierre
+Mur d'épées
+Mur d'eau
+Mur de bois
+Errance
+Mammouth de guerre
+Distorsion d'artefact
+Elémental d'eau
+Faiblesse
+Tisseur de toile
+Roue de la fortune
+Chevalier blanc
+Rune de garde blanche
+Végétation luxuriante
+Feu follet
+Orbe de l'hiver
+Sphère de bois
+Colère de Dieu
+Maître des zombies

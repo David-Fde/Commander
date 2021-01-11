@@ -1,0 +1,13 @@
+Bear
+Bird
+Goblin
+Morph
+"Sarkhan, the Dragonspeaker Emblem"
+Snake
+"Sorin, Solemn Visitor Emblem"
+Spirit
+Spirit Warrior
+Vampire
+Warrior
+Warrior
+Zombie

@@ -1,0 +1,16 @@
+Bat
+Dragon
+Elemental
+"Elspeth, Knight-Errant Emblem"
+Faerie Rogue
+Giant Warrior
+Goblin
+Goblin Rogue
+Illusion
+Kithkin Soldier
+Saproling
+Soldier
+Spider
+Treefolk Shaman
+Worm
+Zombie

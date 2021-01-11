@@ -1,0 +1,6 @@
+Dragon
+Goblin
+Saproling
+Soldier
+Wasp
+Zombie

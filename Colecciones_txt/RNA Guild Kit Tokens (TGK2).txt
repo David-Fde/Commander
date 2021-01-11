@@ -1,0 +1,9 @@
+Bat
+Bird
+Cleric
+Dragon
+Goblin
+Ooze
+Saproling
+Spirit
+Wurm

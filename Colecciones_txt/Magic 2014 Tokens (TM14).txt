@@ -1,0 +1,13 @@
+Angel
+Beast
+Cat
+Dragon
+Elemental
+Elemental
+"Garruk, Caller of Beasts Emblem"
+Goat
+Liliana of the Dark Realms Emblem
+Saproling
+Sliver
+Wolf
+Zombie

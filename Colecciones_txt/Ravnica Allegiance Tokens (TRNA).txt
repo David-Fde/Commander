@@ -1,0 +1,13 @@
+Beast
+Centaur
+"Domri, Chaos Bringer Emblem"
+Frog Lizard
+Goblin
+Human
+Illusion
+Ooze
+Sphinx
+Spirit
+Thopter
+Treasure
+Zombie

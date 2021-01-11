@@ -1,0 +1,282 @@
+"Adriana, Captain of the Guard"
+Aggressive Instinct
+"Akiri, Line-Slinger"
+Alms Collector
+Aminatou's Augury
+"Aminatou, the Fateshifter"
+Ancestor Dragon
+Ancient Excavation
+Ancient Stone Idol
+Angelic Guardian
+Angler Turtle
+Aquitect's Will
+"Arahbo, Roar of the World"
+"Arixmethes, Slumbering Isle"
+Armored Whirl Turtle
+Armory Automaton
+Ash Barrens
+Aspect of Wolf
+"Atraxa, Praetors' Voice"
+Avatar of Growth
+"Balan, Wandering Knight"
+Benefactor's Draught
+Bloodforged Battle-Axe
+Bloodline Necromancer
+Bloodsworn Steward
+Bloodtracker
+Boneyard Scourge
+Boompile
+Borderland Explorer
+Boreas Charger
+Brainwash
+Breath of Fire
+"Breya, Etherium Shaper"
+Brilliant Plan
+"Brudiclad, Telchor Engineer"
+"Bruse Tarl, Boorish Herder"
+Burnt Offering
+"Cao Ren, Wei Commander"
+Cemetery Gate
+Charging Cinderhorn
+Cleansing Screech
+Cloak of Mists
+Colorful Feiyi Sparrow
+Confidence from Strength
+Conqueror's Flail
+Coveted Jewel
+Crash of Rhino Beetles
+Crimson Honor Guard
+Cruel Tutor
+Crystalline Crawler
+Curse of Bounty
+Curse of Disturbance
+Curse of Opulence
+Curse of Vengeance
+Curse of Verbosity
+Curse of Vitality
+Custodi Lich
+Custodi Soulbinders
+Custodi Squire
+"Daretti, Ingenious Iconoclast"
+Deepglow Skate
+Desperate Ritual
+Disrupt Decorum
+Domesticated Hydra
+Drafna's Restoration
+Dragon's Presence
+Drown in Shapelessness
+Duelist's Heritage
+Earth-Origin Yak
+Earthshaking Si
+Echo Storm
+Edgar Markov
+Emissary of Grudges
+Empyrial Storm
+Enchanter's Bane
+Endless Atlas
+Energy Tap
+Entourage of Trest
+Entrapment Maneuver
+Entreat the Dead
+Estrid's Invocation
+"Estrid, the Masked"
+Ever-Watching Threshold
+Evolutionary Escalation
+Expropriate
+Faerie Artisans
+Feiyi Snake
+Ferocious Zheng
+Field of Dreams
+Fire-Omen Crane
+Firesong and Sunspeaker
+Flood
+Forest
+Forge of Heroes
+Fortunate Few
+Fractured Identity
+Frenzied Fugue
+Fury Storm
+Galecaster Colossus
+Game of Chaos
+Garrulous Sycophant
+Gempalm Incinerator
+Genesis Storm
+Geode Golem
+Giant Spider
+Goblin Goliath
+Goblin Goon
+Goblin Spymaster
+Grave Upheaval
+"Grenzo, Havoc Raiser"
+Grip of Phyresis
+Guttural Response
+"Gyrus, Waker of Corpses"
+Hammer of Nazahn
+Hardened-Scale Armor
+Heavenly Blademaster
+Heavenly Qilin
+Heirloom Blade
+Herald's Horn
+"Huang Zhong, Shu General"
+Hungry Lynx
+"Ikra Shidiqi, the Usurper"
+Immortal Phoenix
+"Inalla, Archmage Ritualist"
+Inspired Sphinx
+"Ishai, Ojutai Dragonspeaker"
+Island
+Isolated Watchtower
+Izzet Chemister
+Jhoira of the Ghitu
+Jiang Yanggu
+Journey for the Elixir
+"Kaya, Ghost Assassin"
+Keeper of Keys
+"Kess, Dissident Mage"
+"Kestia, the Cultivator"
+Kheru Mind-Eater
+Kindred Boon
+Kindred Charge
+Kindred Discovery
+Kindred Dominance
+Kindred Summons
+"Kraum, Ludevic's Opus"
+"Kydele, Chosen of Kruphix"
+Kynaios and Tiro of Meletis
+Lady Sun
+"Lady Zhurong, Warrior Queen"
+Leopard-Spotted Jiao
+"Leovold, Emissary of Trest"
+"Licia, Sanguine Tribune"
+Lonely Sandbar
+Lord Windgrace
+Lovisa Coldeyes
+Loyal Apprentice
+Loyal Drake
+Loyal Guardian
+Loyal Subordinate
+Loyal Unicorn
+"Ludevic, Necro-Alchemist"
+"Lu Su, Wu Advisor"
+"Ma Chao, Western Warrior"
+Magus of the Balance
+Magus of the Mind
+Magus of the Will
+Marchesa's Decree
+Master of Waves
+"Mathas, Fiend Seeker"
+Meandering River
+Metamorphosis
+Migratory Route
+Militant Angel
+"Mirri, Weatherlight Duelist"
+Mirror of the Forebears
+Moon-Eating Dog
+Mountain
+Mu Yanling
+Myth Unbound
+"Nazahn, Revered Bladesmith"
+Nesting Dragon
+Night Incarnate
+Nine-Tail White Fox
+Nylea's Colossus
+Octopus Umbra
+"O-Kagachi, Vengeful Kami"
+Orzhov Advokist
+Palace Jailer
+Palace Sentinels
+"Pang Tong, ""Young Phoenix"""
+Parting Thoughts
+Path of Ancestry
+Patron of the Vein
+Pit Scorpion
+Plains
+Plant Elemental
+Primeval Protector
+Primordial Mist
+Prismatic Geoscope
+Protector of the Crown
+Purple-Crystal Crab
+Qasali Slingers
+Qilin's Blessing
+Queen Marchesa
+"Ramos, Dragon Engine"
+Rampaging Brontodon
+Ravenous Slime
+"Ravos, Soultender"
+Reality Scramble
+Reckless Pangolin
+Recruiter of the Guard
+Retrofitter Foundry
+"Reyhan, Last of the Abzan"
+Rhythmic Water Vortex
+Rot Hulk
+Runehorn Hellkite
+Sacred White Deer
+Saheeli's Directive
+"Saheeli, the Gifted"
+Salvage
+Sanctum Prelate
+Saskia the Unyielding
+Scalelord Reckoner
+Screeching Phoenix
+Selfless Squire
+"Selvala, Heart of the Wilds"
+Selvala's Stampede
+Shifting Shadow
+Sidar Kondo of Jamuraa
+"Silas Renn, Seeker Adept"
+"Sima Yi, Wei Field Marshal"
+Sinuous Vermin
+Skittering Crustacean
+Skull Storm
+Skyline Despot
+Sower of Discord
+Splitting Slime
+Stalking Leonin
+Stonehoof Chieftain
+Stormcloud Spirit
+Stream of Acid
+Stunt Double
+Subterranean Tremors
+Sylvan Reclamation
+"Taigam, Ojutai Master"
+"Taigam, Sidisi's Hand"
+"Tana, the Bloodsower"
+"Tawnos, Urza's Apprentice"
+Teferi's Protection
+Territorial Hellkite
+"Thantis, the Warweaver"
+The Unspeakable
+The Ur-Dragon
+Thorn of the Black Rose
+"Thrasios, Triton Hero"
+Throne of the High City
+Throne Warden
+Tidal Courier
+Timber Gorge
+Traverse the Outlands
+Treacherous Terrain
+Treasonous Ogre
+Treasure Nabber
+Turntimber Sower
+Tuvasa the Sunlit
+Tymna the Weaver
+"Varchild, Betrayer of Kjeldor"
+"Varina, Lich Queen"
+Vedalken Humiliator
+Vengeant Vampire
+Vial Smasher the Fierce
+Vivid Flying Fish
+Warren Instigator
+"Wasitora, Nekoru Queen"
+Welkin Tern
+Whiptongue Hydra
+Windgrace's Judgment
+"Xantcha, Sleeper Agent"
+"Xun Yu, Wei Advisor"
+"Yennett, Cryptic Sovereign"
+"Yidris, Maelstrom Wielder"
+"Yuriko, the Tiger's Shadow"
+Zo-Zu the Punisher
+"Zuo Ci, the Mocking Sage"

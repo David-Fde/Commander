@@ -1,0 +1,16 @@
+Beast
+Construct
+Construct
+Dack Fayden Emblem
+"Domri, Chaos Bringer Emblem"
+Dragon
+"Elspeth, Knight-Errant Emblem"
+"Garruk, Apex Predator Emblem"
+Jaya Ballard Emblem
+"Liliana, the Last Hope Emblem"
+"Ral, Izzet Viceroy Emblem"
+Soldier
+"Tamiyo, the Moon Sage Emblem"
+"Teferi, Hero of Dominaria Emblem"
+"Vraska, Golgari Queen Emblem"
+Zombie

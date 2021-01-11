@@ -6,19 +6,23 @@ from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
 import os
+import pyautogui
 
 PATH = r"C:\Program Files (x86)\chromedriver.exe" # Path to chrome driver, needed for use selenium in chrome.
 driver = webdriver.Chrome(PATH)
 driver.get("https://tugbucket.net/tests/salvation/mtg_sets/")
 driver2 = webdriver.Chrome(PATH)
 driver2.get("https://scryfall.com/sets")
-url_destino = r"..\Colecciones"
+url_destino_xlsx = r"..\Colecciones_xlsx"
+url_destino_txt = r"..\Colecciones_txt"
 new_list = []
 downloaded_sets = []
 newest_sets = []
 numbers = [1,16,31,46] # This list is to get the 4 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
 
-for e in os.listdir(url_destino): # Make a list with the allready downloaded sets in the folder.
+pyautogui.hotkey('win', 'm') # Minimize all windows.
+
+for e in os.listdir(url_destino_xlsx): # Make a list with the allready downloaded sets in the folder.
     downloaded_sets.append(e.split(".xlsx")[0])
 
 search_set2 = driver2.find_element_by_id("js-checklist") # Goes to skryfall and get a list of all sets ordered by date.
@@ -68,9 +72,18 @@ for e in sets_list: # Get a new set only if it is not in the downloaded_sets fol
         df = pd.DataFrame()
         try:
             df[f'{e}'] = text
-            df.to_excel(f"{url_destino}\{e}.xlsx", index=False)
+            df.to_excel(f"{url_destino_xlsx}\{e}.xlsx", index=False)
         except:
             df[f'{e.split(" ")[0]}'] = text
-            df.to_excel(f"{url_destino}\{e.split(' ')[-1]}.xlsx", index=False) # Export the new set to excel.
+            df.to_excel(f"{url_destino_xlsx}\{e.split(' ')[-1]}.xlsx", index=False) # Export the new set to excel.
+        
+        df2 = pd.DataFrame()
+
+#        try:
+#            df[f'{e}'] = text
+#            df.to_csv(f"{url_destino_txt}\{e}.txt", header=None, index=None)
+#       except:
+#            df[f'{e.split(" ")[0]}'] = text
+#            df.to_csv(f"{url_destino_txt}\{e.split(' ')[-1]}.txt", header=None, index=None) # Export the new set to txt.
         
 driver.quit()

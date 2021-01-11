@@ -1,0 +1,10 @@
+Cat
+Goblin
+Golem
+Insect
+Myr
+Poison Counter
+Soldier
+Wolf
+Wurm
+Wurm

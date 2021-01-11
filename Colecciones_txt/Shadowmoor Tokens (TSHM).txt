@@ -1,0 +1,12 @@
+Elemental
+Elemental
+Elf Warrior
+Elf Warrior
+Faerie Rogue
+Giant Warrior
+Goblin Warrior
+Kithkin Soldier
+Rat
+Spider
+Spirit
+Wolf

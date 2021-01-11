@@ -1,0 +1,12 @@
+Assassin
+Bird
+Centaur
+Dragon
+Elemental
+Goblin
+Knight
+Ooze
+Rhino
+Saproling
+Soldier
+Wurm

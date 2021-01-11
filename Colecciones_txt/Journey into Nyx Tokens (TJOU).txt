@@ -1,0 +1,6 @@
+Hydra
+Minotaur
+Snake
+Sphinx
+Spider
+Zombie

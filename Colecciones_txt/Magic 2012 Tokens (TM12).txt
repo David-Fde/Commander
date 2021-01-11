@@ -1,0 +1,7 @@
+Beast
+Bird
+Pentavite
+Saproling
+Soldier
+Wurm
+Zombie

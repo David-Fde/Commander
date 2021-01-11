@@ -1,0 +1,10 @@
+Copy // Horror
+Elemental // Centaur
+Goblin // Soldier
+Saproling // Elf Knight
+Saproling // Insect
+Soldier // Goblin
+Soldier // Soldier
+Voja // Saproling
+Weird // Goblin
+Wurm // Saproling

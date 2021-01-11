@@ -1,0 +1,8 @@
+Avatar
+Beast
+Gargoyle
+Goblin
+Insect
+Soldier
+Wolf
+Zombie

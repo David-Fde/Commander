@@ -1,0 +1,40 @@
+Ancient Tomb
+Balefire Dragon
+Bitterblossom
+Cavern of Souls
+Celestial Colonnade
+Creeping Tar Pit
+Dark Depths
+Demonic Tutor
+"Emrakul, the Aeons Torn"
+Engineered Explosives
+Eternal Witness
+Fulminator Mage
+Gaddock Teeg
+Goryo's Vengeance
+Karakas
+Karn Liberated
+Kitchen Finks
+"Kozilek, Butcher of Truth"
+Lavaclaw Reaches
+"Leovold, Emissary of Trest"
+Life from the Loam
+Liliana of the Veil
+Lord of Extinction
+Maelstrom Pulse
+Mana Vault
+"Mikaeus, the Unhallowed"
+Noble Hierarch
+Platinum Emperion
+Raging Ravine
+Reanimate
+"Sigarda, Host of Herons"
+Snapcaster Mage
+Stirring Wildwood
+Tarmogoyf
+"Tasigur, the Golden Fang"
+Temporal Manipulation
+Through the Breach
+"Ulamog, the Infinite Gyre"
+"Urborg, Tomb of Yawgmoth"
+Vengevine

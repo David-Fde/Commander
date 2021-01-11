@@ -1,0 +1,20 @@
+Beast
+Beast
+Dragon
+Drake
+Elemental
+Elephant
+Elf Druid
+Elf Warrior
+Experience
+Gargoyle
+Germ
+Kithkin Soldier
+Knight
+Saproling
+Spider
+Spirit
+Treefolk
+Wolf
+Wolf
+Zombie

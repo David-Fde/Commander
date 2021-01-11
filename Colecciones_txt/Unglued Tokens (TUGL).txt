@@ -1,0 +1,6 @@
+Goblin
+Pegasus
+Sheep
+Soldier
+Squirrel
+Zombie

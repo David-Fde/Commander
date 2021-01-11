@@ -1,0 +1,5 @@
+"Ajani, Caller of the Pride"
+"Chandra, Pyromaster"
+"Garruk, Caller of Beasts"
+"Jace, Memory Adept"
+Liliana of the Dark Realms
