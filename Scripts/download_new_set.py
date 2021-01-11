@@ -16,7 +16,7 @@ url_destino = r"..\Colecciones"
 new_list = []
 downloaded_sets = []
 newest_sets = []
-numbers = [1,16,31,46,61,76] # This list is to get the 6 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
+numbers = [1,16,31,46] # This list is to get the 4 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
 
 for e in os.listdir(url_destino): # Make a list with the allready downloaded sets in the folder.
     downloaded_sets.append(e.split(".xlsx")[0])
@@ -54,7 +54,7 @@ for e in range(len(newest_sets)): # Get rid of non accepted icons.
     newest_sets[e] = newest_sets[e].replace(":","")
     newest_sets[e] = newest_sets[e].replace("/","")
 
-for e in sets_list: # Get a new set only if it is not in the downloaded_sets folder or if it is one of the 6 newest sets.
+for e in sets_list: # Get a new set only if it is not in the downloaded_sets folder or if it is one of the 4 newest sets.
     if e not in downloaded_sets or e.split("(")[0][:-1] in newest_sets:
         search_set.send_keys(e)
         long_list.click()
