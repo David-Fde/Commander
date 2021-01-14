@@ -1,0 +1,63 @@
+Aether Hub
+Land
+"When Aether Hub enters the battlefield, you get {E} (an energy counter)."
+{T}: Add {C}.
+"{T}, Pay {E}: Add one mana of any color."
+Dinosaur
+Token Creature — Dinosaur
+Trample
+3/3
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Fatal Push
+{B}
+Instant
+Destroy target creature if it has converted mana cost 2 or less.
+Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
+Fortune's Favor
+{3}{U}
+Instant
+Target opponent looks at the top four cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard.
+Incendiary Flow
+{1}{R}
+Sorcery
+"Incendiary Flow deals 3 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+Noose Constrictor
+{1}{G}
+Creature — Snake
+Reach
+Discard a card: Noose Constrictor gets +1/+1 until end of turn.
+2/2
+Pirate
+Token Creature — Pirate
+Menace
+2/2
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Renegade Rallier
+{1}{G}{W}
+Creature — Human Warrior
+"Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield."
+3/2
+Reverse Engineer
+{3}{U}{U}
+Sorcery
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Draw three cards.
+Servo Exhibition
+{1}{W}
+Sorcery
+Create two 1/1 colorless Servo artifact creature tokens.
+Unlicensed Disintegration
+{1}{B}{R}
+Instant
+"Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature’s controller."
+Vampire
+Token Creature — Vampire
+Lifelink
+1/1
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."

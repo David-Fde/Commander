@@ -1,0 +1,28 @@
+Goblin Mutant
+{2}{R}{R}
+Creature — Goblin Mutant
+Trample
+Goblin Mutant can’t attack if defending player controls an untapped creature with power 3 or greater.
+Goblin Mutant can’t block creatures with power 3 or greater.
+5/3
+Ihsan's Shade
+{3}{B}{B}{B}
+Legendary Creature — Shade Knight
+Protection from white
+5/5
+Krovikan Vampire
+{3}{B}{B}
+Creature — Vampire
+"At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn died, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire."
+3/3
+Surge of Strength
+{R}{G}
+Instant
+"As an additional cost to cast this spell, discard a red or green card."
+"Target creature gains trample and gets +X/+0 until end of turn, where X is that creature’s converted mana cost."
+Yavimaya Ants
+{2}{G}{G}
+Creature — Insect
+"Trample, haste"
+"Cumulative upkeep {G}{G} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+5/1

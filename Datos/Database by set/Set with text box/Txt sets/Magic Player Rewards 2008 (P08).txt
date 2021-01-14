@@ -1,0 +1,29 @@
+Corrupt
+{5}{B}
+Sorcery
+Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
+Damnation
+{2}{B}{B}
+Sorcery
+Destroy all creatures. They can’t be regenerated.
+Harmonize
+{2}{G}{G}
+Sorcery
+Draw three cards.
+Incinerate
+{1}{R}
+Instant
+Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
+Mana Tithe
+{W}
+Instant
+Counter target spell unless its controller pays {1}.
+Ponder
+{U}
+Sorcery
+"Look at the top three cards of your library, then put them back in any order. You may shuffle your library."
+Draw a card.
+Tidings
+{3}{U}{U}
+Sorcery
+Draw four cards.

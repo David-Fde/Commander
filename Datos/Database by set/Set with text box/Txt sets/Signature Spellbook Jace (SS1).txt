@@ -1,0 +1,38 @@
+Blue Elemental Blast
+{U}
+Instant
+Choose one —
+• Counter target red spell.
+• Destroy target red permanent.
+Brainstorm
+{U}
+Instant
+"Draw three cards, then put two cards from your hand on top of your library in any order."
+Counterspell
+{U}{U}
+Instant
+Counter target spell.
+Gifts Ungiven
+{3}{U}
+Instant
+Search your library for up to four cards with different names and reveal them. Target opponent chooses two of those cards. Put the chosen cards into your graveyard and the rest into your hand. Then shuffle your library.
+Jace Beleren
+{1}{U}{U}
+Legendary Planeswalker — Jace
++2: Each player draws a card.
+−1: Target player draws a card.
+−10: Target player mills twenty cards.
+Loyalty: 3
+Mystical Tutor
+{U}
+Instant
+"Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
+Negate
+{1}{U}
+Instant
+Counter target noncreature spell.
+Threads of Disloyalty
+{1}{U}{U}
+Enchantment — Aura
+Enchant creature with converted mana cost 2 or less
+You control enchanted creature.

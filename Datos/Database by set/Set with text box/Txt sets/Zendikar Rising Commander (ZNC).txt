@@ -1,0 +1,752 @@
+Abundance
+{2}{G}{G}
+Enchantment
+"If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order."
+Abzan Falconer
+{2}{W}
+Creature — Human Soldier
+"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has flying.
+2/3
+Acidic Slime
+{3}{G}{G}
+Creature — Ooze
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+"When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
+2/2
+Admonition Angel
+{3}{W}{W}{W}
+Creature — Angel
+Flying
+"Landfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel."
+"When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners’ control."
+6/6
+Aetherize
+{3}{U}
+Instant
+Return all attacking creatures to their owner’s hand.
+"Anowon, the Ruin Thief"
+{2}{U}{B}
+Legendary Creature — Vampire Rogue
+Other Rogues you control get +1/+1.
+"Whenever one or more Rogues you control deal combat damage to a player, that player mills a card for each 1 damage dealt to them. If the player mills at least one creature card this way, you draw a card. (To mill a card, a player puts the top card of their library into their graveyard.)"
+2/4
+"Anowon, the Ruin Thief"
+{2}{U}{B}
+Legendary Creature — Vampire Rogue
+Other Rogues you control get +1/+1.
+"Whenever one or more Rogues you control deal combat damage to a player, that player mills a card for each 1 damage dealt to them. If the player mills at least one creature card this way, you draw a card. (To mill a card, a player puts the top card of their library into their graveyard.)"
+2/4
+Arcane Signet
+{2}
+Artifact
+{T}: Add one mana of any color in your commander’s color identity.
+Armorcraft Judge
+{3}{G}
+Creature — Elf Artificer
+"When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it."
+3/3
+Banishing Light
+{2}{W}
+Enchantment
+"When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield."
+Beanstalk Giant
+{6}{G}
+Creature — Giant
+Beanstalk Giant’s power and toughness are each equal to the number of lands you control.
+*/*
+Fertile Footsteps
+{2}{G}
+Sorcery — Adventure
+"Search your library for a basic land card, put it onto the battlefield, then shuffle your library. (Then exile this card. You may cast the creature later from exile.)"
+Blackblade Reforged
+{2}
+Legendary Artifact — Equipment
+Equipped creature gets +1/+1 for each land you control.
+Equip legendary creature {3}
+Equip {7}
+Blighted Woodland
+Land
+{T}: Add {C}.
+"{3}{G}, {T}, Sacrifice Blighted Woodland: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+Bonehoard
+{4}
+Artifact — Equipment
+"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)"
+"Equipped creature gets +X/+X, where X is the number of creature cards in all graveyards."
+Equip {2}
+Boros Garrison
+Land
+Boros Garrison enters the battlefield tapped.
+"When Boros Garrison enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {R}{W}.
+Boros Guildgate
+Land — Gate
+Boros Guildgate enters the battlefield tapped.
+{T}: Add {R} or {W}.
+Changeling Outcast
+{B}
+Creature — Shapeshifter
+Changeling (This card is every creature type.)
+Changeling Outcast can’t block and can’t be blocked.
+1/1
+Circuitous Route
+{3}{G}
+Sorcery
+"Search your library for up to two basic land cards and/or Gate cards, put them onto the battlefield tapped, then shuffle your library."
+Commander's Sphere
+{3}
+Artifact
+{T}: Add one mana of any color in your commander’s color identity.
+Sacrifice Commander’s Sphere: Draw a card.
+Command Tower
+Land
+{T}: Add one mana of any color in your commander’s color identity.
+Condemn
+{W}
+Instant
+Put target attacking creature on the bottom of its owner’s library. Its controller gains life equal to its toughness.
+Consuming Aberration
+{3}{U}{B}
+Creature — Horror
+Consuming Aberration’s power and toughness are each equal to the number of cards in your opponents’ graveyards.
+"Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard."
+*/*
+Crush Contraband
+{3}{W}
+Instant
+Choose one or both —
+• Exile target artifact.
+• Exile target enchantment.
+Cryptic Caves
+Land
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Cryptic Caves: Draw a card. Activate this ability only if you control five or more lands."
+Dimir Aqueduct
+Land
+Dimir Aqueduct enters the battlefield tapped.
+"When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {U}{B}.
+Dimir Guildgate
+Land — Gate
+Dimir Guildgate enters the battlefield tapped.
+{T}: Add {U} or {B}.
+Dimir Keyrune
+{3}
+Artifact
+{T}: Add {U} or {B}.
+{U}{B}: Dimir Keyrune becomes a 2/2 blue and black Horror artifact creature until end of turn and can’t be blocked this turn.
+Dimir Locket
+{3}
+Artifact
+{T}: Add {U} or {B}.
+"{U/B}{U/B}{U/B}{U/B}, {T}, Sacrifice Dimir Locket: Draw two cards."
+Dimir Signet
+{2}
+Artifact
+"{1}, {T}: Add {U}{B}."
+Dismal Backwater
+Land
+Dismal Backwater enters the battlefield tapped.
+"When Dismal Backwater enters the battlefield, you gain 1 life."
+{T}: Add {U} or {B}.
+Distant Melody
+{3}{U}
+Sorcery
+Choose a creature type. Draw a card for each permanent you control of that type.
+Elite Scaleguard
+{4}{W}
+Creature — Human Soldier
+"When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
+"Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls."
+2/3
+Elvish Rejuvenator
+{2}{G}
+Creature — Elf Druid
+"When Elvish Rejuvenator enters the battlefield, look at the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order."
+1/1
+Embodiment of Insight
+{4}{G}
+Creature — Elemental
+Vigilance
+Land creatures you control have vigilance.
+"Landfall — Whenever a land enters the battlefield under your control, you may have target land you control become a 3/3 Elemental creature with haste until end of turn. It’s still a land."
+4/4
+Emeria Angel
+{2}{W}{W}
+Creature — Angel
+Flying
+"Landfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying."
+3/3
+Emeria Shepherd
+{5}{W}{W}
+Creature — Angel
+Flying
+"Landfall — Whenever a land enters the battlefield under your control, you may return target nonland permanent card from your graveyard to your hand. If that land is a Plains, you may return that nonland permanent card to the battlefield instead."
+4/4
+Endless Obedience
+{4}{B}{B}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Put target creature card from a graveyard onto the battlefield under your control.
+Enigma Thief
+{5}{U}{U}
+Creature — Sphinx Rogue
+Prowl {3}{U} (You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Sphinx or a Rogue.)
+Flying
+"When Enigma Thief enters the battlefield, for each opponent, return up to one target nonland permanent that player controls to its owner’s hand."
+5/5
+Evolution Sage
+{2}{G}
+Creature — Elf Druid
+"Whenever a land enters the battlefield under your control, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+3/2
+Evolving Wilds
+Land
+"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Extract from Darkness
+{3}{U}{B}
+Sorcery
+Each player mills two cards. Then you put a creature card from a graveyard onto the battlefield under your control.
+Fact or Fiction
+{3}{U}
+Instant
+Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Faerie Vandal
+{1}{U}
+Creature — Faerie Rogue
+Flash
+Flying
+"Whenever you draw your second card each turn, put a +1/+1 counter on Faerie Vandal."
+1/2
+Far Wanderings
+{2}{G}
+Sorcery
+"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+"Threshold — If seven or more cards are in your graveyard, instead search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library."
+Fated Return
+{4}{B}{B}{B}
+Instant
+"Put target creature card from a graveyard onto the battlefield under your control. It gains indestructible. If it’s your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Fertilid
+{2}{G}
+Creature — Elemental
+Fertilid enters the battlefield with two +1/+1 counters on it.
+"{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches their library for a basic land card, puts it onto the battlefield tapped, then shuffles their library."
+0/0
+Frogtosser Banneret
+{1}{B}
+Creature — Goblin Rogue
+Haste
+Goblin spells and Rogue spells you cast cost {1} less to cast.
+1/1
+Geode Rager
+{4}{R}{R}
+Creature — Elemental
+First strike
+"Landfall — Whenever a land enters the battlefield under your control, goad each creature target player controls. (Until your next turn, those creatures attack each combat if able and attack a player other than you if able.)"
+4/3
+"Gonti, Lord of Luxury"
+{2}{B}{B}
+Legendary Creature — Aetherborn Rogue
+Deathtouch
+"When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent’s library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell."
+2/3
+Ground Assault
+{R}{G}
+Sorcery
+Ground Assault deals damage to target creature equal to the number of lands you control.
+Gruul Guildgate
+Land — Gate
+Gruul Guildgate enters the battlefield tapped.
+{T}: Add {R} or {G}.
+Gruul Turf
+Land
+Gruul Turf enters the battlefield tapped.
+"When Gruul Turf enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {R}{G}.
+Harmonize
+{2}{G}{G}
+Sorcery
+Draw three cards.
+Harrow
+{2}{G}
+Instant
+"As an additional cost to cast this spell, sacrifice a land."
+"Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+Heirloom Blade
+{3}
+Artifact — Equipment
+Equipped creature gets +3/+1.
+"Whenever equipped creature dies, you may reveal cards from the top of your library until you reveal a creature card that shares a creature type with it. Put that card into your hand and the rest on the bottom of your library in a random order."
+Equip {1}
+Hour of Revelation
+{3}{W}{W}{W}
+Sorcery
+This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
+Destroy all nonland permanents.
+In Garruk's Wake
+{7}{B}{B}
+Sorcery
+Destroy all creatures you don’t control and all planeswalkers you don’t control.
+Inspiring Call
+{2}{G}
+Instant
+Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn.
+Invisible Stalker
+{1}{U}
+Creature — Human Rogue
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+Invisible Stalker can’t be blocked.
+1/1
+Jungle Shrine
+Land
+Jungle Shrine enters the battlefield tapped.
+"{T}: Add {R}, {G}, or {W}."
+Jwar Isle Refuge
+Land
+Jwar Isle Refuge enters the battlefield tapped.
+"When Jwar Isle Refuge enters the battlefield, you gain 1 life."
+{T}: Add {U} or {B}.
+Keeper of Fables
+{3}{G}{G}
+Creature — Cat
+"Whenever one or more non-Human creatures you control deal combat damage to a player, draw a card."
+4/5
+Khalni Heart Expedition
+{1}{G}
+Enchantment
+"Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition."
+"Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+Kodama's Reach
+{2}{G}
+Sorcery — Arcane
+"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+Kor Cartographer
+{3}{W}
+Creature — Kor Scout
+"When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+2/2
+Krosan Verge
+Land
+Krosan Verge enters the battlefield tapped.
+{T}: Add {C}.
+"{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library."
+Latchkey Faerie
+{3}{U}
+Creature — Faerie Rogue
+Flying
+Prowl {2}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)
+"When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card."
+3/1
+"Lazav, Dimir Mastermind"
+{U}{U}{B}{B}
+Legendary Creature — Shapeshifter
+Hexproof
+"Whenever a creature card is put into an opponent’s graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is Lazav, Dimir Mastermind, it’s legendary in addition to its other types, and it has hexproof and this ability."
+3/3
+Living Twister
+{R}{R}{G}
+Creature — Elemental
+"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target."
+{G}: Return a tapped land you control to its owner’s hand.
+2/5
+Marang River Prowler
+{2}{U}
+Creature — Human Rogue
+Marang River Prowler can’t block and can’t be blocked.
+You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.
+2/1
+Marsh Flitter
+{3}{B}
+Creature — Faerie Rogue
+Flying
+"When Marsh Flitter enters the battlefield, create two 1/1 black Goblin Rogue creature tokens."
+Sacrifice a Goblin: Marsh Flitter has base power and toughness 3/3 until end of turn.
+1/1
+Master Thief
+{2}{U}{U}
+Creature — Human Rogue
+"When Master Thief enters the battlefield, gain control of target artifact for as long as you control Master Thief."
+2/2
+Military Intelligence
+{1}{U}
+Enchantment
+"Whenever you attack with two or more creatures, draw a card."
+"Mina and Denn, Wildborn"
+{2}{R}{G}
+Legendary Creature — Elf Ally
+You may play an additional land on each of your turns.
+"{R}{G}, Return a land you control to its owner’s hand: Target creature gains trample until end of turn."
+4/4
+Mind Stone
+{2}
+Artifact
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Mind Stone: Draw a card."
+"Multani, Yavimaya's Avatar"
+{4}{G}{G}
+Legendary Creature — Elemental Avatar
+"Reach, trample"
+"Multani, Yavimaya’s Avatar gets +1/+1 for each land you control and each land card in your graveyard."
+"{1}{G}, Return two lands you control to their owner’s hand: Return Multani from your graveyard to your hand."
+0/0
+Murder
+{1}{B}{B}
+Instant
+Destroy target creature.
+Myriad Landscape
+Land
+Myriad Landscape enters the battlefield tapped.
+{T}: Add {C}.
+"{2}, {T}, Sacrifice Myriad Landscape: Search your library for up to two basic land cards that share a land type, put them onto the battlefield tapped, then shuffle your library."
+Naya Charm
+{R}{G}{W}
+Instant
+Choose one —
+• Naya Charm deals 3 damage to target creature.
+• Return target card from a graveyard to its owner’s hand.
+• Tap all creatures target player controls.
+Naya Panorama
+Land
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Naya Panorama: Search your library for a basic Mountain, Forest, or Plains card and put it onto the battlefield tapped. Then shuffle your library."
+Necromantic Selection
+{4}{B}{B}{B}
+Sorcery
+"Destroy all creatures, then return a creature card put into a graveyard this way to the battlefield under your control. It’s a black Zombie in addition to its other colors and types. Exile Necromantic Selection."
+Needle Spires
+Land
+Needle Spires enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{2}{R}{W}: Needle Spires becomes a 2/1 red and white Elemental creature with double strike until end of turn. It’s still a land.
+Nighthowler
+{1}{B}{B}
+Enchantment Creature — Horror
+"Bestow {2}{B}{B} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)"
+"Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards."
+0/0
+Nightveil Sprite
+{1}{U}
+Creature — Faerie Rogue
+Flying
+"Whenever Nightveil Sprite attacks, surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)"
+1/2
+Nissa's Renewal
+{5}{G}
+Sorcery
+"Search your library for up to three basic land cards, put them onto the battlefield tapped, then shuffle your library. You gain 7 life."
+Notion Thief
+{2}{U}{B}
+Creature — Human Rogue
+Flash
+"If an opponent would draw a card except the first one they draw in each of their draw steps, instead that player skips that draw and you draw a card."
+3/1
+Notorious Throng
+{3}{U}
+Tribal Sorcery — Rogue
+Prowl {5}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+"Create X 1/1 black Faerie Rogue creature tokens with flying, where X is the damage dealt to your opponents this turn. If this spell’s prowl cost was paid, take an extra turn after this one."
+Obelisk of Urd
+{6}
+Artifact
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+"As Obelisk of Urd enters the battlefield, choose a creature type."
+Creatures you control of the chosen type get +2/+2.
+"Obuun, Mul Daya Ancestor"
+{1}{R}{G}{W}
+Legendary Creature — Elf Spirit
+"At the beginning of combat on your turn, up to one target land you control becomes an X/X Elemental creature with trample and haste until end of turn, where X is Obuun’s power. It’s still a land."
+"Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature."
+3/3
+"Obuun, Mul Daya Ancestor"
+{1}{R}{G}{W}
+Legendary Creature — Elf Spirit
+"At the beginning of combat on your turn, up to one target land you control becomes an X/X Elemental creature with trample and haste until end of turn, where X is Obuun’s power. It’s still a land."
+"Landfall — Whenever a land enters the battlefield under your control, put a +1/+1 counter on target creature."
+3/3
+Ogre Slumlord
+{3}{B}{B}
+Creature — Ogre Rogue
+"Whenever another nontoken creature dies, you may create a 1/1 black Rat creature token."
+Rats you control have deathtouch.
+3/3
+"Omnath, Locus of Rage"
+{3}{R}{R}{G}{G}
+Legendary Creature — Elemental
+"Landfall — Whenever a land enters the battlefield under your control, create a 5/5 red and green Elemental creature token."
+"Whenever Omnath, Locus of Rage or another Elemental you control dies, Omnath deals 3 damage to any target."
+5/5
+"Oona, Queen of the Fae"
+{3}{U/B}{U/B}{U/B}
+Legendary Creature — Faerie Wizard
+Flying
+"{X}{U/B}: Choose a color. Target opponent exiles the top X cards of their library. For each card of the chosen color exiled this way, create a 1/1 blue and black Faerie Rogue creature token with flying."
+5/5
+Oona's Blackguard
+{1}{B}
+Creature — Faerie Rogue
+Flying
+Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+"Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card."
+1/1
+Open into Wonder
+{X}{U}{U}
+Sorcery
+"X target creatures can’t be blocked this turn. Until end of turn, those creatures gain “Whenever this creature deals combat damage to a player, draw a card.”"
+Planar Outburst
+{3}{W}{W}
+Sorcery
+Destroy all nonland creatures.
+"Awaken 4—{5}{W}{W}{W} (If you cast this spell for {5}{W}{W}{W}, also put four +1/+1 counters on target land you control and it becomes a 0/0 Elemental creature with haste. It’s still a land.)"
+Price of Fame
+{3}{B}
+Instant
+This spell costs {2} less to cast if it targets a legendary creature.
+Destroy target creature.
+"Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)"
+Rampaging Baloths
+{4}{G}{G}
+Creature — Beast
+Trample
+"Landfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token."
+6/6
+Retreat to Emeria
+{3}{W}
+Enchantment
+"Landfall — Whenever a land enters the battlefield under your control, choose one —"
+• Create a 1/1 white Kor Ally creature token.
+• Creatures you control get +1/+1 until end of turn.
+Retreat to Kazandu
+{2}{G}
+Enchantment
+"Landfall — Whenever a land enters the battlefield under your control, choose one —"
+• Put a +1/+1 counter on target creature.
+• You gain 2 life.
+Return of the Wildspeaker
+{4}{G}
+Instant
+Choose one —
+• Draw cards equal to the greatest power among non-Human creatures you control.
+• Non-Human creatures you control get +3/+3 until end of turn.
+Rise from the Grave
+{4}{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
+Rites of Flourishing
+{2}{G}
+Enchantment
+"At the beginning of each player’s draw step, that player draws an additional card."
+Each player may play an additional land on each of their turns.
+Rogue's Passage
+Land
+{T}: Add {C}.
+"{4}, {T}: Target creature can’t be blocked this turn."
+Sandstone Oracle
+{7}
+Artifact Creature — Sphinx
+Flying
+"When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference."
+4/4
+Satyr Wayfinder
+{1}{G}
+Creature — Satyr
+"When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard."
+1/1
+Scaretiller
+{4}
+Artifact Creature — Scarecrow
+"Whenever Scaretiller becomes tapped, choose one —"
+• You may put a land card from your hand onto the battlefield tapped.
+• Return target land card from your graveyard to the battlefield tapped.
+1/4
+Scourge of Fleets
+{5}{U}{U}
+Creature — Kraken
+"When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner’s hand, where X is the number of Islands you control."
+6/6
+Scytheclaw
+{5}
+Artifact — Equipment
+"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)"
+Equipped creature gets +1/+1.
+"Whenever equipped creature deals combat damage to a player, that player loses half their life, rounded up."
+Equip {3}
+Seer's Sundial
+{4}
+Artifact
+"Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card."
+Selesnya Guildgate
+Land — Gate
+Selesnya Guildgate enters the battlefield tapped.
+{T}: Add {G} or {W}.
+Selesnya Sanctuary
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+"When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{W}.
+Sepulchral Primordial
+{5}{B}{B}
+Creature — Avatar
+Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+"When Sepulchral Primordial enters the battlefield, for each opponent, you may put up to one target creature card from that player’s graveyard onto the battlefield under your control."
+5/4
+Silumgar's Command
+{3}{U}{B}
+Instant
+Choose two —
+• Counter target noncreature spell.
+• Return target permanent to its owner’s hand.
+• Target creature gets -3/-3 until end of turn.
+• Destroy target planeswalker.
+Slither Blade
+{U}
+Creature — Naga Rogue
+Slither Blade can’t be blocked.
+1/2
+Sol Ring
+{1}
+Artifact
+{T}: Add {C}{C}.
+Soul Manipulation
+{1}{U}{B}
+Instant
+Choose one or both —
+• Counter target creature spell.
+• Return target creature card from your graveyard to your hand.
+Spinal Embrace
+{3}{U}{U}{B}
+Instant
+Cast this spell only during combat.
+"Untap target creature you don’t control and gain control of it. It gains haste until end of turn. At the beginning of the next end step, sacrifice it. If you do, you gain life equal to its toughness."
+Sporemound
+{3}{G}{G}
+Creature — Fungus
+"Whenever a land enters the battlefield under your control, create a 1/1 green Saproling creature token."
+3/3
+Springbloom Druid
+{2}{G}
+Creature — Elf Druid
+"When Springbloom Druid enters the battlefield, you may sacrifice a land. If you do, search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library."
+1/1
+Stinkdrinker Bandit
+{3}{B}
+Creature — Goblin Rogue
+Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+"Whenever a Rogue you control attacks and isn’t blocked, it gets +2/+1 until end of turn."
+2/1
+Stolen Identity
+{4}{U}{U}
+Sorcery
+Create a token that’s a copy of target artifact or creature.
+"Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)"
+Struggle
+{2}{R}
+Instant
+Struggle deals damage to target creature equal to the number of lands you control.
+Survive
+{1}{G}
+Sorcery
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Each player shuffles their graveyard into their library.
+Submerged Boneyard
+Land
+Submerged Boneyard enters the battlefield tapped.
+{T}: Add {U} or {B}.
+Sun Titan
+{4}{W}{W}
+Creature — Giant
+Vigilance
+"Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
+6/6
+"Sygg, River Cutthroat"
+{U/B}{U/B}
+Legendary Creature — Merfolk Rogue
+"At the beginning of each end step, if an opponent lost 3 or more life this turn, you may draw a card. (Damage causes loss of life.)"
+1/3
+Sylvan Advocate
+{1}{G}
+Creature — Elf Druid Ally
+Vigilance
+"As long as you control six or more lands, Sylvan Advocate and land creatures you control get +2/+2."
+2/3
+Sylvan Reclamation
+{3}{G}{W}
+Instant
+Exile up to two target artifacts and/or enchantments.
+"Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+"Syr Konrad, the Grim"
+{3}{B}{B}
+Legendary Creature — Human Knight
+"Whenever another creature dies, or a creature card is put into a graveyard from anywhere other than the battlefield, or a creature card leaves your graveyard, Syr Konrad, the Grim deals 1 damage to each opponent."
+{1}{B}: Each player mills a card.
+5/4
+Terramorphic Expanse
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+The Mending of Dominaria
+{3}{G}{G}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+"I, II — Mill two cards, then you may return a creature card from your graveyard to your hand."
+"III — Return all land cards from your graveyard to the battlefield, then shuffle your graveyard into your library."
+Together Forever
+{W}{W}
+Enchantment
+"When Together Forever enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two target creatures.)"
+"{1}: Choose target creature with a counter on it. When that creature dies this turn, return that card to its owner’s hand."
+Treacherous Terrain
+{6}{R}{G}
+Sorcery
+Treacherous Terrain deals damage to each opponent equal to the number of lands that player controls.
+"Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
+Triton Shorestalker
+{U}
+Creature — Merfolk Rogue
+Triton Shorestalker can’t be blocked.
+1/1
+Trove Warden
+{2}{W}{W}
+Creature — Cat Beast
+Vigilance
+"Landfall — Whenever a land enters the battlefield under your control, exile target permanent card with converted mana cost 3 or less from your graveyard."
+"When Trove Warden dies, put each permanent card exiled with it onto the battlefield under the control of that card’s owner."
+3/4
+Tuskguard Captain
+{2}{G}
+Creature — Human Warrior
+"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has trample.
+2/3
+Waker of the Wilds
+{2}{G}{G}
+Creature — Merfolk Shaman
+{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It’s still a land.
+3/3
+Whirler Rogue
+{2}{U}{U}
+Creature — Human Rogue Artificer
+"When Whirler Rogue enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
+Tap two untapped artifacts you control: Target creature can’t be blocked this turn.
+2/2
+Whispersteel Dagger
+{2}{B}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+"Whenever equipped creature deals combat damage to a player, you may cast a creature spell from that player’s graveyard this turn, and you may spend mana as though it were mana of any color to cast that spell."
+Equip {3}
+Yavimaya Elder
+{1}{G}{G}
+Creature — Human Druid
+"When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
+"{2}, Sacrifice Yavimaya Elder: Draw a card."
+2/1
+Zendikar's Roil
+{3}{G}{G}
+Enchantment
+"Whenever a land enters the battlefield under your control, create a 2/2 green Elemental creature token."
+Zulaport Cutthroat
+{1}{B}
+Creature — Human Rogue Ally
+"Whenever Zulaport Cutthroat or another creature you control dies, each opponent loses 1 life and you gain 1 life."
+1/1

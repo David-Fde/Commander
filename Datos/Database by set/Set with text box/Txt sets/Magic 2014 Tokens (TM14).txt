@@ -1,0 +1,42 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Beast
+Token Creature — Beast
+3/3
+Cat
+Token Creature — Cat
+2/2
+Dragon
+Token Creature — Dragon
+Flying
+{R}: This creature gets +1/+0 until end of turn.
+2/2
+Elemental
+Token Creature — Elemental
+1/1
+Elemental
+Token Creature — Elemental
+1/1
+"Garruk, Caller of Beasts Emblem"
+Emblem — Garruk
+"Whenever you cast a creature spell, you may search your library for a creature card, put it onto the battlefield, then shuffle your library."
+Goat
+Token Creature — Goat
+0/1
+Liliana of the Dark Realms Emblem
+Emblem — Liliana
+Swamps you control have ‘{T}: Add {B}{B}{B}{B}.'
+Saproling
+Token Creature — Saproling
+1/1
+Sliver
+Token Creature — Sliver
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2

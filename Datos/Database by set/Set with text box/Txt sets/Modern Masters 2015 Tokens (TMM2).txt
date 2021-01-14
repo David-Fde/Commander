@@ -1,0 +1,53 @@
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Elephant
+Token Creature — Elephant
+3/3
+Faerie Rogue
+Token Creature — Faerie Rogue
+Flying
+1/1
+Germ
+Token Creature — Germ
+0/0
+Golem
+Token Artifact Creature — Golem
+3/3
+Insect
+Token Creature — Insect
+1/1
+Myr
+Token Artifact Creature — Myr
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Snake
+Token Creature — Snake
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Thrull
+Token Creature — Thrull
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Worm
+Token Creature — Worm
+1/1

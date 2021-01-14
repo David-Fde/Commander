@@ -1,0 +1,576 @@
+Admiral's Order
+{1}{U}{U}
+Instant
+"Raid — If you attacked this turn, you may pay {U} rather than pay this spell’s mana cost."
+Counter target spell.
+Admiral's Order
+{1}{U}{U}
+Instant
+"Raid — If you attacked this turn, you may pay {U} rather than pay this spell’s mana cost."
+Counter target spell.
+"Angrath, the Flame-Chained"
+{3}{B}{R}
+Legendary Planeswalker — Angrath
++1: Each opponent discards a card and loses 2 life.
+−3: Gain control of target creature until end of turn. Untap it. It gains haste until end of turn. Sacrifice it at the beginning of the next end step if it has converted mana cost 3 or less.
+−8: Each opponent loses life equal to the number of cards in their graveyard.
+Loyalty: 4
+Arch of Orazca
+Land
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+{T}: Add {C}.
+"{5}, {T}: Draw a card. Activate this ability only if you have the city’s blessing."
+Arch of Orazca
+Land
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+{T}: Add {C}.
+"{5}, {T}: Draw a card. Activate this ability only if you have the city’s blessing."
+Awakened Amalgam
+{4}
+Artifact Creature — Golem
+Awakened Amalgam’s power and toughness are each equal to the number of differently named lands you control.
+*/*
+Azor's Gateway
+{2}
+Legendary Artifact
+"{1}, {T}: Draw a card, then exile a card from your hand. If cards with five or more different converted mana costs are exiled with Azor’s Gateway, you gain 5 life, untap Azor’s Gateway, and transform it."
+Sanctum of the Sun
+Legendary Land
+(Transforms from Azor’s Gateway.)
+"{T}: Add X mana of any one color, where X is your life total."
+"Azor, the Lawbringer"
+{2}{W}{W}{U}{U}
+Legendary Creature — Sphinx
+Flying
+"When Azor, the Lawbringer enters the battlefield, each opponent can’t cast instant or sorcery spells during that player’s next turn."
+"Whenever Azor attacks, you may pay {X}{W}{U}{U}. If you do, you gain X life and draw X cards."
+6/6
+Bishop of Binding
+{3}{W}
+Creature — Vampire Cleric
+"When Bishop of Binding enters the battlefield, exile target creature an opponent controls until Bishop of Binding leaves the battlefield."
+"Whenever Bishop of Binding attacks, target Vampire gets +X/+X until end of turn, where X is the power of the exiled card."
+1/1
+Blood Sun
+{2}{R}
+Enchantment
+"When Blood Sun enters the battlefield, draw a card."
+All lands lose all abilities except mana abilities.
+Blood Sun
+{2}{R}
+Enchantment
+"When Blood Sun enters the battlefield, draw a card."
+All lands lose all abilities except mana abilities.
+Brass's Bounty
+{6}{R}
+Sorcery
+"For each land you control, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
+Brass's Bounty
+{6}{R}
+Sorcery
+"For each land you control, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
+Captain's Hook
+{3}
+Artifact — Equipment
+"Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types."
+"Whenever Captain’s Hook becomes unattached from a permanent, destroy that permanent."
+Equip {1}
+Captain's Hook
+{3}
+Artifact — Equipment
+"Equipped creature gets +2/+0, has menace, and is a Pirate in addition to its other creature types."
+"Whenever Captain’s Hook becomes unattached from a permanent, destroy that permanent."
+Equip {1}
+Champion of Dusk
+{3}{B}{B}
+Creature — Vampire Knight
+"When Champion of Dusk enters the battlefield, you draw X cards and you lose X life, where X is the number of Vampires you control."
+4/4
+Crafty Cutpurse
+{3}{U}
+Creature — Human Pirate
+Flash
+"When Crafty Cutpurse enters the battlefield, each token that would be created under an opponent’s control this turn is created under your control instead."
+2/2
+Dead Man's Chest
+{1}{B}
+Enchantment — Aura
+Enchant creature an opponent controls
+"When enchanted creature dies, exile cards equal to its power from the top of its owner’s library. You may cast spells from among those cards for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast those spells."
+Deeproot Elite
+{1}{G}
+Creature — Merfolk Warrior
+"Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on target Merfolk you control."
+1/1
+Deeproot Elite
+{1}{G}
+Creature — Merfolk Warrior
+"Whenever another Merfolk enters the battlefield under your control, put a +1/+1 counter on target Merfolk you control."
+1/1
+Dire Fleet Daredevil
+{1}{R}
+Creature — Human Pirate
+First strike
+"When Dire Fleet Daredevil enters the battlefield, exile target instant or sorcery card from an opponent’s graveyard. You may cast it this turn, and you may spend mana as though it were mana of any type to cast that spell. If that spell would be put into a graveyard this turn, exile it instead."
+2/1
+Dire Fleet Daredevil
+{1}{R}
+Creature — Human Pirate
+First strike
+"When Dire Fleet Daredevil enters the battlefield, exile target instant or sorcery card from an opponent’s graveyard. You may cast it this turn, and you may spend mana as though it were mana of any type to cast that spell. If that spell would be put into a graveyard this turn, exile it instead."
+2/1
+Dire Fleet Poisoner
+{1}{B}
+Creature — Human Pirate
+Flash
+Deathtouch
+"When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you control gets +1/+1 and gains deathtouch until end of turn."
+2/2
+Dire Fleet Poisoner
+{1}{B}
+Creature — Human Pirate
+Flash
+Deathtouch
+"When Dire Fleet Poisoner enters the battlefield, target attacking Pirate you control gets +1/+1 and gains deathtouch until end of turn."
+2/2
+"Elenda, the Dusk Rose"
+{2}{W}{B}
+Legendary Creature — Vampire Knight
+Lifelink
+"Whenever another creature dies, put a +1/+1 counter on Elenda, the Dusk Rose."
+"When Elenda dies, create X 1/1 white Vampire creature tokens with lifelink, where X is Elenda’s power."
+1/1
+"Etali, Primal Storm"
+{4}{R}{R}
+Legendary Creature — Elder Dinosaur
+"Whenever Etali, Primal Storm attacks, exile the top card of each player’s library, then you may cast any number of spells from among those cards without paying their mana costs."
+6/6
+"Etali, Primal Storm"
+{4}{R}{R}
+Legendary Creature — Elder Dinosaur
+"Whenever Etali, Primal Storm attacks, exile the top card of each player’s library, then you may cast any number of spells from among those cards without paying their mana costs."
+6/6
+Evolving Wilds
+Land
+"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Form of the Dinosaur
+{4}{R}{R}
+Enchantment
+"When Form of the Dinosaur enters the battlefield, your life total becomes 15."
+"At the beginning of your upkeep, Form of the Dinosaur deals 15 damage to target creature an opponent controls and that creature deals damage equal to its power to you."
+"Ghalta, Primal Hunger"
+{10}{G}{G}
+Legendary Creature — Elder Dinosaur
+"This spell costs {X} less to cast, where X is the total power of creatures you control."
+Trample
+12/12
+"Ghalta, Primal Hunger"
+{10}{G}{G}
+Legendary Creature — Elder Dinosaur
+"This spell costs {X} less to cast, where X is the total power of creatures you control."
+Trample
+12/12
+"Ghalta, Primal Hunger"
+{10}{G}{G}
+Legendary Creature — Elder Dinosaur
+"This spell costs {X} less to cast, where X is the total power of creatures you control."
+Trample
+12/12
+Golden Guardian
+{4}
+Artifact Creature — Golem
+Defender
+"{2}: Golden Guardian fights another target creature you control. When Golden Guardian dies this turn, return it to the battlefield transformed under your control."
+4/4
+Gold-Forge Garrison
+Land
+(Transforms from Golden Guardian.)
+{T}: Add two mana of any one color.
+"{4}, {T}: Create a 4/4 colorless Golem artifact creature token."
+Hadana's Climb
+{1}{G}{U}
+Legendary Enchantment
+"At the beginning of combat on your turn, put a +1/+1 counter on target creature you control. Then if that creature has three or more +1/+1 counters on it, transform Hadana’s Climb."
+Winged Temple of Orazca
+Legendary Land
+(Transforms from Hadana’s Climb.)
+{T}: Add one mana of any color.
+"{1}{G}{U}, {T}: Target creature you control gains flying and gets +X/+X until end of turn, where X is its power."
+"Huatli, Radiant Champion"
+{2}{G}{W}
+Legendary Planeswalker — Huatli
+"+1: Put a loyalty counter on Huatli, Radiant Champion for each creature you control."
+"−1: Target creature gets +X/+X until end of turn, where X is the number of creatures you control."
+"−8: You get an emblem with “Whenever a creature enters the battlefield under your control, you may draw a card.”"
+Loyalty: 3
+Induced Amnesia
+{2}{U}
+Enchantment
+"When Induced Amnesia enters the battlefield, target player exiles all cards from their hand face down, then draws that many cards."
+"When Induced Amnesia is put into a graveyard from the battlefield, return the exiled cards to their owner’s hand."
+Jadelight Ranger
+{1}{G}{G}
+Creature — Merfolk Scout
+"When Jadelight Ranger enters the battlefield, it explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. Then repeat this process.)"
+2/1
+Jadelight Ranger
+{1}{G}{G}
+Creature — Merfolk Scout
+"When Jadelight Ranger enters the battlefield, it explores, then it explores again. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard. Then repeat this process.)"
+2/1
+Journey to Eternity
+{1}{B}{G}
+Legendary Enchantment — Aura
+Enchant creature you control
+"When enchanted creature dies, return it to the battlefield under your control, then return Journey to Eternity to the battlefield transformed under your control."
+"Atzal, Cave of Eternity"
+Legendary Land
+(Transforms from Journey to Eternity.)
+{T}: Add one mana of any color.
+"{3}{B}{G}, {T}: Return target creature card from your graveyard to the battlefield."
+Kumena's Awakening
+{2}{U}{U}
+Enchantment
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"At the beginning of your upkeep, each player draws a card. If you have the city’s blessing, instead only you draw a card."
+"Kumena, Tyrant of Orazca"
+{1}{G}{U}
+Legendary Creature — Merfolk Shaman
+"Tap another untapped Merfolk you control: Kumena, Tyrant of Orazca can’t be blocked this turn."
+Tap three untapped Merfolk you control: Draw a card.
+Tap five untapped Merfolk you control: Put a +1/+1 counter on each Merfolk you control.
+2/4
+Mastermind's Acquisition
+{2}{B}{B}
+Sorcery
+Choose one —
+"• Search your library for a card, put it into your hand, then shuffle your library."
+• Put a card you own from outside the game into your hand.
+Mastermind's Acquisition
+{2}{B}{B}
+Sorcery
+Choose one —
+"• Search your library for a card, put it into your hand, then shuffle your library."
+• Put a card you own from outside the game into your hand.
+"Nezahal, Primal Tide"
+{5}{U}{U}
+Legendary Creature — Elder Dinosaur
+This spell can’t be countered.
+You have no maximum hand size.
+"Whenever an opponent casts a noncreature spell, draw a card."
+"Discard three cards: Exile Nezahal, Primal Tide. Return it to the battlefield tapped under its owner’s control at the beginning of the next end step."
+7/7
+"Nezahal, Primal Tide"
+{5}{U}{U}
+Legendary Creature — Elder Dinosaur
+This spell can’t be countered.
+You have no maximum hand size.
+"Whenever an opponent casts a noncreature spell, draw a card."
+"Discard three cards: Exile Nezahal, Primal Tide. Return it to the battlefield tapped under its owner’s control at the beginning of the next end step."
+7/7
+Paladin of Atonement
+{1}{W}
+Creature — Vampire Knight
+"At the beginning of each upkeep, if you lost life last turn, put a +1/+1 counter on Paladin of Atonement."
+"When Paladin of Atonement dies, you gain life equal to its toughness."
+1/1
+Path of Discovery
+{3}{G}
+Enchantment
+"Whenever a creature enters the battlefield under your control, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)"
+Path of Discovery
+{3}{G}
+Enchantment
+"Whenever a creature enters the battlefield under your control, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on the creature, then put the card back or put it into your graveyard.)"
+Path of Mettle
+{R}{W}
+Legendary Enchantment
+"When Path of Mettle enters the battlefield, it deals 1 damage to each creature that doesn’t have first strike, double strike, vigilance, or haste."
+"Whenever you attack with at least two creatures that have first strike, double strike, vigilance, and/or haste, transform Path of Mettle."
+"Metzali, Tower of Triumph"
+Legendary Land
+(Transforms from Path of Mettle.)
+{T}: Add one mana of any color.
+"{1}{R}, {T}: Metzali, Tower of Triumph deals 2 damage to each opponent."
+"{2}{W}, {T}: Choose a creature at random that attacked this turn. Destroy that creature."
+Polyraptor
+{6}{G}{G}
+Creature — Dinosaur
+"Enrage — Whenever Polyraptor is dealt damage, create a token that’s a copy of Polyraptor."
+5/5
+Profane Procession
+{1}{W}{B}
+Legendary Enchantment
+"{3}{W}{B}: Exile target creature. Then if there are three or more cards exiled with Profane Procession, transform it."
+Tomb of the Dusk Rose
+Legendary Land
+(Transforms from Profane Procession.)
+{T}: Add one mana of any color.
+"{2}{W}{B}, {T}: Put a creature card exiled with this permanent onto the battlefield under your control."
+Protean Raider
+{1}{U}{R}
+Creature — Shapeshifter Pirate
+"Raid — If you attacked this turn, you may have Protean Raider enter the battlefield as a copy of any creature on the battlefield."
+2/2
+Radiant Destiny
+{2}{W}
+Enchantment
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"As Radiant Destiny enters the battlefield, choose a creature type."
+"Creatures you control of the chosen type get +1/+1. As long as you have the city’s blessing, they also have vigilance."
+Radiant Destiny
+{2}{W}
+Enchantment
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"As Radiant Destiny enters the battlefield, choose a creature type."
+"Creatures you control of the chosen type get +1/+1. As long as you have the city’s blessing, they also have vigilance."
+Rekindling Phoenix
+{2}{R}{R}
+Creature — Phoenix
+Flying
+"When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with “At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.”"
+4/3
+Rekindling Phoenix
+{2}{R}{R}
+Creature — Phoenix
+Flying
+"When Rekindling Phoenix dies, create a 0/1 red Elemental creature token with “At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.”"
+4/3
+Release to the Wind
+{2}{U}
+Instant
+"Exile target nonland permanent. For as long as that card remains exiled, its owner may cast it without paying its mana cost."
+Seafloor Oracle
+{2}{U}{U}
+Creature — Merfolk Wizard
+"Whenever a Merfolk you control deals combat damage to a player, draw a card."
+2/3
+Seafloor Oracle
+{2}{U}{U}
+Creature — Merfolk Wizard
+"Whenever a Merfolk you control deals combat damage to a player, draw a card."
+2/3
+Siegehorn Ceratops
+{G}{W}
+Creature — Dinosaur
+"Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters on it. (It must survive the damage to get the counters.)"
+2/2
+Siegehorn Ceratops
+{G}{W}
+Creature — Dinosaur
+"Enrage — Whenever Siegehorn Ceratops is dealt damage, put two +1/+1 counters on it. (It must survive the damage to get the counters.)"
+2/2
+Silent Gravestone
+{1}
+Artifact
+Cards in graveyards can’t be the targets of spells or abilities.
+"{4}, {T}: Exile Silent Gravestone and all cards from all graveyards. Draw a card."
+Silent Gravestone
+{1}
+Artifact
+Cards in graveyards can’t be the targets of spells or abilities.
+"{4}, {T}: Exile Silent Gravestone and all cards from all graveyards. Draw a card."
+Silverclad Ferocidons
+{5}{R}{R}
+Creature — Dinosaur
+"Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent sacrifices a permanent."
+8/5
+Silverclad Ferocidons
+{5}{R}{R}
+Creature — Dinosaur
+"Enrage — Whenever Silverclad Ferocidons is dealt damage, each opponent sacrifices a permanent."
+8/5
+Silvergill Adept
+{1}{U}
+Creature — Merfolk Wizard
+"As an additional cost to cast this spell, reveal a Merfolk card from your hand or pay {3}."
+"When Silvergill Adept enters the battlefield, draw a card."
+2/1
+Slaughter the Strong
+{1}{W}{W}
+Sorcery
+"Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control."
+Slaughter the Strong
+{1}{W}{W}
+Sorcery
+"Each player chooses any number of creatures they control with total power 4 or less, then sacrifices all other creatures they control."
+Sphinx's Decree
+{1}{W}
+Sorcery
+Each opponent can’t cast instant or sorcery spells during that player’s next turn.
+Storm the Vault
+{2}{U}{R}
+Legendary Enchantment
+"Whenever one or more creatures you control deal combat damage to a player, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
+"At the beginning of your end step, if you control five or more artifacts, transform Storm the Vault."
+Vault of Catlacan
+Legendary Land
+(Transforms from Storm the Vault.)
+{T}: Add one mana of any color.
+{T}: Add {U} for each artifact you control.
+Temple Altisaur
+{4}{W}
+Creature — Dinosaur
+"If a source would deal damage to another Dinosaur you control, prevent all but 1 of that damage."
+3/4
+Tendershoot Dryad
+{4}{G}
+Creature — Dryad
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+Saprolings you control get +2/+2 as long as you have the city’s blessing.
+2/2
+Tendershoot Dryad
+{4}{G}
+Creature — Dryad
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+Saprolings you control get +2/+2 as long as you have the city’s blessing.
+2/2
+"Tetzimoc, Primal Death"
+{4}{B}{B}
+Legendary Creature — Elder Dinosaur
+Deathtouch
+"{B}, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn."
+"When Tetzimoc enters the battlefield, destroy each creature your opponents control with a prey counter on it."
+6/6
+"Tetzimoc, Primal Death"
+{4}{B}{B}
+Legendary Creature — Elder Dinosaur
+Deathtouch
+"{B}, Reveal Tetzimoc, Primal Death from your hand: Put a prey counter on target creature. Activate this ability only during your turn."
+"When Tetzimoc enters the battlefield, destroy each creature your opponents control with a prey counter on it."
+6/6
+The Immortal Sun
+{6}
+Legendary Artifact
+Players can’t activate planeswalkers’ loyalty abilities.
+"At the beginning of your draw step, draw an additional card."
+Spells you cast cost {1} less to cast.
+Creatures you control get +1/+1.
+The Immortal Sun
+{6}
+Legendary Artifact
+Players can’t activate planeswalkers’ loyalty abilities.
+"At the beginning of your draw step, draw an additional card."
+Spells you cast cost {1} less to cast.
+Creatures you control get +1/+1.
+Tilonalli's Summoner
+{1}{R}
+Creature — Human Shaman
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"Whenever Tilonalli’s Summoner attacks, you may pay {X}{R}. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city’s blessing."
+1/1
+Tilonalli's Summoner
+{1}{R}
+Creature — Human Shaman
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"Whenever Tilonalli’s Summoner attacks, you may pay {X}{R}. If you do, create X 1/1 red Elemental creature tokens that are tapped and attacking. At the beginning of the next end step, exile those tokens unless you have the city’s blessing."
+1/1
+Timestream Navigator
+{1}{U}
+Creature — Human Pirate Wizard
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"{2}{U}{U}, {T}, Put Timestream Navigator on the bottom of its owner’s library: Take an extra turn after this one. Activate this ability only if you have the city’s blessing."
+1/1
+Tomb Robber
+{2}{B}
+Creature — Human Pirate
+Menace
+"{1}, Discard a card: Tomb Robber explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
+1/1
+Trapjaw Tyrant
+{3}{W}{W}
+Creature — Dinosaur
+"Enrage — Whenever Trapjaw Tyrant is dealt damage, exile target creature an opponent controls until Trapjaw Tyrant leaves the battlefield."
+5/5
+Twilight Prophet
+{2}{B}{B}
+Creature — Vampire Cleric
+Flying
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"At the beginning of your upkeep, if you have the city’s blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card’s converted mana cost."
+2/4
+Twilight Prophet
+{2}{B}{B}
+Creature — Vampire Cleric
+Flying
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"At the beginning of your upkeep, if you have the city’s blessing, reveal the top card of your library and put it into your hand. Each opponent loses X life and you gain X life, where X is that card’s converted mana cost."
+2/4
+Vona's Hunger
+{2}{B}
+Instant
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"Each opponent sacrifices a creature. If you have the city’s blessing, instead each opponent sacrifices half the creatures they control, rounded up."
+Vona's Hunger
+{2}{B}
+Instant
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+"Each opponent sacrifices a creature. If you have the city’s blessing, instead each opponent sacrifices half the creatures they control, rounded up."
+Warkite Marauder
+{1}{U}
+Creature — Human Pirate
+Flying
+"Whenever Warkite Marauder attacks, target creature defending player controls loses all abilities and has base power and toughness 0/1 until end of turn."
+2/1
+Warkite Marauder
+{1}{U}
+Creature — Human Pirate
+Flying
+"Whenever Warkite Marauder attacks, target creature defending player controls loses all abilities and has base power and toughness 0/1 until end of turn."
+2/1
+Wayward Swordtooth
+{2}{G}
+Creature — Dinosaur
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+You may play an additional land on each of your turns.
+Wayward Swordtooth can’t attack or block unless you have the city’s blessing.
+5/5
+Wayward Swordtooth
+{2}{G}
+Creature — Dinosaur
+"Ascend (If you control ten or more permanents, you get the city’s blessing for the rest of the game.)"
+You may play an additional land on each of your turns.
+Wayward Swordtooth can’t attack or block unless you have the city’s blessing.
+5/5
+World Shaper
+{3}{G}
+Creature — Merfolk Shaman
+"Whenever World Shaper attacks, you may mill three cards."
+"When World Shaper dies, return all land cards from your graveyard to the battlefield tapped."
+3/3
+World Shaper
+{3}{G}
+Creature — Merfolk Shaman
+"Whenever World Shaper attacks, you may mill three cards."
+"When World Shaper dies, return all land cards from your graveyard to the battlefield tapped."
+3/3
+"Zacama, Primal Calamity"
+{6}{R}{G}{W}
+Legendary Creature — Elder Dinosaur
+"Vigilance, reach, trample"
+"When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all lands you control."
+{2}{R}: Zacama deals 3 damage to target creature.
+{2}{G}: Destroy target artifact or enchantment.
+{2}{W}: You gain 3 life.
+9/9
+"Zacama, Primal Calamity"
+{6}{R}{G}{W}
+Legendary Creature — Elder Dinosaur
+"Vigilance, reach, trample"
+"When Zacama, Primal Calamity enters the battlefield, if you cast it, untap all lands you control."
+{2}{R}: Zacama deals 3 damage to target creature.
+{2}{G}: Destroy target artifact or enchantment.
+{2}{W}: You gain 3 life.
+9/9
+"Zetalpa, Primal Dawn"
+{6}{W}{W}
+Legendary Creature — Elder Dinosaur
+"Flying, double strike, vigilance, trample, indestructible"
+4/8
+"Zetalpa, Primal Dawn"
+{6}{W}{W}
+Legendary Creature — Elder Dinosaur
+"Flying, double strike, vigilance, trample, indestructible"
+4/8

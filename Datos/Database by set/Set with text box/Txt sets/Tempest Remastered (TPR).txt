@@ -1,0 +1,1297 @@
+Acidic Sliver
+{B}{R}
+Creature — Sliver
+"All Slivers have “{2}, Sacrifice this permanent: This permanent deals 2 damage to any target.”"
+2/2
+Aftershock
+{2}{R}{R}
+Sorcery
+"Destroy target artifact, creature, or land. Aftershock deals 3 damage to you."
+Aluren
+{2}{G}{G}
+Enchantment
+Any player may cast creature spells with converted mana cost 3 or less without paying their mana costs and as though they had flash.
+Anarchist
+{4}{R}
+Creature — Human Wizard
+"When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand."
+2/2
+Angelic Blessing
+{2}{W}
+Sorcery
+Target creature gets +3/+3 and gains flying until end of turn. (It can’t be blocked except by creatures with flying or reach.)
+Angelic Protector
+{3}{W}
+Creature — Angel
+Flying
+"Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn."
+2/2
+Anoint
+{W}
+Instant
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Prevent the next 3 damage that would be dealt to target creature this turn.
+Armored Pegasus
+{1}{W}
+Creature — Pegasus
+Flying
+1/2
+Armor Sliver
+{2}{W}
+Creature — Sliver
+All Sliver creatures have “{2}: This creature gets +0/+1 until end of turn.”
+2/2
+Avenging Angel
+{3}{W}{W}
+Creature — Angel
+Flying
+"When Avenging Angel dies, you may put it on top of its owner’s library."
+3/3
+Bandage
+{W}
+Instant
+Prevent the next 1 damage that would be dealt to any target this turn.
+Draw a card.
+Barbed Sliver
+{2}{R}
+Creature — Sliver
+All Sliver creatures have “{2}: This creature gets +1/+0 until end of turn.”
+2/2
+Bottle Gnomes
+{3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+Caldera Lake
+Land
+Caldera Lake enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {U} or {R}. Caldera Lake deals 1 damage to you.
+Cannibalize
+{1}{B}
+Sorcery
+Choose two target creatures controlled by the same player. Exile one of those creatures and put two +1/+1 counters on the other.
+Canopy Spider
+{1}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+1/3
+Canyon Wildcat
+{1}{R}
+Creature — Cat
+Mountainwalk (This creature can’t be blocked as long as defending player controls a Mountain.)
+2/1
+Capsize
+{1}{U}{U}
+Instant
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Return target permanent to its owner’s hand.
+Carnassid
+{4}{G}{G}
+Creature — Beast
+Trample
+{1}{G}: Regenerate Carnassid.
+5/4
+Carnophage
+{B}
+Creature — Zombie
+"At the beginning of your upkeep, tap Carnophage unless you pay 1 life."
+2/2
+Cataclysm
+{2}{W}{W}
+Sorcery
+"Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest."
+Charging Paladin
+{2}{W}
+Creature — Human Knight
+"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
+2/2
+Cinder Marsh
+Land
+{T}: Add {C}.
+{T}: Add {B} or {R}. Cinder Marsh doesn’t untap during your next untap step.
+City of Traitors
+Land
+"When you play another land, sacrifice City of Traitors."
+{T}: Add {C}{C}.
+Clot Sliver
+{1}{B}
+Creature — Sliver
+All Slivers have “{2}: Regenerate this permanent.”
+1/1
+Coat of Arms
+{5}
+Artifact
+"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+Coercion
+{2}{B}
+Sorcery
+Target opponent reveals their hand. You choose a card from it. That player discards that card.
+Coffin Queen
+{2}{B}
+Creature — Zombie Wizard
+You may choose not to untap Coffin Queen during your untap step.
+"{2}{B}, {T}: Put target creature card from a graveyard onto the battlefield under your control. When Coffin Queen becomes untapped or you lose control of Coffin Queen, exile that creature."
+1/1
+Coiled Tinviper
+{3}
+Artifact Creature — Snake
+First strike
+2/1
+Commander Greven il-Vec
+{3}{B}{B}{B}
+Legendary Creature — Human Warrior
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+"When Commander Greven il-Vec enters the battlefield, sacrifice a creature."
+7/5
+Conviction
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return Conviction to its owner’s hand.
+Corpse Dance
+{2}{B}
+Instant
+"Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+Counterspell
+{U}{U}
+Instant
+Counter target spell.
+Crashing Boars
+{3}{G}{G}
+Creature — Boar
+"Whenever Crashing Boars attacks, defending player chooses an untapped creature they control. That creature blocks Crashing Boars this turn if able."
+4/4
+Craven Giant
+{2}{R}
+Creature — Giant
+Craven Giant can’t block.
+4/1
+Crovax the Cursed
+{2}{B}{B}
+Legendary Creature — Vampire Noble
+Crovax the Cursed enters the battlefield with four +1/+1 counters on it.
+"At the beginning of your upkeep, you may sacrifice a creature. If you do, put a +1/+1 counter on Crovax. If you don’t, remove a +1/+1 counter from Crovax."
+{B}: Crovax gains flying until end of turn.
+0/0
+Crystalline Sliver
+{W}{U}
+Creature — Sliver
+All Slivers have shroud. (They can’t be the targets of spells or abilities.)
+2/2
+Curiosity
+{U}
+Enchantment — Aura
+Enchant creature
+"Whenever enchanted creature deals damage to an opponent, you may draw a card."
+Cursed Flesh
+{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -1/-1 and has fear. (It can’t be blocked except by artifact creatures and/or black creatures.)
+Cursed Scroll
+{1}
+Artifact
+"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Dark Banishing
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Dark Ritual
+{B}
+Instant
+Add {B}{B}{B}.
+Dauthi Horror
+{1}{B}
+Creature — Dauthi Horror
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Horror can’t be blocked by white creatures.
+2/1
+Dauthi Jackal
+{2}{B}
+Creature — Dauthi Jackal
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+"{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature."
+2/1
+Dauthi Marauder
+{2}{B}
+Creature — Dauthi Minion
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+3/1
+Dauthi Slayer
+{B}{B}
+Creature — Dauthi Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each combat if able.
+2/2
+Dauthi Warlord
+{1}{B}
+Creature — Dauthi Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Warlord’s power is equal to the number of creatures with shadow on the battlefield.
+*/1
+Deadshot
+{3}{R}
+Sorcery
+Tap target creature. It deals damage equal to its power to another target creature.
+Death Pits of Rath
+{3}{B}{B}
+Enchantment
+"Whenever a creature is dealt damage, destroy it. It can’t be regenerated."
+Death's Duet
+{2}{B}
+Sorcery
+Return two target creature cards from your graveyard to your hand.
+Death Stroke
+{B}{B}
+Sorcery
+Destroy target tapped creature.
+Diabolic Edict
+{1}{B}
+Instant
+Target player sacrifices a creature.
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Dismiss
+{2}{U}{U}
+Instant
+Counter target spell.
+Draw a card.
+Dracoplasm
+{U}{R}
+Creature — Shapeshifter
+Flying
+"As Dracoplasm enters the battlefield, sacrifice any number of creatures. Dracoplasm’s power becomes the total power of those creatures and its toughness becomes their total toughness."
+{R}: Dracoplasm gets +1/+0 until end of turn.
+0/0
+Dream Halls
+{3}{U}{U}
+Enchantment
+"Rather than pay the mana cost for a spell, its controller may discard a card that shares a color with that spell."
+Dream Prowler
+{2}{U}{U}
+Creature — Illusion
+Dream Prowler can’t be blocked as long as it’s attacking alone.
+1/5
+Dungeon Shade
+{3}{B}
+Creature — Shade Spirit
+Flying
+{B}: Dungeon Shade gets +1/+1 until end of turn.
+1/1
+Elven Rite
+{1}{G}
+Sorcery
+Distribute two +1/+1 counters among one or two target creatures.
+Elvish Fury
+{G}
+Instant
+"Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Target creature gets +2/+2 until end of turn.
+Emmessi Tome
+{4}
+Artifact
+"{5}, {T}: Draw two cards, then discard a card."
+Endangered Armodon
+{2}{G}{G}
+Creature — Elephant
+"When you control a creature with toughness 2 or less, sacrifice Endangered Armodon."
+4/5
+Ephemeron
+{4}{U}{U}
+Creature — Illusion
+Flying
+Discard a card: Return Ephemeron to its owner’s hand.
+4/4
+Erratic Portal
+{4}
+Artifact
+"{1}, {T}: Return target creature to its owner’s hand unless its controller pays {1}."
+Evincar's Justice
+{2}{B}{B}
+Sorcery
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Evincar’s Justice deals 2 damage to each creature and each player.
+Exalted Dragon
+{4}{W}{W}
+Creature — Dragon
+Flying
+Exalted Dragon can’t attack unless you sacrifice a land. (This cost is paid as attackers are declared.)
+5/5
+Fanning the Flames
+{X}{R}{R}
+Sorcery
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Fanning the Flames deals X damage to any target.
+Field of Souls
+{2}{W}{W}
+Enchantment
+"Whenever a nontoken creature is put into your graveyard from the battlefield, create a 1/1 white Spirit creature token with flying."
+Fighting Drake
+{2}{U}{U}
+Creature — Drake
+Flying
+2/4
+Flame Wave
+{3}{R}{R}{R}{R}
+Sorcery
+Flame Wave deals 4 damage to target player or planeswalker and each creature that player or that planeswalker’s controller controls.
+Flowstone Blade
+{R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/-1 until end of turn.
+Flowstone Mauler
+{4}{R}{R}
+Creature — Beast
+Trample
+{R}: Flowstone Mauler gets +1/-1 until end of turn.
+4/5
+Flowstone Wyvern
+{3}{R}{R}
+Creature — Drake
+Flying
+{R}: Flowstone Wyvern gets +2/-2 until end of turn.
+3/3
+Forbid
+{1}{U}{U}
+Instant
+"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Counter target spell.
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Fugue
+{3}{B}{B}
+Sorcery
+Target player discards three cards.
+Furnace Brood
+{3}{R}
+Creature — Elemental
+{R}: Target creature can’t be regenerated this turn.
+3/3
+Gallantry
+{1}{W}
+Instant
+Target blocking creature gets +4/+4 until end of turn.
+Draw a card.
+Gaseous Form
+{2}{U}
+Enchantment — Aura
+Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Gerrard's Battle Cry
+{W}
+Enchantment
+{2}{W}: Creatures you control get +1/+1 until end of turn.
+Goblin Bombardment
+{1}{R}
+Enchantment
+Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.
+Gravedigger
+{3}{B}
+Creature — Zombie
+"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+2/2
+Grindstone
+{1}
+Artifact
+"{3}, {T}: Target player mills two cards. If two cards that share a color were milled this way, repeat this process."
+Hammerhead Shark
+{1}{U}
+Creature — Shark
+Hammerhead Shark can’t attack unless defending player controls an Island.
+2/3
+Harrow
+{2}{G}
+Instant
+"As an additional cost to cast this spell, sacrifice a land."
+"Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+Heartwood Dryad
+{1}{G}
+Creature — Dryad
+Heartwood Dryad can block creatures with shadow as though Heartwood Dryad had shadow.
+2/1
+Heartwood Giant
+{3}{G}{G}
+Creature — Giant
+"{T}, Sacrifice a Forest: Heartwood Giant deals 2 damage to target player or planeswalker."
+4/4
+Hermit Druid
+{1}{G}
+Creature — Human Druid
+"{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard."
+1/1
+Hibernation Sliver
+{U}{B}
+Creature — Sliver
+All Slivers have “Pay 2 life: Return this permanent to its owner’s hand.”
+2/2
+Horned Sliver
+{2}{G}
+Creature — Sliver
+All Sliver creatures have trample.
+2/2
+Horned Turtle
+{2}{U}
+Creature — Turtle
+1/4
+Humility
+{2}{W}{W}
+Enchantment
+All creatures lose all abilities and have base power and toughness 1/1.
+Intuition
+{2}{U}
+Instant
+Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Jinxed Idol
+{2}
+Artifact
+"At the beginning of your upkeep, Jinxed Idol deals 2 damage to you."
+Sacrifice a creature: Target opponent gains control of Jinxed Idol.
+Kezzerdrix
+{2}{B}{B}
+Creature — Rabbit Beast
+First strike
+"At the beginning of your upkeep, if your opponents control no creatures, Kezzerdrix deals 4 damage to you."
+4/4
+Killer Whale
+{3}{U}{U}
+Creature — Whale
+{U}: Killer Whale gains flying until end of turn.
+3/5
+Kindle
+{1}{R}
+Instant
+"Kindle deals X damage to any target, where X is 2 plus the number of cards named Kindle in all graveyards."
+Kor Chant
+{2}{W}
+Instant
+All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
+Krakilin
+{X}{G}{G}
+Creature — Beast
+Krakilin enters the battlefield with X +1/+1 counters on it.
+{1}{G}: Regenerate Krakilin.
+0/0
+Lab Rats
+{B}
+Sorcery
+"Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Create a 1/1 black Rat creature token.
+Legacy's Allure
+{U}{U}
+Enchantment
+"At the beginning of your upkeep, you may put a treasure counter on Legacy’s Allure."
+Sacrifice Legacy’s Allure: Gain control of target creature with power less than or equal to the number of treasure counters on Legacy’s Allure. (This effect lasts indefinitely.)
+Legerdemain
+{2}{U}{U}
+Sorcery
+Exchange control of target artifact or creature and another target permanent that shares one of those types with it. (This effect lasts indefinitely.)
+Lightning Blast
+{3}{R}
+Instant
+Lightning Blast deals 4 damage to any target.
+Living Death
+{3}{B}{B}
+Sorcery
+"Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
+Lotus Petal
+{0}
+Artifact
+"{T}, Sacrifice Lotus Petal: Add one mana of any color."
+Lowland Basilisk
+{2}{G}
+Creature — Basilisk
+"Whenever Lowland Basilisk deals damage to a creature, destroy that creature at end of combat."
+1/3
+Lowland Giant
+{2}{R}{R}
+Creature — Giant
+4/3
+Mage il-Vec
+{2}{R}
+Creature — Human Wizard
+"{T}, Discard a card at random: Mage il-Vec deals 1 damage to any target."
+2/2
+Magmasaur
+{3}{R}{R}
+Creature — Elemental Dinosaur
+Magmasaur enters the battlefield with five +1/+1 counters on it.
+"At the beginning of your upkeep, you may remove a +1/+1 counter from Magmasaur. If you don’t, sacrifice Magmasaur and it deals damage equal to the number of +1/+1 counters on it to each creature without flying and each player."
+0/0
+Manabond
+{G}
+Enchantment
+"At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand."
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Maniacal Rage
+{1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and can’t block.
+Master Decoy
+{1}{W}
+Creature — Human Soldier
+"{W}, {T}: Tap target creature."
+1/2
+Mawcor
+{3}{U}{U}
+Creature — Beast
+Flying
+{T}: Mawcor deals 1 damage to any target.
+3/3
+Maze of Shadows
+Land
+{T}: Add {C}.
+{T}: Untap target attacking creature with shadow. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Meditate
+{2}{U}
+Instant
+Draw four cards. You skip your next turn.
+Merfolk Looter
+{1}{U}
+Creature — Merfolk Rogue
+"{T}: Draw a card, then discard a card."
+1/1
+Metallic Sliver
+{1}
+Artifact Creature — Sliver
+1/1
+Mindless Automaton
+{4}
+Artifact Creature — Construct
+Mindless Automaton enters the battlefield with two +1/+1 counters on it.
+"{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton."
+Remove two +1/+1 counters from Mindless Automaton: Draw a card.
+0/0
+"Mirri, Cat Warrior"
+{1}{G}{G}
+Legendary Creature — Cat Warrior
+"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can’t be blocked as long as defending player controls a Forest, and attacking doesn’t cause this creature to tap.)"
+2/3
+Mnemonic Sliver
+{2}{U}
+Creature — Sliver
+"All Slivers have “{2}, Sacrifice this permanent: Draw a card.”"
+2/2
+Mogg Conscripts
+{R}
+Creature — Goblin
+Mogg Conscripts can’t attack unless you’ve cast a creature spell this turn.
+2/2
+Mogg Fanatic
+{R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+1/1
+Mogg Flunkies
+{1}{R}
+Creature — Goblin
+Mogg Flunkies can’t attack or block alone.
+3/3
+Mogg Hollows
+Land
+{T}: Add {C}.
+{T}: Add {R} or {G}. Mogg Hollows doesn’t untap during your next untap step.
+Mogg Infestation
+{3}{R}{R}
+Sorcery
+"Destroy all creatures target player controls. For each creature that died this way, that player creates two 1/1 red Goblin creature tokens."
+Mogg Maniac
+{1}{R}
+Creature — Goblin
+"Whenever Mogg Maniac is dealt damage, it deals that much damage to target opponent or planeswalker."
+1/1
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mounted Archers
+{3}{W}
+Creature — Human Soldier Archer
+Reach (This creature can block creatures with flying.)
+{W}: Mounted Archers can block an additional creature this turn.
+2/3
+Mox Diamond
+{0}
+Artifact
+"If Mox Diamond would enter the battlefield, you may discard a land card instead. If you do, put Mox Diamond onto the battlefield. If you don’t, put it into its owner’s graveyard."
+{T}: Add one mana of any color.
+Mulch
+{1}{G}
+Sorcery
+Reveal the top four cards of your library. Put all land cards revealed this way into your hand and the rest into your graveyard.
+Muscle Sliver
+{1}{G}
+Creature — Sliver
+All Sliver creatures get +1/+1.
+1/1
+Necrologia
+{3}{B}{B}
+Instant
+Cast this spell only during your end step.
+"As an additional cost to cast this spell, pay X life."
+Draw X cards.
+Needle Storm
+{2}{G}
+Sorcery
+Needle Storm deals 4 damage to each creature with flying.
+Nomads en-Kor
+{W}
+Creature — Kor Nomad Soldier
+{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.
+1/1
+Oath of Druids
+{1}{G}
+Enchantment
+"At the beginning of each player’s upkeep, that player chooses target player who controls more creatures than they do and is their opponent. The first player may reveal cards from the top of their library until they reveal a creature card. If the first player does, that player puts that card onto the battlefield and all other cards revealed this way into their graveyard."
+Ogre Shaman
+{3}{R}{R}
+Creature — Ogre Shaman
+"{2}, Discard a card at random: Ogre Shaman deals 2 damage to any target."
+3/3
+"Orim, Samite Healer"
+{1}{W}{W}
+Legendary Creature — Human Cleric
+{T}: Prevent the next 3 damage that would be dealt to any target this turn.
+1/3
+Overrun
+{2}{G}{G}{G}
+Sorcery
+Creatures you control get +3/+3 and gain trample until end of turn.
+Pacifism
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Paladin en-Vec
+{1}{W}{W}
+Creature — Human Knight
+"First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can’t be blocked, targeted, dealt damage, or enchanted by anything black or red.)"
+2/2
+Pandemonium
+{3}{R}
+Enchantment
+"Whenever a creature enters the battlefield, that creature’s controller may have it deal damage equal to its power to any target of their choice."
+Patchwork Gnomes
+{3}
+Artifact Creature — Gnome
+Discard a card: Regenerate Patchwork Gnomes.
+2/1
+Pegasus Stampede
+{1}{W}
+Sorcery
+"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Create a 1/1 white Pegasus creature token with flying.
+Phyrexian Hulk
+{6}
+Artifact Creature — Golem
+5/4
+Pine Barrens
+Land
+Pine Barrens enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {B} or {G}. Pine Barrens deals 1 damage to you.
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Provoke
+{1}{G}
+Instant
+Untap target creature you don’t control. That creature blocks this turn if able.
+Draw a card.
+Rampant Growth
+{1}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Rathi Dragon
+{2}{R}{R}
+Creature — Dragon
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"When Rathi Dragon enters the battlefield, sacrifice it unless you sacrifice two Mountains."
+5/5
+Rats of Rath
+{1}{B}
+Creature — Rat
+"{B}: Destroy target artifact, creature, or land you control."
+2/1
+Reality Anchor
+{1}{G}
+Instant
+Target creature loses shadow until end of turn.
+Draw a card.
+Reanimate
+{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+Recurring Nightmare
+{2}{B}
+Enchantment
+"Sacrifice a creature, Return Recurring Nightmare to its owner’s hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
+Recycle
+{4}{G}{G}
+Enchantment
+Skip your draw step.
+"Whenever you play a card, draw a card."
+Your maximum hand size is two.
+Renegade Warlord
+{4}{R}
+Creature — Human Soldier
+First strike
+"Whenever Renegade Warlord attacks, each other attacking creature gets +1/+0 until end of turn."
+3/3
+Repentance
+{2}{W}
+Sorcery
+Target creature deals damage to itself equal to its power.
+Revenant
+{4}{B}
+Creature — Spirit
+Flying
+Revenant’s power and toughness are each equal to the number of creature cards in your graveyard.
+*/*
+Rolling Thunder
+{X}{R}{R}
+Sorcery
+Rolling Thunder deals X damage divided as you choose among any number of targets.
+Rootbreaker Wurm
+{5}{G}{G}
+Creature — Wurm
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+6/6
+Rootwalla
+{2}{G}
+Creature — Lizard
+{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+2/2
+Rootwater Depths
+Land
+{T}: Add {C}.
+{T}: Add {U} or {B}. Rootwater Depths doesn’t untap during your next untap step.
+Rootwater Hunter
+{2}{U}
+Creature — Merfolk
+{T}: Rootwater Hunter deals 1 damage to any target.
+1/1
+Sabertooth Wyvern
+{4}{R}
+Creature — Drake
+"Flying, first strike"
+3/2
+Salt Flats
+Land
+Salt Flats enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {W} or {B}. Salt Flats deals 1 damage to you.
+Sandstone Warrior
+{2}{R}{R}
+Creature — Human Soldier Warrior
+First strike (This creature deals combat damage before creatures without first strike.)
+{R}: Sandstone Warrior gets +1/+0 until end of turn.
+1/3
+Sarcomancy
+{B}
+Enchantment
+"When Sarcomancy enters the battlefield, create a 2/2 black Zombie creature token."
+"At the beginning of your upkeep, if there are no Zombies on the battlefield, Sarcomancy deals 1 damage to you."
+Scabland
+Land
+Scabland enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {R} or {W}. Scabland deals 1 damage to you.
+Screeching Harpy
+{2}{B}{B}
+Creature — Harpy Beast
+Flying
+{1}{B}: Regenerate Screeching Harpy.
+2/2
+Scrivener
+{4}{U}
+Creature — Human Wizard
+"When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand."
+2/2
+Sea Monster
+{4}{U}{U}
+Creature — Serpent
+Sea Monster can’t attack unless defending player controls an Island.
+6/6
+Searing Touch
+{R}
+Instant
+"Buyback {4} (You may pay an additional {4} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Searing Touch deals 1 damage to any target.
+Seething Anger
+{R}
+Sorcery
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Target creature gets +3/+0 until end of turn.
+"Selenia, Dark Angel"
+{3}{W}{B}
+Legendary Creature — Angel
+Flying
+"Pay 2 life: Return Selenia, Dark Angel to its owner’s hand."
+3/3
+Serpent Warrior
+{2}{B}
+Creature — Snake Warrior
+"When Serpent Warrior enters the battlefield, you lose 3 life."
+3/3
+Shackles
+{2}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step.
+{W}: Return Shackles to its owner’s hand.
+Shadow Rift
+{U}
+Instant
+Target creature gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+Draw a card.
+Shadowstorm
+{R}
+Sorcery
+Shadowstorm deals 2 damage to each creature with shadow.
+Shaman en-Kor
+{1}{W}
+Creature — Kor Cleric Shaman
+{0}: The next 1 damage that would be dealt to Shaman en-Kor this turn is dealt to target creature you control instead.
+"{1}{W}: The next time a source of your choice would deal damage to target creature this turn, that damage is dealt to Shaman en-Kor instead."
+1/2
+Shard Phoenix
+{4}{R}
+Creature — Phoenix
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+2/2
+Shatter
+{1}{R}
+Instant
+Destroy target artifact.
+Sift
+{3}{U}
+Sorcery
+"Draw three cards, then discard a card."
+Silver Wyvern
+{3}{U}{U}
+Creature — Drake
+Flying
+{U}: Change the target of target spell or ability that targets only Silver Wyvern. The new target must be a creature.
+4/3
+Skyshaper
+{2}
+Artifact
+Sacrifice Skyshaper: Creatures you control gain flying until end of turn.
+Skyshroud Elf
+{1}{G}
+Creature — Elf Druid
+{T}: Add {G}.
+{1}: Add {R} or {W}.
+1/1
+Skyshroud Forest
+Land
+Skyshroud Forest enters the battlefield tapped.
+{T}: Add {C}.
+{T}: Add {G} or {U}. Skyshroud Forest deals 1 damage to you.
+Skyshroud Troll
+{2}{G}{G}
+Creature — Troll Giant
+{1}{G}: Regenerate Skyshroud Troll.
+3/3
+Skyshroud Vampire
+{3}{B}{B}
+Creature — Vampire
+Flying
+Discard a creature card: Skyshroud Vampire gets +2/+2 until end of turn.
+3/3
+Sliver Queen
+{W}{U}{B}{R}{G}
+Legendary Creature — Sliver
+{2}: Create a 1/1 colorless Sliver creature token.
+7/7
+Smite
+{W}
+Instant
+Destroy target blocked creature.
+Soltari Champion
+{2}{W}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+"Whenever Soltari Champion attacks, other creatures you control get +1/+1 until end of turn."
+2/2
+Soltari Guerrillas
+{2}{R}{W}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+"{0}: The next time Soltari Guerrillas would deal combat damage to an opponent this turn, it deals that damage to target creature instead."
+3/2
+Soltari Lancer
+{2}{W}
+Creature — Soltari Knight
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Soltari Lancer has first strike as long as it’s attacking.
+2/2
+Soltari Monk
+{W}{W}
+Creature — Soltari Monk Cleric
+Protection from black
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+2/1
+Soltari Priest
+{W}{W}
+Creature — Soltari Cleric
+Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+2/1
+Soltari Trooper
+{1}{W}
+Creature — Soltari Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+"Whenever Soltari Trooper attacks, it gets +1/+1 until end of turn."
+1/1
+Spell Blast
+{X}{U}
+Instant
+"Counter target spell with converted mana cost X. (For example, if that spell’s mana cost is {3}{U}{U}, X is 5.)"
+Spellshock
+{2}{R}
+Enchantment
+"Whenever a player casts a spell, Spellshock deals 2 damage to that player."
+Spike Breeder
+{3}{G}
+Creature — Spike
+Spike Breeder enters the battlefield with three +1/+1 counters on it.
+"{2}, Remove a +1/+1 counter from Spike Breeder: Put a +1/+1 counter on target creature."
+"{2}, Remove a +1/+1 counter from Spike Breeder: Create a 1/1 green Spike creature token."
+0/0
+Spike Colony
+{4}{G}
+Creature — Spike
+Spike Colony enters the battlefield with four +1/+1 counters on it.
+"{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature."
+0/0
+Spike Feeder
+{1}{G}{G}
+Creature — Spike
+Spike Feeder enters the battlefield with two +1/+1 counters on it.
+"{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature."
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+0/0
+Spike Hatcher
+{6}{G}
+Creature — Spike
+Spike Hatcher enters the battlefield with six +1/+1 counters on it.
+"{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature."
+"{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher."
+0/0
+Spinal Graft
+{1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+"When enchanted creature becomes the target of a spell or ability, destroy that creature. It can’t be regenerated."
+Spined Sliver
+{R}{G}
+Creature — Sliver
+"Whenever a Sliver becomes blocked, that Sliver gets +1/+1 until end of turn for each creature blocking it."
+2/2
+Spined Wurm
+{4}{G}
+Creature — Wurm
+5/4
+Spirit en-Kor
+{3}{W}
+Creature — Kor Spirit
+Flying
+{0}: The next 1 damage that would be dealt to Spirit en-Kor this turn is dealt to target creature you control instead.
+2/2
+Spirit Mirror
+{2}{W}{W}
+Enchantment
+"At the beginning of your upkeep, if there are no Reflection tokens on the battlefield, create a 2/2 white Reflection creature token."
+{0}: Destroy target Reflection.
+Spitting Hydra
+{3}{R}{R}
+Creature — Hydra
+Spitting Hydra enters the battlefield with four +1/+1 counters on it.
+"{1}{R}, Remove a +1/+1 counter from Spitting Hydra: It deals 1 damage to target creature."
+0/0
+Stalking Stones
+Land
+{T}: Add {C}.
+{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that’s still a land. (This effect lasts indefinitely.)
+Standing Troops
+{2}{W}
+Creature — Human Soldier
+Vigilance
+1/4
+Starke of Rath
+{1}{R}{R}
+Legendary Creature — Human Rogue
+{T}: Destroy target artifact or creature. That permanent’s controller gains control of Starke of Rath. (This effect lasts indefinitely.)
+2/2
+Staunch Defenders
+{3}{W}{W}
+Creature — Human Soldier
+"When Staunch Defenders enters the battlefield, you gain 4 life."
+3/4
+Stronghold Assassin
+{1}{B}{B}
+Creature — Zombie Assassin
+"{T}, Sacrifice a creature: Destroy target nonblack creature."
+2/1
+Stun
+{1}{R}
+Instant
+Target creature can’t block this turn.
+Draw a card.
+Survival of the Fittest
+{1}{G}
+Enchantment
+"{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library."
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Telethopter
+{4}
+Artifact Creature — Thopter
+Tap an untapped creature you control: Telethopter gains flying until end of turn.
+3/1
+Thalakos Drifters
+{2}{U}{U}
+Creature — Thalakos
+Discard a card: Thalakos Drifters gains shadow until end of turn. (It can block or be blocked by only creatures with shadow.)
+3/3
+Thalakos Lowlands
+Land
+{T}: Add {C}.
+{T}: Add {W} or {U}. Thalakos Lowlands doesn’t untap during your next untap step.
+Thalakos Scout
+{2}{U}
+Creature — Thalakos Soldier Scout
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Discard a card: Return Thalakos Scout to its owner’s hand.
+2/1
+Thalakos Seer
+{U}{U}
+Creature — Thalakos Wizard
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+"When Thalakos Seer leaves the battlefield, draw a card."
+1/1
+Thopter Squadron
+{5}
+Artifact Creature — Thopter
+Flying
+Thopter Squadron enters the battlefield with three +1/+1 counters on it.
+"{1}, Remove a +1/+1 counter from Thopter Squadron: Create a 1/1 colorless Thopter artifact creature token with flying. Activate this ability only any time you could cast a sorcery."
+"{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery."
+0/0
+Thrull Surgeon
+{1}{B}
+Creature — Thrull
+"{1}{B}, Sacrifice Thrull Surgeon: Look at target player’s hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+1/1
+Time Ebb
+{2}{U}
+Sorcery
+Put target creature on top of its owner’s library.
+Time Warp
+{3}{U}{U}
+Sorcery
+Target player takes an extra turn after this one.
+Tradewind Rider
+{3}{U}
+Creature — Spirit
+Flying
+"{T}, Tap two untapped creatures you control: Return target permanent to its owner’s hand."
+1/4
+Trained Armodon
+{1}{G}{G}
+Creature — Elephant
+3/3
+Tranquility
+{2}{G}
+Sorcery
+Destroy all enchantments.
+Twitch
+{2}{U}
+Instant
+"You may tap or untap target artifact, creature, or land."
+Draw a card.
+Vampire Hounds
+{2}{B}
+Creature — Vampire Dog
+Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.
+2/2
+Vec Townships
+Land
+{T}: Add {C}.
+{T}: Add {G} or {W}. Vec Townships doesn’t untap during your next untap step.
+Verdant Force
+{5}{G}{G}{G}
+Creature — Elemental
+"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+7/7
+Verdant Touch
+{1}{G}
+Sorcery
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Target land becomes a 2/2 creature that’s still a land. (This effect lasts indefinitely.)
+Verdigris
+{2}{G}
+Instant
+Destroy target artifact.
+Vhati il-Dal
+{2}{B}{G}
+Legendary Creature — Human Warrior
+"{T}: Until end of turn, target creature has base power 1 or base toughness 1."
+3/3
+Victual Sliver
+{G}{W}
+Creature — Sliver
+"All Slivers have “{2}, Sacrifice this permanent: You gain 4 life.”"
+2/2
+Volrath's Curse
+{1}{U}
+Enchantment — Aura
+Enchant creature
+"Enchanted creature can’t attack or block, and its activated abilities can’t be activated. That creature’s controller may sacrifice a permanent for that player to ignore this effect until end of turn."
+{1}{U}: Return Volrath’s Curse to its owner’s hand.
+Volrath's Laboratory
+{5}
+Artifact
+"As Volrath’s Laboratory enters the battlefield, choose a color and a creature type."
+"{5}, {T}: Create a 2/2 creature token of the chosen color and type."
+Volrath's Stronghold
+Legendary Land
+{T}: Add {C}.
+"{1}{B}, {T}: Put target creature card from your graveyard on top of your library."
+Wall of Blossoms
+{1}{G}
+Creature — Plant Wall
+Defender
+"When Wall of Blossoms enters the battlefield, draw a card."
+0/4
+Wall of Diffusion
+{1}{R}
+Creature — Wall
+Defender (This creature can’t attack.)
+Wall of Diffusion can block creatures with shadow as though Wall of Diffusion had shadow.
+0/5
+Wall of Essence
+{1}{W}
+Creature — Wall
+Defender (This creature can’t attack.)
+"Whenever Wall of Essence is dealt combat damage, you gain that much life."
+0/4
+Wall of Souls
+{1}{B}
+Creature — Wall
+Defender (This creature can’t attack.)
+"Whenever Wall of Souls is dealt combat damage, it deals that much damage to target opponent or planeswalker."
+0/4
+Warrior en-Kor
+{W}{W}
+Creature — Kor Warrior Knight
+{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.
+2/2
+Wasteland
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Wayward Soul
+{2}{U}{U}
+Creature — Spirit
+Flying
+{U}: Put Wayward Soul on top of its owner’s library.
+3/2
+Whispers of the Muse
+{U}
+Instant
+"Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Draw a card.
+Wind Dancer
+{1}{U}
+Creature — Faerie
+Flying
+{T}: Target creature gains flying until end of turn.
+1/1
+Wind Drake
+{2}{U}
+Creature — Drake
+Flying
+2/2
+Winds of Rath
+{3}{W}{W}
+Sorcery
+Destroy all creatures that aren’t enchanted. They can’t be regenerated.
+Winged Sliver
+{1}{U}
+Creature — Sliver
+All Sliver creatures have flying.
+1/1
+Wood Sage
+{G}{U}
+Creature — Human Druid
+{T}: Choose a creature card name. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
+1/1
+Youthful Knight
+{1}{W}
+Creature — Human Knight
+First strike
+2/1

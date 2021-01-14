@@ -1,0 +1,44 @@
+Beast
+Token Creature — Beast
+Trample
+4/4
+Centaur
+Token Creature — Centaur
+3/3
+"Domri, Chaos Bringer Emblem"
+Emblem — Domri
+"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."
+Frog Lizard
+Token Creature — Frog Lizard
+3/3
+Goblin
+Token Creature — Goblin
+1/1
+Human
+Token Creature — Human
+1/1
+Illusion
+Token Creature — Illusion
+"Whenever this creature blocks a creature, that creature doesn’t untap during its controller’s next untap step."
+0/2
+Ooze
+Token Creature — Ooze
+2/2
+Sphinx
+Token Creature — Sphinx
+"Flying, vigilance"
+4/4
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Zombie
+Token Creature — Zombie
+2/2

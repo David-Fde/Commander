@@ -1,0 +1,65 @@
+Bottle Gnomes
+{3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+Capsize
+{1}{U}{U}
+Instant
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Return target permanent to its owner’s hand.
+Crystalline Sliver
+{W}{U}
+Creature — Sliver
+All Slivers have shroud. (They can’t be the targets of spells or abilities.)
+2/2
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Goblin Bombardment
+{1}{R}
+Enchantment
+Sacrifice a creature: Goblin Bombardment deals 1 damage to any target.
+Krosan Tusker
+{5}{G}{G}
+Creature — Boar Beast
+"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)"
+"When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)"
+6/5
+Muscle Sliver
+{1}{G}
+Creature — Sliver
+All Sliver creatures get +1/+1.
+1/1
+Priest of Titania
+{1}{G}
+Creature — Elf Druid
+{T}: Add {G} for each Elf on the battlefield.
+1/1
+Scragnoth
+{4}{G}
+Creature — Beast
+This spell can’t be countered.
+Protection from blue
+3/4
+Smother
+{1}{B}
+Instant
+Destroy target creature with converted mana cost 3 or less. It can’t be regenerated.
+Sparksmith
+{1}{R}
+Creature — Goblin
+"{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield."
+1/1
+Whipcorder
+{W}{W}
+Creature — Human Soldier Rebel
+"{W}, {T}: Tap target creature."
+Morph {W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+2/2
+Withered Wretch
+{B}{B}
+Creature — Zombie Cleric
+{1}: Exile target card from a graveyard.
+2/2

@@ -1,0 +1,36 @@
+Bird
+Token Enchantment Creature — Bird
+Flying
+2/2
+Bird
+Token Creature — Bird
+Flying
+1/1
+Cat Soldier
+Token Creature — Cat Soldier
+Vigilance
+1/1
+Centaur
+Token Enchantment Creature — Centaur
+3/3
+Elemental
+Token Enchantment Creature — Elemental
+3/1
+Gold
+Token Artifact — Gold
+Sacrifice this artifact: Add one mana of any color.
+"Kiora, the Crashing Wave Emblem"
+Emblem — Kiora
+"At the beginning of your end step, create a 9/9 blue Kraken creature token."
+Kraken
+Token Creature — Kraken
+9/9
+Soldier
+Token Enchantment Creature — Soldier
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Enchantment Creature — Zombie
+2/2

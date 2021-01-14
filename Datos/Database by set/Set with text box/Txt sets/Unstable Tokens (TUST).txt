@@ -1,0 +1,90 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Angel
+Token
+Beast
+Token Creature — Beast
+3/3
+Beast
+Token
+Brainiac
+Token Creature — Brainiac
+1/1
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token
+Construct
+Token Artifact Creature — Construct
+*/*
+Dragon
+Token Creature — Dragon
+Flying
+4/4
+Elemental
+Token Creature — Elemental
+1/1
+Elemental
+Token
+Elemental
+Token Creature — Elemental
+This creature’s power and toughness are each equal to the number of creatures you control.
+*/*
+Elemental
+Token
+Faerie Spy
+Token Creature — Faerie Spy
+"Flying, haste"
+"Whenever this creature deals combat damage to a player, draw a card."
+1/1
+Gnome
+Token Artifact Creature — Gnome
+1/1
+Goat
+Token Creature — Goat
+0/1
+Goblin
+Token Creature — Goblin
+1/1
+Rogue
+Token Creature — Rogue
+Menace
+2/2
+Saproling
+Token Creature — Saproling
+1/1
+Saproling
+Token
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Spirit
+Token
+Squirrel
+Token Creature — Squirrel
+1/1
+Storm Crow
+Token Creature — Bird
+Flying
+1/2
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Thopter
+Token
+Vampire
+Token Creature — Vampire
+Flying
+2/2
+Vampire
+Token
+Zombie
+Token Creature — Zombie
+2/2
+Zombie
+Token

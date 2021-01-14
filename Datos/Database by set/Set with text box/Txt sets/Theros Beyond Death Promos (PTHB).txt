@@ -1,0 +1,842 @@
+Allure of the Unknown
+{3}{B}{R}
+Sorcery
+"Reveal the top six cards of your library. An opponent exiles a nonland card from among them, then you put the rest into your hand. That opponent may cast the exiled card without paying its mana cost."
+Allure of the Unknown
+{3}{B}{R}
+Sorcery
+"Reveal the top six cards of your library. An opponent exiles a nonland card from among them, then you put the rest into your hand. That opponent may cast the exiled card without paying its mana cost."
+"Aphemia, the Cacophony"
+{1}{B}
+Legendary Enchantment Creature — Harpy
+Flying
+"At the beginning of your end step, you may exile an enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token."
+2/1
+"Aphemia, the Cacophony"
+{1}{B}
+Legendary Enchantment Creature — Harpy
+Flying
+"At the beginning of your end step, you may exile an enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token."
+2/1
+Arasta of the Endless Web
+{2}{G}{G}
+Legendary Enchantment Creature — Spider
+Reach
+"Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach."
+3/5
+Arasta of the Endless Web
+{2}{G}{G}
+Legendary Enchantment Creature — Spider
+Reach
+"Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach."
+3/5
+Archon of Sun's Grace
+{2}{W}{W}
+Creature — Archon
+"Flying, lifelink"
+Pegasus creatures you control have lifelink.
+"Constellation — Whenever an enchantment enters the battlefield under your control, create a 2/2 white Pegasus creature token with flying."
+3/4
+Archon of Sun's Grace
+{2}{W}{W}
+Creature — Archon
+"Flying, lifelink"
+Pegasus creatures you control have lifelink.
+"Constellation — Whenever an enchantment enters the battlefield under your control, create a 2/2 white Pegasus creature token with flying."
+3/4
+"Ashiok, Nightmare Muse"
+{3}{U}{B}
+Legendary Planeswalker — Ashiok
+"+1: Create a 2/3 blue and black Nightmare creature token with “Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.”"
+"−3: Return target nonland permanent to its owner’s hand, then that player exiles a card from their hand."
+−7: You may cast up to three spells from among face-up cards your opponents own from exile without paying their mana costs.
+Loyalty: 5
+"Ashiok, Nightmare Muse"
+{3}{U}{B}
+Legendary Planeswalker — Ashiok
+"+1: Create a 2/3 blue and black Nightmare creature token with “Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.”"
+"−3: Return target nonland permanent to its owner’s hand, then that player exiles a card from their hand."
+−7: You may cast up to three spells from among face-up cards your opponents own from exile without paying their mana costs.
+Loyalty: 5
+Ashiok's Erasure
+{2}{U}{U}
+Enchantment
+Flash
+"When Ashiok’s Erasure enters the battlefield, exile target spell."
+Your opponents can’t cast spells with the same name as the exiled card.
+"When Ashiok’s Erasure leaves the battlefield, return the exiled card to its owner’s hand."
+Ashiok's Erasure
+{2}{U}{U}
+Enchantment
+Flash
+"When Ashiok’s Erasure enters the battlefield, exile target spell."
+Your opponents can’t cast spells with the same name as the exiled card.
+"When Ashiok’s Erasure leaves the battlefield, return the exiled card to its owner’s hand."
+"Atris, Oracle of Half-Truths"
+{2}{U}{B}
+Legendary Creature — Human Advisor
+Menace
+"When Atris, Oracle of Half-Truths enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard."
+3/2
+"Atris, Oracle of Half-Truths"
+{2}{U}{B}
+Legendary Creature — Human Advisor
+Menace
+"When Atris, Oracle of Half-Truths enters the battlefield, target opponent looks at the top three cards of your library and separates them into a face-down pile and a face-up pile. Put one pile into your hand and the other into your graveyard."
+3/2
+Bronzehide Lion
+{G}{W}
+Creature — Cat
+{G}{W}: Bronzehide Lion gains indestructible until end of turn.
+"When Bronzehide Lion dies, return it to the battlefield. It’s an Aura enchantment with enchant creature you control and “{G}{W}: Enchanted creature gains indestructible until end of turn,” and it loses all other abilities."
+3/3
+Bronzehide Lion
+{G}{W}
+Creature — Cat
+{G}{W}: Bronzehide Lion gains indestructible until end of turn.
+"When Bronzehide Lion dies, return it to the battlefield. It’s an Aura enchantment with enchant creature you control and “{G}{W}: Enchanted creature gains indestructible until end of turn,” and it loses all other abilities."
+3/3
+"Calix, Destiny's Hand"
+{2}{G}{W}
+Legendary Planeswalker — Calix
++1: Look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
+−3: Exile target creature or enchantment you don’t control until target enchantment you control leaves the battlefield.
+−7: Return all enchantment cards from your graveyard to the battlefield.
+Loyalty: 4
+"Calix, Destiny's Hand"
+{2}{G}{W}
+Legendary Planeswalker — Calix
++1: Look at the top four cards of your library. You may reveal an enchantment card from among them and put that card into your hand. Put the rest on the bottom of your library in a random order.
+−3: Exile target creature or enchantment you don’t control until target enchantment you control leaves the battlefield.
+−7: Return all enchantment cards from your graveyard to the battlefield.
+Loyalty: 4
+"Dalakos, Crafter of Wonders"
+{1}{U}{R}
+Legendary Creature — Merfolk Artificer
+{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Equipped creatures you control have flying and haste.
+2/4
+"Dalakos, Crafter of Wonders"
+{1}{U}{R}
+Legendary Creature — Merfolk Artificer
+{T}: Add {C}{C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+Equipped creatures you control have flying and haste.
+2/4
+Dream Trawler
+{2}{W}{W}{U}{U}
+Creature — Sphinx
+"Flying, lifelink"
+"Whenever you draw a card, Dream Trawler gets +1/+0 until end of turn."
+"Whenever Dream Trawler attacks, draw a card."
+Discard a card: Dream Trawler gains hexproof until end of turn. Tap it.
+3/5
+Dream Trawler
+{2}{W}{W}{U}{U}
+Creature — Sphinx
+"Flying, lifelink"
+"Whenever you draw a card, Dream Trawler gets +1/+0 until end of turn."
+"Whenever Dream Trawler attacks, draw a card."
+Discard a card: Dream Trawler gains hexproof until end of turn. Tap it.
+3/5
+Dryad of the Ilysian Grove
+{2}{G}
+Enchantment Creature — Nymph Dryad
+You may play an additional land on each of your turns.
+Lands you control are every basic land type in addition to their other types.
+2/4
+Dryad of the Ilysian Grove
+{2}{G}
+Enchantment Creature — Nymph Dryad
+You may play an additional land on each of your turns.
+Lands you control are every basic land type in addition to their other types.
+2/4
+Eat to Extinction
+{3}{B}
+Instant
+Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard.
+Eat to Extinction
+{3}{B}
+Instant
+Exile target creature or planeswalker. Look at the top card of your library. You may put that card into your graveyard.
+Eidolon of Obstruction
+{1}{W}
+Enchantment Creature — Spirit
+First strike
+Loyalty abilities of planeswalkers your opponents control cost {1} more to activate.
+2/1
+Eidolon of Obstruction
+{1}{W}
+Enchantment Creature — Spirit
+First strike
+Loyalty abilities of planeswalkers your opponents control cost {1} more to activate.
+2/1
+Elspeth Conquers Death
+{3}{W}{W}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Exile target permanent an opponent controls with converted mana cost 3 or greater.
+II — Noncreature spells your opponents cast cost {2} more to cast until your next turn.
+III — Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.
+Elspeth Conquers Death
+{3}{W}{W}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Exile target permanent an opponent controls with converted mana cost 3 or greater.
+II — Noncreature spells your opponents cast cost {2} more to cast until your next turn.
+III — Return target creature or planeswalker card from your graveyard to the battlefield. Put a +1/+1 counter or a loyalty counter on it.
+"Elspeth, Sun's Nemesis"
+{2}{W}{W}
+Legendary Planeswalker — Elspeth
+−1: Up to two target creatures you control each get +2/+1 until end of turn.
+−2: Create two 1/1 white Human Soldier creature tokens.
+−3: You gain 5 life.
+"Escape—{4}{W}{W}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Loyalty: 5
+"Elspeth, Sun's Nemesis"
+{2}{W}{W}
+Legendary Planeswalker — Elspeth
+−1: Up to two target creatures you control each get +2/+1 until end of turn.
+−2: Create two 1/1 white Human Soldier creature tokens.
+−3: You gain 5 life.
+"Escape—{4}{W}{W}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Loyalty: 5
+Enigmatic Incarnation
+{2}{G}{U}
+Enchantment
+"At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with converted mana cost equal to 1 plus the sacrificed enchantment’s converted mana cost, put that card onto the battlefield, then shuffle your library."
+Enigmatic Incarnation
+{2}{G}{U}
+Enchantment
+"At the beginning of your end step, you may sacrifice another enchantment. If you do, search your library for a creature card with converted mana cost equal to 1 plus the sacrificed enchantment’s converted mana cost, put that card onto the battlefield, then shuffle your library."
+"Erebos, Bleak-Hearted"
+{3}{B}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to black is less than five, Erebos isn’t a creature."
+"Whenever another creature you control dies, you may pay 2 life. If you do, draw a card."
+"{1}{B}, Sacrifice another creature: Target creature gets -2/-1 until end of turn."
+5/6
+"Erebos, Bleak-Hearted"
+{3}{B}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to black is less than five, Erebos isn’t a creature."
+"Whenever another creature you control dies, you may pay 2 life. If you do, draw a card."
+"{1}{B}, Sacrifice another creature: Target creature gets -2/-1 until end of turn."
+5/6
+Erebos's Intervention
+{X}{B}
+Instant
+Choose one —
+• Target creature gets -X/-X until end of turn. You gain X life.
+• Exile up to twice X target cards from graveyards.
+Erebos's Intervention
+{X}{B}
+Instant
+Choose one —
+• Target creature gets -X/-X until end of turn. You gain X life.
+• Exile up to twice X target cards from graveyards.
+Gallia of the Endless Dance
+{R}{G}
+Legendary Creature — Satyr
+Haste
+Other Satyrs you control get +1/+1 and have haste.
+"Whenever you attack with three or more creatures, you may discard a card at random. If you do, draw two cards."
+2/2
+Gallia of the Endless Dance
+{R}{G}
+Legendary Creature — Satyr
+Haste
+Other Satyrs you control get +1/+1 and have haste.
+"Whenever you attack with three or more creatures, you may discard a card at random. If you do, draw two cards."
+2/2
+Gravebreaker Lamia
+{4}{B}
+Enchantment Creature — Snake Lamia
+Lifelink
+"When Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle your library."
+Spells you cast from your graveyard cost {1} less to cast.
+4/4
+Gravebreaker Lamia
+{4}{B}
+Enchantment Creature — Snake Lamia
+Lifelink
+"When Gravebreaker Lamia enters the battlefield, search your library for a card, put it into your graveyard, then shuffle your library."
+Spells you cast from your graveyard cost {1} less to cast.
+4/4
+Haktos the Unscarred
+{R}{R}{W}{W}
+Legendary Creature — Human Warrior
+Haktos the Unscarred attacks each combat if able.
+"As Haktos enters the battlefield, choose 2, 3, or 4 at random."
+Haktos has protection from each converted mana cost other than the chosen number.
+6/1
+Haktos the Unscarred
+{R}{R}{W}{W}
+Legendary Creature — Human Warrior
+Haktos the Unscarred attacks each combat if able.
+"As Haktos enters the battlefield, choose 2, 3, or 4 at random."
+Haktos has protection from each converted mana cost other than the chosen number.
+6/1
+Heliod's Intervention
+{X}{W}{W}
+Instant
+Choose one —
+• Destroy X target artifacts and/or enchantments.
+• Target player gains twice X life.
+Heliod's Intervention
+{X}{W}{W}
+Instant
+Choose one —
+• Destroy X target artifacts and/or enchantments.
+• Target player gains twice X life.
+"Heliod, Sun-Crowned"
+{2}{W}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to white is less than five, Heliod isn’t a creature."
+"Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control."
+{1}{W}: Another target creature gains lifelink until end of turn.
+5/5
+"Heliod, Sun-Crowned"
+{2}{W}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to white is less than five, Heliod isn’t a creature."
+"Whenever you gain life, put a +1/+1 counter on target creature or enchantment you control."
+{1}{W}: Another target creature gains lifelink until end of turn.
+5/5
+Idyllic Tutor
+{2}{W}
+Sorcery
+"Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library."
+Idyllic Tutor
+{2}{W}
+Sorcery
+"Search your library for an enchantment card, reveal it, put it into your hand, then shuffle your library."
+Kiora Bests the Sea God
+{5}{U}{U}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Create an 8/8 blue Kraken creature token with hexproof.
+II — Tap all nonland permanents target opponent controls. They don’t untap during their controller’s next untap step.
+III — Gain control of target permanent an opponent controls. Untap it.
+Kiora Bests the Sea God
+{5}{U}{U}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Create an 8/8 blue Kraken creature token with hexproof.
+II — Tap all nonland permanents target opponent controls. They don’t untap during their controller’s next untap step.
+III — Gain control of target permanent an opponent controls. Untap it.
+"Klothys, God of Destiny"
+{1}{R}{G}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to red and green is less than seven, Klothys isn’t a creature."
+"At the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent."
+4/5
+"Klothys, God of Destiny"
+{1}{R}{G}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to red and green is less than seven, Klothys isn’t a creature."
+"At the beginning of your precombat main phase, exile target card from a graveyard. If it was a land card, add {R} or {G}. Otherwise, you gain 2 life and Klothys deals 2 damage to each opponent."
+4/5
+"Kroxa, Titan of Death's Hunger"
+{B}{R}
+Legendary Creature — Elder Giant
+"When Kroxa enters the battlefield, sacrifice it unless it escaped."
+"Whenever Kroxa enters the battlefield or attacks, each opponent discards a card, then each opponent who didn’t discard a nonland card this way loses 3 life."
+"Escape—{B}{B}{R}{R}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+6/6
+"Kroxa, Titan of Death's Hunger"
+{B}{R}
+Legendary Creature — Elder Giant
+"When Kroxa enters the battlefield, sacrifice it unless it escaped."
+"Whenever Kroxa enters the battlefield or attacks, each opponent discards a card, then each opponent who didn’t discard a nonland card this way loses 3 life."
+"Escape—{B}{B}{R}{R}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+6/6
+"Kunoros, Hound of Athreos"
+{1}{W}{B}
+Legendary Creature — Dog
+"Vigilance, menace, lifelink"
+Creature cards in graveyards can’t enter the battlefield.
+Players can’t cast spells from graveyards.
+3/3
+"Kunoros, Hound of Athreos"
+{1}{W}{B}
+Legendary Creature — Dog
+"Vigilance, menace, lifelink"
+Creature cards in graveyards can’t enter the battlefield.
+Players can’t cast spells from graveyards.
+3/3
+Labyrinth of Skophos
+Land
+{T}: Add {C}.
+"{4}, {T}: Remove target attacking or blocking creature from combat."
+Labyrinth of Skophos
+Land
+{T}: Add {C}.
+"{4}, {T}: Remove target attacking or blocking creature from combat."
+Mantle of the Wolf
+{3}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +4/+4.
+"When Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens."
+Mantle of the Wolf
+{3}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +4/+4.
+"When Mantle of the Wolf is put into a graveyard from the battlefield, create two 2/2 green Wolf creature tokens."
+Nadir Kraken
+{1}{U}{U}
+Creature — Kraken
+"Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
+2/3
+Nadir Kraken
+{1}{U}{U}
+Creature — Kraken
+"Whenever you draw a card, you may pay {1}. If you do, put a +1/+1 counter on Nadir Kraken and create a 1/1 blue Tentacle creature token."
+2/3
+Nessian Boar
+{3}{G}{G}
+Creature — Boar
+All creatures able to block Nessian Boar do so.
+"Whenever Nessian Boar becomes blocked by a creature, that creature’s controller draws a card."
+10/6
+Nessian Boar
+{3}{G}{G}
+Creature — Boar
+All creatures able to block Nessian Boar do so.
+"Whenever Nessian Boar becomes blocked by a creature, that creature’s controller draws a card."
+10/6
+Nightmare Shepherd
+{2}{B}{B}
+Enchantment Creature — Demon
+Flying
+"Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that’s a copy of that creature, except it’s 1/1 and it’s a Nightmare in addition to its other types."
+4/4
+Nightmare Shepherd
+{2}{B}{B}
+Enchantment Creature — Demon
+Flying
+"Whenever another nontoken creature you control dies, you may exile it. If you do, create a token that’s a copy of that creature, except it’s 1/1 and it’s a Nightmare in addition to its other types."
+4/4
+"Nylea, Keen-Eyed"
+{3}{G}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to green is less than five, Nylea isn’t a creature."
+Creature spells you cast cost {1} less to cast.
+"{2}{G}: Reveal the top card of your library. If it’s a creature card, put it into your hand. Otherwise, you may put it into your graveyard."
+5/6
+"Nylea, Keen-Eyed"
+{3}{G}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to green is less than five, Nylea isn’t a creature."
+Creature spells you cast cost {1} less to cast.
+"{2}{G}: Reveal the top card of your library. If it’s a creature card, put it into your hand. Otherwise, you may put it into your graveyard."
+5/6
+Nylea's Intervention
+{X}{G}{G}
+Sorcery
+Choose one —
+"• Search your library for up to X land cards, reveal them, put them into your hand, then shuffle your library."
+• Nylea’s Intervention deals twice X damage to each creature with flying.
+Nylea's Intervention
+{X}{G}{G}
+Sorcery
+Choose one —
+"• Search your library for up to X land cards, reveal them, put them into your hand, then shuffle your library."
+• Nylea’s Intervention deals twice X damage to each creature with flying.
+Nyxbloom Ancient
+{4}{G}{G}{G}
+Enchantment Creature — Elemental
+Trample
+"If you tap a permanent for mana, it produces three times as much of that mana instead."
+5/5
+Nyxbloom Ancient
+{4}{G}{G}{G}
+Enchantment Creature — Elemental
+Trample
+"If you tap a permanent for mana, it produces three times as much of that mana instead."
+5/5
+Nyx Lotus
+{4}
+Legendary Artifact
+Nyx Lotus enters the battlefield tapped.
+{T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)
+Nyx Lotus
+{4}
+Legendary Artifact
+Nyx Lotus enters the battlefield tapped.
+{T}: Choose a color. Add an amount of mana of that color equal to your devotion to that color. (Your devotion to a color is the number of mana symbols of that color in the mana costs of permanents you control.)
+Ox of Agonas
+{3}{R}{R}
+Creature — Ox
+"When Ox of Agonas enters the battlefield, discard your hand, then draw three cards."
+"Escape—{R}{R}, Exile eight other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Ox of Agonas escapes with a +1/+1 counter on it.
+4/2
+Ox of Agonas
+{3}{R}{R}
+Creature — Ox
+"When Ox of Agonas enters the battlefield, discard your hand, then draw three cards."
+"Escape—{R}{R}, Exile eight other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Ox of Agonas escapes with a +1/+1 counter on it.
+4/2
+Phoenix of Ash
+{1}{R}{R}
+Creature — Phoenix
+"Flying, haste"
+{2}{R}: Phoenix of Ash gets +2/+0 until end of turn.
+"Escape—{2}{R}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Phoenix of Ash escapes with a +1/+1 counter on it.
+2/2
+Phoenix of Ash
+{1}{R}{R}
+Creature — Phoenix
+"Flying, haste"
+{2}{R}: Phoenix of Ash gets +2/+0 until end of turn.
+"Escape—{2}{R}{R}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Phoenix of Ash escapes with a +1/+1 counter on it.
+2/2
+"Polukranos, Unchained"
+{2}{B}{G}
+Legendary Creature — Zombie Hydra
+Polukranos enters the battlefield with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.
+"If damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it."
+{1}{B}{G}: Polukranos fights another target creature.
+"Escape—{4}{B}{G}, Exile six other cards from your graveyard."
+0/0
+"Polukranos, Unchained"
+{2}{B}{G}
+Legendary Creature — Zombie Hydra
+Polukranos enters the battlefield with six +1/+1 counters on it. It escapes with twelve +1/+1 counters on it instead.
+"If damage would be dealt to Polukranos while it has a +1/+1 counter on it, prevent that damage and remove that many +1/+1 counters from it."
+{1}{B}{G}: Polukranos fights another target creature.
+"Escape—{4}{B}{G}, Exile six other cards from your graveyard."
+0/0
+Protean Thaumaturge
+{1}{U}
+Creature — Human Wizard
+"Constellation — Whenever an enchantment enters the battlefield under your control, you may have Protean Thaumaturge become a copy of another target creature, except it has this ability."
+1/1
+Protean Thaumaturge
+{1}{U}
+Creature — Human Wizard
+"Constellation — Whenever an enchantment enters the battlefield under your control, you may have Protean Thaumaturge become a copy of another target creature, except it has this ability."
+1/1
+"Purphoros, Bronze-Blooded"
+{4}{R}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to red is less than five, Purphoros isn’t a creature."
+Other creatures you control have haste.
+{2}{R}: You may put a red creature card or an artifact creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.
+7/6
+"Purphoros, Bronze-Blooded"
+{4}{R}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to red is less than five, Purphoros isn’t a creature."
+Other creatures you control have haste.
+{2}{R}: You may put a red creature card or an artifact creature card from your hand onto the battlefield. Sacrifice it at the beginning of the next end step.
+7/6
+Purphoros's Intervention
+{X}{R}
+Sorcery
+Choose one —
+• Create an X/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
+• Purphoros’s Intervention deals twice X damage to target creature or planeswalker.
+Purphoros's Intervention
+{X}{R}
+Sorcery
+Choose one —
+• Create an X/1 red Elemental creature token with trample and haste. Sacrifice it at the beginning of the next end step.
+• Purphoros’s Intervention deals twice X damage to target creature or planeswalker.
+Setessan Champion
+{2}{G}
+Creature — Human Warrior
+"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Setessan Champion and draw a card."
+1/3
+Setessan Champion
+{2}{G}
+Creature — Human Warrior
+"Constellation — Whenever an enchantment enters the battlefield under your control, put a +1/+1 counter on Setessan Champion and draw a card."
+1/3
+Shadowspear
+{1}
+Legendary Artifact — Equipment
+Equipped creature gets +1/+1 and has trample and lifelink.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Equip {2}
+Shadowspear
+{1}
+Legendary Artifact — Equipment
+Equipped creature gets +1/+1 and has trample and lifelink.
+{1}: Permanents your opponents control lose hexproof and indestructible until end of turn.
+Equip {2}
+Shatter the Sky
+{2}{W}{W}
+Sorcery
+Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures.
+Shatter the Sky
+{2}{W}{W}
+Sorcery
+Each player who controls a creature with power 4 or greater draws a card. Then destroy all creatures.
+Storm Herald
+{2}{R}
+Creature — Human Shaman
+Haste
+"When Storm Herald enters the battlefield, return any number of Aura cards from your graveyard to the battlefield attached to creatures you control. Exile those Auras at the beginning of your next end step. If those Auras would leave the battlefield, exile them instead of putting them anywhere else."
+3/2
+Storm Herald
+{2}{R}
+Creature — Human Shaman
+Haste
+"When Storm Herald enters the battlefield, return any number of Aura cards from your graveyard to the battlefield attached to creatures you control. Exile those Auras at the beginning of your next end step. If those Auras would leave the battlefield, exile them instead of putting them anywhere else."
+3/2
+Storm's Wrath
+{2}{R}{R}
+Sorcery
+Storm’s Wrath deals 4 damage to each creature and each planeswalker.
+Storm's Wrath
+{2}{R}{R}
+Sorcery
+Storm’s Wrath deals 4 damage to each creature and each planeswalker.
+"Taranika, Akroan Veteran"
+{1}{W}{W}
+Legendary Creature — Human Soldier
+Vigilance
+"Whenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible."
+3/3
+"Taranika, Akroan Veteran"
+{1}{W}{W}
+Legendary Creature — Human Soldier
+Vigilance
+"Whenever Taranika, Akroan Veteran attacks, untap another target creature you control. Until end of turn, that creature has base power and toughness 4/4 and gains indestructible."
+3/3
+Tectonic Giant
+{2}{R}{R}
+Creature — Elemental Giant
+"Whenever Tectonic Giant attacks or becomes the target of a spell an opponent controls, choose one —"
+• Tectonic Giant deals 3 damage to each opponent.
+"• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card."
+3/4
+Tectonic Giant
+{2}{R}{R}
+Creature — Elemental Giant
+"Whenever Tectonic Giant attacks or becomes the target of a spell an opponent controls, choose one —"
+• Tectonic Giant deals 3 damage to each opponent.
+"• Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card."
+3/4
+Temple of Abandon
+Land
+Temple of Abandon enters the battlefield tapped.
+"When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {R} or {G}.
+Temple of Abandon
+Land
+Temple of Abandon enters the battlefield tapped.
+"When Temple of Abandon enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {R} or {G}.
+Temple of Deceit
+Land
+Temple of Deceit enters the battlefield tapped.
+"When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {U} or {B}.
+Temple of Deceit
+Land
+Temple of Deceit enters the battlefield tapped.
+"When Temple of Deceit enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {U} or {B}.
+Temple of Enlightenment
+Land
+Temple of Enlightenment enters the battlefield tapped.
+"When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {W} or {U}.
+Temple of Enlightenment
+Land
+Temple of Enlightenment enters the battlefield tapped.
+"When Temple of Enlightenment enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {W} or {U}.
+Temple of Malice
+Land
+Temple of Malice enters the battlefield tapped.
+"When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {B} or {R}.
+Temple of Malice
+Land
+Temple of Malice enters the battlefield tapped.
+"When Temple of Malice enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {B} or {R}.
+Temple of Plenty
+Land
+Temple of Plenty enters the battlefield tapped.
+"When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {G} or {W}.
+Temple of Plenty
+Land
+Temple of Plenty enters the battlefield tapped.
+"When Temple of Plenty enters the battlefield, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+{T}: Add {G} or {W}.
+"Thassa, Deep-Dwelling"
+{3}{U}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to blue is less than five, Thassa isn’t a creature."
+"At the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control."
+{3}{U}: Tap another target creature.
+6/5
+"Thassa, Deep-Dwelling"
+{3}{U}
+Legendary Enchantment Creature — God
+Indestructible
+"As long as your devotion to blue is less than five, Thassa isn’t a creature."
+"At the beginning of your end step, exile up to one other target creature you control, then return that card to the battlefield under your control."
+{3}{U}: Tap another target creature.
+6/5
+Thassa's Intervention
+{X}{U}{U}
+Instant
+Choose one —
+• Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+• Counter target spell unless its controller pays twice {X}.
+Thassa's Intervention
+{X}{U}{U}
+Instant
+Choose one —
+• Look at the top X cards of your library. Put up to two of them into your hand and the rest on the bottom of your library in a random order.
+• Counter target spell unless its controller pays twice {X}.
+Thassa's Oracle
+{U}{U}
+Creature — Merfolk Wizard
+"When Thassa’s Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+1/3
+Thassa's Oracle
+{U}{U}
+Creature — Merfolk Wizard
+"When Thassa’s Oracle enters the battlefield, look at the top X cards of your library, where X is your devotion to blue. Put up to one of them on top of your library and the rest on the bottom of your library in a random order. If X is greater than or equal to the number of cards in your library, you win the game. (Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)"
+1/3
+The Akroan War
+{3}{R}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+"II — Until your next turn, creatures your opponents control attack each combat if able."
+III — Each tapped creature deals damage to itself equal to its power.
+The Akroan War
+{3}{R}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+I — Gain control of target creature for as long as The Akroan War remains on the battlefield.
+"II — Until your next turn, creatures your opponents control attack each combat if able."
+III — Each tapped creature deals damage to itself equal to its power.
+The First Iroan Games
+{2}{G}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)"
+I — Create a 1/1 white Human Soldier creature token.
+II — Put three +1/+1 counters on target creature you control.
+"III — If you control a creature with power 4 or greater, draw two cards."
+IV — Create a Gold token. (It’s an artifact with “Sacrifice this artifact: Add one mana of any color.”)
+The First Iroan Games
+{2}{G}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)"
+I — Create a 1/1 white Human Soldier creature token.
+II — Put three +1/+1 counters on target creature you control.
+"III — If you control a creature with power 4 or greater, draw two cards."
+IV — Create a Gold token. (It’s an artifact with “Sacrifice this artifact: Add one mana of any color.”)
+"Thryx, the Sudden Storm"
+{3}{U}{U}
+Legendary Creature — Elemental Giant
+Flash
+Flying
+Spells you cast with converted mana cost 5 or greater cost {1} less to cast and can’t be countered.
+4/5
+"Thryx, the Sudden Storm"
+{3}{U}{U}
+Legendary Creature — Elemental Giant
+Flash
+Flying
+Spells you cast with converted mana cost 5 or greater cost {1} less to cast and can’t be countered.
+4/5
+Treacherous Blessing
+{2}{B}
+Enchantment
+"When Treacherous Blessing enters the battlefield, draw three cards."
+"Whenever you cast a spell, you lose 1 life."
+"When Treacherous Blessing becomes the target of a spell or ability, sacrifice it."
+Treacherous Blessing
+{2}{B}
+Enchantment
+"When Treacherous Blessing enters the battlefield, draw three cards."
+"Whenever you cast a spell, you lose 1 life."
+"When Treacherous Blessing becomes the target of a spell or ability, sacrifice it."
+Tymaret Calls the Dead
+{2}{B}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+"I, II — Mill three cards. Then you may exile a creature or enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token."
+"III — You gain X life and scry X, where X is the number of Zombies you control."
+Tymaret Calls the Dead
+{2}{B}
+Enchantment — Saga
+"(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)"
+"I, II — Mill three cards. Then you may exile a creature or enchantment card from your graveyard. If you do, create a 2/2 black Zombie creature token."
+"III — You gain X life and scry X, where X is the number of Zombies you control."
+Underworld Breach
+{1}{R}
+Enchantment
+Each nonland card in your graveyard has escape. The escape cost is equal to the card’s mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
+"At the beginning of the end step, sacrifice Underworld Breach."
+Underworld Breach
+{1}{R}
+Enchantment
+Each nonland card in your graveyard has escape. The escape cost is equal to the card’s mana cost plus exile three other cards from your graveyard. (You may cast cards from your graveyard for their escape cost.)
+"At the beginning of the end step, sacrifice Underworld Breach."
+"Uro, Titan of Nature's Wrath"
+{1}{G}{U}
+Legendary Creature — Elder Giant
+"When Uro enters the battlefield, sacrifice it unless it escaped."
+"Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield."
+"Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+6/6
+"Uro, Titan of Nature's Wrath"
+{1}{G}{U}
+Legendary Creature — Elder Giant
+"When Uro enters the battlefield, sacrifice it unless it escaped."
+"Whenever Uro enters the battlefield or attacks, you gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield."
+"Escape—{G}{G}{U}{U}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+6/6
+Wavebreak Hippocamp
+{2}{U}
+Enchantment Creature — Horse Fish
+"Whenever you cast your first spell during each opponent’s turn, draw a card."
+2/2
+Wavebreak Hippocamp
+{2}{U}
+Enchantment Creature — Horse Fish
+"Whenever you cast your first spell during each opponent’s turn, draw a card."
+2/2
+Woe Strider
+{2}{B}
+Creature — Horror
+"When Woe Strider enters the battlefield, create a 0/1 white Goat creature token."
+Sacrifice another creature: Scry 1.
+"Escape—{3}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Woe Strider escapes with two +1/+1 counters on it.
+3/2
+Woe Strider
+{2}{B}
+Creature — Horror
+"When Woe Strider enters the battlefield, create a 0/1 white Goat creature token."
+Sacrifice another creature: Scry 1.
+"Escape—{3}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)"
+Woe Strider escapes with two +1/+1 counters on it.
+3/2

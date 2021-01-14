@@ -1,0 +1,12 @@
+Demigod of Revenge
+{B/R}{B/R}{B/R}{B/R}{B/R}
+Creature — Spirit Avatar
+"When you cast this spell, return all cards named Demigod of Revenge from your graveyard to the battlefield."
+"Flying, haste"
+5/4
+Vexing Shusher
+{R/G}{R/G}
+Creature — Goblin Shaman
+This spell can’t be countered.
+{R/G}: Target spell can’t be countered.
+2/2

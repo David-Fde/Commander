@@ -1,0 +1,94 @@
+City of Brass
+Land
+"Whenever City of Brass becomes tapped, it deals 1 damage to you."
+{T}: Add one mana of any color.
+Crusade
+{W}{W}
+Enchantment
+White creatures get +1/+1.
+Elvish Champion
+{1}{G}{G}
+Creature — Elf
+Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)
+2/2
+Elvish Lyrist
+{G}
+Creature — Elf
+"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment."
+1/1
+Giant Growth
+{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Glorious Anthem
+{1}{W}{W}
+Enchantment
+Creatures you control get +1/+1.
+Lord of Atlantis
+{U}{U}
+Creature — Merfolk
+Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)
+2/2
+Mad Auntie
+{2}{B}
+Creature — Goblin Shaman
+Other Goblin creatures you control get +1/+1.
+{T}: Regenerate another target Goblin.
+2/2
+Royal Assassin
+{1}{B}{B}
+Creature — Human Assassin
+{T}: Destroy target tapped creature.
+1/1
+Sakura-Tribe Elder
+{1}{G}
+Creature — Snake Shaman
+"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+1/1
+Serra Avatar
+{4}{W}{W}{W}
+Creature — Avatar
+Serra Avatar’s power and toughness are each equal to your life total.
+"When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner’s library."
+*/*
+Shard Phoenix
+{4}{R}
+Creature — Phoenix
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+2/2
+Slith Firewalker
+{R}{R}
+Creature — Slith
+Haste
+"Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
+1/1
+Soltari Priest
+{W}{W}
+Creature — Soltari Cleric
+Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+2/1
+Thran Quarry
+Land
+"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry."
+{T}: Add one mana of any color.
+Two-Headed Dragon
+{4}{R}{R}
+Creature — Dragon
+Flying
+Menace (This creature can’t be blocked except by two or more creatures.)
+Two-Headed Dragon can block an additional creature each combat.
+{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.
+4/4
+Volcanic Hammer
+{1}{R}
+Sorcery
+Volcanic Hammer deals 3 damage to any target.
+Whirling Dervish
+{G}{G}
+Creature — Human Monk
+Protection from black
+"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+1/1

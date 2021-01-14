@@ -1,0 +1,12 @@
+Etherium Cell
+Token Artifact
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Gremlin
+Token Creature — Gremlin
+2/2
+Ragavan
+Token Legendary Creature — Monkey
+2/1
+Tezzeret the Schemer Emblem
+Emblem — Tezzeret
+"At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5."

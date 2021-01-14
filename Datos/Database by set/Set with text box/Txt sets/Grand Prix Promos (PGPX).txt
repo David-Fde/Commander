@@ -1,0 +1,101 @@
+All Is Dust
+{7}
+Tribal Sorcery — Eldrazi
+Each player sacrifices all colored permanents they control.
+Batterskull
+{5}
+Artifact — Equipment
+"Living weapon (When this Equipment enters the battlefield, create a 0/0 black Germ creature token, then attach this to it.)"
+Equipped creature gets +4/+4 and has vigilance and lifelink.
+{3}: Return Batterskull to its owner’s hand.
+Equip {5}
+Call of the Herd
+{2}{G}
+Sorcery
+Create a 3/3 green Elephant creature token.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Chrome Mox
+{0}
+Artifact
+"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand."
+{T}: Add one mana of any of the exiled card’s colors.
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Goblin Guide
+{R}
+Creature — Goblin Scout
+Haste
+"Whenever Goblin Guide attacks, defending player reveals the top card of their library. If it’s a land card, that player puts it into their hand."
+2/2
+Griselbrand
+{4}{B}{B}{B}{B}
+Legendary Creature — Demon
+"Flying, lifelink"
+Pay 7 life: Draw seven cards.
+7/7
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Lotus Cobra
+{1}{G}
+Creature — Snake
+"Landfall — Whenever a land enters the battlefield under your control, add one mana of any color."
+2/1
+Maelstrom Pulse
+{1}{B}{G}
+Sorcery
+Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mutavault
+Land
+{T}: Add {C}.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It’s still a land.
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Primeval Titan
+{4}{G}{G}
+Creature — Giant
+Trample
+"Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library."
+6/6
+Progenitus
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}
+Legendary Creature — Hydra Avatar
+Protection from everything
+"If Progenitus would be put into a graveyard from anywhere, reveal Progenitus and shuffle it into its owner’s library instead."
+10/10
+Spiritmonger
+{3}{B}{G}
+Creature — Beast
+"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger."
+{B}: Regenerate Spiritmonger.
+{G}: Spiritmonger becomes the color of your choice until end of turn.
+6/6
+Stoneforge Mystic
+{1}{W}
+Creature — Kor Artificer
+"When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library."
+"{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield."
+1/2
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Sword of Feast and Famine
+{3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has protection from black and from green.
+"Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control."
+Equip {2}
+Umezawa's Jitte
+{2}
+Legendary Artifact — Equipment
+"Whenever equipped creature deals combat damage, put two charge counters on Umezawa’s Jitte."
+Remove a charge counter from Umezawa’s Jitte: Choose one —
+• Equipped creature gets +2/+2 until end of turn.
+• Target creature gets -1/-1 until end of turn.
+• You gain 2 life.
+Equip {2}

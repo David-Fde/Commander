@@ -1,0 +1,348 @@
+Abandoned Sarcophagus
+{3}
+Artifact
+You may cast spells that have a cycling ability from your graveyard.
+"If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn’t cycled, exile it instead."
+Abrade
+{1}{R}
+Instant
+Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.
+Adorned Pouncer
+{1}{W}
+Creature — Cat
+Double strike
+"Eternalize {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)"
+1/1
+Adorned Pouncer
+{1}{W}
+Creature — Cat
+Double strike
+"Eternalize {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Cat with no mana cost. Eternalize only as a sorcery.)"
+1/1
+Ammit Eternal
+{2}{B}
+Creature — Zombie Crocodile Demon
+"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)"
+"Whenever an opponent casts a spell, put a -1/-1 counter on Ammit Eternal."
+"Whenever Ammit Eternal deals combat damage to a player, remove all -1/-1 counters from it."
+5/5
+Angel of Condemnation
+{2}{W}{W}
+Creature — Angel
+"Flying, vigilance"
+"{2}{W}, {T}: Exile another target creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step."
+"{2}{W}, {T}, Exert Angel of Condemnation: Exile another target creature until Angel of Condemnation leaves the battlefield. (An exerted creature won’t untap during your next untap step.)"
+3/3
+Apocalypse Demon
+{4}{B}{B}
+Creature — Demon
+Flying
+Apocalypse Demon’s power and toughness are each equal to the number of cards in your graveyard.
+"At the beginning of your upkeep, tap Apocalypse Demon unless you sacrifice another creature."
+*/*
+Bontu's Last Reckoning
+{1}{B}{B}
+Sorcery
+Destroy all creatures. Lands you control don’t untap during your next untap step.
+Champion of Wits
+{2}{U}
+Creature — Naga Wizard
+"When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards."
+"Eternalize {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)"
+2/1
+Chaos Maw
+{5}{R}{R}
+Creature — Hellion
+"When Chaos Maw enters the battlefield, it deals 3 damage to each other creature."
+6/6
+Crested Sunmare
+{3}{W}{W}
+Creature — Horse
+Other Horses you control have indestructible.
+"At the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token."
+5/5
+"Djeru, With Eyes Open"
+{3}{W}{W}
+Legendary Creature — Human Warrior
+Vigilance
+"When Djeru, With Eyes Open enters the battlefield, you may search your library for a planeswalker card, reveal it, put it into your hand, then shuffle your library."
+"If a source would deal damage to a planeswalker you control, prevent 1 of that damage."
+4/3
+Dreamstealer
+{2}{B}
+Creature — Human Wizard
+Menace
+"Whenever Dreamstealer deals combat damage to a player, that player discards that many cards."
+"Eternalize {4}{B}{B} ({4}{B}{B}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)"
+1/2
+Driven
+{1}{G}
+Sorcery
+"Until end of turn, creatures you control gain trample and “Whenever this creature deals combat damage to a player, draw a card.”"
+Despair
+{1}{B}
+Sorcery
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+"Until end of turn, creatures you control gain menace and “Whenever this creature deals combat damage to a player, that player discards a card.”"
+Earthshaker Khenra
+{1}{R}
+Creature — Jackal Warrior
+Haste
+"When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra’s power can’t block this turn."
+"Eternalize {4}{R}{R} ({4}{R}{R}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)"
+2/1
+Endless Sands
+Land — Desert
+{T}: Add {C}.
+"{2}, {T}: Exile target creature you control."
+"{4}, {T}, Sacrifice Endless Sands: Return each creature card exiled with Endless Sands to the battlefield under its owner’s control."
+Fraying Sanity
+{2}{U}
+Enchantment — Aura Curse
+Enchant player
+"At the beginning of each end step, enchanted player mills X cards, where X is the number of cards put into their graveyard from anywhere this turn."
+God-Pharaoh's Gift
+{7}
+Artifact
+"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of that card, except it’s a 4/4 black Zombie. It gains haste until end of turn."
+Grind
+{1}{B}
+Sorcery
+Put a -1/-1 counter on each of up to two target creatures.
+Dust
+{3}{W}
+Sorcery
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Exile any number of target creatures that have -1/-1 counters on them.
+Hazoret's Undying Fury
+{4}{R}{R}
+Sorcery
+"Shuffle your library, then exile the top four cards. You may cast any number of spells with converted mana cost 5 or less from among them without paying their mana costs. Lands you control don’t untap during your next untap step."
+Hollow One
+{5}
+Artifact Creature — Golem
+This spell costs {2} less to cast for each card you’ve cycled or discarded this turn.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+4/4
+Hostile Desert
+Land — Desert
+{T}: Add {C}.
+"{2}, Exile a land card from your graveyard: Hostile Desert becomes a 3/4 Elemental creature until end of turn. It’s still a land."
+Hour of Devastation
+{3}{R}{R}
+Sorcery
+All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.
+Hour of Eternity
+{X}{X}{U}{U}{U}
+Sorcery
+"Exile X target creature cards from your graveyard. For each card exiled this way, create a token that’s a copy of that card, except it’s a 4/4 black Zombie."
+Hour of Glory
+{3}{B}
+Instant
+"Exile target creature. If that creature was a God, its controller reveals their hand and exiles all cards from it with the same name as that creature."
+Hour of Promise
+{4}{G}
+Sorcery
+"Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens."
+Hour of Revelation
+{3}{W}{W}{W}
+Sorcery
+This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
+Destroy all nonland permanents.
+Hour of Revelation
+{3}{W}{W}{W}
+Sorcery
+This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
+Destroy all nonland permanents.
+Imminent Doom
+{2}{R}
+Enchantment
+Imminent Doom enters the battlefield with a doom counter on it.
+"Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom."
+Kefnet's Last Word
+{2}{U}{U}
+Sorcery
+"Gain control of target artifact, creature, or enchantment. Lands you control don’t untap during your next untap step."
+Leave
+{1}{W}
+Instant
+Return any number of target permanents you own to your hand.
+Chance
+{3}{R}
+Sorcery
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+"Discard any number of cards, then draw that many cards."
+Majestic Myriarch
+{4}{G}
+Creature — Chimera
+Majestic Myriarch’s power and toughness are each equal to twice the number of creatures you control.
+"At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance."
+*/*
+Mirage Mirror
+{3}
+Artifact
+"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn."
+Mirage Mirror
+{3}
+Artifact
+"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn."
+"Neheb, the Eternal"
+{3}{R}{R}
+Legendary Creature — Zombie Minotaur Warrior
+"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)"
+"At the beginning of your postcombat main phase, add {R} for each 1 life your opponents have lost this turn."
+4/6
+"Nicol Bolas, God-Pharaoh"
+{4}{U}{B}{R}
+Legendary Planeswalker — Bolas
+"+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost."
++1: Each opponent exiles two cards from their hand.
+"−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
+−12: Exile each nonland permanent your opponents control.
+Loyalty: 7
+Nimble Obstructionist
+{2}{U}
+Creature — Bird Wizard
+Flash
+Flying
+"Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)"
+"When you cycle Nimble Obstructionist, counter target activated or triggered ability you don’t control."
+3/1
+Oketra's Last Mercy
+{1}{W}{W}
+Sorcery
+Your life total becomes equal to your starting life total. Lands you control don’t untap during your next untap step.
+Overwhelming Splendor
+{6}{W}{W}
+Enchantment — Aura Curse
+Enchant player
+Creatures enchanted player controls lose all abilities and have base power and toughness 1/1.
+Enchanted player can’t activate abilities that aren’t mana abilities or loyalty abilities.
+Pride Sovereign
+{2}{G}
+Creature — Cat
+Pride Sovereign gets +1/+1 for each other Cat you control.
+"{W}, {T}, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won’t untap during your next untap step.)"
+2/2
+Ramunap Excavator
+{2}{G}
+Creature — Naga Cleric
+You may play lands from your graveyard.
+2/3
+Ramunap Excavator
+{2}{G}
+Creature — Naga Cleric
+You may play lands from your graveyard.
+2/3
+Ramunap Hydra
+{3}{G}
+Creature — Snake Hydra
+"Vigilance, reach, trample"
+Ramunap Hydra gets +1/+1 as long as you control a Desert.
+Ramunap Hydra gets +1/+1 as long as there is a Desert card in your graveyard.
+3/3
+"Razaketh, the Foulblooded"
+{5}{B}{B}{B}
+Legendary Creature — Demon
+"Flying, trample"
+"Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library."
+8/8
+Reason
+{U}
+Sorcery
+Scry 3.
+Believe
+{4}{G}
+Sorcery
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+"Look at the top card of your library. You may put it onto the battlefield if it’s a creature card. If you don’t, put it into your hand."
+Refuse
+{3}{R}
+Instant
+Refuse deals damage to target spell’s controller equal to that spell’s converted mana cost.
+Cooperate
+{2}{U}
+Instant
+Aftermath (Cast this spell only from your graveyard. Then exile it.)
+Copy target instant or sorcery spell. You may choose new targets for the copy.
+Resilient Khenra
+{1}{G}
+Creature — Jackal Wizard
+"When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra’s power."
+"Eternalize {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)"
+2/2
+Rhonas's Last Stand
+{G}{G}
+Sorcery
+Create a 5/4 green Snake creature token. Lands you control don’t untap during your next untap step.
+"Samut, the Tested"
+{2}{R}{G}
+Legendary Planeswalker — Samut
++1: Up to one target creature gains double strike until end of turn.
+"−2: Samut, the Tested deals 2 damage divided as you choose among one or two targets."
+"−7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library."
+Loyalty: 4
+Scavenger Grounds
+Land — Desert
+{T}: Add {C}.
+"{2}, {T}, Sacrifice a Desert: Exile all cards from all graveyards."
+Solemnity
+{2}{W}
+Enchantment
+Players can’t get counters.
+"Counters can’t be put on artifacts, creatures, enchantments, or lands."
+Swarm Intelligence
+{6}{U}
+Enchantment
+"Whenever you cast an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy."
+The Locust God
+{4}{U}{R}
+Legendary Creature — God
+Flying
+"Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste."
+"{2}{U}{R}: Draw a card, then discard a card."
+"When The Locust God dies, return it to its owner’s hand at the beginning of the next end step."
+4/4
+The Scarab God
+{3}{U}{B}
+Legendary Creature — God
+"At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control."
+"{2}{U}{B}: Exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie."
+"When The Scarab God dies, return it to its owner’s hand at the beginning of the next end step."
+5/5
+The Scorpion God
+{3}{B}{R}
+Legendary Creature — God
+"Whenever a creature with a -1/-1 counter on it dies, draw a card."
+{1}{B}{R}: Put a -1/-1 counter on another target creature.
+"When The Scorpion God dies, return it to its owner’s hand at the beginning of the next end step."
+6/5
+Torment of Hailfire
+{X}{B}{B}
+Sorcery
+Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
+Uncage the Menagerie
+{X}{G}{G}
+Sorcery
+"Search your library for up to X creature cards with different names that each have converted mana cost X, reveal them, put them into your hand, then shuffle your library."
+"Unesh, Criosphinx Sovereign"
+{4}{U}{U}
+Legendary Creature — Sphinx
+Flying
+Sphinx spells you cast cost {2} less to cast.
+"Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+4/4
+Wildfire Eternal
+{3}{R}
+Creature — Zombie Jackal Cleric
+"Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)"
+"Whenever Wildfire Eternal attacks and isn’t blocked, you may cast an instant or sorcery spell from your hand without paying its mana cost."
+1/4
+Wildfire Eternal
+{3}{R}
+Creature — Zombie Jackal Cleric
+"Afflict 4 (Whenever this creature becomes blocked, defending player loses 4 life.)"
+"Whenever Wildfire Eternal attacks and isn’t blocked, you may cast an instant or sorcery spell from your hand without paying its mana cost."
+1/4

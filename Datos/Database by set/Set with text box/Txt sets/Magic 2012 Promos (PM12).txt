@@ -1,0 +1,33 @@
+Bloodlord of Vaasgoth
+{3}{B}{B}
+Creature — Vampire Warrior
+"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+Flying
+"Whenever you cast a Vampire creature spell, it gains bloodthirst 3."
+3/3
+Chandra's Phoenix
+{1}{R}{R}
+Creature — Phoenix
+Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"Whenever an opponent is dealt damage by a red instant or sorcery spell you control or by a red planeswalker you control, return Chandra’s Phoenix from your graveyard to your hand."
+2/2
+Dungrove Elder
+{2}{G}
+Creature — Treefolk
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+Dungrove Elder’s power and toughness are each equal to the number of Forests you control.
+*/*
+Garruk's Horde
+{5}{G}{G}
+Creature — Beast
+Trample
+Play with the top card of your library revealed.
+You may cast creature spells from the top of your library. (Do this only any time you could cast that creature spell. You still pay the spell’s costs.)
+7/7
+Stormblood Berserker
+{1}{R}
+Creature — Human Berserker
+"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)"
+Menace (This creature can’t be blocked except by two or more creatures.)
+1/1

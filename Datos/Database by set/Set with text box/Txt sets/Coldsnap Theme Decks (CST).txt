@@ -1,0 +1,286 @@
+Arcum's Weathervane
+{2}
+Artifact
+"{2}, {T}: Target snow land is no longer snow."
+"{2}, {T}: Target nonsnow basic land becomes snow."
+Ashen Ghoul
+{3}{B}
+Creature — Zombie
+Haste
+{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.
+3/1
+Aurochs
+{3}{G}
+Creature — Aurochs
+Trample
+"Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs."
+2/3
+Balduvian Dead
+{3}{B}
+Creature — Zombie
+"{2}{R}, Exile a creature card from your graveyard: Create a 3/1 black and red Graveborn creature token with haste. Sacrifice it at the beginning of the next end step."
+2/3
+Barbed Sextant
+{1}
+Artifact
+"{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color. Draw a card at the beginning of the next turn’s upkeep."
+Binding Grasp
+{3}{U}
+Enchantment — Aura
+Enchant creature
+"At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}."
+You control enchanted creature.
+Enchanted creature gets +0/+1.
+Bounty of the Hunt
+{3}{G}{G}
+Instant
+You may exile a green card from your hand rather than pay this spell’s mana cost.
+"Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
+Brainstorm
+{U}
+Instant
+"Draw three cards, then put two cards from your hand on top of your library in any order."
+Browse
+{2}{U}{U}
+Enchantment
+"{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest."
+Casting of Bones
+{2}{B}
+Enchantment — Aura
+Enchant creature
+"When enchanted creature dies, draw three cards, then discard one of them."
+Dark Banishing
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Dark Ritual
+{B}
+Instant
+Add {B}{B}{B}.
+Deadly Insect
+{4}{G}
+Creature — Insect
+Shroud (This creature can’t be the target of spells or abilities.)
+6/1
+Death Spark
+{R}
+Instant
+Death Spark deals 1 damage to any target.
+"At the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand."
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Drift of the Dead
+{3}{B}
+Creature — Wall
+Defender (This creature can’t attack.)
+Drift of the Dead’s power and toughness are each equal to the number of snow lands you control.
+*/*
+Essence Flare
+{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0.
+"At the beginning of the upkeep of enchanted creature’s controller, put a -0/-1 counter on that creature."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Gangrenous Zombies
+{1}{B}{B}
+Creature — Zombie
+"{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead."
+2/2
+Giant Trap Door Spider
+{1}{R}{G}
+Creature — Spider
+"{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that’s attacking you."
+2/3
+Gorilla Shaman
+{R}
+Creature — Ape Shaman
+{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.
+1/1
+Iceberg
+{X}{U}{U}
+Enchantment
+Iceberg enters the battlefield with X ice counters on it.
+{3}: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add {C}.
+Incinerate
+{1}{R}
+Instant
+Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
+Insidious Bookworms
+{B}
+Creature — Worm
+"When Insidious Bookworms dies, you may pay {1}{B}. If you do, target player discards a card at random."
+1/1
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Kjeldoran Dead
+{B}
+Creature — Skeleton
+"When Kjeldoran Dead enters the battlefield, sacrifice a creature."
+{B}: Regenerate Kjeldoran Dead.
+3/1
+Kjeldoran Elite Guard
+{3}{W}
+Creature — Human Soldier
+"{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat."
+2/2
+Kjeldoran Home Guard
+{3}{W}
+Creature — Human Soldier
+"At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and create a 0/1 white Deserter creature token."
+1/6
+Kjeldoran Pride
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.
+{2}{U}: Attach Kjeldoran Pride to target creature other than enchanted creature.
+Lat-Nam's Legacy
+{1}{U}
+Instant
+"Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn’s upkeep."
+Legions of Lim-Dûl
+{1}{B}{B}
+Creature — Zombie
+Snow swampwalk (This creature can’t be blocked as long as defending player controls a snow Swamp.)
+2/3
+Mistfolk
+{U}{U}
+Creature — Illusion
+{U}: Counter target spell that targets Mistfolk.
+1/2
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Orcish Healer
+{R}{R}
+Creature — Orc Cleric
+"{R}{R}, {T}: Target creature can’t be regenerated this turn."
+"{B}{B}{R}, {T}: Regenerate target black or green creature."
+"{R}{G}{G}, {T}: Regenerate target black or green creature."
+1/1
+Orcish Lumberjack
+{R}
+Creature — Orc
+"{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G}."
+1/1
+Phantasmal Fiend
+{3}{B}
+Creature — Illusion
+{B}: Phantasmal Fiend gets +1/-1 until end of turn.
+{1}{U}: Switch Phantasmal Fiend’s power and toughness until end of turn.
+1/5
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Portent
+{U}
+Sorcery
+"Look at the top three cards of target player’s library, then put them back in any order. You may have that player shuffle their library."
+Draw a card at the beginning of the next turn’s upkeep.
+Reinforcements
+{W}
+Instant
+Put up to three target creature cards from your graveyard on top of your library.
+Scars of the Veteran
+{4}{W}
+Instant
+You may exile a white card from your hand rather than pay this spell’s mana cost.
+"Prevent the next 7 damage that would be dealt to any target this turn. If it’s a creature, put a +0/+1 counter on it for each 1 damage prevented this way at the beginning of the next end step."
+Skull Catapult
+{4}
+Artifact
+"{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to any target."
+Snow Devil
+{1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Enchanted creature has first strike as long as it’s blocking and you control a snow land.
+Soul Burn
+{X}{2}{B}
+Sorcery
+Spend only black and/or red mana on X.
+"Soul Burn deals X damage to any target. You gain life equal to the damage dealt, but not more than the amount of {B} spent on X, the player’s life total before the damage was dealt, the planeswalker’s loyalty before the damage was dealt, or the creature’s toughness."
+Storm Elemental
+{5}{U}
+Creature — Elemental
+Flying
+"{U}, Exile the top card of your library: Tap target creature with flying."
+"{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn."
+3/4
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swords to Plowshares
+{W}
+Instant
+Exile target creature. Its controller gains life equal to its power.
+Tinder Wall
+{G}
+Creature — Plant Wall
+Defender (This creature can’t attack.)
+Sacrifice Tinder Wall: Add {R}{R}.
+"{R}, Sacrifice Tinder Wall: It deals 2 damage to target creature it’s blocking."
+0/3
+Viscerid Drone
+{1}{U}
+Creature — Homarid Drone
+"{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can’t be regenerated."
+"{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can’t be regenerated."
+1/2
+Whalebone Glider
+{2}
+Artifact
+"{2}, {T}: Target creature with power 3 or less gains flying until end of turn."
+Wings of Aesthir
+{W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0 and has flying and first strike.
+Woolly Mammoths
+{1}{G}{G}
+Creature — Elephant
+Woolly Mammoths has trample as long as you control a snow land.
+3/2
+Zuran Spellcaster
+{2}{U}
+Creature — Human Wizard
+{T}: Zuran Spellcaster deals 1 damage to any target.
+1/1

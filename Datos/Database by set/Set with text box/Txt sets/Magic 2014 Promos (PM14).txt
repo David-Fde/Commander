@@ -1,0 +1,25 @@
+Colossal Whale
+{5}{U}{U}
+Creature — Whale
+Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+"Whenever Colossal Whale attacks, you may exile target creature defending player controls until Colossal Whale leaves the battlefield. (That creature returns under its owner’s control.)"
+5/5
+Goblin Diplomats
+{1}{R}
+Creature — Goblin
+{T}: Each creature attacks this turn if able.
+2/1
+Hive Stirrings
+{2}{W}
+Sorcery
+Create two 1/1 colorless Sliver creature tokens.
+Megantic Sliver
+{5}{G}
+Creature — Sliver
+Sliver creatures you control get +3/+3.
+3/3
+Ratchet Bomb
+{2}
+Artifact
+{T}: Put a charge counter on Ratchet Bomb.
+"{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb."

@@ -1,0 +1,39 @@
+Bane of Progress
+{4}{G}{G}
+Creature — Elemental
+"When Bane of Progress enters the battlefield, destroy all artifacts and enchantments. Put a +1/+1 counter on Bane of Progress for each permanent destroyed this way."
+2/2
+Command Tower
+Land
+{T}: Add one mana of any color in your commander’s color identity.
+"Freyalise, Llanowar's Fury"
+{3}{G}{G}
+Legendary Planeswalker — Freyalise
++2: Create a 1/1 green Elf Druid creature token with “{T}: Add {G}.”
+−2: Destroy target artifact or enchantment.
+−6: Draw a card for each green creature you control.
+"Freyalise, Llanowar’s Fury can be your commander."
+Loyalty: 3
+"Omnath, Locus of Mana"
+{2}{G}
+Legendary Creature — Elemental
+You don’t lose unspent green mana as steps and phases end.
+"Omnath, Locus of Mana gets +1/+1 for each unspent green mana you have."
+1/1
+Seedborn Muse
+{3}{G}{G}
+Creature — Spirit
+Untap all permanents you control during each other player’s untap step.
+2/4
+Sol Ring
+{1}
+Artifact
+{T}: Add {C}{C}.
+Sylvan Library
+{1}{G}
+Enchantment
+"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+Worldly Tutor
+{G}
+Instant
+"Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it."

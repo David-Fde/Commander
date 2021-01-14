@@ -1,0 +1,93 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Beast
+Token Creature — Beast
+4/4
+Beast
+Token Creature — Beast
+Trample
+5/5
+Cat
+Token Creature — Cat
+2/2
+Cat Warrior
+Token Creature — Cat Warrior
+Forestwalk
+2/2
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Construct
+Token Artifact Creature — Construct
+4/4
+Construct
+Token Artifact Creature — Construct
+Trample
+6/12
+Dragon
+Token Creature — Dragon
+Flying
+{R}: This creature gets +1/+0 until end of turn.
+2/2
+Dragon Egg
+Token Creature — Dragon Egg
+Defender
+"When this creature dies, create a 2/2 red Dragon creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”"
+0/2
+Elemental
+Token Creature — Elemental
+*/*
+Horror
+Token Artifact Creature — Horror
+*/*
+Manifest
+Creature
+(You can cover a face-down manifested creature with this reminder card.
+A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)
+2/2
+Mask
+Token Enchantment — Aura
+Enchant permanent
+"Totem armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Myr
+Token Artifact Creature — Myr
+1/1
+Myr
+Token Artifact Creature — Myr
+2/1
+Plant
+Token Creature — Plant
+0/1
+Servo
+Token Artifact Creature — Servo
+1/1
+Shapeshifter
+Token Creature — Shapeshifter
+Changeling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Survivor
+Token Creature — Survivor
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Worm
+Token Creature — Worm
+1/1
+Zombie
+Token Creature — Zombie
+2/2

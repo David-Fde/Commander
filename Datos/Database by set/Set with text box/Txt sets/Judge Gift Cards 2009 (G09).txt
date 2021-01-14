@@ -1,0 +1,34 @@
+Bloodstained Mire
+Land
+"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library."
+Burning Wish
+{1}{R}
+Sorcery
+You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.
+Dark Ritual
+{B}
+Instant
+Add {B}{B}{B}.
+Flooded Strand
+Land
+"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library."
+Maze of Ith
+Land
+{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
+Polluted Delta
+Land
+"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library."
+Stifle
+{U}
+Instant
+Counter target activated or triggered ability. (Mana abilities can’t be targeted.)
+Survival of the Fittest
+{1}{G}
+Enchantment
+"{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library."
+Windswept Heath
+Land
+"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library."
+Wooded Foothills
+Land
+"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library."

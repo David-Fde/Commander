@@ -1,0 +1,653 @@
+Abrupt Decay
+{B}{G}
+Instant
+This spell can’t be countered.
+Destroy target nonland permanent with converted mana cost 3 or less.
+Advent of the Wurm
+{1}{G}{G}{W}
+Instant
+Create a 5/5 green Wurm creature token with trample.
+"Agrus Kos, Wojek Veteran"
+{3}{R}{W}
+Legendary Creature — Human Soldier
+"Whenever Agrus Kos, Wojek Veteran attacks, attacking red creatures get +2/+0 and attacking white creatures get +0/+2 until end of turn."
+3/3
+Armada Wurm
+{2}{G}{G}{W}{W}
+Creature — Wurm
+Trample
+"When Armada Wurm enters the battlefield, create a 5/5 green Wurm creature token with trample."
+5/5
+"Aurelia, the Warleader"
+{2}{R}{R}{W}{W}
+Legendary Creature — Angel
+"Flying, vigilance, haste"
+"Whenever Aurelia, the Warleader attacks for the first time each turn, untap all creatures you control. After this phase, there is an additional combat phase."
+3/4
+Bomber Corps
+{1}{R}
+Creature — Human Soldier
+"Battalion — Whenever Bomber Corps and at least two other creatures attack, Bomber Corps deals 1 damage to any target."
+1/2
+Boros Charm
+{R}{W}
+Instant
+Choose one —
+• Boros Charm deals 4 damage to target player or planeswalker.
+• Permanents you control gain indestructible until end of turn.
+• Target creature gains double strike until end of turn.
+Boros Elite
+{W}
+Creature — Human Soldier
+"Battalion — Whenever Boros Elite and at least two other creatures attack, Boros Elite gets +2/+2 until end of turn."
+1/1
+Boros Garrison
+Land
+Boros Garrison enters the battlefield tapped.
+"When Boros Garrison enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {R}{W}.
+Boros Keyrune
+{3}
+Artifact
+{T}: Add {R} or {W}.
+{R}{W}: Boros Keyrune becomes a 1/1 red and white Soldier artifact creature with double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Boros Reckoner
+{R/W}{R/W}{R/W}
+Creature — Minotaur Wizard
+"Whenever Boros Reckoner is dealt damage, it deals that much damage to any target."
+{R/W}: Boros Reckoner gains first strike until end of turn.
+3/3
+Boros Signet
+{2}
+Artifact
+"{1}, {T}: Add {R}{W}."
+Boros Swiftblade
+{R}{W}
+Creature — Human Soldier
+Double strike
+1/2
+Brightflame
+{X}{R}{R}{W}{W}
+Sorcery
+Radiance — Brightflame deals X damage to target creature and each other creature that shares a color with it. You gain life equal to the damage dealt this way.
+Call of the Conclave
+{G}{W}
+Sorcery
+Create a 3/3 green Centaur creature token.
+Call of the Nightwing
+{2}{U}{B}
+Sorcery
+Create a 1/1 blue and black Horror creature token with flying.
+"Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)"
+Centaur Healer
+{1}{G}{W}
+Creature — Centaur Cleric
+"When Centaur Healer enters the battlefield, you gain 3 life."
+3/3
+Cerebral Vortex
+{1}{U}{R}
+Instant
+"Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards they’ve drawn this turn."
+Char
+{2}{R}
+Instant
+Char deals 4 damage to any target and 2 damage to you.
+"Circu, Dimir Lobotomist"
+{2}{U}{B}
+Legendary Creature — Human Wizard
+"Whenever you cast a blue spell, exile the top card of target player’s library."
+"Whenever you cast a black spell, exile the top card of target player’s library."
+"Your opponents can’t cast spells with the same name as a card exiled with Circu, Dimir Lobotomist."
+2/3
+Consuming Aberration
+{3}{U}{B}
+Creature — Horror
+Consuming Aberration’s power and toughness are each equal to the number of cards in your opponents’ graveyards.
+"Whenever you cast a spell, each opponent reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard."
+*/*
+Daring Skyjek
+{1}{W}
+Creature — Human Knight
+"Battalion — Whenever Daring Skyjek and at least two other creatures attack, Daring Skyjek gains flying until end of turn."
+3/1
+Darkblast
+{B}
+Instant
+Target creature gets -1/-1 until end of turn.
+"Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+Deadbridge Chant
+{4}{B}{G}
+Enchantment
+"When Deadbridge Chant enters the battlefield, mill ten cards."
+"At the beginning of your upkeep, choose a card at random in your graveyard. If it’s a creature card, put it onto the battlefield. Otherwise, put it into your hand."
+Deadbridge Goliath
+{2}{G}{G}
+Creature — Insect
+"Scavenge {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card’s power on target creature. Scavenge only as a sorcery.)"
+5/5
+Deathrite Shaman
+{B/G}
+Creature — Elf Shaman
+{T}: Exile target land card from a graveyard. Add one mana of any color.
+"{B}, {T}: Exile target instant or sorcery card from a graveyard. Each opponent loses 2 life."
+"{G}, {T}: Exile target creature card from a graveyard. You gain 2 life."
+1/2
+Devouring Light
+{1}{W}{W}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Exile target attacking or blocking creature.
+Dimir Aqueduct
+Land
+Dimir Aqueduct enters the battlefield tapped.
+"When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {U}{B}.
+Dimir Charm
+{U}{B}
+Instant
+Choose one —
+• Counter target sorcery spell.
+• Destroy target creature with power 2 or less.
+• Look at the top three cards of target player’s library. Put one back and the rest into that player’s graveyard.
+Dimir Doppelganger
+{1}{U}{B}
+Creature — Shapeshifter
+"{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card, except it has this ability."
+0/2
+Dimir Guildmage
+{U/B}{U/B}
+Creature — Human Wizard
+({U/B} can be paid with either {U} or {B}.)
+{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+2/2
+Dimir Signet
+{2}
+Artifact
+"{1}, {T}: Add {U}{B}."
+Dinrova Horror
+{4}{U}{B}
+Creature — Horror
+"When Dinrova Horror enters the battlefield, return target permanent to its owner’s hand, then that player discards a card."
+4/4
+Djinn Illuminatus
+{5}{U/R}{U/R}
+Creature — Djinn
+({U/R} can be paid with either {U} or {R}.)
+Flying
+"Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+3/5
+Drown in Filth
+{B}{G}
+Sorcery
+"Choose target creature. Mill four cards, then that creature gets -1/-1 until end of turn for each land card in your graveyard."
+Dryad Militant
+{G/W}
+Creature — Dryad Soldier
+"If an instant or sorcery card would be put into a graveyard from anywhere, exile it instead."
+2/1
+Electrickery
+{R}
+Instant
+Electrickery deals 1 damage to target creature you don’t control.
+"Overload {1}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each.”)"
+Electrolyze
+{1}{U}{R}
+Instant
+Electrolyze deals 2 damage divided as you choose among one or two targets.
+Draw a card.
+Elves of Deep Shadow
+{G}
+Creature — Elf Druid
+{T}: Add {B}. Elves of Deep Shadow deals 1 damage to you.
+1/1
+"Etrata, the Silencer"
+{2}{U}{B}
+Legendary Creature — Vampire Assassin
+"Etrata, the Silencer can’t be blocked."
+"Whenever Etrata deals combat damage to a player, exile target creature that player controls and put a hit counter on that card. That player loses the game if they own three or more exiled cards with hit counters on them. Etrata’s owner shuffles Etrata into their library."
+3/5
+Firemane Angel
+{3}{R}{W}{W}
+Creature — Angel
+"Flying, first strike"
+"At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life."
+{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+4/3
+Firemane Avenger
+{2}{R}{W}
+Creature — Angel
+Flying
+"Battalion — Whenever Firemane Avenger and at least two other creatures attack, Firemane Avenger deals 3 damage to any target and you gain 3 life."
+3/3
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Frenzied Goblin
+{R}
+Creature — Goblin Berserker
+"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can’t block this turn."
+1/1
+Gather Courage
+{G}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Target creature gets +2/+2 until end of turn.
+Gaze of Granite
+{X}{B}{B}{G}
+Sorcery
+Destroy each nonland permanent with converted mana cost X or less.
+Gelectrode
+{1}{U}{R}
+Creature — Weird
+{T}: Gelectrode deals 1 damage to any target.
+"Whenever you cast an instant or sorcery spell, you may untap Gelectrode."
+0/1
+Glare of Subdual
+{2}{G}{W}
+Enchantment
+Tap an untapped creature you control: Tap target artifact or creature.
+Glimpse the Unthinkable
+{U}{B}
+Sorcery
+Target player mills ten cards.
+Goblin Rally
+{3}{R}{R}
+Sorcery
+Create four 1/1 red Goblin creature tokens.
+Golgari Charm
+{B}{G}
+Instant
+Choose one —
+• All creatures get -1/-1 until end of turn.
+• Destroy target enchantment.
+• Regenerate each creature you control.
+Golgari Rot Farm
+Land
+Golgari Rot Farm enters the battlefield tapped.
+"When Golgari Rot Farm enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {B}{G}.
+Golgari Signet
+{2}
+Artifact
+"{1}, {T}: Add {B}{G}."
+Grave-Shell Scarab
+{2}{B}{G}{G}
+Creature — Insect
+"{1}, Sacrifice Grave-Shell Scarab: Draw a card."
+"Dredge 1 (If you would draw a card, you may mill a card instead. If you do, return this card from your graveyard to your hand.)"
+4/4
+Grisly Salvage
+{B}{G}
+Instant
+Reveal the top five cards of your library. You may put a creature or land card from among them into your hand. Put the rest into your graveyard.
+Grove of the Guardian
+Land
+{T}: Add {C}.
+"{3}{G}{W}, {T}, Tap two untapped creatures you control, Sacrifice Grove of the Guardian: Create an 8/8 green and white Elemental creature token with vigilance."
+Growing Ranks
+{2}{G/W}{G/W}
+Enchantment
+"At the beginning of your upkeep, populate. (Create a token that’s a copy of a creature token you control.)"
+Guttersnipe
+{2}{R}
+Creature — Goblin Shaman
+"Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent."
+2/2
+Hour of Reckoning
+{4}{W}{W}{W}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Destroy all nontoken creatures.
+Hypersonic Dragon
+{3}{U}{R}
+Creature — Dragon
+"Flying, haste"
+You may cast sorcery spells as though they had flash. (You may cast them any time you could cast an instant.)
+4/4
+Invoke the Firemind
+{X}{U}{U}{R}
+Sorcery
+Choose one —
+• Draw X cards.
+• Invoke the Firemind deals X damage to any target.
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+"Izoni, Thousand-Eyed"
+{2}{B}{B}{G}{G}
+Legendary Creature — Elf Shaman
+"Undergrowth — When Izoni, Thousand-Eyed enters the battlefield, create a 1/1 black and green Insect creature token for each creature card in your graveyard."
+"{B}{G}, Sacrifice another creature: You gain 1 life and draw a card."
+2/3
+Izzet Boilerworks
+Land
+Izzet Boilerworks enters the battlefield tapped.
+"When Izzet Boilerworks enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {U}{R}.
+Izzet Charm
+{U}{R}
+Instant
+Choose one —
+• Counter target noncreature spell unless its controller pays {2}.
+• Izzet Charm deals 2 damage to target creature.
+"• Draw two cards, then discard two cards."
+Izzet Signet
+{2}
+Artifact
+"{1}, {T}: Add {U}{R}."
+"Jarad, Golgari Lich Lord"
+{B}{B}{G}{G}
+Legendary Creature — Zombie Elf
+"Jarad, Golgari Lich Lord gets +1/+1 for each creature card in your graveyard."
+"{1}{B}{G}, Sacrifice another creature: Each opponent loses life equal to the sacrificed creature’s power."
+Sacrifice a Swamp and a Forest: Return Jarad from your graveyard to your hand.
+2/2
+Korozda Guildmage
+{B}{G}
+Creature — Elf Shaman
+{1}{B}{G}: Target creature gets +1/+1 and gains intimidate until end of turn. (It can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+"{2}{B}{G}, Sacrifice a nontoken creature: Create X 1/1 green Saproling creature tokens, where X is the sacrificed creature’s toughness."
+2/2
+Last Gasp
+{1}{B}
+Instant
+Target creature gets -3/-3 until end of turn.
+"Lazav, Dimir Mastermind"
+{U}{U}{B}{B}
+Legendary Creature — Shapeshifter
+Hexproof
+"Whenever a creature card is put into an opponent’s graveyard from anywhere, you may have Lazav, Dimir Mastermind become a copy of that card, except its name is Lazav, Dimir Mastermind, it’s legendary in addition to its other types, and it has hexproof and this ability."
+3/3
+Legion Loyalist
+{R}
+Creature — Goblin Soldier
+Haste
+"Battalion — Whenever Legion Loyalist and at least two other creatures attack, creatures you control gain first strike and trample until end of turn and can’t be blocked by creature tokens this turn."
+1/1
+Lightning Helix
+{R}{W}
+Instant
+Lightning Helix deals 3 damage to any target and you gain 3 life.
+Lotleth Troll
+{B}{G}
+Creature — Zombie Troll
+Trample
+Discard a creature card: Put a +1/+1 counter on Lotleth Troll.
+{B}: Regenerate Lotleth Troll.
+2/1
+Loxodon Hierarch
+{2}{G}{W}
+Creature — Elephant Cleric
+"When Loxodon Hierarch enters the battlefield, you gain 4 life."
+"{G}{W}, Sacrifice Loxodon Hierarch: Regenerate each creature you control."
+4/4
+Martial Glory
+{R}{W}
+Instant
+Target creature gets +3/+0 until end of turn.
+Target creature gets +0/+3 until end of turn.
+Master Warcraft
+{2}{R/W}{R/W}
+Instant
+Cast this spell only before attackers are declared.
+You choose which creatures attack this turn.
+You choose which creatures block this turn and how those creatures block.
+"Mirko Vosk, Mind Drinker"
+{3}{U}{B}
+Legendary Creature — Vampire
+Flying
+"Whenever Mirko Vosk, Mind Drinker deals combat damage to a player, that player reveals cards from the top of their library until they reveal four land cards, then puts those cards into their graveyard."
+2/4
+Mizzium Mortars
+{1}{R}
+Sorcery
+Mizzium Mortars deals 4 damage to target creature you don’t control.
+"Overload {3}{R}{R}{R} (You may cast this spell for its overload cost. If you do, change its text by replacing all instances of “target” with “each.”)"
+Moroii
+{2}{U}{B}
+Creature — Vampire
+Flying
+"At the beginning of your upkeep, you lose 1 life."
+4/4
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Netherborn Phalanx
+{5}{B}
+Creature — Horror
+"When Netherborn Phalanx enters the battlefield, each opponent loses 1 life for each creature they control."
+"Transmute {1}{B}{B} ({1}{B}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+2/4
+Nightveil Specter
+{U/B}{U/B}{U/B}
+Creature — Specter
+Flying
+"Whenever Nightveil Specter deals combat damage to a player, that player exiles the top card of their library."
+You may play lands and cast spells from among cards exiled with Nightveil Specter.
+2/3
+Nivix Guildmage
+{U}{R}
+Creature — Human Wizard
+"{1}{U}{R}: Draw a card, then discard a card."
+{2}{U}{R}: Copy target instant or sorcery spell you control. You may choose new targets for the copy.
+2/2
+"Niv-Mizzet, the Firemind"
+{2}{U}{U}{R}{R}
+Legendary Creature — Dragon Wizard
+Flying
+"Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target."
+{T}: Draw a card.
+4/4
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Pollenbright Wings
+{4}{G}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+"Whenever enchanted creature deals combat damage to a player, create that many 1/1 green Saproling creature tokens."
+Privileged Position
+{2}{G/W}{G/W}{G/W}
+Enchantment
+({G/W} can be paid with either {G} or {W}.)
+Other permanents you control have hexproof. (They can’t be the targets of spells or abilities your opponents control.)
+Putrefy
+{1}{B}{G}
+Instant
+Destroy target artifact or creature. It can’t be regenerated.
+Pyromatics
+{1}{R}
+Instant
+"Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+Pyromatics deals 1 damage to any target.
+"Razia, Boros Archangel"
+{4}{R}{R}{W}{W}
+Legendary Creature — Angel
+"Flying, vigilance, haste"
+{T}: The next 3 damage that would be dealt to target creature you control this turn is dealt to another target creature instead.
+6/3
+Ribbons of Night
+{4}{B}
+Sorcery
+"Ribbons of Night deals 4 damage to target creature and you gain 4 life. If {U} was spent to cast this spell, draw a card."
+"Savra, Queen of the Golgari"
+{2}{B}{G}
+Legendary Creature — Elf Shaman
+"Whenever you sacrifice a black creature, you may pay 2 life. If you do, each other player sacrifices a creature."
+"Whenever you sacrifice a green creature, you may gain 2 life."
+2/2
+Scatter the Seeds
+{3}{G}{G}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Create three 1/1 green Saproling creature tokens.
+Selesnya Charm
+{G}{W}
+Instant
+Choose one —
+• Target creature gets +2/+2 and gains trample until end of turn.
+• Exile target creature with power 5 or greater.
+• Create a 2/2 white Knight creature token with vigilance.
+Selesnya Evangel
+{G}{W}
+Creature — Elf Shaman
+"{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token."
+1/2
+Selesnya Guildmage
+{G/W}{G/W}
+Creature — Elf Wizard
+{3}{G}: Create a 1/1 green Saproling creature token.
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+2/2
+Selesnya Sanctuary
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+"When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{W}.
+Selesnya Signet
+{2}
+Artifact
+"{1}, {T}: Add {G}{W}."
+Shambling Shell
+{1}{B}{G}
+Creature — Plant Zombie
+Sacrifice Shambling Shell: Put a +1/+1 counter on target creature.
+"Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+3/1
+Shattering Spree
+{R}
+Sorcery
+"Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+Destroy target artifact.
+Sisters of Stone Death
+{4}{B}{B}{G}{G}
+Legendary Creature — Gorgon
+{G}: Target creature blocks Sisters of Stone Death this turn if able.
+{B}{G}: Exile target creature blocking or blocked by Sisters of Stone Death.
+{2}{B}: Put a creature card exiled with Sisters of Stone Death onto the battlefield under your control.
+7/5
+Slum Reaper
+{3}{B}
+Creature — Horror
+"When Slum Reaper enters the battlefield, each player sacrifices a creature."
+4/2
+Spark Trooper
+{1}{R}{R}{W}
+Creature — Elemental Soldier
+"Trample, lifelink, haste"
+"At the beginning of the end step, sacrifice Spark Trooper."
+6/1
+Stinkweed Imp
+{2}{B}
+Creature — Imp
+Flying
+"Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature."
+"Dredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)"
+1/2
+Stitch in Time
+{1}{U}{R}
+Sorcery
+"Flip a coin. If you win the flip, take an extra turn after this one."
+Stolen Identity
+{4}{U}{U}
+Sorcery
+Create a token that’s a copy of target artifact or creature.
+"Cipher (Then you may exile this spell card encoded on a creature you control. Whenever that creature deals combat damage to a player, its controller may cast a copy of the encoded card without paying its mana cost.)"
+Sundering Growth
+{G/W}{G/W}
+Instant
+"Destroy target artifact or enchantment, then populate. (Create a token that’s a copy of a creature token you control.)"
+"Sunhome, Fortress of the Legion"
+Land
+{T}: Add {C}.
+"{2}{R}{W}, {T}: Target creature gains double strike until end of turn."
+Sunhome Guildmage
+{R}{W}
+Creature — Human Wizard
+{1}{R}{W}: Creatures you control get +1/+0 until end of turn.
+{2}{R}{W}: Create a 1/1 red and white Soldier creature token with haste.
+2/2
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Syncopate
+{X}{U}
+Instant
+"Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard."
+"Szadek, Lord of Secrets"
+{3}{U}{U}{B}{B}
+Legendary Creature — Vampire
+Flying
+"If Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player mills that many cards."
+5/5
+Telling Time
+{1}{U}
+Instant
+"Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library."
+Thunderheads
+{2}{U}
+Instant
+"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)"
+Create a 3/3 blue Weird creature token with defender and flying. Exile it at the beginning of the next end step.
+Tibor and Lumia
+{2}{U}{R}
+Legendary Creature — Human Wizard
+"Whenever you cast a blue spell, target creature gains flying until end of turn."
+"Whenever you cast a red spell, Tibor and Lumia deals 1 damage to each creature without flying."
+3/3
+Tolsimir Wolfblood
+{4}{G}{W}
+Legendary Creature — Elf Warrior
+Other green creatures you control get +1/+1.
+Other white creatures you control get +1/+1.
+"{T}: Create Voja, a legendary 2/2 green and white Wolf creature token."
+3/4
+Treasured Find
+{B}{G}
+Sorcery
+Return target card from your graveyard to your hand. Exile Treasured Find.
+"Trostani, Selesnya's Voice"
+{G}{G}{W}{W}
+Legendary Creature — Dryad
+"Whenever another creature enters the battlefield under your control, you gain life equal to that creature’s toughness."
+"{1}{G}{W}, {T}: Populate. (Create a token that’s a copy of a creature token you control.)"
+2/5
+Turn
+{2}{U}
+Instant
+"Until end of turn, target creature loses all abilities and becomes a red Weird with base power and toughness 0/1."
+Fuse (You may cast one or both halves of this card from your hand.)
+Burn
+{1}{R}
+Instant
+Burn deals 2 damage to any target.
+Fuse (You may cast one or both halves of this card from your hand.)
+Vigor Mortis
+{2}{B}{B}
+Sorcery
+"Return target creature card from your graveyard to the battlefield. If {G} was spent to cast this spell, that creature enters the battlefield with an additional +1/+1 counter on it."
+Warped Physique
+{U}{B}
+Instant
+"Target creature gets +X/-X until end of turn, where X is the number of cards in your hand."
+Watchwolf
+{G}{W}
+Creature — Wolf
+3/3

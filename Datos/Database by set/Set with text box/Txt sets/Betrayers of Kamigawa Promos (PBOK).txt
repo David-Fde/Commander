@@ -1,0 +1,18 @@
+Budoka Pupil
+{1}{G}{G}
+Creature — Human Monk
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil."
+"At the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it."
+2/2
+"Ichiga, Who Topples Oaks"
+Legendary Creature — Spirit
+Trample
+"Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn."
+4/3
+"Ink-Eyes, Servant of Oni"
+{4}{B}{B}
+Legendary Creature — Rat Ninja
+"Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player’s graveyard onto the battlefield under your control."
+{1}{B}: Regenerate Ink-Eyes.
+5/4

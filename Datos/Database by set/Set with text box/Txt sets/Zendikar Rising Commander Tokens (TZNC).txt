@@ -1,0 +1,36 @@
+Beast
+Token Creature — Beast
+4/4
+Bird
+Token Creature — Bird
+Flying
+1/1
+Elemental
+Token Creature — Elemental
+2/2
+Elemental
+Token Creature — Elemental
+5/5
+Faerie Rogue
+Token Creature — Faerie Rogue
+Flying
+1/1
+Germ
+Token Creature — Germ
+0/0
+Goblin Rogue
+Token Creature — Goblin Rogue
+1/1
+Kor Ally
+Token Creature — Kor Ally
+1/1
+Rat
+Token Creature — Rat
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1

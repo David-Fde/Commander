@@ -1,0 +1,858 @@
+_____
+{1}{U}
+Creature — Shapeshifter
+"{1}: This card’s name becomes the card name of your choice. Activate this ability anywhere, anytime."
+1/1
+"""Ach! Hans, Run!"""
+{2}{R}{R}{G}{G}
+Enchantment
+"At the beginning of your upkeep, you may say “Ach! Hans, run! It’s the …” and the name of a creature card. If you do, search your library for a card with that name, put it onto the battlefield, then shuffle your library. That creature gains haste. Exile it at the beginning of the next end step."
+Aesthetic Consultation
+{B}
+Instant
+"Choose an artist. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal a card with art by the chosen artist. Put that card in your hand and exile all other cards revealed this way."
+Aesthetic Consultation
+{B}
+Instant
+"Choose an artist. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal a card with art by the chosen artist. Put that card in your hand and exile all other cards revealed this way."
+Ambiguity
+{2}{U}{U}
+Enchantment
+"Whenever a player plays a spell that counters a spell that has been played or a player plays a spell that comes into play with counters, that player may counter the next spell played or put an additional counter on a permanent that has already been played, but not countered."
+Artful Looter
+{2}{U}
+Creature — Human Wizard
+"{T}: Draw a card, then discard a card."
+"Whenever a permanent that shares an artist with another permanent you control enters the battlefield, untap Artful Looter."
+1/2
+Assquatch
+{4}{R}
+Creature — Donkey
+Each other Donkey gets +1½/+1½.
+"Whenever another Donkey enters the battlefield, untap target creature and gain control of it until end of turn. That creature gains haste until end of turn."
+3½/3½
+Ass Whuppin'
+{1}{W}{B}
+Sorcery
+Destroy target silver-bordered permanent in any game you can see from your seat.
+Atinlay Igpay
+{5}{W}
+Eaturecray — Igpay
+Oubleday ikestray
+"Enwhay ouyay eakspay ay onnay-igpay-atinlay ordway, acrificesay Atinlay Igpay."
+3/3
+Avatar of Me
+{2}{U}{U}
+Creature — Avatar
+This spell costs {1} more to cast for each ten years you’ve been alive.
+Avatar of Me’s power is equal to your height in feet and its toughness is equal to your American shoe size. Round to the nearest ½.
+Avatar of Me is the color of your eyes.
+*/*
+AWOL
+{2}{W}
+Instant
+Exile target attacking creature. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone.
+AWOL
+{2}{W}
+Instant
+Exile target attacking creature. Then remove it from the game. Then put it into the absolutely-removed-from-the-freaking-game-forever zone.
+Bad Ass
+{2}{B}{B}
+Creature — Donkey Zombie
+"{1}{B}, Growl: Regenerate Bad Ass."
+3½/1
+Bad Ass
+{2}{B}{B}
+Creature — Donkey Zombie
+"{1}{B}, Growl: Regenerate Bad Ass."
+3½/1
+B-I-N-G-O
+{1}{G}
+Creature — Dog
+Trample
+"Whenever a player casts a spell, put a chip counter on its converted mana cost."
+B-I-N-G-O gets +9/+9 for each set of three numbers in a row with chip counters on them.
+1/1
+Blast from the Past
+{2}{R}
+Instant
+"Madness {R}, cycling {1}{R}, kicker {2}{R}, flashback {3}{R}, buyback {4}{R}"
+"Blast from the Past deals 2 damage to any target. If this spell was kicked, create a 1/1 red Goblin creature token."
+Blast from the Past
+{2}{R}
+Instant
+"Madness {R}, cycling {1}{R}, kicker {2}{R}, flashback {3}{R}, buyback {4}{R}"
+"Blast from the Past deals 2 damage to any target. If this spell was kicked, create a 1/1 red Goblin creature token."
+Bloodletter
+{2}{B}
+Creature — Zombie
+"When the names of three or more nonland permanents begin with the same letter, sacrifice Bloodletter. If you do, it deals 2 damage to each creature and each player."
+2/3
+Booster Tutor
+{B}
+Instant
+"Open a sealed Magic booster pack, reveal the cards, and put one of them into your hand. (Remove that card from your deck before beginning a new game.)"
+Bosom Buddy
+{3}{W}
+Creature — Elephant Townsfolk
+"Whenever you cast a spell, you may gain ½ life for each word in that spell’s name."
+1/4
+Brushstroke Paintermage
+{3}{U}
+Creature — Human Wizard
+{T}: Target permanent’s artist becomes the artist of your choice until end of turn.
+2/3
+Bursting Beebles
+{2}{U}
+Creature — Beeble
+Bursting Beebles can’t be blocked as long as defending player controls two or more nonland permanents that share an artist.
+2/2
+Cardpecker
+{1}{W}
+Creature — Bird
+Flying
+"Gotcha — If an opponent touches the table with their hand, you may say “Gotcha!” When you do, return Cardpecker from your graveyard to your hand."
+1½/1
+Cardpecker
+{1}{W}
+Creature — Bird
+Flying
+"Gotcha — If an opponent touches the table with their hand, you may say “Gotcha!” When you do, return Cardpecker from your graveyard to your hand."
+1½/1
+Carnivorous Death-Parrot
+{1}{U}
+Creature — Bird
+Flying
+"At the beginning of your upkeep, sacrifice Carnivorous Death-Parrot unless you say its flavor text."
+2/2
+Cheap Ass
+{1}{W}
+Creature — Donkey Townsfolk
+Spells you cast cost {½} less to cast.
+1/3½
+Cheatyface
+{U}{U}{U}
+Creature — Efreet
+"If Cheatyface is in your hand, you may sneak Cheatyface onto the battlefield. If an opponent catches you right away, that player may exile Cheatyface."
+Flying
+2/2
+Circle of Protection: Art
+{1}{W}
+Enchantment
+"As Circle of Protection: Art enters the battlefield, choose an artist."
+"{1}{W}: The next time a source of your choice with art by the chosen artist would deal damage to you this turn, prevent that damage."
+{1}{W}: Return Circle of Protection: Art to its owner’s hand.
+City of Ass
+Land
+City of Ass enters the battlefield tapped.
+{T}: Add one and one-half mana of any one color.
+Collector Protector
+{3}{W}{W}
+Creature — Human Gamer
+"{W}, Give an opponent a nonland card you own from outside the game: Prevent the next 1 damage that would be dealt to you or Collector Protector this turn."
+2/5
+Creature Guy
+{3}{G}
+Creature — Beast
+"Gotcha — If an opponent says “creature” or “guy,” you may say “Gotcha!” When you do, return Creature Guy from your graveyard to your hand."
+3/3
+Curse of the Fire Penguin
+{4}{R}{R}
+Enchantment — Aura
+Enchant creature
+Curse of the Fire Penguin consumes and confuses enchanted creature.
+Curse of the Fire Penguin Creature
+Creature — Penguin
+Trample
+"When this creature dies, return Curse of the Fire Penguin to the battlefield."
+6/5
+Deal Damage
+{2}{R}{R}
+Instant
+Deal Damage deals 4 damage to any target.
+"Gotcha — If an opponent says “deal” or “damage,” you may say “Gotcha!” When you do, return Deal Damage from your graveyard to your hand."
+Double Header
+{3}{U}{U}
+Creature — Drake
+Flying
+"When Double Header enters the battlefield, you may return target permanent with a two-word name to its owner’s hand."
+2/3
+Drawn Together
+{2}{W}{W}
+Enchantment
+"As Drawn Together enters the battlefield, choose an artist."
+Creatures with art by the chosen artist get +2/+2.
+Duh
+{B}
+Instant
+Destroy target creature with reminder text. (Reminder text is any italicized text in parentheses that explains rules you already know.)
+Dumb Ass
+{2}{R}
+Creature — Donkey Barbarian
+"At the beginning of your upkeep, flip a coin. If you lose the flip, target opponent chooses whether Dumb Ass attacks this turn."
+3½/2
+Elvish House Party
+{4}{G}{G}
+Creature — Elf Rogue
+"Elvish House Party’s power and toughness are each equal to the current hour, using the twelve-hour system."
+*/*
+Emcee
+{2}{W}
+Creature — Human Rogue
+"Whenever another creature enters the battlefield, you may stand up and say in a deep, booming voice, “Presenting … ” and that creature’s name. If you do, put a +1/+1 counter on that creature."
+0/1
+Emcee
+{2}{W}
+Creature — Human Rogue
+"Whenever another creature enters the battlefield, you may stand up and say in a deep, booming voice, “Presenting … ” and that creature’s name. If you do, put a +1/+1 counter on that creature."
+0/1
+Enter the Dungeon
+{B}{B}
+Sorcery
+"Players play a Magic subgame under the table, starting at 5 life and using their libraries as their decks. The winner searches their library for two cards, puts those cards into their hand, then shuffles their library."
+Erase (Not the Urza's Legacy One)
+{2}{W}
+Instant
+"If you control two or more white permanents that share an artist, you may cast this spell without paying its mana cost."
+Exile target enchantment.
+Eye to Eye
+{2}{B}
+Instant
+"You and target creature’s controller have a staring contest. If you win, destroy that creature."
+Face to Face
+{1}{R}
+Sorcery
+"You and target opponent play a best two-out-of-three Rock, Paper, Scissors match. If you win, Face to Face deals 5 damage to that player."
+Farewell to Arms
+{1}{B}{B}
+Enchantment
+"As Farewell to Arms enters the battlefield, choose a hand attached to an opponent’s arm."
+"When the chosen hand isn’t behind its owner’s back, sacrifice Farewell to Arms. If you do, that player discards their hand … of cards. (The lawyers wouldn’t let us do it the other way.)"
+Farewell to Arms
+{1}{B}{B}
+Enchantment
+"As Farewell to Arms enters the battlefield, choose a hand attached to an opponent’s arm."
+"When the chosen hand isn’t behind its owner’s back, sacrifice Farewell to Arms. If you do, that player discards their hand … of cards. (The lawyers wouldn’t let us do it the other way.)"
+Fascist Art Director
+{1}{W}{W}
+Creature — Human Horror
+{W}{W}: Fascist Art Director gains protection from the artist of your choice until end of turn.
+2/2
+Fat Ass
+{4}{G}
+Creature — Donkey Shaman
+Fat Ass gets +2/+2 and has trample as long as you’re eating. (Gum isn’t food. We checked.)
+2/3½
+"First Come, First Served"
+{1}{W}
+Enchantment
+Each attacking or blocking creature with the lowest collector number among attacking or blocking creatures has first strike.
+Flaccify
+{2}{U}
+Instant
+Counter target spell unless its controller pays {3}{½}.
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Form of the Squirrel
+{G}
+Enchantment
+"As Form of the Squirrel enters the battlefield, create a 1/1 green Squirrel creature token. You lose the game when that creature leaves the battlefield."
+Creatures can’t attack you.
+You have shroud.
+You can’t cast spells.
+Fraction Jackson
+{2}{G}
+Creature — Human Hero
+"{G}, {T}: Return target card with a ½ on it from your graveyard to your hand."
+1/1½
+Framed!
+{1}{U}
+Instant
+Choose an artist. Tap all untapped permanents with art by that artist or untap all tapped permanents with art by that artist.
+Frankie Peanuts
+{2}{W}{W}
+Legendary Creature — Elephant Rogue
+"At the beginning of your upkeep, you may ask target player a yes-or-no question. If you do, that player answers the question truthfully and abides by that answer if able until end of turn."
+2/3
+Frazzled Editor
+{1}{R}
+Creature — Human Bureaucrat
+Protection from wordy (Something is wordy if it has four or more lines of rules text.)
+2/2
+Frazzled Editor
+{1}{R}
+Creature — Human Bureaucrat
+Protection from wordy (Something is wordy if it has four or more lines of rules text.)
+2/2
+Gleemax
+{1000000}
+Legendary Artifact
+You choose all targets for all spells and abilities.
+Gleemax
+{1000000}
+Legendary Artifact
+You choose all targets for all spells and abilities.
+Gluetius Maximus
+{3}{G}{G}
+Creature — Beast
+"As Gluetius Maximus enters the battlefield, an opponent chooses one of your fingers. (Thumbs are fingers, too.)"
+"When the chosen finger isn’t touching Gluetius Maximus, sacrifice Gluetius Maximus."
+5/5
+Goblin Mime
+{1}{R}
+Creature — Goblin Mime
+"When you speak, sacrifice Goblin Mime."
+2/2
+Goblin Mime
+{1}{R}
+Creature — Goblin Mime
+"When you speak, sacrifice Goblin Mime."
+2/2
+Goblin Secret Agent
+{2}{R}
+Creature — Goblin Rogue
+First strike
+"At the beginning of your upkeep, reveal a card from your hand at random."
+2/2
+Goblin S.W.A.T. Team
+{3}{R}
+Creature — Goblin Warrior
+Say “Goblin S.W.A.T. Team”: Put a +1/+1 counter on Goblin S.W.A.T. Team unless an opponent swats the table within five seconds. Activate this ability only once each turn.
+2/2
+Granny's Payback
+{7}{G}
+Sorcery
+You gain life equal to your age.
+Graphic Violence
+{2}{G}
+Instant
+All creatures with art by the artist of your choice get +2/+2 and gain trample until end of turn.
+Greater Morphling
+{6}{U}{U}
+Creature — Shapeshifter
+"{2}: Greater Morphling gains your choice of banding, bushido 1, double strike, fear, flying, first strike, haste, landwalk of your choice, protection from a color of your choice, provoke, rampage 1, shadow, or trample until end of turn."
+{2}: Greater Morphling becomes the colors of your choice until end of turn.
+{2}: Greater Morphling becomes the creature type of your choice until end of turn.
+{2}: Greater Morphling’s expansion symbol becomes the symbol of your choice until end of turn.
+{2}: Greater Morphling’s art becomes by the artist of your choice until end of turn.
+{2}: Greater Morphling gets +2/-2 or -2/+2 until end of turn.
+{2}: Untap Greater Morphling.
+5/5
+Greater Morphling
+{6}{U}{U}
+Creature — Shapeshifter
+"{2}: Greater Morphling gains your choice of banding, bushido 1, double strike, fear, flying, first strike, haste, landwalk of your choice, protection from a color of your choice, provoke, rampage 1, shadow, or trample until end of turn."
+{2}: Greater Morphling becomes the colors of your choice until end of turn.
+{2}: Greater Morphling becomes the creature type of your choice until end of turn.
+{2}: Greater Morphling’s expansion symbol becomes the symbol of your choice until end of turn.
+{2}: Greater Morphling’s art becomes by the artist of your choice until end of turn.
+{2}: Greater Morphling gets +2/-2 or -2/+2 until end of turn.
+{2}: Untap Greater Morphling.
+5/5
+Head to Head
+{W}
+Instant
+"You and target opponent play Seven Questions with the top card of that player’s library. If you win, prevent all damage that would be dealt this turn by a source of your choice. (To play Seven Questions, that player looks at the card, then you ask up to six yes-or-no questions about the card that they answer truthfully. You guess the card’s name—that’s question seven—then the player reveals the card.)"
+Infernal Spawn of Infernal Spawn of Evil
+{8}{B}{B}
+Creature — Demon Child
+"Flying, first strike, trample"
+"Once each turn, while you’re searching your library, you may pay {1}{B}, reveal Infernal Spawn of Infernal Spawn of Evil from your library and say “I’m coming, too!” If you do, Infernal Spawn of Infernal Spawn of Evil deals 2 damage to a player of your choice."
+8/8
+Island
+Basic Land — Island
+({T}: Add {U}.)
+"Johnny, Combo Player"
+{2}{U}{U}
+Legendary Creature — Human Gamer
+"{4}: Search your library for a card, put that card into your hand, then shuffle your library."
+1/1
+Keeper of the Sacred Word
+{2}{G}
+Creature — Human Druid
+"As Keeper of the Sacred Word enters the battlefield, choose a word."
+"Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn."
+2/3
+Keeper of the Sacred Word
+{2}{G}
+Creature — Human Druid
+"As Keeper of the Sacred Word enters the battlefield, choose a word."
+"Whenever an opponent says the chosen word, Keeper of the Sacred Word gets +3/+3 until end of turn."
+2/3
+Kill! Destroy!
+{1}{B}{B}
+Instant
+Destroy target nonblack creature.
+"Gotcha — If an opponent says “kill” or “destroy,” you may say “Gotcha!” When you do, return Kill! Destroy! from your graveyard to your hand."
+Ladies' Knight
+{3}{W}
+Creature — Human Knight
+Flying
+Spells cast by players wearing at least one item of women’s clothing cost {1} less to cast. (You can define women’s clothing as you see fit. Be reasonable.)
+2/2
+Land Aid '04
+{G}{G}
+Sorcery
+"Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. If you sang a song the whole time you were searching and shuffling, you may untap that land."
+Laughing Hyena
+{1}{G}
+Creature — Hyena
+"Gotcha — If an opponent laughs, you may say “Gotcha!” When you do, return Laughing Hyena from your graveyard to your hand."
+2/2
+Laughing Hyena
+{1}{G}
+Creature — Hyena
+"Gotcha — If an opponent laughs, you may say “Gotcha!” When you do, return Laughing Hyena from your graveyard to your hand."
+2/2
+Letter Bomb
+{6}
+Artifact
+"When Letter Bomb enters the battlefield, sign it and shuffle it into target player’s library. That player reveals each card they draw until they draw Letter Bomb. When that player draws Letter Bomb, it deals 19½ damage to them."
+Letter Bomb
+{6}
+Artifact
+"When Letter Bomb enters the battlefield, sign it and shuffle it into target player’s library. That player reveals each card they draw until they draw Letter Bomb. When that player draws Letter Bomb, it deals 19½ damage to them."
+Little Girl
+{HW}
+Creature — Human Child
+½/½
+"Look at Me, I'm R&D"
+{2}{W}
+Enchantment
+"As Look at Me, I’m R&D enters the battlefield, choose a number and a second number one higher or one lower than the first number."
+"All instances of the first chosen number in the full text of each permanent, spell, and card in any zone are changed to the second chosen number."
+Loose Lips
+{U}
+Enchantment — Aura
+Enchant creature
+"As Loose Lips enters the battlefield, choose a sentence with eight or fewer words."
+Enchanted creature has flying.
+"Whenever enchanted creature deals damage to an opponent, that player may say the chosen sentence. If they don’t, you draw two cards."
+Magical Hacker
+{1}{U}
+Creature — Human Gamer
+"{U}: Change the text of target spell or permanent by replacing all instances of + with -, and vice versa, until end of turn."
+1/2
+Mana Flair
+{1}{R}
+Instant
+Add {R} for each nonland permanent with art by the artist of your choice.
+Mana Screw
+{1}
+Artifact
+"{1}: Flip a coin. If you win the flip, add {C}{C}. Activate this ability only any time you could cast an instant."
+Mana Screw
+{1}
+Artifact
+"{1}: Flip a coin. If you win the flip, add {C}{C}. Activate this ability only any time you could cast an instant."
+Man of Measure
+{1}{W}{W}
+Creature — Human Knight
+"As long as you’re shorter than an opponent, Man of Measure gets +0/+1 and has first strike."
+"As long as you’re taller than an opponent, Man of Measure gets +1/+0."
+2/2
+Meddling Kids
+{2}{W}{U}
+Creature — Human Child
+"As Meddling Kids enters the battlefield, choose a word with four or more letters."
+Spells with the chosen word in their text box can’t be cast.
+2/3
+Mise
+{U}
+Instant
+"Choose a nonland card name, then reveal the top card of your library. If that card has the chosen name, you draw three cards."
+Moniker Mage
+{2}{U}
+Creature — Human Wizard
+"{U}, Say your middle name: Moniker Mage gains shroud until end of turn."
+"{U}, Say an opponent’s middle name: Moniker Mage gains flying until end of turn."
+2/2
+Monkey Monkey Monkey
+{3}{G}
+Creature — Monkey
+"As Monkey Monkey Monkey enters the battlefield, choose a letter."
+Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins with the chosen letter.
+1/1
+Monkey Monkey Monkey
+{3}{G}
+Creature — Monkey
+"As Monkey Monkey Monkey enters the battlefield, choose a letter."
+Monkey Monkey Monkey gets +1/+1 for each nonland permanent whose name begins with the chosen letter.
+1/1
+Mons's Goblin Waiters
+{R}
+Creature — Goblin Waiter
+Sacrifice a creature or land: Add {HR}.
+1/1
+Mons's Goblin Waiters
+{R}
+Creature — Goblin Waiter
+Sacrifice a creature or land: Add {HR}.
+1/1
+Mother of Goons
+{2}{B}
+Creature — Human Cleric
+"Whenever a creature an opponent controls dies, sacrifice Mother of Goons unless you insult that creature."
+3/2
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mouth to Mouth
+{3}{U}
+Sorcery
+"Choose target opponent and target creature they control. You and that player have a breath-holding contest. If you win, you gain control of that creature."
+Mox Lotus
+{15}
+Artifact
+{T}: Add {∞}.
+{100}: Add one mana of any color.
+Mox Lotus
+{15}
+Artifact
+{T}: Add {∞}.
+{100}: Add one mana of any color.
+My First Tome
+{3}
+Artifact
+"{1}, {T}: Say the flavor text on a card in your hand. Target opponent guesses that card’s name. You may reveal that card. If you do and they guessed wrong, you draw a card."
+My First Tome
+{3}
+Artifact
+"{1}, {T}: Say the flavor text on a card in your hand. Target opponent guesses that card’s name. You may reveal that card. If you do and they guessed wrong, you draw a card."
+Name Dropping
+{1}{G}
+Enchantment
+"Gotcha — If an opponent says a word that’s in the name of a card in your graveyard, you may say “Gotcha!” When you do, return that card to your hand."
+Necro-Impotence
+{B}{B}{B}
+Enchantment
+Skip your untap step.
+"At the beginning of your upkeep, you may pay X life. If you do, untap X permanents."
+Pay ½ life: Exile the top card of your library face down. Put that card into your hand at the beginning of the next end step.
+Now I Know My ABC's
+{1}{U}{U}
+Enchantment
+"At the beginning of your upkeep, if you control permanents with names that include all twenty-six letters of the English alphabet, you win the game."
+Number Crunch
+{2}{U}
+Instant
+Return target permanent to its owner’s hand.
+"Gotcha — If an opponent says a number, you may say “Gotcha!” When you do, return Number Crunch from your graveyard to your hand."
+Old Fogey
+{G}{G}
+Summon — Dinosaur
+"Phasing, cumulative upkeep {1}, echo {G}{G}, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2"
+7/7
+Old Fogey
+{G}{G}
+Summon — Dinosaur
+"Phasing, cumulative upkeep {1}, echo {G}{G}, fading 3, bands with other Dinosaurs, protection from Homarids, snow-covered plainswalk, flanking, rampage 2"
+7/7
+Orcish Paratroopers
+{2}{R}
+Creature — Orc Paratrooper
+"When Orcish Paratroopers enters the battlefield, flip it from a height of at least one foot. Sacrifice Orcish Paratroopers unless it turns over completely at least once during the flip and lands face up."
+4/4
+Our Market Research Shows That Players Like Really Long Card Names So We Made this Card to Have the Absolute Longest Card Name Ever Elemental
+{1}{G}{G}
+Creature — Elemental
+"Art rampage 2 (Whenever this creature becomes blocked by a creature, it gets +2/+2 for each creature in the blocker’s art beyond the first.)"
+2/2
+Persecute Artist
+{1}{B}{B}
+Sorcery
+Choose an artist other than Rebecca Guay. Target player reveals their hand and discards all nonland cards with art by the chosen artist.
+Phyrexian Librarian
+{3}{B}
+Creature — Horror
+"Flying, trample"
+"At the beginning of your upkeep, exile the top card of your library and balance it on your body."
+"When a balanced card falls or touches another balanced card, sacrifice Phyrexian Librarian."
+3/3
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Pointy Finger of Doom
+{4}
+Artifact
+"{3}, {T}: Spin Pointy Finger of Doom in the middle of the table so that it rotates completely at least once, then destroy the closest permanent the finger points to."
+Punctuate
+{3}{R}
+Instant
+"Punctuate deals damage to target creature equal to half the number of punctuation marks in that creature’s text box. (The punctuation marks are ! ? , ; : - — ( ) / “ ” ‘ ’ & .)"
+Pygmy Giant
+{1}{R}{R}
+Creature — Giant
+"{R}, {T}, Sacrifice a creature: Pygmy Giant deals X damage to target creature, where X is a number in the sacrificed creature’s text box."
+0/2
+Question Elemental?
+{2}{U}{U}
+Creature — Elemental?
+Did you know this creature has flying?
+"Are you aware that any time you say something that isn’t a question, when a player points out this fact first, they gain control of Question Elemental?"
+3/4
+Question Elemental?
+{2}{U}{U}
+Creature — Elemental?
+Did you know this creature has flying?
+"Are you aware that any time you say something that isn’t a question, when a player points out this fact first, they gain control of Question Elemental?"
+3/4
+Rare-B-Gone
+{2}{B}{R}
+Sorcery
+"Each player sacrifices all permanents that are rare or mythic rare, then each player reveals their hand and discards all cards that are rare or mythic rare."
+R&D's Secret Lair
+Legendary Land
+Play cards as written. Ignore all errata.
+{T}: Add {C}. (This mana is still added to your mana pool.)
+Red-Hot Hottie
+{2}{R}{R}
+Creature — Elemental
+"Whenever Red-Hot Hottie deals damage to a creature, put a third-degree-burn counter on that creature. It gains “At the beginning of each end step, sacrifice this creature unless you scream ‘Aaah!’ at the top of your lungs.”"
+2/5
+Remodel
+{2}{G}
+Instant
+"If you control two or more green permanents that share an artist, you may cast this spell without paying its mana cost."
+Exile target artifact.
+"Richard Garfield, Ph.D."
+{3}{U}{U}
+Legendary Creature — Human Designer
+You may play cards as though they were other cards of your choice with the same mana cost. You can’t choose the same card twice. (Mana cost includes color.)
+2/2
+"Richard Garfield, Ph.D."
+{3}{U}{U}
+Legendary Creature — Human Designer
+You may play cards as though they were other cards of your choice with the same mana cost. You can’t choose the same card twice. (Mana cost includes color.)
+2/2
+Rocket-Powered Turbo Slug
+{3}{R}
+Creature — Slug
+"Super haste (This may attack the turn before you cast it. (You may put this card from your hand onto the battlefield tapped and attacking during your declare attackers step. If you do, you lose the game at the beginning of your next turn’s end step unless you pay this card’s mana cost during that turn.))"
+3/1
+Rod of Spanking
+{1}
+Artifact
+"{2}, {T}: Rod of Spanking deals 1 damage to target player. Then untap Rod of Spanking unless that player says “Thank you, sir. May I have another?”"
+Sauté
+{1}{R}{R}
+Instant
+Sauté deals 3½ damage to any target.
+Save Life
+{W}
+Instant
+Choose one —
+• Target player gains 2½ life.
+• Prevent the next 2½ damage that would be dealt to target creature this turn.
+"Gotcha — If an opponent says “save” or “life,” you may say “Gotcha!” When you do, return Save Life from your graveyard to your hand."
+Shoe Tree
+{4}{G}
+Creature — Treefolk
+Shoe Tree enters the battlefield with up to two shoe counters on it. Use your shoes as counters.
+Shoe Tree gets +1/+1 for each shoe counter on it.
+3/3
+Shoe Tree
+{4}{G}
+Creature — Treefolk
+Shoe Tree enters the battlefield with up to two shoe counters on it. Use your shoes as counters.
+Shoe Tree gets +1/+1 for each shoe counter on it.
+3/3
+Side to Side
+{2}{G}
+Instant
+"You and target opponent arm-wrestle. If you win, create a 3/3 green Ape creature token."
+Six-y Beast
+{3}{R}
+Creature — Beast
+"As Six-y Beast enters the battlefield, you secretly put six or fewer +1/+1 counters on it, then an opponent guesses the number of counters. If that player guesses right, sacrifice Six-y Beast after it enters the battlefield."
+0/0
+Smart Ass
+{2}{U}
+Creature — Donkey Wizard
+"Whenever Smart Ass attacks, choose a card name. If defending player has no cards with the chosen name in their hand, they may reveal their hand. If they don’t reveal their hand, Smart Ass can’t be blocked this turn."
+2½/1
+S.N.O.T.
+{G}
+Creature — Ooze
+"You may have S.N.O.T. enter the battlefield stuck to another creature named S.N.O.T. If you do, all those creatures form a single creature."
+"S.N.O.T.‘s power and toughness are each equal to the square of the number of cards named S.N.O.T. stuck together to form it. (One is a 1/1, two are a 4/4, three are a 9/9, and four are a 16/16. If you manage to get -1 S.N.O.T.s stuck together, it’s a 1/1.)"
+*²/*²
+Spell Counter
+{2}{U}{U}
+Instant
+Counter target spell.
+"Gotcha — If an opponent says “spell” or “counter,” you may say “Gotcha!” When you do, return Spell Counter from your graveyard to your hand."
+Standing Army
+{2}{W}{W}
+Creature — Human Soldier
+"As long as you’re standing, Standing Army has vigilance."
+2/4
+Standing Army
+{2}{W}{W}
+Creature — Human Soldier
+"As long as you’re standing, Standing Army has vigilance."
+2/4
+Staying Power
+{2}{W}
+Enchantment
+“Until end of turn” and “this turn” effects don’t end.
+Stone-Cold Basilisk
+{4}{G}
+Creature — Basilisk
+"Whenever Stone-Cold Basilisk blocks or becomes blocked by a creature with fewer letters in its name, destroy that creature at end of combat. (Punctuation and spaces aren’t letters.)"
+"Whenever an opponent reads Stone-Cold Basilisk, that player is turned to stone until end of turn. Stoned players can’t attack, block, cast spells, or activate abilities."
+2½/5
+Stop That
+{B}
+Instant
+Target player discards a card.
+"Gotcha — If an opponent audibly flicks the cards in their hand, you may say “Gotcha!” When you do, return Stop That from your graveyard to your hand."
+Super Secret Tech
+{3}
+Artifact
+Premium spells cost {1} less to cast.
+Premium creatures get +1/+1.
+Supersize
+{1}{G}
+Instant
+Target creature gets +3½/+3½ until end of turn.
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Symbol Status
+{2}{G}{G}
+Sorcery
+Create a 1/1 colorless Expansion-Symbol creature token for each different expansion symbol among permanents you control.
+Tainted Monkey
+{1}{B}
+Creature — Monkey
+"{T}: Choose a word. Target player mills a card. If a card with the chosen word in its text box was milled this way, they lose 3 life."
+1/1
+The Fallen Apart
+{2}{B}{B}
+Creature — Zombie
+The Fallen Apart enters the battlefield with two arms and two legs.
+"Whenever damage is dealt to The Fallen Apart, remove an arm or a leg from it."
+The Fallen Apart can’t attack if it has no legs and can’t block if it has no arms.
+4/4
+Time Machine
+{5}
+Artifact
+"{T}: Exile Time Machine and target nontoken creature you own. Return them to the battlefield at the beginning of your upkeep on your turn X in the next game you play with one of your opponents in this game, where X is the converted mana cost of the exiled creature."
+Time Machine
+{5}
+Artifact
+"{T}: Exile Time Machine and target nontoken creature you own. Return them to the battlefield at the beginning of your upkeep on your turn X in the next game you play with one of your opponents in this game, where X is the converted mana cost of the exiled creature."
+Togglodyte
+{3}
+Artifact Creature — Golem
+Togglodyte enters the battlefield turned on.
+"Whenever a player casts a spell, toggle Togglodyte’s ON/OFF switch."
+"As long as Togglodyte is turned off, it can’t attack or block, and prevent all damage it would deal."
+4/4
+Topsy Turvy
+{2}{U}
+Enchantment
+"The phases of each player’s turn are reversed. (The phases are, in reverse order, ending, postcombat main, combat, precombat main, and beginning.)"
+"As long as there are more than two players in the game, the turn order is reversed."
+Touch and Go
+{3}{R}
+Sorcery
+Destroy target land.
+"Gotcha — If an opponent touches their face, you may say “Gotcha!” When you do, return Touch and Go from your graveyard to your hand."
+Touch and Go
+{3}{R}
+Sorcery
+Destroy target land.
+"Gotcha — If an opponent touches their face, you may say “Gotcha!” When you do, return Touch and Go from your graveyard to your hand."
+Toy Boat
+{3}
+Artifact Creature — Ship
+"Cumulative upkeep—Say “Toy Boat” quickly. (At the beginning of your upkeep, put an age counter on Toy Boat, then sacrifice it unless you say “Toy Boat” once for each age counter on it—without pausing between or fumbling it.)"
+3/3
+Uktabi Kong
+{5}{G}{G}{G}
+Creature — Ape
+Trample
+"When Uktabi Kong enters the battlefield, destroy all artifacts."
+Tap two untapped Apes you control: Create a 1/1 green Ape creature token.
+8/8
+Urza's Hot Tub
+{2}
+Artifact
+"{2}, Discard a card: Search your library for a card that shares a complete word in its name with the discarded card, reveal it, put it into your hand, then shuffle your library."
+Vile Bile
+{1}{B}
+Creature — Ooze
+"Whenever a player’s skin or fingernail touches Vile Bile, that player loses 2 life."
+2½/2½
+Water Gun Balloon Game
+{2}
+Artifact
+"As Water Gun Balloon Game enters the battlefield, each player puts a pop! counter on “0.”"
+"Whenever a player casts a spell, move that player’s pop! counter up one."
+"Whenever a player’s pop! counter hits “5,” that player creates a 5/5 pink Giant Teddy Bear creature token and resets all pop! counters to “0.”"
+Wet Willie of the Damned
+{2}{B}{B}
+Sorcery
+Wet Willie of the Damned deals 2½ damage to any target and you gain 2½ life.
+When Fluffy Bunnies Attack
+{3}{B}
+Instant
+"Target creature gets -X/-X until end of turn, where X is the number of times the letter of your choice appears in that creature’s name."
+When Fluffy Bunnies Attack
+{3}{B}
+Instant
+"Target creature gets -X/-X until end of turn, where X is the number of times the letter of your choice appears in that creature’s name."
+Who
+{X}{W}
+Instant
+Target player gains X life.
+What
+{2}{R}
+Instant
+Destroy target artifact.
+When
+{2}{U}
+Instant
+Counter target creature spell.
+Where
+{3}{B}
+Instant
+Destroy target land.
+Why
+{1}{G}
+Instant
+Destroy target enchantment.
+Wordmail
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each word in its name.
+Working Stiff
+{1}{B}
+Creature — Mummy
+"As Working Stiff enters the battlefield, straighten your arms."
+"When you bend an elbow, sacrifice Working Stiff."
+2/2
+World-Bottling Kit
+{5}
+Artifact
+"{5}, Sacrifice World-Bottling Kit: Choose a Magic set. Exile all permanents with that set’s expansion symbol except for basic lands."
+Yet Another Aether Vortex
+{3}{R}{R}
+Enchantment
+All creatures have haste.
+Players play with the top card of their libraries revealed.
+"Noninstant, nonsorcery cards on top of a library are on the battlefield under their owner’s control in addition to being in that library."
+Zombie Fanboy
+{2}{B}
+Creature — Zombie Gamer
+"As Zombie Fanboy enters the battlefield, choose an artist."
+"Whenever a permanent with art by the chosen artist is put into a graveyard, put two +1/+1 counters on Zombie Fanboy."
+1/1
+Zzzyxas's Abyss
+{1}{B}{B}
+Enchantment
+"At the beginning of your upkeep, destroy all nonland permanents with the first name alphabetically among nonland permanents."

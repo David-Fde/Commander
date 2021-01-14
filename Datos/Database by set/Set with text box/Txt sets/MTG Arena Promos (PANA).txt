@@ -1,0 +1,208 @@
+Bladewing the Risen
+{3}{B}{B}{R}{R}
+Legendary Creature — Zombie Dragon
+Flying
+"When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield."
+{B}{R}: Dragon creatures get +1/+1 until end of turn.
+4/4
+Duress
+{B}
+Sorcery
+"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Firemind's Research
+{U}{R}
+Enchantment
+"Whenever you cast an instant or sorcery spell, put a charge counter on Firemind’s Research."
+"{1}{U}, Remove two charge counters from Firemind’s Research: Draw a card."
+"{1}{R}, Remove five charge counters from Firemind’s Research: It deals 5 damage to any target."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+"Ghalta, Primal Hunger"
+{10}{G}{G}
+Legendary Creature — Elder Dinosaur
+"This spell costs {X} less to cast, where X is the total power of creatures you control."
+Trample
+12/12
+"Hanna, Ship's Navigator"
+{1}{W}{U}
+Legendary Creature — Human Artificer
+"{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand."
+1/2
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Llanowar Elves
+{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/1
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+"Ral, Izzet Viceroy"
+{3}{U}{R}
+Legendary Planeswalker — Ral
++1: Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.
+"−3: Ral, Izzet Viceroy deals damage to target creature equal to the total number of instant and sorcery cards you own in exile and in your graveyard."
+"−8: You get an emblem with “Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.”"
+Loyalty: 5
+Rhys the Redeemed
+{G/W}
+Legendary Creature — Elf Warrior
+"{2}{G/W}, {T}: Create a 1/1 green and white Elf Warrior creature token."
+"{4}{G/W}{G/W}, {T}: For each creature token you control, create a token that’s a copy of that creature."
+1/1
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+"Talrand, Sky Summoner"
+{2}{U}{U}
+Legendary Creature — Merfolk Wizard
+"Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying."
+2/2
+"Teferi, Hero of Dominaria"
+{3}{W}{U}
+Legendary Planeswalker — Teferi
+"+1: Draw a card. At the beginning of the next end step, untap up to two lands."
+−3: Put target nonland permanent into its owner’s library third from the top.
+"−8: You get an emblem with “Whenever you draw a card, exile target permanent an opponent controls.”"
+Loyalty: 4
+The Gitrog Monster
+{3}{B}{G}
+Legendary Creature — Frog Horror
+Deathtouch
+"At the beginning of your upkeep, sacrifice The Gitrog Monster unless you sacrifice a land."
+You may play an additional land on each of your turns.
+"Whenever one or more land cards are put into your graveyard from anywhere, draw a card."
+6/6
+"Vraska, Golgari Queen"
+{2}{B}{G}
+Legendary Planeswalker — Vraska
+"+2: You may sacrifice another permanent. If you do, you gain 1 life and draw a card."
+−3: Destroy target nonland permanent with converted mana cost 3 or less.
+"−9: You get an emblem with “Whenever a creature you control deals combat damage to a player, that player loses the game.”"
+Loyalty: 4

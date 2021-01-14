@@ -1,0 +1,60 @@
+Basking Rootwalla
+{G}
+Creature — Lizard
+{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+"Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+1/1
+Cabal Coffers
+Land
+"{2}, {T}: Add {B} for each Swamp you control."
+Deep Analysis
+{3}{U}
+Sorcery
+Target player draws two cards.
+"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Engineered Plague
+{2}{B}
+Enchantment
+"As Engineered Plague enters the battlefield, choose a creature type."
+All creatures of the chosen type get -1/-1.
+Firebolt
+{R}
+Sorcery
+Firebolt deals 2 damage to any target.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Force Spike
+{U}
+Instant
+Counter target spell unless its controller pays {1}.
+Gerrard's Verdict
+{W}{B}
+Sorcery
+Target player discards two cards. You gain 3 life for each land card discarded this way.
+Goblin Legionnaire
+{R}{W}
+Creature — Goblin Soldier
+"{R}, Sacrifice Goblin Legionnaire: It deals 2 damage to any target."
+"{W}, Sacrifice Goblin Legionnaire: Prevent the next 2 damage that would be dealt to any target this turn."
+2/2
+Goblin Ringleader
+{3}{R}
+Creature — Goblin
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
+2/2
+Roar of the Wurm
+{6}{G}
+Sorcery
+Create a 6/6 green Wurm creature token.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Wing Shards
+{1}{W}{W}
+Instant
+Target player sacrifices an attacking creature.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Wonder
+{3}{U}
+Creature — Incarnation
+Flying
+"As long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
+2/2

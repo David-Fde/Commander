@@ -1,0 +1,10 @@
+Elemental
+Token Creature — Elemental
+Trample
+7/7
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Goblin
+Token Creature — Goblin
+1/1

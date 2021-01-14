@@ -1,0 +1,37 @@
+Chalice of the Void
+{X}{X}
+Artifact
+Chalice of the Void enters the battlefield with X charge counters on it.
+"Whenever a player casts a spell with converted mana cost equal to the number of charge counters on Chalice of the Void, counter that spell."
+Isolated Watchtower
+Land
+{T}: Add {C}.
+"{2}, {T}: Scry 1, then you may reveal the top card of your library. If a basic land card is revealed this way, put it onto the battlefield tapped. Activate this ability only if an opponent controls at least two more lands than you."
+Mirri's Guile
+{G}
+Enchantment
+"At the beginning of your upkeep, you may look at the top three cards of your library, then put them back in any order."
+Monastery Mentor
+{2}{W}
+Creature — Human Monk
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+"Whenever you cast a noncreature spell, create a 1/1 white Monk creature token with prowess."
+2/2
+Mox Opal
+{0}
+Legendary Artifact
+Metalcraft — {T}: Add one mana of any color. Activate this ability only if you control three or more artifacts.
+Reflecting Pool
+Land
+{T}: Add one mana of any type that a land you control could produce.
+Sliver Legion
+{W}{U}{B}{R}{G}
+Legendary Creature — Sliver
+All Sliver creatures get +1/+1 for each other Sliver on the battlefield.
+7/7
+"Yuriko, the Tiger's Shadow"
+{1}{U}{B}
+Legendary Creature — Human Ninja
+"Commander ninjutsu {U}{B} ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand or the command zone tapped and attacking.)"
+"Whenever a Ninja you control deals combat damage to a player, reveal the top card of your library and put that card into your hand. Each opponent loses life equal to that card’s converted mana cost."
+1/3

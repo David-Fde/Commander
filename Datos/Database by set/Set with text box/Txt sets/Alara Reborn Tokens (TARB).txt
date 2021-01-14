@@ -1,0 +1,14 @@
+Bird Soldier
+Token Creature — Bird Soldier
+Flying
+1/1
+Dragon
+Token Creature — Dragon
+"Flying, devour 2"
+1/1
+Lizard
+Token Creature — Lizard
+2/2
+Zombie Wizard
+Token Creature — Zombie Wizard
+1/1

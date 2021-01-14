@@ -1,0 +1,69 @@
+Ability Punchcard
+Card
+Ability Punchcard
+Card
+Angel
+Token Creature — Angel
+Flying
+4/4
+Beast
+Token Creature — Beast
+4/4
+Bird
+Token Creature — Bird
+Flying
+1/1
+Bird Illusion
+Token Creature — Bird Illusion
+Flying
+1/1
+Dinosaur Cat
+Token Creature — Dinosaur Cat
+2/2
+Drake
+Token Creature — Drake
+Flying
+2/2
+Elemental
+Token Creature — Elemental
+3/1
+Elemental
+Token Creature — Elemental
+Flying
+4/4
+Goblin Warrior
+Token Creature — Goblin Warrior
+1/1
+Human
+Token Creature — Human
+1/1
+Hydra
+Token Creature — Hydra
+0/0
+Insect
+Token Creature — Insect
+"Flying, deathtouch"
+1/1
+Insect
+Token Creature — Insect
+"Flying, haste"
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Snake
+Token Creature — Snake
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Zombie
+Token Creature — Zombie
+2/2

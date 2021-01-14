@@ -1,0 +1,5 @@
+Astral Drift
+{2}{W}
+Enchantment
+"Whenever you cycle Astral Drift or cycle another card while Astral Drift is on the battlefield, you may exile target creature. If you do, return that card to the battlefield under its owner’s control at the beginning of the next end step."
+"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)"

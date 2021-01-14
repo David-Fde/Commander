@@ -1,0 +1,33 @@
+Elvish Champion
+{1}{G}{G}
+Creature — Elf
+Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)
+2/2
+Glorious Anthem
+{1}{W}{W}
+Enchantment
+Creatures you control get +1/+1.
+Sakura-Tribe Elder
+{1}{G}
+Creature — Snake Shaman
+"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
+1/1
+Shard Phoenix
+{4}{R}
+Creature — Phoenix
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Sacrifice Shard Phoenix: It deals 2 damage to each creature without flying.
+{R}{R}{R}: Return Shard Phoenix from your graveyard to your hand. Activate this ability only during your upkeep.
+2/2
+Soltari Priest
+{W}{W}
+Creature — Soltari Cleric
+Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+2/1
+Whirling Dervish
+{G}{G}
+Creature — Human Monk
+Protection from black
+"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+1/1

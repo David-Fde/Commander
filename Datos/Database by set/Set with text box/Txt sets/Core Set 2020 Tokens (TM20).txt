@@ -1,0 +1,40 @@
+Ajani's Pridemate
+Token Creature — Cat Soldier
+"Whenever you gain life, put a +1/+1 counter on Ajani’s Pridemate."
+2/2
+"Chandra, Awakened Inferno Emblem"
+Emblem
+"At the beginning of your upkeep, this emblem deals 1 damage to you."
+Demon
+Token Creature — Demon
+Flying
+5/5
+Elemental
+Token Creature — Elemental
+1/1
+Elemental Bird
+Token Creature — Elemental Bird
+Flying
+4/4
+Golem
+Token Artifact Creature — Golem
+3/3
+"Mu Yanling, Sky Dancer Emblem"
+Emblem
+Islands you control have “{T}: Draw a card.”
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2

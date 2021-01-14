@@ -1,0 +1,57 @@
+Banisher Priest
+{1}{W}{W}
+Creature — Human Cleric
+"When Banisher Priest enters the battlefield, exile target creature an opponent controls until Banisher Priest leaves the battlefield. (That creature returns under its owner’s control.)"
+2/2
+Banishing Light
+{2}{W}
+Enchantment
+"When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield."
+Bile Blight
+{B}{B}
+Instant
+Target creature and all other creatures with the same name as that creature get -3/-3 until end of turn.
+Brain Maggot
+{1}{B}
+Enchantment Creature — Insect
+"When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield."
+1/1
+Dissolve
+{1}{U}{U}
+Instant
+Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Elvish Mystic
+{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/1
+Encroaching Wastes
+Land
+{T}: Add {C}.
+"{4}, {T}, Sacrifice Encroaching Wastes: Destroy target nonbasic land."
+Fanatic of Xenagos
+{1}{R}{G}
+Creature — Centaur Warrior
+Trample
+"Tribute 1 (As this creature enters the battlefield, an opponent of your choice may put a +1/+1 counter on it.)"
+"When Fanatic of Xenagos enters the battlefield, if tribute wasn’t paid, it gets +1/+1 and gains haste until end of turn."
+3/3
+Magma Spray
+{R}
+Instant
+"Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead."
+Stoke the Flames
+{2}{R}{R}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Stoke the Flames deals 4 damage to any target.
+Tormented Hero
+{B}
+Creature — Human Warrior
+Tormented Hero enters the battlefield tapped.
+"Heroic — Whenever you cast a spell that targets Tormented Hero, each opponent loses 1 life. You gain life equal to the life lost this way."
+2/1
+Warleader's Helix
+{2}{R}{W}
+Instant
+Warleader’s Helix deals 4 damage to any target and you gain 4 life.

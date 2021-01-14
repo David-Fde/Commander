@@ -1,0 +1,27 @@
+Fireball
+{X}{R}
+Sorcery
+This spell costs {1} more to cast for each target beyond the first.
+"Fireball deals X damage divided evenly, rounded down, among any number of targets."
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Oxidize
+{G}
+Instant
+Destroy target artifact. It can’t be regenerated.
+Psychatog
+{1}{U}{B}
+Creature — Atog
+Discard a card: Psychatog gets +1/+1 until end of turn.
+Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
+1/2
+Reciprocate
+{W}
+Instant
+Exile target creature that dealt damage to you this turn.
+Terror
+{1}{B}
+Instant
+"Destroy target nonartifact, nonblack creature. It can’t be regenerated."

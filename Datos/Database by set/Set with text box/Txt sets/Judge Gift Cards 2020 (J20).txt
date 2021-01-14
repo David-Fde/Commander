@@ -1,0 +1,45 @@
+Arena Rector
+{3}{W}
+Creature — Human Cleric
+"When Arena Rector dies, you may exile it. If you do, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library."
+1/2
+Birthing Pod
+{3}{G/P}
+Artifact
+({G/P} can be paid with either {G} or 2 life.)
+"{1}{G/P}, {T}, Sacrifice a creature: Search your library for a creature card with converted mana cost equal to 1 plus the sacrificed creature’s converted mana cost, put that card onto the battlefield, then shuffle your library. Activate this ability only any time you could cast a sorcery."
+Demonic Tutor
+{1}{B}
+Sorcery
+"Search your library for a card, put that card into your hand, then shuffle your library."
+Enlightened Tutor
+{W}
+Instant
+"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+Eye of Ugin
+Legendary Land
+Colorless Eldrazi spells you cast cost {2} less to cast.
+"{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library."
+Gamble
+{R}
+Sorcery
+"Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library."
+Infernal Tutor
+{1}{B}
+Sorcery
+"Reveal a card from your hand. Search your library for a card with the same name as that card, reveal it, put it into your hand, then shuffle your library."
+"Hellbent — If you have no cards in hand, instead search your library for a card, put it into your hand, then shuffle your library."
+Spellseeker
+{2}{U}
+Creature — Human Wizard
+"When Spellseeker enters the battlefield, you may search your library for an instant or sorcery card with converted mana cost 2 or less, reveal it, put it into your hand, then shuffle your library."
+1/1
+Sterling Grove
+{G}{W}
+Enchantment
+Other enchantments you control have shroud. (They can’t be the targets of spells or abilities.)
+"{1}, Sacrifice Sterling Grove: Search your library for an enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+Sylvan Tutor
+{G}
+Sorcery
+"Search your library for a creature card and reveal that card. Shuffle your library, then put the card on top of it."

@@ -1,0 +1,57 @@
+Citizen
+Token Creature — Citizen
+1/1
+Drake
+Token Creature — Drake
+Flying
+2/2
+Elemental
+Token Creature — Elemental
+4/4
+Elemental
+Token Creature — Elemental
+1/1
+Elemental
+Token Creature — Elemental
+1/1
+Faerie Rogue
+Token Creature — Faerie Rogue
+Flying
+1/1
+Homunculus
+Token Creature — Homunculus
+2/2
+Marit Lage
+Token Legendary Creature — Avatar
+"Flying, indestructible"
+20/20
+Ooze
+Token Creature — Ooze
+*/*
+Soldier
+Token Creature — Soldier
+1/1
+Spark Elemental
+Token Creature — Elemental
+"Trample, haste"
+"At the beginning of the end step, sacrifice Spark Elemental."
+3/1
+Spider
+Token Creature — Spider
+Reach
+1/2
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Wurm
+Token Creature — Wurm
+Trample
+6/6
+Zombie
+Token Creature — Zombie
+2/2

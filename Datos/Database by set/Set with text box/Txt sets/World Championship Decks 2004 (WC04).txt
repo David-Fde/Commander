@@ -1,0 +1,433 @@
+2004 World Championships Ad
+Card
+Aeo Paquette Bio
+Card
+"Professional Magic® player Aeo Paquette played the deck that defined the metagame at the 2004 World Championships: “Affinity.” Against a field full of decks designed to beat Affinity, this nineteen-year-old Canadian piloted his fast beatdown deck to a 5—1 record during the Standard portion of the tournament. Paquette credits his friend Jeff Cunningham for helping him design an Affinity deck that could compete so well against the field."
+Aeo Paquette Decklist
+Card
+Akroma's Vengeance
+{4}{W}{W}
+Sorcery
+"Destroy all artifacts, creatures, and enchantments."
+"Cycling {3} ({3}, Discard this card: Draw a card.)"
+Akroma's Vengeance
+{4}{W}{W}
+Sorcery
+"Destroy all artifacts, creatures, and enchantments."
+"Cycling {3} ({3}, Discard this card: Draw a card.)"
+Ancient Den
+Artifact Land
+(Ancient Den isn’t a spell.)
+{T}: Add {W}.
+Annul
+{U}
+Instant
+Counter target artifact or enchantment spell.
+Annul
+{U}
+Instant
+Counter target artifact or enchantment spell.
+Arcbound Ravager
+{2}
+Artifact Creature — Beast
+Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+"Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+0/0
+Arcbound Worker
+{1}
+Artifact Creature — Construct
+"Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+0/0
+Astral Slide
+{2}{W}
+Enchantment
+"Whenever a player cycles a card, you may exile target creature. If you do, return that card to the battlefield under its owner’s control at the beginning of the next end step."
+Blank Card
+Card
+Blinkmoth Nexus
+Land
+{T}: Add {C}.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It’s still a land.
+"{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn."
+Chrome Mox
+{0}
+Artifact
+"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand."
+{T}: Add one mana of any of the exiled card’s colors.
+Chrome Mox
+{0}
+Artifact
+"Imprint — When Chrome Mox enters the battlefield, you may exile a nonartifact, nonland card from your hand."
+{T}: Add one mana of any of the exiled card’s colors.
+Circle of Protection: Red
+{1}{W}
+Enchantment
+"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Cloudpost
+Land — Locus
+Cloudpost enters the battlefield tapped.
+{T}: Add {C} for each Locus on the battlefield.
+Condescend
+{X}{U}
+Instant
+"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Condescend
+{X}{U}
+Instant
+"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Cranial Plating
+{2}
+Artifact — Equipment
+Equipped creature gets +1/+0 for each artifact you control.
+{B}{B}: Attach Cranial Plating to target creature you control.
+Equip {1}
+Darksteel Citadel
+Artifact Land
+Indestructible
+{T}: Add {C}.
+Decree of Justice
+{X}{X}{2}{W}{W}
+Sorcery
+Create X 4/4 white Angel creature tokens with flying.
+"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)"
+"When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
+Decree of Justice
+{X}{X}{2}{W}{W}
+Sorcery
+Create X 4/4 white Angel creature tokens with flying.
+"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)"
+"When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
+Disciple of the Vault
+{B}
+Creature — Human Cleric
+"Whenever an artifact is put into a graveyard from the battlefield, you may have target opponent lose 1 life."
+1/1
+Eternal Dragon
+{5}{W}{W}
+Creature — Dragon Spirit
+Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+"Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+5/5
+Eternal Dragon
+{5}{W}{W}
+Creature — Dragon Spirit
+Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+"Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+5/5
+Eternal Witness
+{1}{G}{G}
+Creature — Human Shaman
+"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+2/1
+Exalted Angel
+{4}{W}{W}
+Creature — Angel
+Flying
+"Whenever Exalted Angel deals damage, you gain that much life."
+Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+4/5
+Fabricate
+{2}{U}
+Sorcery
+"Search your library for an artifact card, reveal it, and put it into your hand. Then shuffle your library."
+Fireball
+{X}{R}
+Sorcery
+This spell costs {1} more to cast for each target beyond the first.
+"Fireball deals X damage divided evenly, rounded down, among any number of targets."
+Flooded Strand
+Land
+"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Frogmite
+{4}
+Artifact Creature — Frog
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+2/2
+Furnace Dragon
+{6}{R}{R}{R}
+Creature — Dragon
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+"When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts."
+5/5
+Furnace Dragon
+{6}{R}{R}{R}
+Creature — Dragon
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+"When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts."
+5/5
+Gabriel Nassif Bio
+Card
+"Twenty-year-old Gabriel Nassif is considered to be the best player never to have won a Pro Tour™ event. Designed to beat the ubiquitous “Affinity” decks, his blue-white control deck also plays well against anti-Affinity decks. Worlds marked the third time in the season that the Parisian had made it to the final day of a Pro Tour event, and his performance earned Nassif the coveted 2004 Player of the Year award—a title he will defend vigorously next year."
+Gabriel Nassif Decklist
+Card
+Glimmervoid
+Land
+"At the beginning of the end step, if you control no artifacts, sacrifice Glimmervoid."
+{T}: Add one mana of any color.
+Goblin Charbelcher
+{4}
+Artifact
+"{3}, {T}: Reveal cards from the top of your library until you reveal a land card. Goblin Charbelcher deals damage equal to the number of nonland cards revealed this way to any target. If the revealed land card was a Mountain, Goblin Charbelcher deals double that damage instead. Put the revealed cards on the bottom of your library in any order."
+Great Furnace
+Artifact Land
+{T}: Add {R}.
+Great Furnace
+Artifact Land
+{T}: Add {R}.
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Julien Nuijten Bio
+Card
+"The youngest ever Magic® World Champion, Dutch wunderkind Julien Nuijten came out of nowhere to stun the field. Just fifteen years old, Nuijten proved that he can play with the best. Playing a green—white Astral Slide deck designed to destroy “Affinity”, he posted a respectable 4-2 record on the Standard day at Worlds and then calmly swept the field on the final day. He says the inspiration for his deck came from an Internet article by Pro Tour™ veteran Brian Kibler."
+Julien Nuijten Decklist
+Card
+Krark-Clan Ironworks
+{4}
+Artifact
+Sacrifice an artifact: Add {C}{C}.
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Manuel Bevand Bio
+Card
+"Pro Tour™ veteran Manuel Bevand played an artifact-based combo deck to a perfect 6-0 record on the Standard day at Worlds. His deck uses Krark-Clan Ironworks to quickly get a Myr Incubator into play, which then creates thirty or more 1/1 Myr creatures—sometimes as early as the third turn! A twenty-seven-year-old freelance game designer from Paris, France, Bevand has been a Magic® regular since 1994, playing in over a dozen Pro Tour events. He credits Magic Online for getting him back into championship form."
+Manuel Bevand Decklist
+Card
+Myr Incubator
+{6}
+Artifact
+"{6}, {T}, Sacrifice Myr Incubator: Search your library for any number of artifact cards, exile them, then create that many 1/1 colorless Myr artifact creature tokens. Then shuffle your library."
+Ornithopter
+{0}
+Artifact Creature — Thopter
+Flying
+0/2
+Oxidize
+{G}
+Instant
+Destroy target artifact. It can’t be regenerated.
+Pacifism
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Pentad Prism
+{2}
+Artifact
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from Pentad Prism: Add one mana of any color.
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plow Under
+{3}{G}{G}
+Sorcery
+Put two target lands on top of their owners’ libraries.
+Plow Under
+{3}{G}{G}
+Sorcery
+Put two target lands on top of their owners’ libraries.
+Purge
+{1}{W}
+Instant
+Destroy target artifact creature or black creature. It can’t be regenerated.
+Pyroclasm
+{1}{R}
+Sorcery
+Pyroclasm deals 2 damage to each creature.
+Rampant Growth
+{1}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Relic Barrier
+{2}
+Artifact
+{T}: Tap target artifact.
+Renewed Faith
+{2}{W}
+Instant
+You gain 6 life.
+"Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)"
+"When you cycle Renewed Faith, you may gain 2 life."
+Rewind
+{2}{U}{U}
+Instant
+Counter target spell. Untap up to four lands.
+Rude Awakening
+{4}{G}
+Sorcery
+Choose one —
+• Untap all lands you control.
+"• Until end of turn, lands you control become 2/2 creatures that are still lands."
+Entwine {2}{G} (Choose both if you pay the entwine cost.)
+Scrabbling Claws
+{1}
+Artifact
+{T}: Target player exiles a card from their graveyard.
+"{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card."
+Scrabbling Claws
+{1}
+Artifact
+{T}: Target player exiles a card from their graveyard.
+"{1}, Sacrifice Scrabbling Claws: Exile target card from a graveyard. Draw a card."
+Seat of the Synod
+Artifact Land
+(Seat of the Synod isn’t a spell.)
+{T}: Add {U}.
+Seat of the Synod
+Artifact Land
+(Seat of the Synod isn’t a spell.)
+{T}: Add {U}.
+Secluded Steppe
+Land
+Secluded Steppe enters the battlefield tapped.
+{T}: Add {W}.
+"Cycling {W} ({W}, Discard this card: Draw a card.)"
+Seething Song
+{2}{R}
+Instant
+Add {R}{R}{R}{R}{R}.
+Seething Song
+{2}{R}
+Instant
+Add {R}{R}{R}{R}{R}.
+Serum Visions
+{U}
+Sorcery
+Draw a card. Scry 2.
+Serum Visions
+{U}
+Sorcery
+Draw a card. Scry 2.
+Shrapnel Blast
+{1}{R}
+Instant
+"As an additional cost to cast this spell, sacrifice an artifact."
+Shrapnel Blast deals 5 damage to any target.
+Somber Hoverguard
+{5}{U}
+Creature — Drone
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+3/2
+Stifle
+{U}
+Instant
+Counter target activated or triggered ability. (Mana abilities can’t be targeted.)
+Talisman of Dominance
+{2}
+Artifact
+{T}: Add {C}.
+{T}: Add {U} or {B}. Talisman of Dominance deals 1 damage to you.
+Talisman of Progress
+{2}
+Artifact
+{T}: Add {C}.
+{T}: Add {W} or {U}. Talisman of Progress deals 1 damage to you.
+Temple of the False God
+Land
+{T}: Add {C}{C}. Activate this ability only if you control five or more lands.
+Thirst for Knowledge
+{2}{U}
+Instant
+Draw three cards. Then discard two cards unless you discard an artifact card.
+Thirst for Knowledge
+{2}{U}
+Instant
+Draw three cards. Then discard two cards unless you discard an artifact card.
+Thoughtcast
+{4}{U}
+Sorcery
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.
+Thoughtcast
+{4}{U}
+Sorcery
+Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Draw two cards.
+Tranquil Thicket
+Land
+Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G}.
+"Cycling {G} ({G}, Discard this card: Draw a card.)"
+Tree of Tales
+Artifact Land
+(Tree of Tales isn’t a spell.)
+{T}: Add {G}.
+Vault of Whispers
+Artifact Land
+(Vault of Whispers isn’t a spell.)
+{T}: Add {B}.
+Vault of Whispers
+Artifact Land
+(Vault of Whispers isn’t a spell.)
+{T}: Add {B}.
+Viridian Shaman
+{2}{G}
+Creature — Elf Shaman
+"When Viridian Shaman enters the battlefield, destroy target artifact."
+2/2
+Wayfarer's Bauble
+{1}
+Artifact
+"{2}, {T}, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+Welding Jar
+{0}
+Artifact
+Sacrifice Welding Jar: Regenerate target artifact.
+Windswept Heath
+Land
+"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library."
+Wing Shards
+{1}{W}{W}
+Instant
+Target player sacrifices an attacking creature.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Wrath of God
+{2}{W}{W}
+Sorcery
+Destroy all creatures. They can’t be regenerated.
+Wrath of God
+{2}{W}{W}
+Sorcery
+Destroy all creatures. They can’t be regenerated.

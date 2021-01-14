@@ -1,0 +1,42 @@
+Beast
+Token Artifact Creature — Beast
+6/6
+"Chandra, Torch of Defiance Emblem"
+Emblem — Chandra
+"Whenever you cast a spell, this emblem deals 5 damage to any target."
+Construct
+Token Artifact Creature — Construct
+*/*
+Construct
+Token Artifact Creature — Construct
+*/*
+Dovin Baan Emblem
+Emblem — Dovin
+Your opponents can’t untap more than two permanents during their untap steps.
+Energy Reserve
+Card
+(Place your energy counters in this area.)
+"Nissa, Vital Force Emblem"
+Emblem — Nissa
+"Whenever a land enters the battlefield under your control, you may draw a card."
+Servo
+Token Artifact Creature — Servo
+1/1
+Servo
+Token Artifact Creature — Servo
+1/1
+Servo
+Token Artifact Creature — Servo
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1

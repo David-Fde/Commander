@@ -1,0 +1,301 @@
+Abzan Ascendancy
+{W}{B}{G}
+Enchantment
+"When Abzan Ascendancy enters the battlefield, put a +1/+1 counter on each creature you control."
+"Whenever a nontoken creature you control dies, create a 1/1 white Spirit creature token with flying."
+"Anafenza, the Foremost"
+{W}{B}{G}
+Legendary Creature — Human Soldier
+"Whenever Anafenza, the Foremost attacks, put a +1/+1 counter on another target tapped creature you control."
+"If a nontoken creature an opponent owns would die or a creature card not on the battlefield would be put into an opponent’s graveyard, exile that card instead."
+4/4
+Ankle Shanker
+{2}{R}{W}{B}
+Creature — Goblin Berserker
+Haste
+"Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn."
+2/2
+Ankle Shanker
+{2}{R}{W}{B}
+Creature — Goblin Berserker
+Haste
+"Whenever Ankle Shanker attacks, creatures you control gain first strike and deathtouch until end of turn."
+2/2
+Avalanche Tusker
+{2}{G}{U}{R}
+Creature — Elephant Warrior
+"Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able."
+6/4
+Avalanche Tusker
+{2}{G}{U}{R}
+Creature — Elephant Warrior
+"Whenever Avalanche Tusker attacks, target creature defending player controls blocks it this combat if able."
+6/4
+Bloodsoaked Champion
+{B}
+Creature — Human Warrior
+Bloodsoaked Champion can’t block.
+Raid — {1}{B}: Return Bloodsoaked Champion from your graveyard to the battlefield. Activate this ability only if you attacked this turn.
+2/1
+Butcher of the Horde
+{1}{R}{W}{B}
+Creature — Demon
+Flying
+"Sacrifice another creature: Butcher of the Horde gains your choice of vigilance, lifelink, or haste until end of turn."
+5/4
+Clever Impersonator
+{2}{U}{U}
+Creature — Shapeshifter
+You may have Clever Impersonator enter the battlefield as a copy of any nonland permanent on the battlefield.
+0/0
+Crackling Doom
+{R}{W}{B}
+Instant
+Crackling Doom deals 2 damage to each opponent. Each opponent sacrifices a creature with the greatest power among creatures that player controls.
+Crater's Claws
+{X}{R}
+Sorcery
+Crater’s Claws deals X damage to any target.
+Ferocious — Crater’s Claws deals X plus 2 damage instead if you control a creature with power 4 or greater.
+Deflecting Palm
+{R}{W}
+Instant
+"The next time a source of your choice would deal damage to you this turn, prevent that damage. If damage is prevented this way, Deflecting Palm deals that much damage to that source’s controller."
+Dig Through Time
+{6}{U}{U}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
+Dig Through Time
+{6}{U}{U}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
+Dragon-Style Twins
+{3}{R}{R}
+Creature — Human Monk
+Double strike
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+3/3
+Dragon Throne of Tarkir
+{4}
+Legendary Artifact — Equipment
+"Equipped creature has defender and “{2}, {T}: Other creatures you control gain trample and get +X/+X until end of turn, where X is this creature’s power.”"
+Equip {3}
+Duneblast
+{4}{W}{B}{G}
+Sorcery
+Choose up to one creature. Destroy the rest.
+Flying Crane Technique
+{3}{U}{R}{W}
+Instant
+Untap all creatures you control. They gain flying and double strike until end of turn.
+Grim Haruspex
+{2}{B}
+Creature — Human Wizard
+Morph {B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"Whenever another nontoken creature you control dies, draw a card."
+3/2
+Hardened Scales
+{G}
+Enchantment
+"If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
+Hardened Scales
+{G}
+Enchantment
+"If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
+Heir of the Wilds
+{1}{G}
+Creature — Human Warrior
+Deathtouch
+"Ferocious — Whenever Heir of the Wilds attacks, if you control a creature with power 4 or greater, Heir of the Wilds gets +1/+1 until end of turn."
+2/2
+Herald of Anafenza
+{W}
+Creature — Human Soldier
+"Outlast {2}{W} ({2}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+"Whenever you activate Herald of Anafenza’s outlast ability, create a 1/1 white Warrior creature token."
+1/2
+High Sentinels of Arashin
+{3}{W}
+Creature — Bird Soldier
+Flying
+High Sentinels of Arashin gets +1/+1 for each other creature you control with a +1/+1 counter on it.
+{3}{W}: Put a +1/+1 counter on target creature.
+3/4
+Icy Blast
+{X}{U}
+Instant
+Tap X target creatures.
+"Ferocious — If you control a creature with power 4 or greater, those creatures don’t untap during their controllers’ next untap steps."
+Ivorytusk Fortress
+{2}{W}{B}{G}
+Creature — Elephant
+Untap each creature you control with a +1/+1 counter on it during each other player’s untap step.
+5/7
+Ivorytusk Fortress
+{2}{W}{B}{G}
+Creature — Elephant
+Untap each creature you control with a +1/+1 counter on it during each other player’s untap step.
+5/7
+Jeering Instigator
+{1}{R}
+Creature — Goblin Rogue
+Morph {2}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Jeering Instigator is turned face up, if it’s your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn."
+2/1
+Jeskai Ascendancy
+{U}{R}{W}
+Enchantment
+"Whenever you cast a noncreature spell, creatures you control get +1/+1 until end of turn. Untap those creatures."
+"Whenever you cast a noncreature spell, you may draw a card. If you do, discard a card."
+Kheru Lich Lord
+{3}{B}{G}{U}
+Creature — Zombie Wizard
+"At the beginning of your upkeep, you may pay {2}{B}. If you do, return a creature card at random from your graveyard to the battlefield. It gains flying, trample, and haste. Exile that card at the beginning of your next end step. If it would leave the battlefield, exile it instead of putting it anywhere else."
+4/4
+Mardu Ascendancy
+{R}{W}{B}
+Enchantment
+"Whenever a nontoken creature you control attacks, create a 1/1 red Goblin creature token that’s tapped and attacking."
+Sacrifice Mardu Ascendancy: Creatures you control get +0/+3 until end of turn.
+Master of Pearls
+{1}{W}
+Creature — Human Monk
+Morph {3}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn."
+2/2
+"Narset, Enlightened Master"
+{3}{U}{R}{W}
+Legendary Creature — Human Monk
+"First strike, hexproof"
+"Whenever Narset, Enlightened Master attacks, exile the top four cards of your library. Until end of turn, you may cast noncreature spells from among those cards without paying their mana costs."
+3/2
+Necropolis Fiend
+{7}{B}{B}
+Creature — Demon
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Flying
+"{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn."
+4/5
+Rakshasa Vizier
+{2}{B}{G}{U}
+Creature — Cat Demon
+"Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier."
+4/4
+Rakshasa Vizier
+{2}{B}{G}{U}
+Creature — Cat Demon
+"Whenever one or more cards are put into exile from your graveyard, put that many +1/+1 counters on Rakshasa Vizier."
+4/4
+Rattleclaw Mystic
+{1}{G}
+Creature — Human Shaman
+"{T}: Add {G}, {U}, or {R}."
+Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Rattleclaw Mystic is turned face up, add {G}{U}{R}."
+2/1
+Rattleclaw Mystic
+{1}{G}
+Creature — Human Shaman
+"{T}: Add {G}, {U}, or {R}."
+Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Rattleclaw Mystic is turned face up, add {G}{U}{R}."
+2/1
+Sage of the Inward Eye
+{2}{U}{R}{W}
+Creature — Djinn Wizard
+Flying
+"Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn."
+3/4
+Sage of the Inward Eye
+{2}{U}{R}{W}
+Creature — Djinn Wizard
+Flying
+"Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn."
+3/4
+"Sidisi, Brood Tyrant"
+{1}{B}{G}{U}
+Legendary Creature — Naga Shaman
+"Whenever Sidisi, Brood Tyrant enters the battlefield or attacks, mill three cards."
+"Whenever one or more creature cards are put into your graveyard from your library, create a 2/2 black Zombie creature token."
+3/3
+Siege Rhino
+{1}{W}{B}{G}
+Creature — Rhino
+Trample
+"When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life."
+4/5
+Sultai Ascendancy
+{B}{G}{U}
+Enchantment
+"At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order."
+Sultai Charm
+{B}{G}{U}
+Instant
+Choose one —
+• Destroy target monocolored creature.
+• Destroy target artifact or enchantment.
+"• Draw two cards, then discard a card."
+Surrak Dragonclaw
+{2}{G}{U}{R}
+Legendary Creature — Human Warrior
+Flash
+This spell can’t be countered.
+Creature spells you control can’t be countered.
+Other creatures you control have trample.
+6/6
+Temur Ascendancy
+{G}{U}{R}
+Enchantment
+Creatures you control have haste.
+"Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card."
+Temur Ascendancy
+{G}{U}{R}
+Enchantment
+Creatures you control have haste.
+"Whenever a creature with power 4 or greater enters the battlefield under your control, you may draw a card."
+Thousand Winds
+{4}{U}{U}
+Creature — Elemental
+Flying
+Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Thousand Winds is turned face up, return all other tapped creatures to their owners’ hands."
+5/6
+Trail of Mystery
+{1}{G}
+Enchantment
+"Whenever a face-down creature enters the battlefield under your control, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+"Whenever a permanent you control is turned face up, if it’s a creature, it gets +2/+2 until end of turn."
+Trap Essence
+{G}{U}{R}
+Instant
+Counter target creature spell. Put two +1/+1 counters on up to one target creature.
+Utter End
+{2}{W}{B}
+Instant
+Exile target nonland permanent.
+Utter End
+{2}{W}{B}
+Instant
+Exile target nonland permanent.
+Utter End
+{2}{W}{B}
+Instant
+Exile target nonland permanent.
+Villainous Wealth
+{X}{B}{G}{U}
+Sorcery
+Target opponent exiles the top X cards of their library. You may cast any number of spells with converted mana cost X or less from among them without paying their mana costs.
+Villainous Wealth
+{X}{B}{G}{U}
+Sorcery
+Target opponent exiles the top X cards of their library. You may cast any number of spells with converted mana cost X or less from among them without paying their mana costs.
+Zurgo Helmsmasher
+{2}{R}{W}{B}
+Legendary Creature — Orc Warrior
+Haste
+Zurgo Helmsmasher attacks each combat if able.
+Zurgo Helmsmasher has indestructible as long as it’s your turn.
+"Whenever a creature dealt damage by Zurgo Helmsmasher this turn dies, put a +1/+1 counter on Zurgo Helmsmasher."
+7/2

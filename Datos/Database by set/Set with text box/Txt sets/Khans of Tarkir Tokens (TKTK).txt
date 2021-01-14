@@ -1,0 +1,45 @@
+Bear
+Token Creature — Bear
+4/4
+Bird
+Token Creature — Bird
+Flying
+3/4
+Goblin
+Token Creature — Goblin
+1/1
+Morph
+Creature
+(You can cover a face-down creature with this reminder card.
+A card with morph can be turned face up any time for its morph cost.)
+2/2
+"Sarkhan, the Dragonspeaker Emblem"
+Emblem — Sarkhan
+"At the beginning of your draw step, draw two additional cards."
+"At the beginning of your end step, discard your hand."
+Snake
+Token Creature — Snake
+1/1
+"Sorin, Solemn Visitor Emblem"
+Emblem — Sorin
+"At the beginning of each opponent’s upkeep, that player sacrifices a creature."
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Spirit Warrior
+Token Creature — Spirit Warrior
+*/*
+Vampire
+Token Creature — Vampire
+Flying
+2/2
+Warrior
+Token Creature — Warrior
+1/1
+Warrior
+Token Creature — Warrior
+1/1
+Zombie
+Token Creature — Zombie
+2/2

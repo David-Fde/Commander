@@ -1,0 +1,1414 @@
+Elémental d'air
+{3}{U}{U}
+Creature — Elemental
+Flying
+4/4
+Lampe d'aladdin
+{10}
+Artifact
+"{X}, {T}: The next time you would draw a card this turn, instead look at the top X cards of your library, put all but one of them on the bottom of your library in a random order, then draw a card. X can’t be 0."
+Anneau d'Aladdin
+{8}
+Artifact
+"{8}, {T}: Aladdin’s Ring deals 4 damage to any target."
+Animation d'artefact
+{3}{U}
+Enchantment — Aura
+Enchant artifact
+"As long as enchanted artifact isn’t a creature, it’s an artifact creature with power and toughness each equal to its converted mana cost."
+Animation des morts
+{1}{B}
+Enchantment — Aura
+Enchant creature card in a graveyard
+"When Animate Dead enters the battlefield, if it’s on the battlefield, it loses “enchant creature card in a graveyard” and gains “enchant creature put onto the battlefield with Animate Dead.” Return enchanted creature card to the battlefield under your control and attach Animate Dead to it. When Animate Dead leaves the battlefield, that creature’s controller sacrifices it."
+Enchanted creature gets -1/-0.
+Animation de mur
+{W}
+Enchantment — Aura
+Enchant Wall
+Enchanted Wall can attack as though it didn’t have defender.
+Ankh de Mishra
+{2}
+Artifact
+"Whenever a land enters the battlefield, Ankh of Mishra deals 2 damage to that land’s controller."
+Armaguedon
+{3}{W}
+Sorcery
+Destroy all lands.
+Horloge de l'Armaguedon
+{6}
+Artifact
+"At the beginning of your upkeep, put a doom counter on Armageddon Clock."
+"At the beginning of your draw step, Armageddon Clock deals damage equal to the number of doom counters on it to each player."
+{4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.
+Aspect du loup
+{1}{G}
+Enchantment — Aura
+Enchant creature
+"Enchanted creature gets +X/+Y, where X is half the number of Forests you control, rounded down, and Y is half the number of Forests you control, rounded up."
+Atog
+{1}{R}
+Creature — Atog
+Sacrifice an artifact: Atog gets +2/+2 until end of turn.
+1/2
+Désolation
+Land — Swamp Mountain
+({T}: Add {B} or {R}.)
+Lune blafarde
+{1}{B}
+Enchantment
+Black creatures get +1/+1.
+Balance
+{1}{W}
+Sorcery
+"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
+Monolithe de basalte
+{3}
+Artifact
+Basalt Monolith doesn’t untap during your untap step.
+{T}: Add {C}{C}{C}.
+{3}: Untap Basalt Monolith.
+Bayou
+Land — Swamp Forest
+({T}: Add {B} or {G}.)
+Héroïne bénaliane
+{W}
+Creature — Human Soldier
+"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+1/1
+Oiseaux de paradis
+{G}
+Creature — Bird
+Flying
+{T}: Add one mana of any color.
+0/1
+Chevalier noir
+{B}{B}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from white (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything white.)"
+2/2
+Etau de supplice
+{1}
+Artifact
+"As Black Vise enters the battlefield, choose an opponent."
+"At the beginning of the chosen player’s upkeep, Black Vise deals X damage to that player, where X is the number of cards in their hand minus 4."
+Rune de garde noire
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from black. This effect doesn’t remove Black Ward.
+Bénédiction
+{W}{W}
+Enchantment — Aura
+Enchant creature
+{W}: Enchanted creature gets +1/+1 until end of turn.
+Salve élémentaire bleue
+{U}
+Instant
+Choose one —
+• Counter target red spell.
+• Destroy target red permanent.
+Rune de garde bleue
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from blue. This effect doesn’t remove Blue Ward.
+Apparition des marécages
+{3}{B}
+Creature — Wraith
+Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+3/3
+Bouteille de Salomon
+{4}
+Artifact
+"{1}, Sacrifice Bottle of Suleiman: Flip a coin. If you win the flip, create a 5/5 colorless Djinn artifact creature token with flying. If you lose the flip, Bottle of Suleiman deals 5 damage to you."
+Geyser cérébral
+{X}{U}{U}
+Sorcery
+Target player draws X cards.
+Homme d'airain
+{1}
+Artifact Creature — Construct
+Brass Man doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may pay {1}. If you do, untap Brass Man."
+1/3
+Fouisseur
+{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has mountainwalk. (It can’t be blocked as long as defending player controls a Mountain.)
+Château fort
+{3}{W}
+Enchantment
+Untapped creatures you control get +0/+2.
+Prisme céleste
+{3}
+Artifact
+"{2}, {T}: Add one mana of any color."
+Transfert
+{G}{G}
+Sorcery
+"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
+Voile de chaos
+{R}
+Instant
+Target spell or permanent becomes red. (Its mana symbols remain unchanged.)
+Cercle de protection : noir
+{1}{W}
+Enchantment
+"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
+Cercle de protection : bleu
+{1}{W}
+Enchantment
+"{1}: The next time a blue source of your choice would deal damage to you this turn, prevent that damage."
+Cercle de protection : vert
+{1}{W}
+Enchantment
+"{1}: The next time a green source of your choice would deal damage to you this turn, prevent that damage."
+Cercle de protection : rouge
+{1}{W}
+Enchantment
+"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Cercle de protection : blanc
+{1}{W}
+Enchantment
+"{1}: The next time a white source of your choice would deal damage to you this turn, prevent that damage."
+Bête mécanique
+{6}
+Artifact Creature — Beast
+Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
+"At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it."
+"{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can’t cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep."
+0/4
+Clone
+{3}{U}
+Creature — Shapeshifter
+You may have Clone enter the battlefield as a copy of any creature on the battlefield.
+0/0
+Cocatrix
+{3}{G}{G}
+Creature — Cockatrice
+Flying
+"Whenever Cockatrice blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
+2/4
+Conservateur
+{4}
+Artifact
+"{3}, {T}: Prevent the next 2 damage that would be dealt to you this turn."
+Contrat avec les enfers
+{B}
+Sorcery
+Remove Contract from Below from your deck before playing if you’re not playing for ante.
+"Discard your hand, ante the top card of your library, then draw seven cards."
+Contrôle magique
+{2}{U}{U}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+Conversion
+{2}{W}{W}
+Enchantment
+"At the beginning of your upkeep, sacrifice Conversion unless you pay {W}{W}."
+All Mountains are Plains.
+Copie d'artefact
+{1}{U}
+Enchantment
+"You may have Copy Artifact enter the battlefield as a copy of any artifact on the battlefield, except it’s an enchantment in addition to its other types."
+Contresort
+{U}{U}
+Instant
+Counter target spell.
+Guivre vorace
+{4}{G}{G}
+Creature — Wurm
+6/4
+Lien animal
+{1}{U}
+Enchantment — Aura
+Enchant creature
+"When enchanted creature dies, Creature Bond deals damage equal to that creature’s toughness to the creature’s controller."
+Désagrégation
+{G}
+Instant
+Destroy target artifact. It can’t be regenerated. That artifact’s controller gains life equal to its converted mana cost.
+Croisade
+{W}{W}
+Enchantment
+White creatures get +1/+1.
+Baguette de cristal
+{1}
+Artifact
+"Whenever a player casts a blue spell, you may pay {1}. If you do, you gain 1 life."
+Terrain maudit
+{2}{B}{B}
+Enchantment — Aura
+Enchant land
+"At the beginning of the upkeep of enchanted land’s controller, Cursed Land deals 1 damage to that player."
+Cimeterre dansant
+{4}
+Artifact Creature — Spirit
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+1/5
+Pacte ténébreux
+{B}{B}{B}
+Sorcery
+Remove Darkpact from your deck before playing if you’re not playing for ante.
+You own target card in the ante. Exchange that card with the top card of your library.
+Messe noire
+{B}
+Instant
+Add {B}{B}{B}.
+Poigne de mort
+{B}{B}
+Enchantment
+{B}{B}: Counter target green spell.
+Voile de mort
+{B}
+Instant
+Target spell or permanent becomes black. (Mana symbols on that permanent remain unchanged.)
+Survie
+{W}
+Instant
+Regenerate target creature.
+Avocat diabolique
+{1}{B}{B}
+Sorcery
+Remove Demonic Attorney from your deck before playing if you’re not playing for ante.
+Each player antes the top card of their library.
+Hordes démoniaques
+{3}{B}{B}{B}
+Creature — Demon
+{T}: Destroy target land.
+"At the beginning of your upkeep, unless you pay {B}{B}{B}, tap Demonic Hordes and sacrifice a land of an opponent’s choice."
+5/5
+Précepteur diabolique
+{1}{B}
+Sorcery
+"Search your library for a card, put that card into your hand, then shuffle your library."
+Tornade du désert
+{4}{G}{G}
+Sorcery
+Destroy target permanent.
+OEuf de Dingus
+{4}
+Artifact
+"Whenever a land is put into a graveyard from the battlefield, Dingus Egg deals 2 damage to that land’s controller."
+Désenchantement
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Désintégration
+{X}{R}
+Sorcery
+"Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead."
+Sceptre de dislocation
+{3}
+Artifact
+"{3}, {T}: Target player discards a card. Activate this ability only during your turn."
+Dragon-machine
+{3}
+Artifact Creature — Construct
+{2}: Dragon Engine gets +1/+0 until end of turn.
+1/3
+Dragonnet
+{2}{R}{R}
+Creature — Dragon
+Flying
+"{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step."
+2/3
+Drain de vie
+{X}{1}{B}
+Sorcery
+Spend only black mana on X.
+"Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player’s life total before the damage was dealt, the planeswalker’s loyalty before the damage was dealt, or the creature’s toughness."
+Drain d'énergie
+{U}{U}
+Sorcery
+Target player activates a mana ability of each land they control. Then that player loses all unspent mana and you add the mana lost this way.
+Squelettes serviles
+{1}{B}
+Creature — Skeleton
+"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+1/1
+Guerriers nains
+{2}{R}
+Creature — Dwarf Warrior
+{T}: Target creature with power 2 or less can’t be blocked this turn.
+1/1
+Forgeur d'armes nain
+{1}{R}
+Creature — Dwarf Artificer
+"{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep."
+1/1
+Entrave chtonienne
+{R}
+Enchantment — Aura
+Enchant creature
+"When Earthbind enters the battlefield, if enchanted creature has flying, Earthbind deals 2 damage to that creature and Earthbind gains “Enchanted creature loses flying.”"
+Élémental de terre
+{3}{R}{R}
+Creature — Elemental
+4/5
+Tremblement de terre
+{X}{R}
+Sorcery
+Earthquake deals X damage to each creature without flying and each player.
+Cheval d'ébène
+{3}
+Artifact
+"{2}, {T}: Untap target attacking creature you control. Prevent all combat damage that would be dealt to and dealt by that creature this turn."
+El-hajjâj
+{1}{B}{B}
+Creature — Human Wizard
+"Whenever El-Hajjâj deals damage, you gain that much life."
+1/1
+Archers elfes
+{1}{G}
+Creature — Elf Archer
+First strike
+2/1
+Reflux d'énergie
+{2}{U}
+Enchantment
+"All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.”"
+Pillards de l'erg
+{1}{B}
+Creature — Human Warrior
+"At the beginning of your end step, if Erg Raiders didn’t attack this turn, Erg Raiders deals 2 damage to you unless it came under your control this turn."
+2/3
+Présence malveillante
+{B}
+Enchantment — Aura
+Enchant land
+Enchanted land is a Swamp.
+OEil pour OEil
+{W}{W}
+Instant
+"The next time a source of your choice would deal damage to you this turn, instead that source deals that much damage to you and Eye for an Eye deals that much damage to that source’s controller."
+Ferme
+{W}{W}{W}
+Enchantment — Aura
+Enchant land
+"Enchanted land has “At the beginning of your upkeep, you may pay {W}{W}. If you do, you gain 1 life.”"
+Enchaînements
+{G}
+Enchantment
+You may play any number of lands on each of your turns.
+"Whenever you play a land, if it wasn’t the first land you played this turn, Fastbond deals 1 damage to you."
+Peur
+{B}{B}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has fear. (It can’t be blocked except by artifact creatures and/or black creatures.)
+Rétroaction
+{2}{U}
+Enchantment — Aura
+Enchant enchantment
+"At the beginning of the upkeep of enchanted enchantment’s controller, Feedback deals 1 damage to that player."
+Boule de feu
+{X}{R}
+Sorcery
+This spell costs {1} more to cast for each target beyond the first.
+"Fireball deals X damage divided evenly, rounded down, among any number of targets."
+Souffle ardent
+{R}
+Enchantment — Aura
+Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.
+Élémental de feu
+{3}{R}{R}
+Creature — Elemental
+5/4
+Feu de brousse
+{3}{R}
+Sorcery
+Destroy all Plains.
+Vol
+{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Tapis volant
+{4}
+Artifact
+"{2}, {T}: Target creature gains flying until end of turn."
+Brouillard
+{G}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Force de la Nature
+{2}{G}{G}{G}{G}
+Creature — Elemental
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+"At the beginning of your upkeep, Force of Nature deals 8 damage to you unless you pay {G}{G}{G}{G}."
+8/8
+Forêt
+Basic Land — Forest
+({T}: Add {G}.)
+Forêt
+Basic Land — Forest
+({T}: Add {G}.)
+Forêt
+Basic Land — Forest
+({T}: Add {G}.)
+Wald
+Land
+{T}: Stocke Deinen Manavorrat um {G} auf.
+Fourche
+{R}{R}
+Instant
+"Copy target instant or sorcery spell, except that the copy is red. You may choose new targets for the copy."
+Ombre glaciale
+{2}{B}
+Creature — Shade
+{B}: Frozen Shade gets +1/+1 until end of turn.
+0/1
+Fongosaure
+{3}{G}
+Creature — Fungus Dinosaur
+"Whenever Fungusaur is dealt damage, put a +1/+1 counter on it."
+2/2
+Noble féal de Gaïa
+{3}{G}{G}{G}
+Creature — Avatar
+"As long as Gaea’s Liege isn’t attacking, its power and toughness are each equal to the number of Forests you control. As long as Gaea’s Liege is attacking, its power and toughness are each equal to the number of Forests defending player controls."
+{T}: Target land becomes a Forest until Gaea’s Liege leaves the battlefield.
+*/*
+Croissance gigantesque
+{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Araignée géante
+{3}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+2/4
+Lunettes d'Urza
+{1}
+Artifact
+{T}: Look at target player’s hand.
+Langueur
+{2}{B}
+Enchantment
+White spells cost {3} more to cast.
+Activated abilities of white enchantments cost {3} more to activate.
+Aérostiers gobelins
+{R}
+Creature — Goblin Warrior
+{R}: Goblin Balloon Brigade gains flying until end of turn.
+1/1
+Roi des gobelins
+{1}{R}{R}
+Creature — Goblin
+Other Goblins get +1/+1 and have mountainwalk.
+2/2
+Gargouille de granit
+{2}{R}
+Creature — Gargoyle
+Flying
+{R}: Granite Gargoyle gets +0/+1 until end of turn.
+2/2
+Ogre gris
+{2}{R}
+Creature — Ogre
+2/2
+Rune de garde verte
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from green. This effect doesn’t remove Green Ward.
+Grizzlis
+{1}{G}
+Creature — Bear
+2/2
+Ange gardien
+{X}{W}
+Instant
+"Prevent the next X damage that would be dealt to any target this turn. Until end of turn, you may pay {1} any time you could cast an instant. If you do, prevent the next 1 damage that would be dealt to that permanent or player this turn."
+Onguent de soins
+{W}
+Instant
+Choose one —
+• Target player gains 3 life.
+• Prevent the next 3 damage that would be dealt to any target this turn.
+Heaume de Chatzuk
+{1}
+Artifact
+"{1}, {T}: Target creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+Géant des collines
+{3}{R}
+Creature — Giant
+3/3
+Armure sacrée
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +0/+2.
+{W}: Enchanted creature gets +0/+1 until end of turn.
+Force sacrée
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.
+Rugissement de l'au-delà
+{X}{B}
+Instant
+Target creature gets +X/+0 until end of turn.
+Mine rugissante
+{2}
+Artifact
+"At the beginning of each player’s draw step, if Howling Mine is untapped, that player draws an additional card."
+Rappel selon Hurkyl
+{1}{U}
+Instant
+Return all artifacts target player owns to their hand.
+Minotaure de l'Hurloon
+{1}{R}{R}
+Creature — Minotaur
+2/3
+Ouragan
+{X}{G}
+Sorcery
+Hurricane deals X damage to each creature with flying and each player.
+Spectre hypnotiseur
+{1}{B}{B}
+Creature — Specter
+Flying
+"Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+2/2
+Vivacité
+{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can attack as though it had haste.
+{0}: Untap enchanted creature. Activate this ability only during your turn and only once each turn.
+Sylvins de Ferracine
+{4}{G}
+Creature — Treefolk
+3/5
+Etoile de fer
+{1}
+Artifact
+"Whenever a player casts a red spell, you may pay {1}. If you do, you gain 1 life."
+Ile
+Basic Land — Island
+({T}: Add {U}.)
+Ile
+Basic Land — Island
+({T}: Add {U}.)
+Ile
+Basic Land — Island
+({T}: Add {U}.)
+Ile-poisson Seyidna yûnûs
+{4}{U}{U}{U}
+Creature — Fish
+Island Fish Jasconius doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may pay {U}{U}{U}. If you do, untap Island Fish Jasconius."
+Island Fish Jasconius can’t attack unless defending player controls an Island.
+"When you control no Islands, sacrifice Island Fish Jasconius."
+6/8
+Ile sanctuaire
+{1}{W}
+Enchantment
+"If you would draw a card during your draw step, instead you may skip that draw. If you do, until your next turn, you can’t be attacked except by creatures with flying and/or islandwalk."
+Coupe d'ivoire
+{1}
+Artifact
+"Whenever a player casts a white spell, you may pay {1}. If you do, you gain 1 life."
+Tour d'ivoire
+{1}
+Artifact
+"At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus 4."
+Monolithe de jade
+{4}
+Artifact
+"{1}: The next time a source of your choice would deal damage to target creature this turn, that source deals that damage to you instead."
+Anneau de Jouder
+{6}
+Artifact
+"{2}, {T}, Discard the last card you drew this turn: Draw a card."
+Fontes de Jouder
+{2}
+Artifact
+"{3}, {T}: Untap target creature."
+Grimoire de Jayemdae
+{4}
+Artifact
+"{4}, {T}: Draw a card."
+Djaggernaut
+{4}
+Artifact Creature — Juggernaut
+Juggernaut attacks each combat if able.
+Juggernaut can’t be blocked by Walls.
+5/3
+Saut
+{U}
+Instant
+Target creature gains flying until end of turn.
+Karma
+{2}{W}{W}
+Enchantment
+"At the beginning of each player’s upkeep, Karma deals damage to that player equal to the number of Swamps they control."
+Seigneur de guerre kelde
+{2}{R}{R}
+Creature — Human Barbarian
+Keldon Warlord’s power and toughness are each equal to the number of non-Wall creatures you control.
+*/*
+Gorille beringeï
+{R}
+Creature — Ape
+Kird Ape gets +1/+2 as long as you control a Forest.
+1/1
+Cloche de Kormus
+{4}
+Artifact
+All Swamps are 1/1 black creatures that are still lands.
+Kudzu
+{1}{G}{G}
+Enchantment — Aura
+Enchant land
+"When enchanted land becomes tapped, destroy it. That land’s controller may attach Kudzu to a land of their choice."
+Lance
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has first strike.
+Druide des leys
+{2}{G}
+Creature — Human Druid
+{T}: Untap target land.
+1/1
+Bibliothèque de Leng
+{1}
+Artifact
+You have no maximum hand size.
+"If an effect causes you to discard a card, discard it, but you may put it on top of your library instead of into your graveyard."
+Force de vie
+{G}{G}
+Enchantment
+{G}{G}: Counter target black spell.
+Voile de vie
+{G}
+Instant
+Target spell or permanent becomes green. (Mana symbols on that permanent remain unchanged.)
+Ponction vitale
+{U}{U}
+Enchantment
+"Whenever a Forest an opponent controls becomes tapped, you gain 1 life."
+Foudre
+{R}
+Instant
+Lightning Bolt deals 3 damage to any target.
+Artefact vivant
+{G}
+Enchantment — Aura
+Enchant artifact
+"Whenever you’re dealt damage, put that many vitality counters on Living Artifact."
+"At the beginning of your upkeep, you may remove a vitality counter from Living Artifact. If you do, you gain 1 life."
+Terres vivantes
+{3}{G}
+Enchantment
+All Forests are 1/1 creatures that are still lands.
+Mur vivant
+{4}
+Artifact Creature — Wall
+Defender (This creature can’t attack.)
+{1}: Regenerate Living Wall.
+0/6
+Elfes de Llanowar
+{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/1
+Seigneur de l'Atlantide
+{U}{U}
+Creature — Merfolk
+Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)
+2/2
+Seigneur de l'abîme
+{4}{B}{B}{B}
+Creature — Demon
+"Flying, trample"
+"At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can’t, Lord of the Pit deals 7 damage to you."
+7/7
+Leurre
+{1}{G}{G}
+Enchantment — Aura
+Enchant creature
+All creatures able to block enchanted creature do so.
+Rature magique
+{U}
+Instant
+"Change the text of target spell or permanent by replacing all instances of one basic land type with another. (For example, you may change “swampwalk” to “plainswalk.” This effect lasts indefinitely.)"
+Montagne magnétique
+{1}{R}{R}
+Enchantment
+Blue creatures don’t untap during their controllers’ untap steps.
+"At the beginning of each player’s upkeep, that player may choose any number of tapped blue creatures they control and pay {4} for each creature chosen this way. If the player does, untap those creatures."
+Djinn mahâmot
+{4}{U}{U}
+Creature — Djinn
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+5/6
+Barbelures de mana
+{3}{R}
+Enchantment
+"Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player."
+Flamboiement de mana
+{2}{R}
+Enchantment
+"Whenever a player taps a land for mana, that player adds one mana of any type that land produced."
+Pénurie de mana
+{2}{U}
+Instant
+Tap all lands target player controls and that player loses all unspent mana.
+Arche de mana
+{1}
+Artifact
+Mana Vault doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault."
+"At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you."
+{T}: Add {C}{C}{C}.
+Pierre de soumission
+{1}
+Artifact
+Creatures with power 3 or greater don’t untap during their controllers’ untap steps.
+Ondins du Trident nacré
+{U}
+Creature — Merfolk
+1/1
+Pégase de Mesa
+{1}{W}
+Creature — Pegasus
+"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+1/1
+Djinn mijaëne
+{R}{R}{R}
+Creature — Djinn
+"Whenever Mijae Djinn attacks, flip a coin. If you lose the flip, remove Mijae Djinn from combat and tap it."
+6/3
+Meule
+{2}
+Artifact
+"{2}, {T}: Target player mills two cards."
+Convulsion cérébrale
+{X}{B}
+Sorcery
+Target player discards X cards at random.
+Machine de guerre de Mishra
+{7}
+Artifact Creature — Juggernaut
+"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+"At the beginning of your upkeep, Mishra’s War Machine deals 3 damage to you unless you discard a card. If Mishra’s War Machine deals damage to you this way, tap it."
+5/5
+Pillards gobelins de Mons
+{R}
+Creature — Goblin
+1/1
+Montagne
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagne
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagne
+Basic Land — Mountain
+({T}: Add {R}.)
+Mânes infernaux
+{B}{B}
+Creature — Spirit
+Haste
+"At the beginning of your upkeep, if Nether Shadow is in your graveyard with three or more creature cards above it, you may put Nether Shadow onto the battlefield."
+1/1
+Diablotin provocateur
+{2}{B}
+Creature — Imp
+"{T}: Choose target non-Wall creature the active player has controlled continuously since the beginning of the turn. That creature attacks this turn if able. Destroy it at the beginning of the next end step if it didn’t attack this turn. Activate this ability only during an opponent’s turn, before attackers are declared."
+1/1
+Disque de Nevinyrral
+{4}
+Artifact
+Nevinyrral’s Disk enters the battlefield tapped.
+"{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Cheval de cauchemar
+{5}{B}
+Creature — Nightmare Horse
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Nightmare’s power and toughness are each equal to the number of Swamps you control.
+*/*
+Paladin du nord
+{2}{W}{W}
+Creature — Human Knight
+"{W}{W}, {T}: Destroy target black permanent."
+3/3
+Golem d'obsianite
+{6}
+Artifact Creature — Golem
+4/6
+Onulet
+{3}
+Artifact Creature — Construct
+"When Onulet dies, you gain 2 life."
+2/2
+Artillerie orque
+{1}{R}{R}
+Creature — Orc Warrior
+{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.
+1/3
+Oriflamme orque
+{3}{R}
+Enchantment
+Attacking creatures you control get +1/+0.
+Ornithoptère
+{0}
+Artifact Creature — Thopter
+Flying
+0/2
+Paralysie
+{B}
+Enchantment — Aura
+Enchant creature
+"When Paralyze enters the battlefield, tap enchanted creature."
+Enchanted creature doesn’t untap during its controller’s untap step.
+"At the beginning of the upkeep of enchanted creature’s controller, that player may pay {4}. If the player does, untap the creature."
+Licorne nacrée
+{2}{W}
+Creature — Unicorn
+2/2
+Incarnation personnelle
+{3}{W}{W}{W}
+Creature — Avatar Incarnation
+{0}: The next 1 damage that would be dealt to Personal Incarnation this turn is dealt to its owner instead. Only Personal Incarnation’s owner may activate this ability.
+"When Personal Incarnation dies, its owner loses half their life, rounded up."
+6/6
+Peste
+{2}{B}{B}
+Enchantment
+"At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence."
+{B}: Pestilence deals 1 damage to each creature and each player.
+Forces phantasmatiques
+{3}{U}
+Creature — Illusion
+Flying
+"At the beginning of your upkeep, sacrifice Phantasmal Forces unless you pay {U}."
+4/1
+Terrain fantasmatique
+{U}{U}
+Enchantment — Aura
+Enchant land
+"As Phantasmal Terrain enters the battlefield, choose a basic land type."
+Enchanted land is the chosen type.
+Monstre fantomatique
+{3}{U}
+Creature — Illusion
+Flying
+3/3
+Navire pirate
+{4}{U}
+Creature — Human Pirate
+Pirate Ship can’t attack unless defending player controls an Island.
+{T}: Pirate Ship deals 1 damage to any target.
+"When you control no Islands, sacrifice Pirate Ship."
+4/3
+Rats de la peste
+{2}{B}
+Creature — Rat
+Plague Rats’s power and toughness are each equal to the number of creatures named Plague Rats on the battlefield.
+*/*
+Plaine
+Basic Land — Plains
+({T}: Add {W}.)
+Plaine
+Basic Land — Plains
+({T}: Add {W}.)
+Plaine
+Basic Land — Plains
+({T}: Add {W}.)
+Plateau
+Land — Mountain Plains
+({T}: Add {R} or {W}.)
+Fuite d'énergie
+{1}{U}
+Enchantment — Aura
+Enchant enchantment
+"At the beginning of the upkeep of enchanted enchantment’s controller, that player may pay any amount of mana. Power Leak deals 2 damage to that player. Prevent X of that damage, where X is the amount of mana that player paid this way."
+Siphon d'énergie
+{X}{U}
+Instant
+"Counter target spell unless its controller pays {X}. If that player doesn’t, they tap all lands with mana abilities they control and lose all unspent mana."
+Surtension
+{R}{R}
+Enchantment
+"At the beginning of each player’s upkeep, Power Surge deals X damage to that player, where X is the number of untapped lands they controlled at the beginning of this turn."
+Argile primordiale
+{4}
+Artifact Creature — Shapeshifter
+"As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Wall artifact creature with defender in addition to its other types. (A creature with defender can’t attack.)"
+*/*
+Sorcier sybarite
+{2}{U}
+Creature — Human Wizard
+{T}: Prodigal Sorcerer deals 1 damage to any target.
+1/1
+Venin psychique
+{1}{U}
+Enchantment — Aura
+Enchant land
+"Whenever enchanted land becomes tapped, Psychic Venom deals 2 damage to that land’s controller."
+Voile de pureté
+{W}
+Instant
+Target spell or permanent becomes white. (Mana symbols on that permanent remain unchanged.)
+Exhumation
+{B}
+Sorcery
+Return target creature card from your graveyard to your hand.
+Reconstruction
+{U}
+Sorcery
+Return target artifact card from your graveyard to your hand.
+Salve élémentaire rouge
+{R}
+Instant
+Choose one —
+• Counter target blue spell.
+• Destroy target blue permanent.
+Rune de garde rouge
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from red. This effect doesn’t remove Red Ward.
+Régénération
+{1}{G}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+Réapparition
+{1}{G}
+Sorcery
+Return target card from your graveyard to your hand.
+Résurrection
+{2}{W}{W}
+Sorcery
+Return target creature card from your graveyard to the battlefield.
+Inversion des dégâts
+{1}{W}{W}
+Instant
+"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
+Inversion de polarité
+{W}{W}
+Instant
+"You gain X life, where X is twice the damage dealt to you so far this turn by artifacts."
+Droiture
+{W}
+Instant
+Target blocking creature gets +7/+7 until end of turn.
+Lance-roquettes
+{4}
+Artifact
+{2}: Rocket Launcher deals 1 damage to any target. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you’ve controlled Rocket Launcher continuously since the beginning of your most recent turn.
+Hydre de pierre
+{X}{R}{R}
+Creature — Hydra
+Rock Hydra enters the battlefield with X +1/+1 counters on it.
+"For each 1 damage that would be dealt to Rock Hydra, if it has a +1/+1 counter on it, remove a +1/+1 counter from it and prevent that 1 damage."
+{R}: Prevent the next 1 damage that would be dealt to Rock Hydra this turn.
+{R}{R}{R}: Put a +1/+1 counter on Rock Hydra. Activate this ability only during your upkeep.
+0/0
+Rokh des Hauts de Kher
+{3}{R}
+Creature — Bird
+Flying
+3/3
+Baguette de ruine
+{4}
+Artifact
+"{3}, {T}: Rod of Ruin deals 1 damage to any target."
+Assassin royal
+{1}{B}{B}
+Creature — Human Assassin
+{T}: Destroy target tapped creature.
+1/1
+Sacrifice
+{B}
+Instant
+"As an additional cost to cast this spell, sacrifice a creature."
+Add an amount of {B} equal to the sacrificed creature’s converted mana cost.
+Guérisseur sanctif
+{1}{W}
+Creature — Human Cleric
+{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+1/1
+Savane
+Land — Forest Plains
+({T}: Add {G} or {W}.)
+Lions des savanes
+{W}
+Creature — Cat
+2/1
+Zombies dévastateurs
+{2}{B}
+Creature — Zombie
+2/2
+Goule nécrophage
+{3}{B}
+Creature — Zombie
+"At the beginning of each end step, put a corpse counter on Scavenging Ghoul for each creature that died this turn."
+Remove a corpse counter from Scavenging Ghoul: Regenerate Scavenging Ghoul.
+2/2
+Brousse
+Land — Plains Swamp
+({T}: Add {W} or {B}.)
+Farfadets de la scrutaie
+{G}
+Creature — Faerie
+Flying
+1/1
+Grand serpent de mer
+{5}{U}
+Creature — Serpent
+Sea Serpent can’t attack unless defending player controls an Island.
+"When you control no Islands, sacrifice Sea Serpent."
+5/5
+Troll fangeux
+{2}{R}
+Creature — Troll
+Sedge Troll gets +1/+1 as long as you control a Swamp.
+{B}: Regenerate Sedge Troll.
+2/2
+Vampire sengien
+{3}{B}{B}
+Creature — Vampire
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+4/4
+Efrit de Serendib
+{2}{U}
+Creature — Efreet
+Flying
+"At the beginning of your upkeep, Serendib Efreet deals 1 damage to you."
+3/4
+Ange de Serra
+{3}{W}{W}
+Creature — Angel
+"Flying, vigilance"
+4/4
+Dryades de Shanod
+{G}
+Creature — Nymph Dryad
+Forestwalk (This creature can’t be blocked as long as defending player controls a Forest.)
+1/1
+Fracasser
+{1}{R}
+Instant
+Destroy target artifact.
+Tempête fracassante
+{2}{R}{R}
+Sorcery
+Destroy all artifacts. They can’t be regenerated.
+Dragon Shîvan
+{4}{R}{R}
+Creature — Dragon
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.
+5/5
+Simulacre
+{1}{B}
+Instant
+You gain life equal to the damage dealt to you this turn. Simulacrum deals damage to target creature you control equal to the damage dealt to you this turn.
+Chant des sirènes
+{U}
+Instant
+"Cast this spell only during an opponent’s turn, before attackers are declared."
+Creatures the active player controls attack this turn if able.
+"At the beginning of the next end step, destroy all non-Wall creatures that player controls that didn’t attack this turn. Ignore this effect for each creature the player didn’t control continuously since the beginning of the turn."
+Tricherie mentale
+{U}
+Instant
+"Change the text of target spell or permanent by replacing all instances of one color word with another. (For example, you may change “target black spell” to “target blue spell.” This effect lasts indefinitely.)"
+Fumée
+{R}{R}
+Enchantment
+Players can’t untap more than one creature during their untap steps.
+Anneau solaire
+{1}
+Artifact
+{T}: Add {C}{C}.
+Reine sorcière
+{1}{B}{B}
+Creature — Human Wizard
+{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
+1/1
+Rets des âmes
+{1}
+Artifact
+"Whenever a creature dies, you may pay {1}. If you do, you gain 1 life."
+Salve d'antimagie
+{X}{U}
+Instant
+"Counter target spell with converted mana cost X. (For example, if that spell’s mana cost is {3}{U}{U}, X is 5.)"
+Stase
+{1}{U}
+Enchantment
+Players skip their untap steps.
+"At the beginning of your upkeep, sacrifice Stasis unless you pay {U}."
+Vol d'artefact
+{2}{U}{U}
+Enchantment — Aura
+Enchant artifact
+You control enchanted artifact.
+Géant de pierre
+{2}{R}{R}
+Creature — Giant
+{T}: Target creature you control with toughness less than Stone Giant’s power gains flying until end of turn. Destroy that creature at the beginning of the next end step.
+3/4
+Pluie de pierres
+{2}{R}
+Sorcery
+Destroy target land.
+Source de vie
+{X}{G}
+Sorcery
+Target player gains X life.
+Lunettes solaires d'Urza
+{3}
+Artifact
+You may spend white mana as though it were red mana.
+Marais
+Basic Land — Swamp
+({T}: Add {B}.)
+Marais
+Basic Land — Swamp
+({T}: Add {B}.)
+Marais
+Basic Land — Swamp
+({T}: Add {B}.)
+Retour au pays
+{W}
+Instant
+Exile target creature. Its controller gains life equal to its power.
+Taïga
+Land — Mountain Forest
+({T}: Add {R} or {G}.)
+Terreur
+{1}{B}
+Instant
+"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
+L'Essaim
+{5}
+Artifact
+"{5}, {T}: Create a 1/1 colorless Insect artifact creature token with flying named Wasp. (It can’t be blocked except by creatures with flying or reach.)"
+Chevalet de torture
+{1}
+Artifact
+"As The Rack enters the battlefield, choose an opponent."
+"At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand."
+Basilic des halliers
+{3}{G}{G}
+Creature — Basilisk
+"Whenever Thicket Basilisk blocks or becomes blocked by a non-Wall creature, destroy that creature at end of combat."
+2/4
+Voile de pensées
+{U}
+Instant
+Target spell or permanent becomes blue. (Mana symbols on that permanent remain unchanged.)
+Trône d'os
+{1}
+Artifact
+"Whenever a player casts a black spell, you may pay {1}. If you do, you gain 1 life."
+Loups des forêts
+{G}
+Creature — Wolf
+"Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+1/1
+Chanson de Titania
+{3}{G}
+Enchantment
+"Each noncreature artifact loses all abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania’s Song leaves the battlefield, this effect continues until end of turn."
+Tranquilité
+{2}{G}
+Sorcery
+Destroy all enchantments.
+Ile tropicale
+Land — Forest Island
+({T}: Add {G} or {U}.)
+Tsunami
+{3}{G}
+Sorcery
+Destroy all Islands.
+Toundra
+Land — Plains Island
+({T}: Add {W} or {U}.)
+Tunnel
+{R}
+Instant
+Destroy target Wall. It can’t be regenerated.
+Mer sous-terraine
+Land — Island Swamp
+({T}: Add {U} or {B}.)
+Force impie
+{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1.
+Mutation instable
+{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+"At the beginning of the upkeep of enchanted creature’s controller, put a -1/-1 counter on that creature."
+Désinvocation
+{U}
+Instant
+Return target creature to its owner’s hand.
+Troll d'Uthden
+{2}{R}
+Creature — Troll
+{R}: Regenerate Uthden Troll.
+2/2
+Enchanteresse verduralde
+{1}{G}{G}
+Creature — Human Druid
+"Whenever you cast an enchantment spell, you may draw a card."
+0/2
+Mutaforme Vesuvano
+{3}{U}{U}
+Creature — Shapeshifter
+"You may have Vesuvan Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it doesn’t copy that creature’s color and it has “At the beginning of your upkeep, you may have this creature become a copy of target creature, except it doesn’t copy that creature’s color and it has this ability.”"
+0/0
+Garde du corps émérite
+{3}{W}{W}
+Creature — Human
+"As long as Veteran Bodyguard is untapped, all damage that would be dealt to you by unblocked creatures is dealt to Veteran Bodyguard instead."
+2/5
+Eruption volcanique
+{X}{U}{U}{U}
+Sorcery
+Destroy X target Mountains. Volcanic Eruption deals damage to each creature and each player equal to the number of Mountains put into a graveyard this way.
+Ile volcanique
+Land — Island Mountain
+({T}: Add {U} or {R}.)
+Mur d'air
+{1}{U}{U}
+Creature — Wall
+"Defender, flying (This creature can’t attack, and it can block creatures with flying.)"
+1/5
+Mur d'ossements
+{2}{B}
+Creature — Skeleton Wall
+Defender (This creature can’t attack.)
+"{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+1/4
+Mur de ronces
+{2}{G}
+Creature — Plant Wall
+Defender (This creature can’t attack.)
+{G}: Regenerate Wall of Brambles.
+2/3
+Mur de feu
+{1}{R}{R}
+Creature — Wall
+Defender (This creature can’t attack.)
+{R}: Wall of Fire gets +1/+0 until end of turn.
+0/5
+Mur de glace
+{2}{G}
+Creature — Wall
+Defender (This creature can’t attack.)
+0/7
+Mur de pierre
+{1}{R}{R}
+Creature — Wall
+Defender (This creature can’t attack.)
+0/8
+Mur d'épées
+{3}{W}
+Creature — Wall
+Defender (This creature can’t attack.)
+Flying
+3/5
+Mur d'eau
+{1}{U}{U}
+Creature — Wall
+Defender (This creature can’t attack.)
+{U}: Wall of Water gets +1/+0 until end of turn.
+0/5
+Mur de bois
+{G}
+Creature — Wall
+Defender (This creature can’t attack.)
+0/3
+Errance
+{2}{G}
+Enchantment — Aura
+Enchant creature
+"At the beginning of the upkeep of enchanted creature’s controller, Wanderlust deals 1 damage to that player."
+Mammouth de guerre
+{3}{G}
+Creature — Elephant
+Trample
+3/3
+Distorsion d'artefact
+{B}{B}
+Enchantment — Aura
+Enchant artifact
+"At the beginning of the upkeep of enchanted artifact’s controller, Warp Artifact deals 1 damage to that player."
+Elémental d'eau
+{3}{U}{U}
+Creature — Elemental
+5/4
+Faiblesse
+{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets -2/-1.
+Tisseur de toile
+{G}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Roue de la fortune
+{2}{R}
+Sorcery
+"Each player discards their hand, then draws seven cards."
+Chevalier blanc
+{W}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from black (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything black.)"
+2/2
+Rune de garde blanche
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has protection from white. This effect doesn’t remove White Ward.
+Végétation luxuriante
+{G}
+Enchantment — Aura
+Enchant land
+"Whenever enchanted land is tapped for mana, its controller adds an additional {G}."
+Feu follet
+{B}
+Creature — Spirit
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"{B}: Regenerate Will-o’-the-Wisp. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+0/1
+Orbe de l'hiver
+{2}
+Artifact
+"As long as Winter Orb is untapped, players can’t untap more than one land during their untap steps."
+Sphère de bois
+{1}
+Artifact
+"Whenever a player casts a green spell, you may pay {1}. If you do, you gain 1 life."
+Colère de Dieu
+{2}{W}{W}
+Sorcery
+Destroy all creatures. They can’t be regenerated.
+Maître des zombies
+{1}{B}{B}
+Creature — Zombie
+Other Zombie creatures have swampwalk. (They can’t be blocked as long as defending player controls a Swamp.)
+Other Zombies have “{B}: Regenerate this permanent.”
+2/3

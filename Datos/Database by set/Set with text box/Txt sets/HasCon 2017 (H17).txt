@@ -1,0 +1,25 @@
+Dragon
+Token Creature — Dragon
+Flying
+4/4
+"Grimlock, Dinobot Leader"
+{1}{R}{G}{W}
+Legendary Artifact Creature — Autobot
+"Dinosaurs, Vehicles, and other Transformers® creatures you control get +2/+0."
+"{2}, Convert a Transformers toy you own to its other mode: Grimlock, Dinobot Leader becomes Grimlock, Ferocious King."
+4/4
+"Grimlock, Ferocious King"
+Legendary Artifact Creature — Dinosaur
+Trample
+"{2}, Convert a Transformers toy you own to its other mode: Grimlock, Ferocious King becomes Grimlock, Dinobot Leader."
+8/8
+Nerf War
+{3}{U}{R}
+Sorcery
+"Fire a Nerf® blaster until empty at target library from at least two meters away. For each card knocked off that library, put it into its owner’s graveyard and Nerf War deals ½ damage to that player. (Foam darts only.)"
+Sword of Dungeons & Dragons
+{3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has protection from Rogues and from Clerics.
+"Whenever equipped creature deals combat damage to a player, create a 4/4 gold Dragon creature token with flying and roll a d20 (a twenty-sided die). If you roll a 20, repeat this process."
+Equip {2}

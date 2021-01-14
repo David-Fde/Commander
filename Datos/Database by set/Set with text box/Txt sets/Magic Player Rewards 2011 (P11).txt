@@ -1,0 +1,21 @@
+Brave the Elements
+{W}
+Instant
+Choose a color. White creatures you control gain protection from the chosen color until end of turn.
+Day of Judgment
+{2}{W}{W}
+Sorcery
+Destroy all creatures.
+Doom Blade
+{1}{B}
+Instant
+Destroy target nonblack creature.
+Searing Blaze
+{R}{R}
+Instant
+Searing Blaze deals 1 damage to target player or planeswalker and 1 damage to target creature that player or that planeswalker’s controller controls.
+"Landfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player or planeswalker and 3 damage to that creature instead."
+Treasure Hunt
+{1}{U}
+Sorcery
+"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."

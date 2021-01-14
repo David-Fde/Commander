@@ -1,0 +1,31 @@
+Daxos the Returned
+{1}{W}{B}
+Legendary Creature — Zombie Soldier
+"Whenever you cast an enchantment spell, you get an experience counter."
+{1}{W}{B}: Create a white and black Spirit enchantment creature token. It has “This creature’s power and toughness are each equal to the number of experience counters you have.”
+2/2
+"Ezuri, Claw of Progress"
+{2}{G}{U}
+Legendary Creature — Elf Warrior
+"Whenever a creature with power 2 or less enters the battlefield under your control, you get an experience counter."
+"At the beginning of combat on your turn, put X +1/+1 counters on another target creature you control, where X is the number of experience counters you have."
+3/3
+"Kalemne, Disciple of Iroas"
+{2}{R}{W}
+Legendary Creature — Giant Soldier
+"Double strike, vigilance"
+"Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter."
+"Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have."
+3/3
+Meren of Clan Nel Toth
+{2}{B}{G}
+Legendary Creature — Human Shaman
+"Whenever another creature you control dies, you get an experience counter."
+"At the beginning of your end step, choose target creature card in your graveyard. If that card’s converted mana cost is less than or equal to the number of experience counters you have, return it to the battlefield. Otherwise, put it into your hand."
+3/4
+Mizzix of the Izmagnus
+{2}{U}{R}
+Legendary Creature — Goblin Wizard
+"Whenever you cast an instant or sorcery spell with converted mana cost greater than the number of experience counters you have, you get an experience counter."
+Instant and sorcery spells you cast cost {1} less to cast for each experience counter you have.
+2/2

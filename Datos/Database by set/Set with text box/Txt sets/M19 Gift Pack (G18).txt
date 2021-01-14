@@ -1,0 +1,30 @@
+Angelic Guardian
+{4}{W}{W}
+Creature — Angel
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"Whenever one or more creatures you control attack, they gain indestructible until end of turn. (Damage and effects that say “destroy” don’t destroy them.)"
+5/5
+Angler Turtle
+{5}{U}{U}
+Creature — Turtle
+Hexproof
+Creatures your opponents control attack each combat if able.
+5/7
+Immortal Phoenix
+{4}{R}{R}
+Creature — Phoenix
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"When Immortal Phoenix dies, return it to its owner’s hand."
+5/3
+Rampaging Brontodon
+{5}{G}{G}
+Creature — Dinosaur
+Trample
+"Whenever Rampaging Brontodon attacks, it gets +1/+1 until end of turn for each land you control."
+7/7
+Vengeant Vampire
+{4}{B}{B}
+Creature — Vampire
+Lifelink
+"When Vengeant Vampire dies, destroy target creature an opponent controls and you gain 4 life."
+4/4

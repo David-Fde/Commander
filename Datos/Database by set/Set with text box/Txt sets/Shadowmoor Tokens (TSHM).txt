@@ -1,0 +1,41 @@
+Elemental
+Token Creature — Elemental
+5/5
+Elemental
+Token Creature — Elemental
+Haste
+1/1
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Faerie Rogue
+Token Creature — Faerie Rogue
+Flying
+1/1
+Giant Warrior
+Token Creature — Giant Warrior
+Haste
+4/4
+Goblin Warrior
+Token Creature — Goblin Warrior
+1/1
+Kithkin Soldier
+Token Creature — Kithkin Soldier
+1/1
+Rat
+Token Creature — Rat
+1/1
+Spider
+Token Creature — Spider
+Reach
+1/2
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Wolf
+Token Creature — Wolf
+2/2

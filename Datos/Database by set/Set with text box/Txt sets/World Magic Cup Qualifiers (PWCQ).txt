@@ -1,0 +1,27 @@
+Abrupt Decay
+{B}{G}
+Instant
+This spell can’t be countered.
+Destroy target nonland permanent with converted mana cost 3 or less.
+Geist of Saint Traft
+{1}{W}{U}
+Legendary Creature — Spirit Cleric
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+"Whenever Geist of Saint Traft attacks, create a 4/4 white Angel creature token with flying that’s tapped and attacking. Exile that token at end of combat."
+2/2
+Inkmoth Nexus
+Land
+{T}: Add {C}.
+{1}: Inkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying and infect until end of turn. It’s still a land. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+"Thalia, Guardian of Thraben"
+{1}{W}
+Legendary Creature — Human Soldier
+First strike
+Noncreature spells cost {1} more to cast.
+2/1
+Vengevine
+{2}{G}{G}
+Creature — Elemental
+Haste
+"Whenever you cast a spell, if it’s the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield."
+4/3

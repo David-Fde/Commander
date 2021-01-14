@@ -1,0 +1,262 @@
+Betrayal of Flesh
+{5}{B}
+Instant
+Choose one —
+• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield.
+Entwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)
+Carrion Rats
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Carrion Rats
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Carrion Rats
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Chittering Rats
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Chittering Rats
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Chittering Rats
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Crippling Fatigue
+{1}{B}{B}
+Sorcery
+Target creature gets -2/-2 until end of turn.
+"Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Crippling Fatigue
+{1}{B}{B}
+Sorcery
+Target creature gets -2/-2 until end of turn.
+"Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Crypt Rats
+{2}{B}
+Creature — Rat
+{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+1/1
+Diabolic Tutor
+{2}{B}{B}
+Sorcery
+Search your library for a card and put that card into your hand. Then shuffle your library.
+Dirge of Dread
+{2}{B}
+Sorcery
+All creatures gain fear until end of turn. (They can’t be blocked except by artifact creatures and/or black creatures.)
+"Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)"
+"When you cycle Dirge of Dread, you may have target creature gain fear until end of turn."
+Dirty Wererat
+{3}{B}
+Creature — Human Rat Minion
+"{B}, Discard a card: Regenerate Dirty Wererat."
+"Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can’t block."
+2/3
+Dirty Wererat
+{3}{B}
+Creature — Human Rat Minion
+"{B}, Discard a card: Regenerate Dirty Wererat."
+"Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can’t block."
+2/3
+Gravestorm
+{B}{B}{B}
+Enchantment
+"At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn’t, you may draw a card."
+Infernal Contract
+{B}{B}{B}
+Sorcery
+"Draw four cards. You lose half your life, rounded up."
+Larceny
+{3}{B}{B}
+Enchantment
+"Whenever a creature you control deals combat damage to a player, that player discards a card."
+Marrow-Gnawer
+{3}{B}{B}
+Legendary Creature — Rat Rogue
+All Rats have fear.
+"{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control."
+2/3
+Nezumi Bone-Reader
+{1}{B}
+Creature — Rat Shaman
+"{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+1/1
+Nezumi Cutthroat
+{1}{B}
+Creature — Rat Warrior
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can’t block.
+2/1
+Nezumi Cutthroat
+{1}{B}
+Creature — Rat Warrior
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can’t block.
+2/1
+Nezumi Graverobber
+{1}{B}
+Creature — Rat Rogue
+"{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
+2/1
+Nighteyes the Desecrator
+Legendary Creature — Rat Wizard
+{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+4/2
+Nezumi Graverobber
+{1}{B}
+Creature — Rat Rogue
+"{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
+2/1
+Nighteyes the Desecrator
+Legendary Creature — Rat Wizard
+{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+4/2
+Nocturnal Raid
+{2}{B}{B}
+Instant
+Black creatures get +2/+0 until end of turn.
+Patron of the Nezumi
+{5}{B}{B}
+Legendary Creature — Spirit
+Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+"Whenever a permanent is put into an opponent’s graveyard, that player loses 1 life."
+6/6
+Rats' Feast
+{X}{B}
+Sorcery
+Exile X target cards from a single graveyard.
+Rats' Feast
+{X}{B}
+Sorcery
+Exile X target cards from a single graveyard.
+Sever Soul
+{3}{B}{B}
+Sorcery
+Destroy target nonblack creature. It can’t be regenerated. You gain life equal to its toughness.
+Sever Soul
+{3}{B}{B}
+Sorcery
+Destroy target nonblack creature. It can’t be regenerated. You gain life equal to its toughness.
+Skullsnatcher
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Skullsnatcher
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Skullsnatcher
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Suppress
+{2}{B}
+Sorcery
+"Target player exiles all cards from their hand face down. At the beginning of the end step of that player’s next turn, that player returns those cards to their hand."
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swarm of Rats
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1
+Swarm of Rats
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1
+Swarm of Rats
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1

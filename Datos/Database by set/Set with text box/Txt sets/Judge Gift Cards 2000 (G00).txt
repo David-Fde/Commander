@@ -1,0 +1,8 @@
+Counterspell
+{U}{U}
+Instant
+Counter target spell.
+Vampiric Tutor
+{B}
+Instant
+"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."

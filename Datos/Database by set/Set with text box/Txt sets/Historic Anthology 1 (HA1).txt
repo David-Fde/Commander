@@ -1,0 +1,100 @@
+Burning-Tree Emissary
+{R/G}{R/G}
+Creature — Human Shaman
+"When Burning-Tree Emissary enters the battlefield, add {R}{G}."
+2/2
+Captain Sisay
+{2}{G}{W}
+Legendary Creature — Human Soldier
+"{T}: Search your library for a legendary card, reveal that card, and put it into your hand. Then shuffle your library."
+2/2
+Cryptbreaker
+{B}
+Creature — Zombie
+"{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token."
+Tap three untapped Zombies you control: You draw a card and you lose 1 life.
+1/1
+Darksteel Reactor
+{4}
+Artifact
+Indestructible (Effects that say “destroy” don’t destroy this artifact.)
+"At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor."
+"When Darksteel Reactor has twenty or more charge counters on it, you win the game."
+Distant Melody
+{3}{U}
+Sorcery
+Choose a creature type. Draw a card for each permanent you control of that type.
+Elvish Visionary
+{1}{G}
+Creature — Elf Shaman
+"When Elvish Visionary enters the battlefield, draw a card."
+1/1
+Fauna Shaman
+{1}{G}
+Creature — Elf Shaman
+"{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle your library."
+2/2
+Goblin Matron
+{2}{R}
+Creature — Goblin
+"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
+1/1
+Hidetsugu's Second Rite
+{3}{R}
+Instant
+"If target player has exactly 10 life, Hidetsugu’s Second Rite deals 10 damage to that player."
+Hypnotic Specter
+{1}{B}{B}
+Creature — Specter
+Flying
+"Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+2/2
+Imperious Perfect
+{2}{G}
+Creature — Elf Warrior
+Other Elves you control get +1/+1.
+"{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+2/2
+Kiln Fiend
+{1}{R}
+Creature — Elemental Beast
+"Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn."
+1/2
+Kinsbaile Cavalier
+{3}{W}
+Creature — Kithkin Knight
+Knight creatures you control have double strike.
+2/2
+Mind Stone
+{2}
+Artifact
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Ornithopter
+{0}
+Artifact Creature — Thopter
+Flying
+0/2
+Phyrexian Arena
+{1}{B}{B}
+Enchantment
+"At the beginning of your upkeep, you draw a card and you lose 1 life."
+Serra Ascendant
+{W}
+Creature — Human Monk
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+"As long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying."
+1/1
+Soul Warden
+{W}
+Creature — Human Cleric
+"Whenever another creature enters the battlefield, you gain 1 life."
+1/1
+Tendrils of Corruption
+{3}{B}
+Instant
+"Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control."
+Treasure Hunt
+{1}{U}
+Sorcery
+"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."

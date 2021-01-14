@@ -1,0 +1,215 @@
+Ancient Tomb
+Land
+{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Balefire Dragon
+{5}{R}{R}
+Creature — Dragon
+Flying
+"Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls."
+6/6
+Bitterblossom
+{1}{B}
+Tribal Enchantment — Faerie
+"At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying."
+Cavern of Souls
+Land
+"As Cavern of Souls enters the battlefield, choose a creature type."
+{T}: Add {C}.
+"{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can’t be countered."
+Celestial Colonnade
+Land
+Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U}.
+"{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It’s still a land."
+Creeping Tar Pit
+Land
+Creeping Tar Pit enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can’t be blocked this turn. It’s still a land.
+Dark Depths
+Legendary Snow Land
+Dark Depths enters the battlefield with ten ice counters on it.
+{3}: Remove an ice counter from Dark Depths.
+"When Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible."
+Demonic Tutor
+{1}{B}
+Sorcery
+"Search your library for a card, put that card into your hand, then shuffle your library."
+"Emrakul, the Aeons Torn"
+{15}
+Legendary Creature — Eldrazi
+This spell can’t be countered.
+"When you cast this spell, take an extra turn after this one."
+"Flying, protection from colored spells, annihilator 6"
+"When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+15/15
+Engineered Explosives
+{X}
+Artifact
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+"{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+Eternal Witness
+{1}{G}{G}
+Creature — Human Shaman
+"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+2/1
+Fulminator Mage
+{1}{B/R}{B/R}
+Creature — Elemental Shaman
+Sacrifice Fulminator Mage: Destroy target nonbasic land.
+2/2
+Gaddock Teeg
+{G}{W}
+Legendary Creature — Kithkin Advisor
+Noncreature spells with converted mana cost 4 or greater can’t be cast.
+Noncreature spells with {X} in their mana costs can’t be cast.
+2/2
+Goryo's Vengeance
+{1}{B}
+Instant — Arcane
+Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.
+"Splice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
+Karakas
+Legendary Land
+{T}: Add {W}.
+{T}: Return target legendary creature to its owner’s hand.
+Karn Liberated
+{7}
+Legendary Planeswalker — Karn
++4: Target player exiles a card from their hand.
+−3: Exile target permanent.
+"−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
+Loyalty: 6
+Kitchen Finks
+{1}{G/W}{G/W}
+Creature — Ouphe
+"When Kitchen Finks enters the battlefield, you gain 2 life."
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+3/2
+"Kozilek, Butcher of Truth"
+{10}
+Legendary Creature — Eldrazi
+"When you cast this spell, draw four cards."
+"Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)"
+"When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+12/12
+Lavaclaw Reaches
+Land
+Lavaclaw Reaches enters the battlefield tapped.
+{T}: Add {B} or {R}.
+"{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with “{X}: This creature gets +X/+0 until end of turn.” It’s still a land."
+"Leovold, Emissary of Trest"
+{B}{G}{U}
+Legendary Creature — Elf Advisor
+Each opponent can’t draw more than one card each turn.
+"Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card."
+3/3
+Life from the Loam
+{1}{G}
+Sorcery
+Return up to three target land cards from your graveyard to your hand.
+"Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+Liliana of the Veil
+{1}{B}{B}
+Legendary Planeswalker — Liliana
++1: Each player discards a card.
+−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.
+Loyalty: 3
+Lord of Extinction
+{3}{B}{G}
+Creature — Elemental
+Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.
+*/*
+Maelstrom Pulse
+{1}{B}{G}
+Sorcery
+Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Mana Vault
+{1}
+Artifact
+Mana Vault doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault."
+"At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you."
+{T}: Add {C}{C}{C}.
+"Mikaeus, the Unhallowed"
+{3}{B}{B}{B}
+Legendary Creature — Zombie Cleric
+Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+"Whenever a Human deals damage to you, destroy it."
+"Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)"
+5/5
+Noble Hierarch
+{G}
+Creature — Human Druid
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"{T}: Add {G}, {W}, or {U}."
+0/1
+Platinum Emperion
+{8}
+Artifact Creature — Golem
+Your life total can’t change. (You can’t gain or lose life. You can’t pay any amount of life except 0.)
+8/8
+Raging Ravine
+Land
+Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G}.
+"{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with “Whenever this creature attacks, put a +1/+1 counter on it.” It’s still a land."
+Reanimate
+{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+"Sigarda, Host of Herons"
+{2}{G}{W}{W}
+Legendary Creature — Angel
+"Flying, hexproof"
+Spells and abilities your opponents control can’t cause you to sacrifice permanents.
+5/5
+Snapcaster Mage
+{1}{U}
+Creature — Human Wizard
+Flash
+"When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+2/1
+Stirring Wildwood
+Land
+Stirring Wildwood enters the battlefield tapped.
+{T}: Add {G} or {W}.
+"{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It’s still a land."
+Tarmogoyf
+{1}{G}
+Creature — Lhurgoyf
+Tarmogoyf’s power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+*/1+*
+"Tasigur, the Golden Fang"
+{5}{B}
+Legendary Creature — Human Shaman
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+"{2}{G/U}{G/U}: Mill two cards, then return a nonland card of an opponent’s choice from your graveyard to your hand."
+4/5
+Temporal Manipulation
+{3}{U}{U}
+Sorcery
+Take an extra turn after this one.
+Through the Breach
+{4}{R}
+Instant — Arcane
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.
+"Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
+"Ulamog, the Infinite Gyre"
+{11}
+Legendary Creature — Eldrazi
+"When you cast this spell, destroy target permanent."
+Indestructible
+"Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)"
+"When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+10/10
+"Urborg, Tomb of Yawgmoth"
+Legendary Land
+Each land is a Swamp in addition to its other land types.
+Vengevine
+{2}{G}{G}
+Creature — Elemental
+Haste
+"Whenever you cast a spell, if it’s the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield."
+4/3

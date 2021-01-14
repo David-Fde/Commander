@@ -1,0 +1,14 @@
+Djinn Illuminatus
+{5}{U/R}{U/R}
+Creature — Djinn
+({U/R} can be paid with either {U} or {R}.)
+Flying
+"Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+3/5
+Gruul Guildmage
+{R/G}{R/G}
+Creature — Human Shaman
+({R/G} can be paid with either {R} or {G}.)
+"{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player or planeswalker."
+{3}{G}: Target creature gets +2/+2 until end of turn.
+2/2

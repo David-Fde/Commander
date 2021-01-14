@@ -1,0 +1,97 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Arlinn Kord Emblem
+Emblem — Arlinn
+Creatures you control have haste and “{T}: This creature deals damage equal to its power to any target.”
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Clue
+Token Artifact — Clue
+"{2}, Sacrifice this artifact: Draw a card."
+Devil
+Token Creature — Devil
+"When this creature dies, it deals 1 damage to any target."
+1/1
+Human Cleric
+Token Creature — Human Cleric
+1/1
+Human Soldier
+Token Creature — Human Soldier
+1/1
+Insect
+Token Creature — Insect
+1/1
+"Jace, Unraveler of Secrets Emblem"
+Emblem — Jace
+"Whenever an opponent casts their first spell each turn, counter that spell."
+Ooze
+Token Creature — Ooze
+3/3
+Shadows Over Innistrad Checklist 1
+Card
+(You can mark this card to represent a double-faced card in your library or hand.)
+☐ Avacynian Missionaries {3}{W}
+☐ Pious Evangel {2}{W}
+☐ Town Gossipmonger {W}
+☐ Aberrant Researcher {3}{U}
+☐ Daring Sleuth {1}{U}
+☐ Uninvited Geist {2}{U}
+☐ Accursed Witch {3}{B}
+☐ Heir of Falkenrath {1}{B}
+☐ Kindly Stranger {2}{B}
+☐ Breakneck Rider {1}{R}{R}
+☐ Convicted Killer {2}{R}
+☐ Gatstaf Arsonists {4}{R}
+☐ Kessig Forgemaster {1}{R}
+☐ Skin Invasion {1}{R}
+☐ Village Messenger {R}
+☐ Autumnal Gloom {2}{G}
+☐ Duskwatch Recruiter {1}{G}
+☐ Hermit of the Natterknolls {2}{G}
+☐ Hinterland Logger {1}{G}
+☐ Lambholt Pacifist {1}{G}
+☐ Solitary Hunter {3}{G}
+☐ Harvest Hand {3}
+☐ Neglected Heirloom {1}
+☐ Thraben Gargoyle {1}
+Shadows Over Innistrad Checklist 2
+Card
+(You can mark this card to represent a double-faced card in your library or hand.)
+☐ Archangel Avacyn {3}{W}{W}
+☐ Hanweir Militia Captain {1}{W}
+☐ Startled Awake {2}{U}{U}
+☐ Thing in the Ice {1}{U}
+☐ Elusive Tormentor {2}{B}{B}
+☐ Geier Reach Bandit {2}{R}
+☐ Sage of Ancient Lore {4}{G}
+☐ Arlinn Kord {2}{R}{G}
+☐ Westvale Abbey
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Vampire Knight
+Token Creature — Vampire Knight
+Lifelink
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2

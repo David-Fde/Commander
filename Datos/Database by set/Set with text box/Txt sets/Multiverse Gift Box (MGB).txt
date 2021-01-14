@@ -1,0 +1,54 @@
+Bull Elephant
+{3}{G}
+Creature — Elephant
+"When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner’s hand."
+4/4
+Dark Privilege
+{1}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice a creature: Regenerate enchanted creature.
+King Cheetah
+{3}{G}
+Creature — Cat
+Flash
+3/2
+Necrosavant
+{3}{B}{B}{B}
+Creature — Zombie Giant
+"{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep."
+5/5
+Ovinomancer
+{2}{U}
+Creature — Human Wizard
+"When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner’s hand."
+"{T}, Return Ovinomancer to its owner’s hand: Destroy target creature. It can’t be regenerated. That creature’s controller creates a 0/1 green Sheep creature token."
+0/1
+Peace Talks
+{1}{W}
+Sorcery
+"This turn and next turn, creatures can’t attack, and players and permanents can’t be the targets of spells or activated abilities."
+Urborg Mindsucker
+{2}{B}
+Creature — Horror
+"{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery."
+2/2
+Vampirism
+{1}{B}
+Enchantment — Aura
+Enchant creature
+"When Vampirism enters the battlefield, draw a card at the beginning of the next turn’s upkeep."
+Enchanted creature gets +1/+1 for each other creature you control.
+Other creatures you control get -1/-1.
+Viashino Sandstalker
+{1}{R}{R}
+Creature — Viashino Warrior
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"At the beginning of the end step, return Viashino Sandstalker to its owner’s hand. (Return it only if it’s on the battlefield.)"
+4/2
+Wicked Reward
+{1}{B}
+Instant
+"As an additional cost to cast this spell, sacrifice a creature."
+Target creature gets +4/+2 until end of turn.

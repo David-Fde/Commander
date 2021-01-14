@@ -1,0 +1,17 @@
+Gemstone Mine
+Land
+Gemstone Mine enters the battlefield with three mining counters on it.
+"{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
+Mishra's Factory
+Land
+{T}: Add {C}.
+{1}: Mishra’s Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It’s still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+Regrowth
+{1}{G}
+Sorcery
+Return target card from your graveyard to your hand.
+Sol Ring
+{1}
+Artifact
+{T}: Add {C}{C}.

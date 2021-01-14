@@ -1,0 +1,19 @@
+Germ
+Token Creature — Germ
+0/0
+Golem
+Token Artifact Creature — Golem
+9/9
+Horror
+Token Artifact Creature — Horror
+*/*
+Poison Counter
+Card
+(A player with ten or more poison counters loses the game.)
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1
+Zombie
+Token Creature — Zombie
+2/2

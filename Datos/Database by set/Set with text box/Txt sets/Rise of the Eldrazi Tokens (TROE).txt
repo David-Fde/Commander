@@ -1,0 +1,25 @@
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Elemental
+Token Creature — Elemental
+*/*
+Hellion
+Token Creature — Hellion
+4/4
+Ooze
+Token Creature — Ooze
+*/*
+Tuktuk the Returned
+Token Artifact Creature — Goblin Golem
+Tuktuk the Returned is legendary.
+5/5

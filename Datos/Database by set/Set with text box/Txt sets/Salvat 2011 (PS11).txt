@@ -1,0 +1,1054 @@
+Espectro abismal
+{2}{B}{B}
+Creature — Specter
+Flying
+"Whenever Abyssal Specter deals damage to a player, that player discards a card."
+2/3
+Acólita de Xathrid
+{B}
+Creature — Human Cleric
+"{1}{B}, {T}: Target player loses 1 life."
+0/1
+Acto de traición
+{2}{R}
+Sorcery
+Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
+Elemental de aire
+{3}{U}{U}
+Creature — Elemental
+Flying
+4/4
+Myr alfa
+{2}
+Artifact Creature — Myr
+2/1
+Bendición angélica
+{2}{W}
+Sorcery
+Target creature gets +3/+3 and gains flying until end of turn. (It can’t be blocked except by creatures with flying or reach.)
+Ángel de piedad
+{4}{W}
+Creature — Angel
+Flying
+"When Angel of Mercy enters the battlefield, you gain 3 life."
+3/3
+Pluma de ángel
+{2}
+Artifact
+"Whenever a player casts a white spell, you may gain 1 life."
+Évincar predominante
+{4}{B}{B}
+Legendary Creature — Vampire Noble
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Other black creatures get +1/+1.
+Nonblack creatures get -1/-1.
+3/3
+Gigante tritura hachas
+{4}{R}{R}
+Creature — Giant Warrior
+6/4
+Fuego devastador
+{X}{R}
+Sorcery
+Banefire deals X damage to any target.
+"If X is 5 or more, this spell can’t be countered and the damage can’t be prevented."
+Aflicción de avispa de ruina
+{1}{B}
+Enchantment — Aura
+Enchant creature
+"When enchanted creature dies, that creature’s controller loses life equal to its toughness."
+Armadura de maderapálida
+{2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 for each Forest you control.
+Llamarada
+{X}{R}
+Sorcery
+Blaze deals X damage to any target.
+Ruinámpago
+{1}{B}{R}
+Sorcery
+Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker’s controller discards two cards.
+Mentor marca de sangre
+{1}{R}
+Creature — Goblin Warrior
+Red creatures you control have first strike.
+1/1
+Búmerang
+{U}{U}
+Instant
+Return target permanent to its owner’s hand.
+Behemot fronterizo
+{5}{R}{R}
+Creature — Giant Warrior
+Trample
+Borderland Behemoth gets +4/+4 for each other Giant you control.
+4/4
+Gnomos frasco
+{3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+Ejemplar de Maderazarza
+{1}{G}
+Creature — Elf Warrior
+Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has trample.
+2/2
+Brion Brazo Corpulento
+{2}{R}{W}
+Legendary Creature — Giant Warrior
+Lifelink
+"{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to target player or planeswalker."
+4/4
+Cerodonte macho
+{4}{R}{W}
+Creature — Beast
+"Vigilance, haste"
+5/5
+Deshacer
+{1}{U}{U}
+Instant
+Counter target spell.
+"Cho-Manno, revolucionario"
+{2}{W}{W}
+Legendary Creature — Human Rebel
+"Prevent all damage that would be dealt to Cho-Manno, Revolutionary."
+2/2
+Piromante ceniciento
+{2}{R}
+Creature — Elemental Shaman
+{T}: Cinder Pyromancer deals 1 damage to target player or planeswalker.
+"Whenever you cast a red spell, you may untap Cinder Pyromancer."
+0/1
+Buscacaminos cívico
+{2}{G}
+Creature — Elf Druid Warrior
+"When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
+2/2
+Roble Corona de nubes
+{2}{G}{G}
+Creature — Treefolk Warrior
+Reach (This creature can block creatures with flying.)
+3/4
+Hada de las nubes
+{U}
+Creature — Faerie
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+Cloud Sprite can block only creatures with flying.
+1/1
+Escudo de armas
+{5}
+Artifact
+"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
+Condenar
+{W}
+Instant
+Put target attacking creature on the bottom of its owner’s library. Its controller gains life equal to its toughness.
+Consumir el espíritu
+{X}{1}{B}
+Sorcery
+Spend only black mana on X.
+Consume Spirit deals X damage to any target and you gain X life.
+Contrataladro
+{3}{U}{U}
+Instant
+"Counter target spell. Search its controller’s graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library."
+Companía de cenicientos
+{3}{B}
+Creature — Elemental
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+Crowd of Cinders’s power and toughness are each equal to the number of black permanents you control.
+*/*
+Crisol de fuego
+{3}{R}
+Enchantment
+Dragon creatures you control get +3/+3.
+Thoctar mortal
+{4}{B}{R}
+Creature — Zombie Beast
+"Whenever another creature dies, you may put a +1/+1 counter on Deathbringer Thoctar."
+Remove a +1/+1 counter from Deathbringer Thoctar: It deals 1 damage to any target.
+3/3
+Duelista hábil
+{W}{U}
+Creature — Human Rogue
+First strike
+Shroud (This creature can’t be the target of spells or abilities.)
+2/1
+Diluvio
+{2}{U}
+Instant
+Tap all creatures without flying.
+Cuerno de demonio
+{2}
+Artifact
+"Whenever a player casts a black spell, you may gain 1 life."
+Habitante de las profundidades
+{6}{U}{U}
+Creature — Serpent
+"When Denizen of the Deep enters the battlefield, return each other creature you control to its owner’s hand."
+11/11
+Cápsula del disipador
+{W}
+Artifact
+"{2}{W}, {T}, Sacrifice Dispeller’s Capsule: Destroy target artifact or enchantment."
+Adivinación
+{2}{U}
+Sorcery
+Draw two cards.
+Carnada para dragones
+{1}{R}
+Sorcery
+Create two 1/1 red Goblin creature tokens.
+Descanso para dragones
+{4}{R}{R}
+Enchantment
+{5}{R}{R}: Create a 5/5 red Dragon creature token with flying. (It can’t be blocked except by creatures with flying or reach.)
+Garra de dragón
+{2}
+Artifact
+"Whenever a player casts a red spell, you may gain 1 life."
+Fractura del sueño
+{1}{U}{U}
+Instant
+Counter target spell. Its controller draws a card.
+Draw a card.
+Gentío de elfos
+{3}{G}
+Creature — Elf
+Hexproof
+Drove of Elves’s power and toughness are each equal to the number of green permanents you control.
+*/*
+Esqueletos esclavos
+{1}{B}
+Creature — Skeleton
+"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+1/1
+Sierpe del valle crepuscular
+{5}{G}{G}
+Creature — Wurm
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+7/7
+Diablillo del crepúsculo
+{2}{B}
+Creature — Imp
+Flying
+2/1
+Elemental de tierra
+{3}{R}{R}
+Creature — Elemental
+4/5
+Jinetes élficos
+{3}{G}{G}
+Creature — Elf
+Elven Riders can’t be blocked except by Walls and/or creatures with flying.
+3/3
+Campeona élfica
+{1}{G}{G}
+Creature — Elf
+Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)
+2/2
+Panegirista élfica
+{G}
+Creature — Elf Shaman
+Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
+1/1
+Caminata élfica
+{3}{G}
+Tribal Sorcery — Elf
+Create a 1/1 green Elf Warrior creature token for each Elf you control.
+Visionaria élfica
+{1}{G}
+Creature — Elf Shaman
+"When Elvish Visionary enters the battlefield, draw a card."
+1/1
+Guerrero élfico
+{G}{G}
+Creature — Elf Warrior
+2/3
+Encolerizar
+{X}{R}
+Instant
+Target creature gets +X/+0 until end of turn.
+Drenaje de esencia
+{4}{B}
+Sorcery
+Essence Drain deals 3 damage to any target and you gain 3 life.
+Esparcir la esencia
+{1}{U}
+Instant
+Counter target creature spell.
+Escultor de eterium
+{1}{U}
+Artifact Creature — Vedalken Artificer
+Artifact spells you cast cost {1} less to cast.
+1/2
+Evacuación
+{3}{U}{U}
+Instant
+Return all creatures to their owners’ hands.
+Fin de la desgracia visual
+{2}{B}
+Tribal Instant — Elf
+Destroy target non-Elf creature.
+Hada mecanista
+{3}{U}
+Artifact Creature — Faerie Artificer
+Flying
+"When Faerie Mechanist enters the battlefield, look at the top three cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+2/2
+Elfo refugio lejano
+{2}{G}
+Creature — Elf Druid
+"When Farhaven Elf enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+1/1
+Dragón ráfaga de llamas
+{4}{R}{R}
+Creature — Dragon
+Flying
+"Whenever Flameblast Dragon attacks, you may pay {X}{R}. If you do, Flameblast Dragon deals X damage to any target."
+5/5
+Pendenciero llameante
+{R}
+Creature — Elemental Warrior
+{R}: Flamekin Brawler gets +1/+0 until end of turn.
+0/2
+Fuente de los mitos
+{4}
+Artifact
+"At the beginning of each player’s draw step, that player draws two additional cards."
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Horno de Rath
+{1}{R}{R}{R}
+Enchantment
+"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
+Cría del horno
+{2}{R}{R}
+Creature — Dragon
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{R}: Furnace Whelp gets +1/+0 until end of turn.
+2/2
+Heraldo de Gaia
+{1}{G}
+Creature — Elf
+Creature spells can’t be countered.
+1/1
+"Garza Zol, reina de la peste"
+{4}{U}{B}{R}
+Legendary Creature — Vampire Noble
+"Flying, haste"
+"Whenever a creature dealt damage by Garza Zol, Plague Queen this turn dies, put a +1/+1 counter on Garza Zol."
+"Whenever Garza Zol deals combat damage to a player, you may draw a card."
+5/5
+Crecimiento gigante
+{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Araña gigante
+{3}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+2/4
+Demonio vidriado
+{1}{B}
+Artifact Creature — Illusion
+Flying
+"Whenever another artifact enters the battlefield under your control, Glaze Fiend gets +2/+2 until end of turn."
+0/1
+Himno glorioso
+{1}{W}{W}
+Enchantment
+Creatures you control get +1/+1.
+Lancero trasgo
+{1}{R}
+Creature — Goblin Warrior
+2/1
+Incursor aéreo trasgo
+{2}{R}
+Creature — Goblin Warrior
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+1/2
+Polilla brillo dorado
+{W}
+Creature — Insect
+Flying
+"Whenever Goldenglow Moth blocks, you may gain 4 life."
+0/1
+Sepulturero
+{3}{B}
+Creature — Zombie
+"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+2/2
+Druida tejedor verde
+{2}{G}
+Creature — Elf Druid
+{T}: Add {G}{G}.
+1/1
+Grifo centinela
+{2}{W}
+Creature — Griffin
+Flying
+Vigilance (Attacking doesn’t cause this creature to tap.)
+1/3
+Mago de guerra grixiano
+{2}{B}
+Creature — Human Wizard
+"{U}, {T}: Draw a card, then discard a card."
+"{R}, {T}: Target creature can’t block this turn."
+2/2
+Goliat espalda de chozas
+{6}{R}
+Creature — Giant Warrior
+"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature’s power."
+6/6
+Engendro cargador
+{4}{R}{R}
+Creature — Dragon
+"Flying, haste"
+"Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase."
+5/5
+Horror oculto
+{1}{B}{B}
+Creature — Horror
+"When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card."
+4/4
+Gigante de las colinas
+{3}{R}
+Creature — Giant
+3/3
+Día santo
+{W}
+Instant
+Prevent all combat damage that would be dealt this turn.
+Fuerza sagrada
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+2.
+El honor de los puros
+{1}{W}
+Enchantment
+White creatures you control get +1/+1.
+Mina aullante
+{2}
+Artifact
+"At the beginning of each player’s draw step, if Howling Mine is untapped, that player draws an additional card."
+Aullido de la manada nocturna
+{6}{G}
+Sorcery
+Create a 2/2 green Wolf creature token for each Forest you control.
+Huracán
+{X}{G}
+Sorcery
+Hurricane deals X damage to each creature with flying and each player.
+Magistrado inmaculado
+{3}{G}
+Creature — Elf Shaman
+{T}: Put a +1/+1 counter on target creature for each Elf you control.
+2/2
+Gigante instigado
+{4}{R}{R}
+Creature — Giant Warrior
+Trample
+"Tap an untapped red creature you control other than Impelled Giant: Impelled Giant gets +X/+0 until end of turn, where X is the power of the creature tapped this way."
+3/3
+Perfecta arrogante
+{2}{G}
+Creature — Elf Warrior
+Other Elves you control get +1/+1.
+"{G}, {T}: Create a 1/1 green Elf Warrior creature token."
+2/2
+Incinerar
+{1}{R}
+Instant
+Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
+Dentro de la Turbulencia
+{1}{U}
+Instant
+Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+"Return target nonland permanent to its owner’s hand. If this spell was kicked, draw a card."
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Engendro isla caparazón
+{5}{U}{U}
+Creature — Kraken
+Shroud (This creature can’t be the target of spells or abilities.)
+Isleback Spawn gets +4/+8 as long as a library has twenty or fewer cards in it.
+4/8
+Rayo dentado
+{3}{R}{R}
+Sorcery
+Jagged Lightning deals 3 damage to each of two target creatures.
+Arqueras de cicatriz dentada
+{1}{G}{G}
+Creature — Elf Archer
+Jagged-Scar Archers’s power and toughness are each equal to the number of Elves you control.
+{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.
+*/*
+Volumen de Jayemdae
+{4}
+Artifact
+"{4}, {T}: Draw a card."
+Behemot kaloniano
+{5}{G}{G}
+Creature — Beast
+Shroud (This creature can’t be the target of spells or abilities.)
+9/9
+"Kamahl, luchador del foso"
+{4}{R}{R}
+Legendary Creature — Human Barbarian
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+6/1
+Beso de los Amesha
+{4}{W}{U}
+Sorcery
+Target player gains 7 life and draws two cards.
+Caballero del Ojo Celeste
+{1}{W}
+Creature — Human Knight
+{3}{G}: Knight of the Skyward Eye gets +3/+3 until end of turn. Activate this ability only once each turn.
+2/2
+Ojo de kraken
+{2}
+Artifact
+"Whenever a player casts a blue spell, you may gain 1 life."
+Hacha de lava
+{4}{R}
+Sorcery
+Lava Axe deals 5 damage to target player or planeswalker.
+Cimitarra leonina
+{1}
+Artifact — Equipment
+Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
+Elemental de rayos
+{3}{R}
+Creature — Elemental
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+4/1
+Martillo de guerra loxodón
+{3}
+Artifact — Equipment
+Equipped creature gets +3/+0 and has trample and lifelink.
+Equip {3}
+Ascenso del luminarca
+{1}{W}
+Enchantment
+"At the beginning of each opponent’s end step, if you didn’t lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)"
+{1}{W}: Create a 4/4 white Angel creature token with flying. Activate this ability only if Luminarch Ascension has four or more quest counters on it.
+Maestro de caza de Lys Alana
+{2}{G}{G}
+Creature — Elf Warrior
+"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
+3/3
+Djinn Mahamoti
+{4}{U}{U}
+Creature — Djinn
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+5/6
+Fuga de maná
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Calcificación masiva
+{5}{W}{W}
+Sorcery
+Destroy all nonwhite creatures.
+Maestro de eterium
+{2}{U}
+Artifact Creature — Vedalken Wizard
+Master of Etherium’s power and toughness are each equal to the number of artifacts you control.
+Other artifact creatures you control get +1/+1.
+*/*
+Meglonoth
+{3}{R}{G}{W}
+Creature — Beast
+"Vigilance, trample"
+"Whenever Meglonoth blocks a creature, Meglonoth deals damage to that creature’s controller equal to Meglonoth’s power."
+6/6
+Jaqueca
+{2}{B}
+Enchantment
+"Whenever an opponent discards a card, Megrim deals 2 damage to that player."
+Erosión de la memoria
+{1}{U}{U}
+Enchantment
+"Whenever an opponent casts a spell, that player mills two cards."
+Control mental
+{3}{U}{U}
+Enchantment — Aura
+Enchant creature
+You control enchanted creature.
+Podredumbre mental
+{2}{B}
+Sorcery
+Target player discards two cards.
+Romper la mente
+{X}{B}{B}
+Sorcery
+Target player discards X cards at random.
+Manantial mental
+{X}{U}{U}
+Sorcery
+Draw X cards.
+"Mirri, guerrera felina"
+{1}{G}{G}
+Legendary Creature — Cat Warrior
+"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can’t be blocked as long as defending player controls a Forest, and attacking doesn’t cause this creature to tap.)"
+2/3
+"Molimo, hechicero maro"
+{4}{G}{G}{G}
+Legendary Creature — Elemental
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+"Molimo, Maro-Sorcerer’s power and toughness are each equal to the number of lands you control."
+*/*
+Aventador de selenera
+{3}{B}
+Creature — Elf Rogue
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/3
+Mortívoro
+{2}{B}{B}
+Creature — Lhurgoyf
+Mortivore’s power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore.
+*/*
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Antorchero de Botón Fangoso
+{2}{R}
+Creature — Goblin Warrior
+"When Mudbutton Torchrunner dies, it deals 3 damage to any target."
+1/1
+Naturalizar
+{1}{G}
+Instant
+Destroy target artifact or enchantment.
+Manantial natural
+{3}{G}{G}
+Sorcery
+Target player gains 8 life.
+Espiral de la naturaleza
+{1}{G}
+Sorcery
+Return target permanent card from your graveyard to your hand.
+Negar
+{1}{U}
+Instant
+Counter target noncreature spell.
+Guerrero nudo de roble
+{5}{G}{G}
+Creature — Treefolk Warrior
+"Vigilance, trample"
+5/7
+Obelisco de Grixis
+{3}
+Artifact
+"{T}: Add {U}, {B}, or {R}."
+Hacha de batalla de obsidiana
+{3}
+Tribal Artifact — Warrior Equipment
+Equipped creature gets +2/+1 and has haste.
+"Whenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it."
+Equip {3}
+Cáliz de ónix
+{2}{B}
+Artifact
+{T}: Target player loses 1 life.
+Ornitóptero
+{0}
+Artifact Creature — Thopter
+Flying
+0/2
+Sobrepasar
+{2}{G}{G}{G}
+Sorcery
+Creatures you control get +3/+3 and gain trample until end of turn.
+Pacifismo
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Strix parasitario
+{2}{U}
+Artifact Creature — Bird
+Flying
+"When Parasitic Strix enters the battlefield, if you control a black permanent, target player loses 2 life and you gain 2 life."
+2/2
+Paria
+{2}{W}
+Enchantment — Aura
+Enchant creature
+All damage that would be dealt to you is dealt to enchanted creature instead.
+Guerrero fantasmal
+{1}{U}{U}
+Creature — Illusion Warrior
+Phantom Warrior can’t be blocked.
+2/2
+Escarabajo de la peste
+{B}
+Creature — Insect
+Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+1/1
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Piromante pródigo
+{2}{R}
+Creature — Human Wizard
+{T}: Prodigal Pyromancer deals 1 damage to any target.
+1/1
+Reflejo de furia
+{4}{R}{R}
+Enchantment
+Creatures you control have double strike.
+Crecimiento exuberante
+{1}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Ratas rapaces
+{1}{B}
+Creature — Rat
+"When Ravenous Rats enters the battlefield, target opponent discards a card."
+1/1
+Masticore melena de navajas
+{5}
+Artifact Creature — Masticore
+First strike (This creature deals combat damage before creatures without first strike.)
+"At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card."
+"At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature."
+5/5
+Erudito temerario
+{2}{U}
+Creature — Human Wizard
+"{T}: Target player draws a card, then discards a card."
+2/1
+Aplastadora del Clan Rip
+{R}{G}
+Creature — Human Warrior
+Haste
+2/2
+Boa de río
+{1}{G}
+Creature — Snake
+Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.
+2/1
+Mentor atropellador
+{5}{G}
+Creature — Giant Warrior
+Green creatures you control have trample.
+5/4
+Oso garra de runas
+{1}{G}
+Creature — Bear
+2/2
+Acuchillador del botín
+{1}{B}
+Artifact Creature — Human Rogue
+Salvage Slasher gets +1/+0 for each artifact card in your graveyard.
+1/1
+Oleada de sangrita
+{4}{R}{G}
+Sorcery
+Target creature gets +3/+3 and gains double strike until end of turn.
+Vampiro de Sengir
+{3}{B}{B}
+Creature — Vampire
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
+4/4
+Ángel de Serra
+{3}{W}{W}
+Creature — Angel
+"Flying, vigilance"
+4/4
+Abrazo de Serra
+{2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has flying and vigilance.
+Legión cercenada
+{1}{B}{B}
+Creature — Zombie
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+2/2
+Esfinge fragmentadora
+{4}{U}{U}
+Artifact Creature — Sphinx
+Flying
+"Whenever an artifact creature you control deals combat damage to a player, you may create a 1/1 blue Thopter artifact creature token with flying."
+4/4
+Dragón shivano
+{4}{R}{R}
+Creature — Dragon
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{R}: Shivan Dragon gets +1/+0 until end of turn.
+5/5
+Choque
+{R}
+Instant
+Shock deals 2 damage to any target.
+Inspeccionar
+{3}{U}
+Sorcery
+"Draw three cards, then discard a card."
+Escaramuzadora cazacielos
+{1}{W}{W}
+Creature — Cat Knight
+"Flying, double strike"
+1/1
+Draco de Ruina Celeste
+{4}{U}
+Creature — Drake
+Flying
+2/5
+Draco mordiente
+{3}{U}
+Creature — Drake
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+3/2
+Esfinge de la isla Jwar
+{4}{U}{U}
+Creature — Sphinx
+Flying
+Shroud (This creature can’t be the target of spells or abilities.)
+You may look at the top card of your library any time.
+5/5
+Sierpe con púas
+{4}{G}
+Creature — Wurm
+5/4
+Espíritu del brasero
+{4}{W}{W}
+Creature — Cat Spirit
+Flying
+You have hexproof. (You can’t be the target of spells or abilities your opponents control.)
+4/5
+Thrinax germinante
+{B}{R}{G}
+Creature — Lizard
+"When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens."
+3/3
+"Stonebrow, héroe de Krosa"
+{3}{R}{G}
+Legendary Creature — Centaur Warrior
+Trample
+"Whenever a creature you control with trample attacks, it gets +2/+2 until end of turn."
+4/4
+Halcón colasol
+{W}
+Creature — Bird
+Flying
+1/1
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Batallón de Talara
+{1}{G}
+Creature — Elf Warrior
+Cast this spell only if you’ve cast another green spell this turn.
+Trample
+4/3
+Terminar
+{B}{R}
+Instant
+Destroy target creature. It can’t be regenerated.
+Expansión terramórfica
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Terror
+{1}{B}
+Instant
+"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
+El potro
+{1}
+Artifact
+"As The Rack enters the battlefield, choose an opponent."
+"At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand."
+Urraca ladrona
+{2}{U}{U}
+Creature — Bird
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"Whenever Thieving Magpie deals damage to an opponent, draw a card."
+1/3
+Strix de Marea Hueca
+{U}{B}
+Artifact Creature — Bird
+Flying
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+2/1
+Depuración del tomo
+{U}
+Sorcery
+Target player mills five cards.
+Armodón adiestrado
+{1}{G}{G}
+Creature — Elephant
+3/3
+Traumatizar
+{3}{U}{U}
+Sorcery
+"Target player mills half their library, rounded down."
+Asceta trol
+{1}{G}{G}
+Creature — Troll Shaman
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+{1}{G}: Regenerate Troll Ascetic.
+3/2
+Machete confiable
+{1}
+Artifact — Equipment
+Equipped creature gets +2/+1.
+Equip {2}
+Lobos de la tundra
+{W}
+Creature — Wolf
+First strike (This creature deals combat damage before creatures without first strike.)
+1/1
+Sueños del infierno
+{B}{B}{B}
+Enchantment
+"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
+Fuerza impía
+{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1.
+Anular invocación
+{U}
+Instant
+Return target creature to its owner’s hand.
+Dragón vampírico
+{6}{B}{R}
+Creature — Vampire Dragon
+Flying
+"Whenever a creature dealt damage by Vampiric Dragon this turn dies, put a +1/+1 counter on Vampiric Dragon."
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.
+5/5
+Monje venerable
+{2}{W}
+Creature — Human Monk Cleric
+"When Venerable Monk enters the battlefield, you gain 2 life."
+2/2
+Agitadora vengativa
+{3}{R}
+Creature — Elemental Warrior
+Vengeful Firebrand has haste as long as a Warrior card is in your graveyard.
+{R}: Vengeful Firebrand gets +1/+0 until end of turn.
+5/2
+Fuerza verde
+{5}{G}{G}{G}
+Creature — Elemental
+"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
+7/7
+Vitalidad
+{3}{G}{G}{G}
+Creature — Elemental Incarnation
+Trample
+"If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way."
+"When Vigor is put into a graveyard from anywhere, shuffle it into its owner’s library."
+6/6
+Ultimátum violento
+{B}{B}{R}{R}{R}{G}{G}
+Sorcery
+Destroy three target permanents.
+Voz de todos
+{2}{W}{W}
+Creature — Angel
+Flying
+"As Voice of All enters the battlefield, choose a color."
+Voice of All has protection from the chosen color.
+2/2
+Muro de lanzas
+{3}
+Artifact Creature — Wall
+Defender (This creature can’t attack.)
+First strike
+2/3
+Muro de ramas
+{G}
+Creature — Wall
+Defender (This creature can’t attack.)
+0/3
+Rama del vagabundo
+{1}
+Artifact
+"{1}, Sacrifice Wanderer’s Twig: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library."
+Golpe salvaje
+{3}{R}
+Sorcery
+Choose three target nonenchantment permanents. Destroy one of them at random.
+Thoctar lanudo
+{R}{G}{W}
+Creature — Beast
+5/4
+Diente de sierpe
+{2}
+Artifact
+"Whenever a player casts a green spell, you may gain 1 life."
+Caballero joven
+{1}{W}
+Creature — Human Knight
+First strike
+2/1
+Goliat zombie
+{4}{B}
+Creature — Zombie Giant
+4/3
+Zombificar
+{3}{B}
+Sorcery
+Return target creature card from your graveyard to the battlefield.

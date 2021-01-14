@@ -1,0 +1,7 @@
+Ajani Vengeant
+{2}{R}{W}
+Legendary Planeswalker — Ajani
++1: Target permanent doesn’t untap during its controller’s next untap step.
+−2: Ajani Vengeant deals 3 damage to any target and you gain 3 life.
+−7: Destroy all lands target player controls.
+Loyalty: 3

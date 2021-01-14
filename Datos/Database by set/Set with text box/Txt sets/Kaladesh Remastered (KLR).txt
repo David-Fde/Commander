@@ -1,0 +1,1572 @@
+Aerial Responder
+{1}{W}{W}
+Creature — Dwarf Soldier
+"Flying, vigilance, lifelink"
+2/3
+Aeronaut Admiral
+{3}{W}
+Creature — Human Pilot
+Flying
+Vehicles you control have flying.
+3/1
+Aetherborn Marauder
+{3}{B}
+Creature — Aetherborn Rogue
+"Flying, lifelink"
+"When Aetherborn Marauder enters the battlefield, move any number of +1/+1 counters from other permanents you control onto Aetherborn Marauder."
+2/2
+Aether Chaser
+{1}{R}
+Creature — Human Artificer
+First strike
+"When Aether Chaser enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Aether Chaser attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
+2/1
+Aetherflux Reservoir
+{4}
+Artifact
+"Whenever you cast a spell, you gain 1 life for each spell you’ve cast this turn."
+Pay 50 life: Aetherflux Reservoir deals 50 damage to any target.
+Aether Hub
+Land
+"When Aether Hub enters the battlefield, you get {E} (an energy counter)."
+{T}: Add {C}.
+"{T}, Pay {E}: Add one mana of any color."
+Aether Inspector
+{3}{W}
+Creature — Dwarf Artificer
+Vigilance
+"When Aether Inspector enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Aether Inspector attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
+2/3
+Aether Meltdown
+{1}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature or Vehicle
+"When Aether Meltdown enters the battlefield, you get {E}{E} (two energy counters)."
+Enchanted permanent gets -4/-0.
+Aether Poisoner
+{1}{B}
+Creature — Human Artificer
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+"When Aether Poisoner enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Aether Poisoner attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
+1/1
+Aethersphere Harvester
+{3}
+Artifact — Vehicle
+Flying
+"When Aethersphere Harvester enters the battlefield, you get {E}{E} (two energy counters)."
+Pay {E}: Aethersphere Harvester gains lifelink until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+3/5
+Aetherstorm Roc
+{2}{W}{W}
+Creature — Bird
+Flying
+"Whenever Aetherstorm Roc or another creature enters the battlefield under your control, you get {E} (an energy counter)."
+"Whenever Aetherstorm Roc attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it and tap up to one target creature defending player controls."
+3/3
+Aether Swooper
+{1}{U}
+Creature — Vedalken Artificer
+Flying
+"When Aether Swooper enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Aether Swooper attacks, you may pay {E}{E}. If you do, create a 1/1 colorless Servo artifact creature token."
+1/2
+Aether Theorist
+{1}{U}
+Creature — Vedalken Rogue
+"When Aether Theorist enters the battlefield, you get {E}{E}{E} (three energy counters)."
+"{T}, Pay {E}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
+1/3
+Aethertorch Renegade
+{2}{R}
+Creature — Human Rogue
+"When Aethertorch Renegade enters the battlefield, you get {E}{E}{E}{E} (four energy counters)."
+"{T}, Pay {E}{E}: Aethertorch Renegade deals 1 damage to target creature."
+"{T}, Pay {E}{E}{E}{E}{E}{E}{E}{E}: Aethertorch Renegade deals 6 damage to target player or planeswalker."
+1/2
+Aether Tradewinds
+{2}{U}
+Instant
+Return target permanent you control and target permanent you don’t control to their owners’ hands.
+Aetherworks Marvel
+{4}
+Legendary Artifact
+"Whenever a permanent you control is put into a graveyard, you get {E} (an energy counter)."
+"{T}, Pay {E}{E}{E}{E}{E}{E}: Look at the top six cards of your library. You may cast a spell from among them without paying its mana cost. Put the rest on the bottom of your library in a random order."
+Airdrop Aeronauts
+{3}{W}{W}
+Creature — Dwarf Scout
+Flying
+"Revolt — When Airdrop Aeronauts enters the battlefield, if a permanent you controlled left the battlefield this turn, you gain 5 life."
+4/3
+Ajani Unyielding
+{4}{G}{W}
+Legendary Planeswalker — Ajani
++2: Reveal the top three cards of your library. Put all nonland permanent cards revealed this way into your hand and the rest on the bottom of your library in any order.
+−2: Exile target creature. Its controller gains life equal to its power.
+−9: Put five +1/+1 counters on each creature you control and five loyalty counters on each other planeswalker you control.
+Loyalty: 4
+Alley Evasion
+{W}
+Instant
+Choose one —
+• Target creature you control gets +1/+2 until end of turn.
+• Return target creature you control to its owner’s hand.
+Alley Strangler
+{2}{B}
+Creature — Aetherborn Rogue
+Menace
+2/3
+Angel of Invention
+{3}{W}{W}
+Creature — Angel
+"Flying, vigilance, lifelink"
+"Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
+Other creatures you control get +1/+1.
+2/1
+Animation Module
+{1}
+Artifact
+"Whenever one or more +1/+1 counters are put on a permanent you control, you may pay {1}. If you do, create a 1/1 colorless Servo artifact creature token."
+"{3}, {T}: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind."
+Appetite for the Unnatural
+{2}{G}
+Instant
+Destroy target artifact or enchantment. You gain 2 life.
+Arborback Stomper
+{3}{G}{G}
+Creature — Beast
+Trample
+"When Arborback Stomper enters the battlefield, you gain 5 life."
+5/4
+Armorcraft Judge
+{3}{G}
+Creature — Elf Artificer
+"When Armorcraft Judge enters the battlefield, draw a card for each creature you control with a +1/+1 counter on it."
+3/3
+Attune with Aether
+{G}
+Sorcery
+"Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library. You get {E}{E} (two energy counters)."
+Audacious Infiltrator
+{1}{W}
+Creature — Dwarf Rogue
+Audacious Infiltrator can’t be blocked by artifact creatures.
+3/1
+Authority of the Consuls
+{W}
+Enchantment
+Creatures your opponents control enter the battlefield tapped.
+"Whenever a creature enters the battlefield under an opponent’s control, you gain 1 life."
+Aviary Mechanic
+{1}{W}
+Creature — Dwarf Artificer
+"When Aviary Mechanic enters the battlefield, you may return another permanent you control to its owner’s hand."
+2/2
+Ballista Charger
+{5}
+Artifact — Vehicle
+"Whenever Ballista Charger attacks, it deals 1 damage to any target."
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+6/6
+"Baral, Chief of Compliance"
+{1}{U}
+Legendary Creature — Human Wizard
+Instant and sorcery spells you cast cost {1} less to cast.
+"Whenever a spell or ability you control counters a spell, you may draw a card. If you do, discard a card."
+1/3
+Baral's Expertise
+{3}{U}{U}
+Sorcery
+Return up to three target artifacts and/or creatures to their owners’ hands.
+You may cast a spell with converted mana cost 4 or less from your hand without paying its mana cost.
+Barricade Breaker
+{7}
+Artifact Creature — Juggernaut
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Barricade Breaker attacks each combat if able.
+7/5
+Bastion Mastodon
+{5}
+Artifact Creature — Elephant
+{W}: Bastion Mastodon gains vigilance until end of turn.
+4/5
+Blooming Marsh
+Land
+Blooming Marsh enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {G}.
+Blossoming Defense
+{G}
+Instant
+Target creature you control gets +2/+2 and gains hexproof until end of turn.
+Bomat Bazaar Barge
+{4}
+Artifact — Vehicle
+"When Bomat Bazaar Barge enters the battlefield, draw a card."
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+5/5
+Bomat Courier
+{1}
+Artifact Creature — Construct
+Haste
+"Whenever Bomat Courier attacks, exile the top card of your library face down. (You can’t look at it.)"
+"{R}, Discard your hand, Sacrifice Bomat Courier: Put all cards exiled with Bomat Courier into their owners’ hands."
+1/1
+Botanical Sanctum
+Land
+Botanical Sanctum enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {U}.
+Bristling Hydra
+{2}{G}{G}
+Creature — Hydra
+"When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters)."
+Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.
+4/3
+Built to Last
+{W}
+Instant
+"Target creature gets +2/+2 until end of turn. If it’s an artifact creature, it gains indestructible until end of turn. (Damage and effects that say “destroy” don’t destroy it.)"
+Built to Smash
+{R}
+Instant
+"Target attacking creature gets +3/+3 until end of turn. If it’s an artifact creature, it gains trample until end of turn."
+Cataclysmic Gearhulk
+{3}{W}{W}
+Artifact Creature — Construct
+Vigilance
+"When Cataclysmic Gearhulk enters the battlefield, each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest."
+4/5
+Cathartic Reunion
+{1}{R}
+Sorcery
+"As an additional cost to cast this spell, discard two cards."
+Draw three cards.
+Ceremonious Rejection
+{U}
+Instant
+Counter target colorless spell.
+Chandra's Pyrohelix
+{1}{R}
+Instant
+Chandra’s Pyrohelix deals 2 damage divided as you choose among one or two targets.
+Chandra's Revolution
+{3}{R}
+Sorcery
+Chandra’s Revolution deals 4 damage to target creature. Tap target land. That land doesn’t untap during its controller’s next untap step.
+"Chandra, Torch of Defiance"
+{2}{R}{R}
+Legendary Planeswalker — Chandra
+"+1: Exile the top card of your library. You may cast that card. If you don’t, Chandra, Torch of Defiance deals 2 damage to each opponent."
++1: Add {R}{R}.
+"−3: Chandra, Torch of Defiance deals 4 damage to target creature."
+"−7: You get an emblem with “Whenever you cast a spell, this emblem deals 5 damage to any target.”"
+Loyalty: 4
+Chief of the Foundry
+{3}
+Artifact Creature — Construct
+Other artifact creatures you control get +1/+1.
+2/3
+Cloudblazer
+{3}{W}{U}
+Creature — Human Scout
+Flying
+"When Cloudblazer enters the battlefield, you gain 2 life and draw two cards."
+2/2
+Cogworker's Puzzleknot
+{2}
+Artifact
+"When Cogworker’s Puzzleknot enters the battlefield, create a 1/1 colorless Servo artifact creature token."
+"{1}{W}, Sacrifice Cogworker’s Puzzleknot: Create a 1/1 colorless Servo artifact creature token."
+Combustible Gearhulk
+{4}{R}{R}
+Artifact Creature — Construct
+First strike
+"When Combustible Gearhulk enters the battlefield, target opponent may have you draw three cards. If the player doesn’t, you mill three cards, then Combustible Gearhulk deals damage to that player equal to the total converted mana cost of those cards."
+6/6
+Commencement of Festivities
+{1}{G}
+Instant
+Prevent all combat damage that would be dealt to players this turn.
+Concealed Courtyard
+Land
+Concealed Courtyard enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {B}.
+Confiscation Coup
+{3}{U}{U}
+Sorcery
+"Choose target artifact or creature. You get {E}{E}{E}{E} (four energy counters), then you may pay an amount of {E} equal to that permanent’s converted mana cost. If you do, gain control of it."
+Consulate Skygate
+{2}
+Artifact Creature — Wall
+Defender
+Reach (This creature can block creatures with flying.)
+0/4
+Consulate Turret
+{3}
+Artifact
+{T}: You get {E} (an energy counter).
+"{T}, Pay {E}{E}{E}: Consulate Turret deals 2 damage to target player or planeswalker."
+Contraband Kingpin
+{U}{B}
+Creature — Aetherborn Rogue
+Lifelink
+"Whenever an artifact enters the battlefield under your control, scry 1."
+1/4
+Conviction
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return Conviction to its owner’s hand.
+Countless Gears Renegade
+{1}{W}
+Creature — Dwarf Artificer
+"Revolt — When Countless Gears Renegade enters the battlefield, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token."
+2/2
+Creeping Mold
+{2}{G}{G}
+Sorcery
+"Destroy target artifact, enchantment, or land."
+Cultivator's Caravan
+{3}
+Artifact — Vehicle
+{T}: Add one mana of any color.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+5/5
+Daredevil Dragster
+{3}
+Artifact — Vehicle
+"At end of combat, if Daredevil Dragster attacked or blocked this combat, put a velocity counter on it. Then if it has two or more velocity counters on it, sacrifice it and draw two cards."
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+4/4
+Daring Demolition
+{2}{B}{B}
+Sorcery
+Destroy target creature or Vehicle.
+Dark Intimations
+{2}{U}{B}{R}
+Sorcery
+"Each opponent sacrifices a creature or planeswalker, then discards a card. You return a creature or planeswalker card from your graveyard to your hand, then draw a card."
+"When you cast a Bolas planeswalker spell, exile Dark Intimations from your graveyard. That planeswalker enters the battlefield with an additional loyalty counter on it."
+Dawnfeather Eagle
+{4}{W}
+Creature — Bird
+Flying
+"When Dawnfeather Eagle enters the battlefield, creatures you control get +1/+1 and gain vigilance until end of turn."
+3/3
+Decoction Module
+{2}
+Artifact
+"Whenever a creature enters the battlefield under your control, you get {E} (an energy counter)."
+"{4}, {T}: Return target creature you control to its owner’s hand."
+Defiant Salvager
+{2}{B}
+Creature — Aetherborn Artificer
+Sacrifice an artifact or creature: Put a +1/+1 counter on Defiant Salvager. Activate this ability only any time you could cast a sorcery.
+2/2
+Demolition Stomper
+{6}
+Artifact — Vehicle
+Demolition Stomper can’t be blocked by creatures with power 2 or less.
+Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)
+10/7
+Demon of Dark Schemes
+{3}{B}{B}{B}
+Creature — Demon
+Flying
+"When Demon of Dark Schemes enters the battlefield, all other creatures get -2/-2 until end of turn."
+"Whenever another creature dies, you get {E} (an energy counter)."
+"{2}{B}, Pay {E}{E}{E}{E}: Put target creature card from a graveyard onto the battlefield under your control tapped."
+5/5
+"Depala, Pilot Exemplar"
+{1}{R}{W}
+Legendary Creature — Dwarf Pilot
+Other Dwarves you control get +1/+1.
+Each Vehicle you control gets +1/+1 as long as it’s a creature.
+"Whenever Depala, Pilot Exemplar becomes tapped, you may pay {X}. If you do, reveal the top X cards of your library, put all Dwarf and Vehicle cards from among them into your hand, then put the rest on the bottom of your library in a random order."
+3/3
+Destructive Tampering
+{2}{R}
+Sorcery
+Choose one —
+• Destroy target artifact.
+• Creatures without flying can’t block this turn.
+Die Young
+{1}{B}
+Sorcery
+"Choose target creature. You get {E}{E} (two energy counters), then you may pay any amount of {E}. The creature gets -1/-1 until end of turn for each {E} paid this way."
+Disallow
+{1}{U}{U}
+Instant
+"Counter target spell, activated ability, or triggered ability. (Mana abilities can’t be targeted.)"
+Dovin Baan
+{2}{W}{U}
+Legendary Planeswalker — Dovin
+"+1: Until your next turn, up to one target creature gets -3/-0 and its activated abilities can’t be activated."
+−1: You gain 2 life and draw a card.
+−7: You get an emblem with “Your opponents can’t untap more than two permanents during their untap steps.”
+Loyalty: 3
+Druid of the Cowl
+{1}{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/3
+Dukhara Peafowl
+{4}
+Artifact Creature — Bird
+{U}: Dukhara Peafowl gains flying until end of turn.
+2/4
+Dynavolt Tower
+{3}
+Artifact
+"Whenever you cast an instant or sorcery spell, you get {E}{E} (two energy counters)."
+"{T}, Pay {E}{E}{E}{E}{E}: Dynavolt Tower deals 3 damage to any target."
+Eager Construct
+{2}
+Artifact Creature — Construct
+"When Eager Construct enters the battlefield, each player may scry 1. (To scry 1, look at the top card of your library, then you may put that card on the bottom of your library.)"
+2/2
+Eddytrail Hawk
+{1}{W}
+Creature — Bird
+Flying
+"When Eddytrail Hawk enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Eddytrail Hawk attacks, you may pay {E}. If you do, another target attacking creature gains flying until end of turn."
+1/2
+Electrostatic Pummeler
+{3}
+Artifact Creature — Construct
+"When Electrostatic Pummeler enters the battlefield, you get {E}{E}{E} (three energy counters)."
+"Pay {E}{E}{E}: Electrostatic Pummeler gets +X/+X until end of turn, where X is its power."
+1/1
+Embraal Bruiser
+{1}{B}
+Creature — Human Warrior
+Embraal Bruiser enters the battlefield tapped.
+Embraal Bruiser has menace as long as you control an artifact.
+3/1
+Empyreal Voyager
+{1}{G}{U}
+Creature — Vedalken Scout
+"Flying, trample"
+"Whenever Empyreal Voyager deals combat damage to a player, you get that many {E} (energy counters)."
+2/3
+Engineered Might
+{3}{G}{W}
+Sorcery
+Choose one —
+• Target creature gets +5/+5 and gains trample until end of turn.
+• Creatures you control get +2/+2 and gain vigilance until end of turn.
+Enraged Giant
+{5}{R}
+Creature — Giant
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+"Trample, haste"
+4/4
+Era of Innovation
+{1}{U}
+Enchantment
+"Whenever an artifact or Artificer enters the battlefield under your control, you may pay {1}. If you do, you get {E}{E} (two energy counters)."
+"Pay {E}{E}{E}{E}{E}{E}, Sacrifice Era of Innovation: Draw three cards."
+Essence Extraction
+{1}{B}{B}
+Instant
+Essence Extraction deals 3 damage to target creature and you gain 3 life.
+Fabrication Module
+{3}
+Artifact
+"Whenever you get one or more {E} (energy counters), put a +1/+1 counter on target creature you control."
+"{4}, {T}: You get {E}."
+Fairgrounds Warden
+{2}{W}
+Creature — Dwarf Soldier
+"When Fairgrounds Warden enters the battlefield, exile target creature an opponent controls until Fairgrounds Warden leaves the battlefield."
+1/3
+Fatal Push
+{B}
+Instant
+Destroy target creature if it has converted mana cost 2 or less.
+Revolt — Destroy that creature if it has converted mana cost 4 or less instead if a permanent you controlled left the battlefield this turn.
+Fateful Showdown
+{2}{R}{R}
+Instant
+"Fateful Showdown deals damage to any target equal to the number of cards in your hand. Discard all the cards in your hand, then draw that many cards."
+Fen Hauler
+{6}{B}
+Creature — Insect
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Fen Hauler can’t be blocked by artifact creatures.
+5/5
+Filigree Familiar
+{3}
+Artifact Creature — Fox
+"When Filigree Familiar enters the battlefield, you gain 2 life."
+"When Filigree Familiar dies, draw a card."
+2/2
+Fireforger's Puzzleknot
+{2}
+Artifact
+"When Fireforger’s Puzzleknot enters the battlefield, it deals 1 damage to any target."
+"{2}{R}, Sacrifice Fireforger’s Puzzleknot: It deals 1 damage to any target."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Fortuitous Find
+{2}{B}
+Sorcery
+Choose one or both —
+• Return target artifact card from your graveyard to your hand.
+• Return target creature card from your graveyard to your hand.
+Foundry Hornet
+{3}{B}
+Creature — Insect
+Flying
+"When Foundry Hornet enters the battlefield, if you control a creature with a +1/+1 counter on it, creatures your opponents control get -1/-1 until end of turn."
+2/3
+Foundry Inspector
+{3}
+Artifact Creature — Construct
+Artifact spells you cast cost {1} less to cast.
+3/2
+Foundry Screecher
+{2}{B}
+Creature — Bat
+Flying
+Foundry Screecher gets +1/+0 as long as you control an artifact.
+2/1
+Fourth Bridge Prowler
+{B}
+Creature — Human Rogue
+"When Fourth Bridge Prowler enters the battlefield, you may have target creature get -1/-1 until end of turn."
+1/1
+Fragmentize
+{W}
+Sorcery
+Destroy target artifact or enchantment with converted mana cost 4 or less.
+Freejam Regent
+{4}{R}{R}
+Creature — Dragon
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Flying
+{1}{R}: Freejam Regent gets +2/+0 until end of turn.
+4/4
+Fretwork Colony
+{1}{B}
+Creature — Insect
+Fretwork Colony can’t block.
+"At the beginning of your upkeep, put a +1/+1 counter on Fretwork Colony and you lose 1 life."
+1/1
+Frontline Rebel
+{2}{R}
+Creature — Human Warrior
+Frontline Rebel attacks each combat if able.
+3/3
+Fumigate
+{3}{W}{W}
+Sorcery
+Destroy all creatures. You gain 1 life for each creature destroyed this way.
+Furious Reprisal
+{3}{R}
+Sorcery
+Furious Reprisal deals 2 damage to each of two targets.
+Gearseeker Serpent
+{5}{U}{U}
+Creature — Serpent
+This spell costs {1} less to cast for each artifact you control.
+{5}{U}: Gearseeker Serpent can’t be blocked this turn.
+5/6
+Gearshift Ace
+{1}{W}
+Creature — Dwarf Pilot
+First strike
+"Whenever Gearshift Ace crews a Vehicle, that Vehicle gains first strike until end of turn."
+2/1
+Gifted Aetherborn
+{B}{B}
+Creature — Aetherborn Vampire
+"Deathtouch, lifelink"
+2/3
+Glimmer of Genius
+{3}{U}
+Instant
+"Scry 2, then draw two cards. You get {E}{E} (two energy counters)."
+Glint-Nest Crane
+{1}{U}
+Creature — Bird
+Flying
+"When Glint-Nest Crane enters the battlefield, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+1/3
+Glint-Sleeve Artisan
+{2}{W}
+Creature — Dwarf Artificer
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)"
+2/2
+Glint-Sleeve Siphoner
+{1}{B}
+Creature — Human Rogue
+Menace
+"Whenever Glint-Sleeve Siphoner enters the battlefield or attacks, you get {E} (an energy counter)."
+"At the beginning of your upkeep, you may pay {E}{E}. If you do, you draw a card and you lose 1 life."
+2/1
+"Gonti, Lord of Luxury"
+{2}{B}{B}
+Legendary Creature — Aetherborn Rogue
+Deathtouch
+"When Gonti, Lord of Luxury enters the battlefield, look at the top four cards of target opponent’s library, exile one of them face down, then put the rest on the bottom of that library in a random order. You may look at and cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell."
+2/3
+Greenbelt Rampager
+{G}
+Creature — Elephant
+"When Greenbelt Rampager enters the battlefield, pay {E}{E} (two energy counters). If you can’t, return Greenbelt Rampager to its owner’s hand and you get {E}."
+3/4
+Harnessed Lightning
+{1}{R}
+Instant
+"Choose target creature. You get {E}{E}{E} (three energy counters), then you may pay any amount of {E}. Harnessed Lightning deals that much damage to that creature."
+Hazardous Conditions
+{2}{B}{G}
+Sorcery
+Creatures with no counters on them get -2/-2 until end of turn.
+Heart of Kiran
+{2}
+Legendary Artifact — Vehicle
+"Flying, vigilance"
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+You may remove a loyalty counter from a planeswalker you control rather than pay Heart of Kiran’s crew cost.
+4/4
+Herald of Anguish
+{5}{B}{B}
+Creature — Demon
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Flying
+"At the beginning of your end step, each opponent discards a card."
+"{1}{B}, Sacrifice an artifact: Target creature gets -2/-2 until end of turn."
+5/5
+Herald of the Fair
+{2}{W}
+Creature — Human
+"When Herald of the Fair enters the battlefield, target creature you control gets +1/+1 until end of turn."
+3/2
+Heroic Intervention
+{1}{G}
+Instant
+Permanents you control gain hexproof and indestructible until end of turn.
+Hidden Stockpile
+{W}{B}
+Enchantment
+"Revolt — At the beginning of your end step, if a permanent you controlled left the battlefield this turn, create a 1/1 colorless Servo artifact creature token."
+"{1}, Sacrifice a creature: Scry 1."
+Highspire Artisan
+{2}{G}
+Creature — Elf Artificer
+Reach (This creature can block creatures with flying.)
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)"
+0/3
+Highspire Infusion
+{1}{G}
+Instant
+Target creature gets +3/+3 until end of turn. You get {E}{E} (two energy counters).
+Hijack
+{1}{R}{R}
+Sorcery
+Gain control of target artifact or creature until end of turn. Untap it. It gains haste until end of turn.
+Hinterland Drake
+{2}{U}
+Creature — Drake
+Flying
+Hinterland Drake can’t block artifact creatures.
+2/3
+Hope of Ghirapur
+{1}
+Legendary Artifact Creature — Thopter
+Flying
+"Sacrifice Hope of Ghirapur: Until your next turn, target player who was dealt combat damage by Hope of Ghirapur this turn can’t cast noncreature spells."
+1/1
+Hungry Flames
+{2}{R}
+Instant
+Hungry Flames deals 3 damage to target creature and 2 damage to target player or planeswalker.
+Hunt the Weak
+{3}{G}
+Sorcery
+Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don’t control. (Each deals damage equal to its power to the other.)
+Ice Over
+{1}{U}
+Enchantment — Aura
+Enchant artifact or creature
+Enchanted permanent doesn’t untap during its controller’s untap step.
+Illusionist's Stratagem
+{3}{U}
+Instant
+"Exile up to two target creatures you control, then return those cards to the battlefield under their owner’s control."
+Draw a card.
+Impeccable Timing
+{1}{W}
+Instant
+Impeccable Timing deals 3 damage to target attacking or blocking creature.
+Implement of Examination
+{3}
+Artifact
+"{U}, Sacrifice Implement of Examination: Draw a card."
+"When Implement of Examination is put into a graveyard from the battlefield, draw a card."
+Implement of Malice
+{2}
+Artifact
+"{B}, Sacrifice Implement of Malice: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+"When Implement of Malice is put into a graveyard from the battlefield, draw a card."
+Indomitable Creativity
+{X}{R}{R}{R}
+Sorcery
+"Destroy X target artifacts and/or creatures. For each permanent destroyed this way, its controller reveals cards from the top of their library until an artifact or creature card is revealed and exiles that card. Those players put the exiled cards onto the battlefield, then shuffle their libraries."
+Inspired Charge
+{2}{W}{W}
+Instant
+Creatures you control get +2/+1 until end of turn.
+Inspiring Vantage
+Land
+Inspiring Vantage enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {W}.
+Inventor's Apprentice
+{R}
+Creature — Human Artificer
+Inventor’s Apprentice gets +1/+1 as long as you control an artifact.
+1/2
+Inventors' Fair
+Legendary Land
+"At the beginning of your upkeep, if you control three or more artifacts, you gain 1 life."
+{T}: Add {C}.
+"{4}, {T}, Sacrifice Inventors’ Fair: Search your library for an artifact card, reveal it, put it into your hand, then shuffle your library. Activate this ability only if you control three or more artifacts."
+Inventor's Goggles
+{1}
+Artifact — Equipment
+Equipped creature gets +1/+2.
+"Whenever an Artificer enters the battlefield under your control, you may attach Inventor’s Goggles to it."
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
+Invigorated Rampage
+{1}{R}
+Instant
+Choose one —
+• Target creature gets +4/+0 and gains trample until end of turn.
+• Two target creatures each get +2/+0 and gain trample until end of turn.
+Irontread Crusher
+{4}
+Artifact — Vehicle
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+6/6
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+"Kambal, Consul of Allocation"
+{1}{W}{B}
+Legendary Creature — Human Advisor
+"Whenever an opponent casts a noncreature spell, that player loses 2 life and you gain 2 life."
+2/3
+Kari Zev's Expertise
+{1}{R}{R}
+Sorcery
+Gain control of target creature or Vehicle until end of turn. Untap it. It gains haste until end of turn.
+You may cast a spell with converted mana cost 2 or less from your hand without paying its mana cost.
+"Kari Zev, Skyship Raider"
+{1}{R}
+Legendary Creature — Human Pirate
+"First strike, menace"
+"Whenever Kari Zev, Skyship Raider attacks, create Ragavan, a legendary 2/1 red Monkey creature token. Ragavan enters the battlefield tapped and attacking. Exile that token at end of combat."
+1/3
+Key to the City
+{2}
+Artifact
+"{T}, Discard a card: Up to one target creature can’t be blocked this turn."
+"Whenever Key to the City becomes untapped, you may pay {2}. If you do, draw a card."
+Kujar Seedsculptor
+{1}{G}
+Creature — Elf Druid
+"When Kujar Seedsculptor enters the battlefield, put a +1/+1 counter on target creature you control."
+1/2
+Lathnu Sailback
+{4}{R}
+Creature — Lizard
+5/4
+Leave in the Dust
+{3}{U}
+Instant
+Return target nonland permanent to its owner’s hand.
+Draw a card.
+Lifecraft Cavalry
+{4}{G}
+Creature — Elf Warrior
+Trample
+Revolt — Lifecraft Cavalry enters the battlefield with two +1/+1 counters on it if a permanent you controlled left the battlefield this turn.
+4/4
+Lifecrafter's Bestiary
+{3}
+Artifact
+"At the beginning of your upkeep, scry 1."
+"Whenever you cast a creature spell, you may pay {G}. If you do, draw a card."
+Live Fast
+{2}{B}
+Sorcery
+"You draw two cards, lose 2 life, and get {E}{E} (two energy counters)."
+Longtusk Cub
+{1}{G}
+Creature — Cat
+"Whenever Longtusk Cub deals combat damage to a player, you get {E}{E} (two energy counters)."
+Pay {E}{E}: Put a +1/+1 counter on Longtusk Cub.
+2/2
+Lost Legacy
+{1}{B}{B}
+Sorcery
+"Choose a nonartifact, nonland card name. Search target player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles their library, then draws a card for each card exiled from their hand this way."
+Make Obsolete
+{2}{B}
+Instant
+Creatures your opponents control get -1/-1 until end of turn.
+Malfunction
+{3}{U}
+Enchantment — Aura
+Enchant artifact or creature
+"When Malfunction enters the battlefield, tap enchanted permanent."
+Enchanted permanent doesn’t untap during its controller’s untap step.
+Marionette Master
+{4}{B}{B}
+Creature — Human Artificer
+"Fabricate 3 (When this creature enters the battlefield, put three +1/+1 counters on it or create three 1/1 colorless Servo artifact creature tokens.)"
+"Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to Marionette Master’s power."
+1/3
+Master Trinketeer
+{2}{W}
+Creature — Dwarf Artificer
+Servos and Thopters you control get +1/+1.
+{3}{W}: Create a 1/1 colorless Servo artifact creature token.
+3/2
+Maulfist Revolutionary
+{1}{G}{G}
+Creature — Human Warrior
+Trample
+"When Maulfist Revolutionary enters the battlefield or dies, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind."
+3/3
+Maulfist Squad
+{3}{B}
+Creature — Human Artificer
+Menace
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)"
+3/1
+Maverick Thopterist
+{3}{U}{R}
+Creature — Human Artificer
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+"When Maverick Thopterist enters the battlefield, create two 1/1 colorless Thopter artifact creature tokens with flying."
+2/2
+Merchant's Dockhand
+{1}
+Artifact Creature — Construct
+"{3}{U}, {T}, Tap X untapped artifacts you control: Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
+1/2
+Metallic Mimic
+{2}
+Artifact Creature — Shapeshifter
+"As Metallic Mimic enters the battlefield, choose a creature type."
+Metallic Mimic is the chosen type in addition to its other types.
+Each other creature you control of the chosen type enters the battlefield with an additional +1/+1 counter on it.
+2/1
+Metallic Rebuke
+{2}{U}
+Instant
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Counter target spell unless its controller pays {3}.
+Metallurgic Summonings
+{3}{U}{U}
+Enchantment
+"Whenever you cast an instant or sorcery spell, create an X/X colorless Construct artifact creature token, where X is that spell’s converted mana cost."
+"{3}{U}{U}, Exile Metallurgic Summonings: Return all instant and sorcery cards from your graveyard to your hand. Activate this ability only if you control six or more artifacts."
+Metalwork Colossus
+{11}
+Artifact Creature — Construct
+"This spell costs {X} less to cast, where X is the total converted mana cost of noncreature artifacts you control."
+Sacrifice two artifacts: Return Metalwork Colossus from your graveyard to your hand.
+10/10
+Midnight Oil
+{2}{B}{B}
+Enchantment
+Midnight Oil enters the battlefield with seven hour counters on it.
+"At the beginning of your draw step, draw an additional card and remove two hour counters from Midnight Oil."
+Your maximum hand size is equal to the number of hour counters on Midnight Oil.
+"Whenever you discard a card, you lose 1 life."
+Mind Rot
+{2}{B}
+Sorcery
+Target player discards two cards.
+Minister of Inquiries
+{U}
+Creature — Vedalken Advisor
+"When Minister of Inquiries enters the battlefield, you get {E}{E} (two energy counters)."
+"{T}, Pay {E}: Target player mills three cards."
+1/2
+Mobile Garrison
+{3}
+Artifact — Vehicle
+"Whenever Mobile Garrison attacks, untap another target artifact or creature you control."
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+3/4
+Monstrous Onslaught
+{3}{G}{G}
+Sorcery
+"Monstrous Onslaught deals X damage divided as you choose among any number of target creatures, where X is the greatest power among creatures you control as you cast this spell."
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Narnam Cobra
+{2}
+Artifact Creature — Snake
+{G}: Narnam Cobra gains deathtouch until end of turn. (Any amount of damage it deals to a creature is enough to destroy it.)
+2/1
+Narnam Renegade
+{G}
+Creature — Elf Warrior
+Deathtouch
+Revolt — Narnam Renegade enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
+1/2
+Nature's Way
+{1}{G}
+Sorcery
+Target creature you control gains vigilance and trample until end of turn. It deals damage equal to its power to target creature you don’t control.
+Night Market Aeronaut
+{3}{B}
+Creature — Aetherborn Warrior
+Flying
+Revolt — Night Market Aeronaut enters the battlefield with a +1/+1 counter on it if a permanent you controlled left the battlefield this turn.
+2/2
+Night Market Lookout
+{B}
+Creature — Human Rogue
+"Whenever Night Market Lookout becomes tapped, each opponent loses 1 life and you gain 1 life."
+1/1
+Nimble Innovator
+{3}{U}
+Creature — Vedalken Artificer
+"When Nimble Innovator enters the battlefield, draw a card."
+2/2
+"Nissa, Vital Force"
+{3}{G}{G}
+Legendary Planeswalker — Nissa
+"+1: Untap target land you control. Until your next turn, it becomes a 5/5 Elemental creature with haste. It’s still a land."
+−3: Return target permanent card from your graveyard to your hand.
+"−6: You get an emblem with “Whenever a land enters the battlefield under your control, you may draw a card.”"
+Loyalty: 5
+Noxious Gearhulk
+{4}{B}{B}
+Artifact Creature — Construct
+Menace
+"When Noxious Gearhulk enters the battlefield, you may destroy another target creature. If a creature is destroyed this way, you gain life equal to its toughness."
+5/4
+Oath of Ajani
+{G}{W}
+Legendary Enchantment
+"When Oath of Ajani enters the battlefield, put a +1/+1 counter on each creature you control."
+Planeswalker spells you cast cost {1} less to cast.
+Ornamental Courage
+{G}
+Instant
+Untap target creature. It gets +1/+3 until end of turn.
+Ornithopter
+{0}
+Artifact Creature — Thopter
+Flying
+0/2
+Outland Boar
+{2}{R}{G}
+Creature — Boar
+Outland Boar can’t be blocked by creatures with power 2 or less.
+4/4
+Ovalchase Dragster
+{4}
+Artifact — Vehicle
+"Trample, haste"
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+6/1
+"Oviya Pashiri, Sage Lifecrafter"
+{G}
+Legendary Creature — Human Artificer
+"{2}{G}, {T}: Create a 1/1 colorless Servo artifact creature token."
+"{4}{G}, {T}: Create an X/X colorless Construct artifact creature token, where X is the number of creatures you control."
+1/2
+Pacification Array
+{1}
+Artifact
+"{2}, {T}: Tap target artifact or creature."
+"Padeem, Consul of Innovation"
+{3}{U}
+Legendary Creature — Vedalken Artificer
+Artifacts you control have hexproof.
+"At the beginning of your upkeep, if you control the artifact with the highest converted mana cost or tied for the highest converted mana cost, draw a card."
+1/4
+Panharmonicon
+{4}
+Artifact
+"If an artifact or creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time."
+Paradox Engine
+{5}
+Legendary Artifact
+"Whenever you cast a spell, untap all nonland permanents you control."
+Paradoxical Outcome
+{3}{U}
+Instant
+"Return any number of target nonland, nontoken permanents you control to their owners’ hands. Draw a card for each card returned to your hand this way."
+Peacewalker Colossus
+{3}
+Artifact — Vehicle
+{1}{W}: Another target Vehicle you control becomes an artifact creature until end of turn.
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
+6/6
+Peema Aether-Seer
+{3}{G}
+Creature — Elf Druid
+"When Peema Aether-Seer enters the battlefield, you get an amount of {E} (energy counters) equal to the greatest power among creatures you control."
+Pay {E}{E}{E}: Target creature blocks this turn if able.
+3/2
+Peema Outrider
+{2}{G}{G}
+Creature — Elf Artificer
+Trample
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)"
+3/3
+Pendulum of Patterns
+{2}
+Artifact
+"When Pendulum of Patterns enters the battlefield, you gain 3 life."
+"{5}, {T}, Sacrifice Pendulum of Patterns: Draw a card."
+Pia Nalaar
+{2}{R}
+Legendary Creature — Human Artificer
+"When Pia Nalaar enters the battlefield, create a 1/1 colorless Thopter artifact creature token with flying."
+{1}{R}: Target artifact creature gets +1/+0 until end of turn.
+"{1}, Sacrifice an artifact: Target creature can’t block this turn."
+2/2
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Planar Bridge
+{6}
+Legendary Artifact
+"{8}, {T}: Search your library for a permanent card, put it onto the battlefield, then shuffle your library."
+Prakhata Pillar-Bug
+{3}
+Artifact Creature — Insect
+{B}: Prakhata Pillar-Bug gains lifelink until end of turn. (Damage dealt by this creature also causes you to gain that much life.)
+2/3
+Precise Strike
+{R}
+Instant
+Target creature gets +1/+0 and gains first strike until end of turn.
+Propeller Pioneer
+{3}{W}
+Creature — Human Artificer
+Flying
+"Fabricate 1 (When this creature enters the battlefield, put a +1/+1 counter on it or create a 1/1 colorless Servo artifact creature token.)"
+2/1
+Prophetic Prism
+{2}
+Artifact
+"When Prophetic Prism enters the battlefield, draw a card."
+"{1}, {T}: Add one mana of any color."
+Quicksmith Genius
+{2}{R}
+Creature — Human Artificer
+"Whenever an artifact enters the battlefield under your control, you may discard a card. If you do, draw a card."
+3/2
+Quicksmith Rebel
+{3}{R}
+Creature — Human Artificer
+"When Quicksmith Rebel enters the battlefield, target artifact you control gains “{T}: This artifact deals 2 damage to any target” for as long as you control Quicksmith Rebel."
+3/2
+"Rashmi, Eternities Crafter"
+{2}{G}{U}
+Legendary Creature — Elf Druid
+"Whenever you cast your first spell each turn, reveal the top card of your library. You may cast it without paying its mana cost if it’s a spell with lesser converted mana cost. If you don’t cast it, put it into your hand."
+2/3
+Ravenous Intruder
+{1}{R}
+Creature — Gremlin
+Sacrifice an artifact: Ravenous Intruder gets +2/+2 until end of turn.
+1/2
+Reckless Fireweaver
+{1}{R}
+Creature — Human Artificer
+"Whenever an artifact enters the battlefield under your control, Reckless Fireweaver deals 1 damage to each opponent."
+1/3
+Refurbish
+{3}{W}
+Sorcery
+Return target artifact card from your graveyard to the battlefield.
+Renegade Map
+{1}
+Artifact
+Renegade Map enters the battlefield tapped.
+"{T}, Sacrifice Renegade Map: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
+Renegade Rallier
+{1}{G}{W}
+Creature — Human Warrior
+"Revolt — When Renegade Rallier enters the battlefield, if a permanent you controlled left the battlefield this turn, return target permanent card with converted mana cost 2 or less from your graveyard to the battlefield."
+3/2
+Renegade Wheelsmith
+{1}{R}{W}
+Creature — Dwarf Pilot
+"Whenever Renegade Wheelsmith becomes tapped, target creature can’t block this turn."
+3/2
+Reservoir Walker
+{5}
+Artifact Creature — Construct
+"When Reservoir Walker enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters)."
+3/3
+Restoration Gearsmith
+{2}{W}{B}
+Creature — Human Artificer
+"When Restoration Gearsmith enters the battlefield, return target artifact or creature card from your graveyard to your hand."
+3/3
+Restoration Specialist
+{1}{W}
+Creature — Dwarf Artificer
+"{W}, Sacrifice Restoration Specialist: Return up to one target artifact card and up to one target enchantment card from your graveyard to your hand."
+2/1
+Revoke Privileges
+{2}{W}
+Enchantment — Aura
+Enchant creature
+"Enchanted creature can’t attack, block, or crew Vehicles."
+Revolutionary Rebuff
+{1}{U}
+Instant
+Counter target nonartifact spell unless its controller pays {2}.
+Ridgescale Tusker
+{3}{G}{G}
+Creature — Pangolin Beast
+"When Ridgescale Tusker enters the battlefield, put a +1/+1 counter on each other creature you control."
+5/5
+Riparian Tiger
+{3}{G}{G}
+Creature — Cat
+Trample
+"When Riparian Tiger enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Riparian Tiger attacks, you may pay {E}{E}. If you do, it gets +2/+2 until end of turn."
+4/4
+"Rishkar, Peema Renegade"
+{2}{G}
+Legendary Creature — Elf Druid
+"When Rishkar, Peema Renegade enters the battlefield, put a +1/+1 counter on each of up to two target creatures."
+Each creature you control with a counter on it has “{T}: Add {G}.”
+2/2
+Rishkar's Expertise
+{4}{G}{G}
+Sorcery
+Draw cards equal to the greatest power among creatures you control.
+You may cast a spell with converted mana cost 5 or less from your hand without paying its mana cost.
+Rogue Refiner
+{1}{G}{U}
+Creature — Human Rogue
+"When Rogue Refiner enters the battlefield, draw a card and you get {E}{E} (two energy counters)."
+3/2
+Ruinous Gremlin
+{R}
+Creature — Gremlin
+"{2}{R}, Sacrifice Ruinous Gremlin: Destroy target artifact."
+1/1
+Rush of Vitality
+{1}{B}
+Instant
+"Target creature gets +1/+0 and gains lifelink and indestructible until end of turn. (Damage dealt by that creature also causes its controller to gain that much life, and it can’t be destroyed by damage or effects that say “destroy.”)"
+Sage of Shaila's Claim
+{1}{G}
+Creature — Elf Druid
+"When Sage of Shaila’s Claim enters the battlefield, you get {E}{E}{E} (three energy counters)."
+2/1
+Saheeli Rai
+{1}{U}{R}
+Legendary Planeswalker — Saheeli
++1: Scry 1. Saheeli Rai deals 1 damage to each opponent.
+"−2: Create a token that’s a copy of target artifact or creature you control, except it’s an artifact in addition to its other types. That token gains haste. Exile it at the beginning of the next end step."
+"−7: Search your library for up to three artifact cards with different names, put them onto the battlefield, then shuffle your library."
+Loyalty: 3
+Salivating Gremlins
+{2}{R}
+Creature — Gremlin
+"Whenever an artifact enters the battlefield under your control, Salivating Gremlins gets +2/+0 and gains trample until end of turn."
+2/3
+Scrapheap Scrounger
+{2}
+Artifact Creature — Construct
+Scrapheap Scrounger can’t block.
+"{1}{B}, Exile another creature card from your graveyard: Return Scrapheap Scrounger from your graveyard to the battlefield."
+3/2
+Scrapper Champion
+{3}{R}
+Creature — Human Artificer
+Double strike (This creature deals both first-strike and regular combat damage.)
+"When Scrapper Champion enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Scrapper Champion attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it."
+2/2
+Scrap Trawler
+{3}
+Artifact Creature — Construct
+"Whenever Scrap Trawler or another artifact you control is put into a graveyard from the battlefield, return to your hand target artifact card in your graveyard with lesser converted mana cost."
+3/2
+Sculpting Steel
+{3}
+Artifact
+You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.
+Select for Inspection
+{U}
+Instant
+Return target tapped creature to its owner’s hand. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Self-Assembler
+{5}
+Artifact Creature — Assembly-Worker
+"When Self-Assembler enters the battlefield, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle your library."
+4/4
+Servant of the Conduit
+{1}{G}
+Creature — Elf Druid
+"When Servant of the Conduit enters the battlefield, you get {E}{E} (two energy counters)."
+"{T}, Pay {E}: Add one mana of any color."
+2/2
+Servo Exhibition
+{1}{W}
+Sorcery
+Create two 1/1 colorless Servo artifact creature tokens.
+Servo Schematic
+{2}
+Artifact
+"When Servo Schematic enters the battlefield or is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token."
+Shielded Aether Thief
+{1}{U}
+Creature — Vedalken Rogue
+Flash (You may cast this spell any time you could cast an instant.)
+"Whenever Shielded Aether Thief blocks, you get {E} (an energy counter)."
+"{T}, Pay {E}{E}{E}: Draw a card."
+0/4
+Shipwreck Moray
+{3}{U}
+Creature — Fish
+"When Shipwreck Moray enters the battlefield, you get {E}{E}{E}{E} (four energy counters)."
+Pay {E}: Shipwreck Moray gets +2/-2 until end of turn.
+0/5
+Shrewd Negotiation
+{4}{U}
+Sorcery
+Exchange control of target artifact you control and target artifact or creature you don’t control.
+Siege Modification
+{1}{R}{R}
+Enchantment — Aura
+Enchant creature or Vehicle
+"As long as enchanted permanent is a Vehicle, it’s a creature in addition to its other types."
+Enchanted creature gets +3/+0 and has first strike.
+Skyship Plunderer
+{1}{U}
+Creature — Human Pirate
+Flying
+"Whenever Skyship Plunderer deals combat damage to a player, for each kind of counter on target permanent or player, give that permanent or player another counter of that kind."
+2/1
+Skyship Stalker
+{2}{R}{R}
+Creature — Dragon
+Flying
+{R}: Skyship Stalker gets +1/+0 until end of turn.
+{R}: Skyship Stalker gains first strike until end of turn.
+{R}: Skyship Stalker gains haste until end of turn.
+3/3
+Sky Skiff
+{2}
+Artifact — Vehicle
+Flying
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+2/3
+"Skysovereign, Consul Flagship"
+{5}
+Legendary Artifact — Vehicle
+Flying
+"Whenever Skysovereign, Consul Flagship enters the battlefield or attacks, it deals 3 damage to target creature or planeswalker an opponent controls."
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
+6/5
+Skywhaler's Shot
+{2}{W}
+Instant
+Destroy target creature with power 3 or greater. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Sly Requisitioner
+{4}{B}
+Creature — Human Artificer
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+"Whenever a nontoken artifact you control is put into a graveyard from the battlefield, create a 1/1 colorless Servo artifact creature token."
+2/2
+Speedway Fanatic
+{1}{R}
+Creature — Human Pilot
+Haste
+"Whenever Speedway Fanatic crews a Vehicle, that Vehicle gains haste until end of turn."
+2/1
+Spirebluff Canal
+Land
+Spirebluff Canal enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {R}.
+Spire of Industry
+Land
+{T}: Add {C}.
+"{T}, Pay 1 life: Add one mana of any color. Activate this ability only if you control an artifact."
+Spire Patrol
+{2}{W}{U}
+Creature — Human Soldier
+Flying
+"When Spire Patrol enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step."
+3/2
+Spireside Infiltrator
+{2}{R}
+Creature — Human Rogue
+"Whenever Spireside Infiltrator becomes tapped, it deals 1 damage to each opponent."
+3/2
+"Sram, Senior Edificer"
+{1}{W}
+Legendary Creature — Dwarf Advisor
+"Whenever you cast an Aura, Equipment, or Vehicle spell, draw a card."
+2/2
+Sram's Expertise
+{2}{W}{W}
+Sorcery
+Create three 1/1 colorless Servo artifact creature tokens.
+You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
+Subtle Strike
+{1}{B}
+Instant
+Choose one or both —
+• Target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on target creature.
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Sweatworks Brawler
+{3}{R}
+Creature — Human Artificer
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Menace
+3/3
+Tezzeret's Ambition
+{3}{U}{U}
+Sorcery
+"Draw three cards. If you control no artifacts, discard a card."
+Tezzeret's Touch
+{1}{U}{B}
+Enchantment — Aura
+Enchant artifact
+Enchanted artifact is a creature with base power and toughness 5/5 in addition to its other types.
+"When enchanted artifact is put into a graveyard, return that card to its owner’s hand."
+Tezzeret the Schemer
+{2}{U}{B}
+Legendary Planeswalker — Tezzeret
+"+1: Create a colorless artifact token named Etherium Cell with “{T}, Sacrifice this artifact: Add one mana of any color.”"
+"−2: Target creature gets +X/-X until end of turn, where X is the number of artifacts you control."
+"−7: You get an emblem with “At the beginning of combat on your turn, target artifact you control becomes an artifact creature with base power and toughness 5/5.”"
+Loyalty: 5
+Thopter Arrest
+{2}{W}
+Enchantment
+"When Thopter Arrest enters the battlefield, exile target artifact or creature an opponent controls until Thopter Arrest leaves the battlefield."
+Thriving Rhino
+{2}{G}
+Creature — Rhino
+"When Thriving Rhino enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Thriving Rhino attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it."
+2/3
+Thriving Turtle
+{U}
+Creature — Turtle
+"When Thriving Turtle enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Thriving Turtle attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it."
+0/3
+Toolcraft Exemplar
+{W}
+Creature — Dwarf Artificer
+"At the beginning of combat on your turn, if you control an artifact, Toolcraft Exemplar gets +2/+1 until end of turn. If you control three or more artifacts, it also gains first strike until end of turn."
+1/1
+Torrential Gearhulk
+{4}{U}{U}
+Artifact Creature — Construct
+Flash
+"When Torrential Gearhulk enters the battlefield, you may cast target instant card from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+5/6
+Trophy Mage
+{2}{U}
+Creature — Human Wizard
+"When Trophy Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 3, reveal it, put it into your hand, then shuffle your library."
+2/2
+Unbridled Growth
+{G}
+Enchantment — Aura
+Enchant land
+Enchanted land has “{T}: Add one mana of any color.”
+Sacrifice Unbridled Growth: Draw a card.
+Underhanded Designs
+{1}{B}
+Enchantment
+"Whenever an artifact enters the battlefield under your control, you may pay {1}. If you do, each opponent loses 1 life and you gain 1 life."
+"{1}{B}, Sacrifice Underhanded Designs: Destroy target creature. Activate this ability only if you control two or more artifacts."
+Universal Solvent
+{1}
+Artifact
+"{7}, {T}, Sacrifice Universal Solvent: Destroy target permanent."
+Unlicensed Disintegration
+{1}{B}{R}
+Instant
+"Destroy target creature. If you control an artifact, Unlicensed Disintegration deals 3 damage to that creature’s controller."
+Untethered Express
+{4}
+Artifact — Vehicle
+Trample
+"Whenever Untethered Express attacks, put a +1/+1 counter on it."
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+4/4
+Vengeful Rebel
+{2}{B}
+Creature — Aetherborn Warrior
+"Revolt — When Vengeful Rebel enters the battlefield, if a permanent you controlled left the battlefield this turn, target creature an opponent controls gets -3/-3 until end of turn."
+3/2
+Verdurous Gearhulk
+{3}{G}{G}
+Artifact Creature — Construct
+Trample
+"When Verdurous Gearhulk enters the battlefield, distribute four +1/+1 counters among any number of target creatures you control."
+4/4
+Veteran Motorist
+{R}{W}
+Creature — Dwarf Pilot
+"When Veteran Motorist enters the battlefield, scry 2."
+"Whenever Veteran Motorist crews a Vehicle, that Vehicle gets +1/+1 until end of turn."
+3/1
+Visionary Augmenter
+{2}{W}{W}
+Creature — Dwarf Artificer
+"Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
+2/1
+Voltaic Brawler
+{R}{G}
+Creature — Human Warrior
+"When Voltaic Brawler enters the battlefield, you get {E}{E} (two energy counters)."
+"Whenever Voltaic Brawler attacks, you may pay {E}. If you do, it gets +1/+1 and gains trample until end of turn."
+3/2
+Weaponcraft Enthusiast
+{2}{B}
+Creature — Aetherborn Artificer
+"Fabricate 2 (When this creature enters the battlefield, put two +1/+1 counters on it or create two 1/1 colorless Servo artifact creature tokens.)"
+0/1
+Weldfast Engineer
+{1}{B}{R}
+Creature — Human Artificer
+"At the beginning of combat on your turn, target artifact creature you control gets +2/+0 until end of turn."
+3/3
+Weldfast Monitor
+{3}
+Artifact Creature — Lizard
+{R}: Weldfast Monitor gains menace until end of turn.
+3/2
+Weldfast Wingsmith
+{3}{U}
+Creature — Human Artificer
+"Whenever an artifact enters the battlefield under your control, Weldfast Wingsmith gains flying until end of turn."
+3/3
+Welding Sparks
+{2}{R}
+Instant
+"Welding Sparks deals X damage to target creature, where X is 3 plus the number of artifacts you control."
+Whirlermaker
+{3}
+Artifact
+"{4}, {T}: Create a 1/1 colorless Thopter artifact creature token with flying."
+Whirler Virtuoso
+{1}{U}{R}
+Creature — Vedalken Artificer
+"When Whirler Virtuoso enters the battlefield, you get {E}{E}{E} (three energy counters)."
+Pay {E}{E}{E}: Create a 1/1 colorless Thopter artifact creature token with flying.
+2/3
+Whir of Invention
+{X}{U}{U}{U}
+Instant
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+"Search your library for an artifact card with converted mana cost X or less, put it onto the battlefield, then shuffle your library."
+Wildest Dreams
+{X}{X}{G}
+Sorcery
+Return X target cards from your graveyard to your hand. Exile Wildest Dreams.
+Wild Wanderer
+{3}{G}
+Creature — Elf Druid
+"When Wild Wanderer enters the battlefield, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+3/2
+Winding Constrictor
+{B}{G}
+Creature — Snake
+"If one or more counters would be put on an artifact or creature you control, that many plus one of each of those kinds of counters are put on that permanent instead."
+"If you would get one or more counters, you get that many plus one of each of those kinds of counters instead."
+2/3
+Wind-Kin Raiders
+{4}{U}{U}
+Creature — Human Artificer
+Improvise (Your artifacts can help cast this spell. Each artifact you tap after you’re done activating mana abilities pays for {1}.)
+Flying
+4/3
+Wispweaver Angel
+{4}{W}{W}
+Creature — Angel
+Flying
+"When Wispweaver Angel enters the battlefield, you may exile another target creature you control, then return that card to the battlefield under its owner’s control."
+4/4
+Woodweaver's Puzzleknot
+{2}
+Artifact
+"When Woodweaver’s Puzzleknot enters the battlefield, you gain 3 life and get {E}{E}{E} (three energy counters)."
+"{2}{G}, Sacrifice Woodweaver’s Puzzleknot: You gain 3 life and get {E}{E}{E}."
+Workshop Assistant
+{3}
+Artifact Creature — Construct
+"When Workshop Assistant dies, return another target artifact card from your graveyard to your hand."
+1/2
+Yahenni's Expertise
+{2}{B}{B}
+Sorcery
+All creatures get -3/-3 until end of turn.
+You may cast a spell with converted mana cost 3 or less from your hand without paying its mana cost.
+"Yahenni, Undying Partisan"
+{2}{B}
+Legendary Creature — Aetherborn Vampire
+Haste
+"Whenever a creature an opponent controls dies, put a +1/+1 counter on Yahenni, Undying Partisan."
+Sacrifice another creature: Yahenni gains indestructible until end of turn.
+2/2

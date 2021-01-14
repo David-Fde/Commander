@@ -1,0 +1,22 @@
+Arc Lightning
+{2}{R}
+Sorcery
+"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Dauthi Slayer
+{B}{B}
+Creature — Dauthi Soldier
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Slayer attacks each combat if able.
+2/2
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Man-o'-War
+{2}{U}
+Creature — Jellyfish
+"When Man-o’-War enters the battlefield, return target creature to its owner’s hand."
+2/2

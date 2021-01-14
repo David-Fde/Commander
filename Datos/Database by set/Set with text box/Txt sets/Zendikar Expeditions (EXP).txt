@@ -1,0 +1,168 @@
+Ancient Tomb
+Land
+{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Arid Mesa
+Land
+"{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle your library."
+Blood Crypt
+Land — Swamp Mountain
+({T}: Add {B} or {R}.)
+"As Blood Crypt enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Bloodstained Mire
+Land
+"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library."
+Breeding Pool
+Land — Forest Island
+({T}: Add {G} or {U}.)
+"As Breeding Pool enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Canopy Vista
+Land — Forest Plains
+({T}: Add {G} or {W}.)
+Canopy Vista enters the battlefield tapped unless you control two or more basic lands.
+Cascade Bluffs
+Land
+{T}: Add {C}.
+"{U/R}, {T}: Add {U}{U}, {U}{R}, or {R}{R}."
+Cinder Glade
+Land — Mountain Forest
+({T}: Add {R} or {G}.)
+Cinder Glade enters the battlefield tapped unless you control two or more basic lands.
+Dust Bowl
+Land
+{T}: Add {C}.
+"{3}, {T}, Sacrifice a land: Destroy target nonbasic land."
+Eye of Ugin
+Legendary Land
+Colorless Eldrazi spells you cast cost {2} less to cast.
+"{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library."
+Fetid Heath
+Land
+{T}: Add {C}.
+"{W/B}, {T}: Add {W}{W}, {W}{B}, or {B}{B}."
+Fire-Lit Thicket
+Land
+{T}: Add {C}.
+"{R/G}, {T}: Add {R}{R}, {R}{G}, or {G}{G}."
+Flooded Grove
+Land
+{T}: Add {C}.
+"{G/U}, {T}: Add {G}{G}, {G}{U}, or {U}{U}."
+Flooded Strand
+Land
+"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library."
+Forbidden Orchard
+Land
+{T}: Add one mana of any color.
+"Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token."
+Godless Shrine
+Land — Plains Swamp
+({T}: Add {W} or {B}.)
+"As Godless Shrine enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Graven Cairns
+Land
+{T}: Add {C}.
+"{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
+Hallowed Fountain
+Land — Plains Island
+({T}: Add {W} or {U}.)
+"As Hallowed Fountain enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Horizon Canopy
+Land
+"{T}, Pay 1 life: Add {G} or {W}."
+"{1}, {T}, Sacrifice Horizon Canopy: Draw a card."
+Kor Haven
+Legendary Land
+{T}: Add {C}.
+"{1}{W}, {T}: Prevent all combat damage that would be dealt by target attacking creature this turn."
+Mana Confluence
+Land
+"{T}, Pay 1 life: Add one mana of any color."
+Marsh Flats
+Land
+"{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle your library."
+Misty Rainforest
+Land
+"{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle your library."
+Mystic Gate
+Land
+{T}: Add {C}.
+"{W/U}, {T}: Add {W}{W}, {W}{U}, or {U}{U}."
+Overgrown Tomb
+Land — Swamp Forest
+({T}: Add {B} or {G}.)
+"As Overgrown Tomb enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Polluted Delta
+Land
+"{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle your library."
+Prairie Stream
+Land — Plains Island
+({T}: Add {W} or {U}.)
+Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
+Rugged Prairie
+Land
+{T}: Add {C}.
+"{R/W}, {T}: Add {R}{R}, {R}{W}, or {W}{W}."
+Sacred Foundry
+Land — Mountain Plains
+({T}: Add {R} or {W}.)
+"As Sacred Foundry enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Scalding Tarn
+Land
+"{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle your library."
+Smoldering Marsh
+Land — Swamp Mountain
+({T}: Add {B} or {R}.)
+Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
+Steam Vents
+Land — Island Mountain
+({T}: Add {U} or {R}.)
+"As Steam Vents enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Stomping Ground
+Land — Mountain Forest
+({T}: Add {R} or {G}.)
+"As Stomping Ground enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Strip Mine
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Strip Mine: Destroy target land."
+Sunken Hollow
+Land — Island Swamp
+({T}: Add {U} or {B}.)
+Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.
+Sunken Ruins
+Land
+{T}: Add {C}.
+"{U/B}, {T}: Add {U}{U}, {U}{B}, or {B}{B}."
+Tectonic Edge
+Land
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands."
+Temple Garden
+Land — Forest Plains
+({T}: Add {G} or {W}.)
+"As Temple Garden enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Twilight Mire
+Land
+{T}: Add {C}.
+"{B/G}, {T}: Add {B}{B}, {B}{G}, or {G}{G}."
+Verdant Catacombs
+Land
+"{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle your library."
+Wasteland
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Watery Grave
+Land — Island Swamp
+({T}: Add {U} or {B}.)
+"As Watery Grave enters the battlefield, you may pay 2 life. If you don’t, it enters the battlefield tapped."
+Windswept Heath
+Land
+"{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle your library."
+Wooded Bastion
+Land
+{T}: Add {C}.
+"{G/W}, {T}: Add {G}{G}, {G}{W}, or {W}{W}."
+Wooded Foothills
+Land
+"{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle your library."

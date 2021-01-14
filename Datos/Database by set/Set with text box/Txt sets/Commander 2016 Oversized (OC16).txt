@@ -1,0 +1,33 @@
+"Atraxa, Praetors' Voice"
+{G}{W}{U}{B}
+Legendary Creature — Angel Horror
+"Flying, vigilance, deathtouch, lifelink"
+"At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+4/4
+"Breya, Etherium Shaper"
+{W}{U}{B}{R}
+Legendary Artifact Creature — Human
+"When Breya, Etherium Shaper enters the battlefield, create two 1/1 blue Thopter artifact creature tokens with flying."
+"{2}, Sacrifice two artifacts: Choose one —"
+• Breya deals 3 damage to target player or planeswalker.
+• Target creature gets -4/-4 until end of turn.
+• You gain 5 life.
+4/4
+Kynaios and Tiro of Meletis
+{R}{G}{W}{U}
+Legendary Creature — Human Soldier
+"At the beginning of your end step, draw a card. Each player may put a land card from their hand onto the battlefield, then each opponent who didn’t draws a card."
+2/8
+Saskia the Unyielding
+{B}{R}{G}{W}
+Legendary Creature — Human Soldier
+"Vigilance, haste"
+"As Saskia the Unyielding enters the battlefield, choose a player."
+"Whenever a creature you control deals combat damage to a player, it deals that much damage to the chosen player."
+3/4
+"Yidris, Maelstrom Wielder"
+{U}{B}{R}{G}
+Legendary Creature — Ogre Wizard
+Trample
+"Whenever Yidris, Maelstrom Wielder deals combat damage to a player, as you cast spells from your hand this turn, they gain cascade. (When you cast the spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
+5/4

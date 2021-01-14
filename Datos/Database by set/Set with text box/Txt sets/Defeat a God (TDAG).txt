@@ -1,0 +1,57 @@
+Dance of Flame
+Enchantment
+"Whenever a Reveler attacks, Dance of Flame deals 1 damage to each player."
+Dance of Panic
+Enchantment
+"As long as five or more Revelers are on the battlefield, all Revelers have haste and attack each turn if able."
+Ecstatic Piper
+Token Creature — Satyr Reveler
+"When Ecstatic Piper enters the battlefield, Xenagos Ascended attacks this turn if able."
+"Hero’s Reward — When Ecstatic Piper leaves the battlefield, each player gains 2 life."
+2/2
+Impulsive Charge
+Sorcery
+"At the beginning of combat this turn, all Revelers gain haste until end of turn and attack this combat if able."
+Impulsive Destruction
+Sorcery
+Each player may sacrifice an artifact or enchantment. Impulsive Destruction deals 3 damage to each player who didn’t sacrifice a permanent this way.
+Impulsive Return
+Sorcery
+"Return two cards named Ecstatic Piper from Xenagos’s graveyard to the battlefield. At the beginning of combat this turn, Impulsive Return deals damage to each player equal to the number of Revelers on the battlefield."
+Maddened Oread
+Token Enchantment Creature — Nymph Reveler
+"As long as five or more Revelers are on the battlefield, Maddened Oread attacks each turn if able."
+"Hero’s Reward — When Maddened Oread leaves the battlefield, each player gains 3 life."
+4/2
+Pheres-Band Revelers
+Token Creature — Centaur Reveler
+"Hero’s Reward — When Pheres-Band Revelers leaves the battlefield, each player draws a card."
+4/4
+Rip to Pieces
+Sorcery
+"At the beginning of combat this turn, each Reveler deals 1 damage to each player and each creature those players control."
+Rollicking Throng
+Token Creature — Human Reveler
+"When Rollicking Throng enters the battlefield, reveal the top card of Xenagos’s library and Xenagos casts that card. (This ability doesn’t trigger as the game begins.)"
+1/3
+Serpent Dancers
+Token Creature — Human Reveler
+Deathtouch
+"Hero’s Reward — When Serpent Dancers leaves the battlefield, each player draws a card."
+2/4
+Wild Maenads
+Token Creature — Human Reveler
+First Strike
+"Hero’s Reward — When Wild Maenads leaves the battlefield, each player gains 3 life."
+3/1
+Xenagos Ascended
+Token Legendary Enchantment Creature — God
+Xenagos Ascended can’t leave the battlefield as long as a Reveler is on the battlefield.
+"When Xenagos Ascended leaves the battlefield, each player wins the game."
+6/5
+Xenagos's Scorn
+Sorcery
+Xenagos Ascended gains trample until end of turn and attacks this turn if able.
+Xenagos's Strike
+Sorcery
+Xenagos’s Strike deals 4 damage to each player.

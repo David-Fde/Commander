@@ -1,0 +1,61 @@
+Altar of Mogis
+Artifact
+"At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card."
+"Hero’s Reward — When Altar of Mogis is put into a graveyard from anywhere, the Horde sacrifices two Minotaurs."
+Consuming Rage
+Sorcery
+"Whenever a Minotaur attacks this turn, it gets +2/+0 until end of turn. Destroy that creature at end of combat."
+Descend on the Prey
+Sorcery
+"Whenever a Minotaur attacks this turn, it gains first strike until end of turn and must be blocked this turn if able."
+Intervention of Keranos
+Sorcery
+"At the beginning of combat this turn, Intervention of Keranos deals 3 damage to each creature."
+Massacre Totem
+Artifact
+"At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card."
+"Hero’s Reward — When Massacre Totem is put into a graveyard from anywhere, put the top seven cards of the Horde’s library into its graveyard."
+Minotaur Goreseeker
+Token Creature — Minotaur
+Haste
+Minotaur Goreseeker attacks each turn if able.
+3/2
+Minotaur Younghorn
+Token Creature — Minotaur
+Haste
+Minotaur Younghorn attacks each turn if able.
+2/2
+Mogis's Chosen
+Token Creature — Minotaur
+Mogis’s Chosen enters the battlefield tapped.
+Mogis’s Chosen attacks each turn if able.
+5/4
+Phoberos Reaver
+Token Creature — Minotaur
+Haste
+Phoberos Reaver attacks each turn if able.
+2/3
+Plundered Statue
+Artifact
+"At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library."
+"Hero’s Reward — When Plundered Statue is put into a graveyard from anywhere, each player draws a card."
+Reckless Minotaur
+Token Creature — Minotaur
+Haste
+Reckless Minotaur attacks each turn if able.
+"At the beginning of the end step, destroy Reckless Minotaur."
+4/1
+Refreshing Elixir
+Artifact
+"At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card."
+"Hero’s Reward — When Refreshing Elixir is put into a graveyard from anywhere, each player gains 5 life."
+Touch of the Horned God
+Sorcery
+"Whenever a Minotaur attacks this turn, it gains deathtouch until end of turn."
+Unquenchable Fury
+Sorcery
+Each Minotaur can’t be blocked this turn except by two or more creatures.
+Vitality Salve
+Artifact
+"At the beginning of the Horde’s precombat main phase, reveal an additional card from the top of the Horde’s library. The Horde casts that card."
+"Hero’s Reward — When Vitality Salve is put into a graveyard from anywhere, each player returns a creature card from their graveyard to the battlefield."

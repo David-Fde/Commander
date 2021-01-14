@@ -1,0 +1,25 @@
+Beast
+Token Creature — Beast
+3/3
+Myr
+Token Artifact Creature — Myr
+1/1
+Rowan Kenrith Emblem
+Emblem — Rowan
+"Whenever you activate an ability that isn’t a mana ability, copy it. You may choose new targets for the copy."
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Warrior
+Token Creature — Warrior
+1/1
+Will Kenrith Emblem
+Emblem — Will
+"Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy."
+Zombie
+Token Creature — Zombie
+2/2
+Zombie Giant
+Token Creature — Zombie Giant
+5/5

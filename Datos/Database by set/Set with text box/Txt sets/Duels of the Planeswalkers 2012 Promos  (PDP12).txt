@@ -1,0 +1,18 @@
+Frost Titan
+{4}{U}{U}
+Creature — Giant
+"Whenever Frost Titan becomes the target of a spell or ability an opponent controls, counter that spell or ability unless its controller pays {2}."
+"Whenever Frost Titan enters the battlefield or attacks, tap target permanent. It doesn’t untap during its controller’s next untap step."
+6/6
+Grave Titan
+{4}{B}{B}
+Creature — Giant
+Deathtouch
+"Whenever Grave Titan enters the battlefield or attacks, create two 2/2 black Zombie creature tokens."
+6/6
+Inferno Titan
+{4}{R}{R}
+Creature — Giant
+{R}: Inferno Titan gets +1/+0 until end of turn.
+"Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets."
+6/6

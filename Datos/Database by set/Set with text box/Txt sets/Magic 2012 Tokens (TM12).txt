@@ -1,0 +1,23 @@
+Beast
+Token Creature — Beast
+3/3
+Bird
+Token Creature — Bird
+Flying
+3/3
+Pentavite
+Token Artifact Creature — Pentavite
+Flying
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Wurm
+Token Creature — Wurm
+6/6
+Zombie
+Token Creature — Zombie
+2/2

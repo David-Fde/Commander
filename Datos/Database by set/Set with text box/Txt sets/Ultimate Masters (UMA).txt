@@ -1,0 +1,1321 @@
+Aethersnipe
+{5}{U}
+Creature — Elemental
+"When Aethersnipe enters the battlefield, return target nonland permanent to its owner’s hand."
+"Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+4/4
+Akroan Crusader
+{R}
+Creature — Human Soldier
+"Heroic — Whenever you cast a spell that targets Akroan Crusader, create a 1/1 red Soldier creature token with haste."
+1/1
+All Is Dust
+{7}
+Tribal Sorcery — Eldrazi
+Each player sacrifices all colored permanents they control.
+Ancestor's Chosen
+{5}{W}{W}
+Creature — Human Cleric
+First strike (This creature deals combat damage before creatures without first strike.)
+"When Ancestor’s Chosen enters the battlefield, you gain 1 life for each card in your graveyard."
+4/4
+Ancient Tomb
+Land
+{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Angelic Renewal
+{1}{W}
+Enchantment
+"Whenever a creature is put into your graveyard from the battlefield, you may sacrifice Angelic Renewal. If you do, return that card to the battlefield."
+Angel of Despair
+{3}{W}{W}{B}{B}
+Creature — Angel
+Flying
+"When Angel of Despair enters the battlefield, destroy target permanent."
+5/5
+Anger
+{3}{R}
+Creature — Incarnation
+Haste
+"As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste."
+2/2
+Appetite for Brains
+{B}
+Sorcery
+Target opponent reveals their hand. You choose a card from it with converted mana cost 4 or greater and exile that card.
+Apprentice Necromancer
+{1}{B}
+Creature — Zombie Wizard
+"{B}, {T}, Sacrifice Apprentice Necromancer: Return target creature card from your graveyard to the battlefield. That creature gains haste. At the beginning of the next end step, sacrifice it."
+1/1
+Archaeomancer
+{2}{U}{U}
+Creature — Human Wizard
+"When Archaeomancer enters the battlefield, return target instant or sorcery card from your graveyard to your hand."
+1/2
+Arena Athlete
+{1}{R}
+Creature — Human
+"Heroic — Whenever you cast a spell that targets Arena Athlete, target creature an opponent controls can’t block this turn."
+2/1
+Artisan of Kozilek
+{9}
+Creature — Eldrazi
+"When you cast this spell, you may return target creature card from your graveyard to the battlefield."
+"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)"
+10/9
+Back to Basics
+{2}{U}
+Enchantment
+Nonbasic lands don’t untap during their controllers’ untap steps.
+Balefire Dragon
+{5}{R}{R}
+Creature — Dragon
+Flying
+"Whenever Balefire Dragon deals combat damage to a player, it deals that much damage to each creature that player controls."
+6/6
+Basking Rootwalla
+{G}
+Creature — Lizard
+{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+"Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+1/1
+Beckon Apparition
+{W/B}
+Instant
+Exile target card from a graveyard. Create a 1/1 white and black Spirit creature token with flying.
+Become Immense
+{5}{G}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Target creature gets +6/+6 until end of turn.
+Bitterblossom
+{1}{B}
+Tribal Enchantment — Faerie
+"At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying."
+Blast of Genius
+{4}{U}{R}
+Sorcery
+"Choose any target. Draw three cards, then discard a card. Blast of Genius deals damage equal to the discarded card’s converted mana cost to that permanent or player."
+Bloodflow Connoisseur
+{2}{B}
+Creature — Vampire
+Sacrifice a creature: Put a +1/+1 counter on Bloodflow Connoisseur.
+1/1
+Boar Umbra
+{2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Boneyard Wurm
+{1}{G}
+Creature — Wurm
+Boneyard Wurm’s power and toughness are each equal to the number of creature cards in your graveyard.
+*/*
+Brawn
+{3}{G}
+Creature — Incarnation
+Trample
+"As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample."
+3/3
+Brazen Scourge
+{1}{R}{R}
+Creature — Gremlin
+Haste
+3/3
+Bridge from Below
+{B}{B}{B}
+Enchantment
+"Whenever a nontoken creature is put into your graveyard from the battlefield, if Bridge from Below is in your graveyard, create a 2/2 black Zombie creature token."
+"When a creature is put into an opponent’s graveyard from the battlefield, if Bridge from Below is in your graveyard, exile Bridge from Below."
+Buried Alive
+{2}{B}
+Sorcery
+"Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
+Canker Abomination
+{2}{B/G}{B/G}
+Creature — Treefolk Horror
+"As Canker Abomination enters the battlefield, choose an opponent. Canker Abomination enters the battlefield with a -1/-1 counter on it for each creature that player controls."
+6/6
+Cathodion
+{3}
+Artifact Creature — Construct
+"When Cathodion dies, add {C}{C}{C}."
+3/3
+Cavern of Souls
+Land
+"As Cavern of Souls enters the battlefield, choose a creature type."
+{T}: Add {C}.
+"{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type, and that spell can’t be countered."
+Celestial Colonnade
+Land
+Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U}.
+"{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It’s still a land."
+Chainer's Edict
+{1}{B}
+Sorcery
+Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Circular Logic
+{2}{U}
+Instant
+Counter target spell unless its controller pays {1} for each card in your graveyard.
+"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Conflagrate
+{X}{X}{R}
+Sorcery
+Conflagrate deals X damage divided as you choose among any number of targets.
+"Flashback—{R}{R}, Discard X cards. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Containment Priest
+{1}{W}
+Creature — Human Cleric
+Flash
+"If a nontoken creature would enter the battlefield and it wasn’t cast, exile it instead."
+2/2
+Conviction
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return Conviction to its owner’s hand.
+Countersquall
+{U}{B}
+Instant
+Counter target noncreature spell. Its controller loses 2 life.
+Creeping Tar Pit
+Land
+Creeping Tar Pit enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{1}{U}{B}: Creeping Tar Pit becomes a 3/2 blue and black Elemental creature until end of turn and can’t be blocked this turn. It’s still a land.
+Crow of Dark Tidings
+{2}{B}
+Creature — Zombie Bird
+Flying
+"When Crow of Dark Tidings enters the battlefield or dies, mill two cards. (Put the top two cards of your library into your graveyard.)"
+2/1
+Crushing Canopy
+{2}{G}
+Instant
+Choose one —
+• Destroy target creature with flying.
+• Destroy target enchantment.
+Dakmor Salvage
+Land
+Dakmor Salvage enters the battlefield tapped.
+{T}: Add {B}.
+"Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+Dark Dabbling
+{2}{B}
+Instant
+"Regenerate target creature. Draw a card. (The next time the creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+"Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, also regenerate each other creature you control."
+Dark Depths
+Legendary Snow Land
+Dark Depths enters the battlefield with ten ice counters on it.
+{3}: Remove an ice counter from Dark Depths.
+"When Dark Depths has no ice counters on it, sacrifice it. If you do, create Marit Lage, a legendary 20/20 black Avatar creature token with flying and indestructible."
+Dawn Charm
+{1}{W}
+Instant
+Choose one —
+• Prevent all combat damage that would be dealt this turn.
+• Regenerate target creature.
+• Counter target spell that targets you.
+Daybreak Coronet
+{W}{W}
+Enchantment — Aura
+Enchant creature with another Aura attached to it
+"Enchanted creature gets +3/+3 and has first strike, vigilance, and lifelink. (Damage dealt by the creature also causes its controller to gain that much life.)"
+Death Denied
+{X}{B}{B}
+Instant — Arcane
+Return X target creature cards from your graveyard to your hand.
+Defy Gravity
+{U}
+Instant
+Target creature gains flying until end of turn.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Demonic Tutor
+{1}{B}
+Sorcery
+"Search your library for a card, put that card into your hand, then shuffle your library."
+Deranged Assistant
+{1}{U}
+Creature — Human Wizard
+"{T}, Mill a card: Add {C}. (To mill a card, put the top card of your library into your graveyard.)"
+1/1
+Desolate Lighthouse
+Land
+{T}: Add {C}.
+"{1}{U}{R}, {T}: Draw a card, then discard a card."
+Desperate Ritual
+{1}{R}
+Instant — Arcane
+Add {R}{R}{R}.
+"Splice onto Arcane {1}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
+Devoted Druid
+{1}{G}
+Creature — Elf Druid
+{T}: Add {G}.
+Put a -1/-1 counter on Devoted Druid: Untap Devoted Druid.
+0/2
+Dig Through Time
+{6}{U}{U}
+Instant
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Look at the top seven cards of your library. Put two of them into your hand and the rest on the bottom of your library in any order.
+Dimir Guildmage
+{U/B}{U/B}
+Creature — Human Wizard
+({U/B} can be paid with either {U} or {B}.)
+{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+2/2
+Disrupting Shoal
+{X}{U}{U}
+Instant — Arcane
+You may exile a blue card with converted mana cost X from your hand rather than pay this spell’s mana cost.
+Counter target spell if its converted mana cost is X.
+Double Cleave
+{1}{R/W}
+Instant
+Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)
+Dreamscape Artist
+{1}{U}
+Creature — Human Spellshaper
+"{2}{U}, {T}, Discard a card, Sacrifice a land: Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
+1/1
+Eel Umbra
+{1}{U}
+Enchantment — Aura
+Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1.
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Eldrazi Conscription
+{8}
+Tribal Enchantment — Eldrazi Aura
+Enchant creature
+"Enchanted creature gets +10/+10 and has trample and annihilator 2. (Whenever it attacks, defending player sacrifices two permanents.)"
+Emancipation Angel
+{1}{W}{W}
+Creature — Angel
+Flying
+"When Emancipation Angel enters the battlefield, return a permanent you control to its owner’s hand."
+3/3
+"Emrakul, the Aeons Torn"
+{15}
+Legendary Creature — Eldrazi
+This spell can’t be countered.
+"When you cast this spell, take an extra turn after this one."
+"Flying, protection from colored spells, annihilator 6"
+"When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+15/15
+Engineered Explosives
+{X}
+Artifact
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+"{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives."
+Entomb
+{B}
+Instant
+Search your library for a card and put that card into your graveyard. Then shuffle your library.
+Eternal Witness
+{1}{G}{G}
+Creature — Human Shaman
+"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
+2/1
+Faithless Looting
+{R}
+Sorcery
+"Draw two cards, then discard two cards."
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Faith's Fetters
+{3}{W}
+Enchantment — Aura
+Enchant permanent
+"When Faith’s Fetters enters the battlefield, you gain 4 life."
+"Enchanted permanent can’t attack or block, and its activated abilities can’t be activated unless they’re mana abilities."
+Fauna Shaman
+{1}{G}
+Creature — Elf Shaman
+"{G}, {T}, Discard a creature card: Search your library for a creature card, reveal it, put it into your hand, then shuffle your library."
+2/2
+Fecundity
+{2}{G}
+Enchantment
+"Whenever a creature dies, that creature’s controller may draw a card."
+Fiend Hunter
+{1}{W}{W}
+Creature — Human Cleric
+"When Fiend Hunter enters the battlefield, you may exile another target creature."
+"When Fiend Hunter leaves the battlefield, return the exiled card to the battlefield under its owner’s control."
+1/3
+Fiery Temper
+{1}{R}{R}
+Instant
+Fiery Temper deals 3 damage to any target.
+"Madness {R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Fire
+{1}{R}
+Instant
+Fire deals 2 damage divided as you choose among one or two targets.
+Ice
+{1}{U}
+Instant
+Tap target permanent.
+Draw a card.
+Firewing Phoenix
+{3}{R}
+Creature — Phoenix
+Flying
+{1}{R}{R}{R}: Return Firewing Phoenix from your graveyard to your hand.
+4/2
+Flagstones of Trokair
+Legendary Land
+{T}: Add {W}.
+"When Flagstones of Trokair is put into a graveyard from the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library."
+Flight of Fancy
+{3}{U}
+Enchantment — Aura
+Enchant creature
+"When Flight of Fancy enters the battlefield, draw two cards."
+Enchanted creature has flying.
+Foil
+{2}{U}{U}
+Instant
+You may discard an Island card and another card rather than pay this spell’s mana cost.
+Counter target spell.
+Forbidden Alchemy
+{2}{U}
+Instant
+Look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard.
+Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Frantic Search
+{2}{U}
+Instant
+"Draw two cards, then discard two cards. Untap up to three lands."
+Fulminator Mage
+{1}{B/R}{B/R}
+Creature — Elemental Shaman
+Sacrifice Fulminator Mage: Destroy target nonbasic land.
+2/2
+Fume Spitter
+{B}
+Creature — Horror
+Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.
+1/1
+Furnace Celebration
+{1}{R}{R}
+Enchantment
+"Whenever you sacrifice another permanent, you may pay {2}. If you do, Furnace Celebration deals 2 damage to any target."
+Gaddock Teeg
+{G}{W}
+Legendary Creature — Kithkin Advisor
+Noncreature spells with converted mana cost 4 or greater can’t be cast.
+Noncreature spells with {X} in their mana costs can’t be cast.
+2/2
+Gamble
+{R}
+Sorcery
+"Search your library for a card, put that card into your hand, discard a card at random, then shuffle your library."
+"Garna, the Bloodflame"
+{3}{B}{R}
+Legendary Creature — Human Warrior
+Flash
+"When Garna, the Bloodflame enters the battlefield, return to your hand all creature cards in your graveyard that were put there from anywhere this turn."
+Other creatures you control have haste.
+3/3
+Generator Servant
+{1}{R}
+Creature — Elemental
+"{T}, Sacrifice Generator Servant: Add {C}{C}. If that mana is spent on a creature spell, it gains haste until end of turn. (That creature can attack and {T} as soon as it comes under your control.)"
+2/1
+Ghoulcaller's Accomplice
+{1}{B}
+Creature — Human Rogue
+"{3}{B}, Exile Ghoulcaller’s Accomplice from your graveyard: Create a 2/2 black Zombie creature token. Activate this ability only any time you could cast a sorcery."
+2/2
+Ghoulsteed
+{4}{B}
+Creature — Zombie Horse
+"{2}{B}, Discard two cards: Return Ghoulsteed from your graveyard to the battlefield tapped."
+4/4
+Glen Elendra Archmage
+{3}{U}
+Creature — Faerie Wizard
+Flying
+"{U}, Sacrifice Glen Elendra Archmage: Counter target noncreature spell."
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+2/2
+Gods Willing
+{W}
+Instant
+"Target creature you control gains protection from the color of your choice until end of turn. (It can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color.)"
+Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Golgari Brownscale
+{1}{G}{G}
+Creature — Lizard
+"When Golgari Brownscale is put into your hand from your graveyard, you gain 2 life."
+"Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
+2/3
+Golgari Charm
+{B}{G}
+Instant
+Choose one —
+• All creatures get -1/-1 until end of turn.
+• Destroy target enchantment.
+• Regenerate each creature you control.
+Golgari Grave-Troll
+{4}{G}
+Creature — Troll Skeleton
+Golgari Grave-Troll enters the battlefield with a +1/+1 counter on it for each creature card in your graveyard.
+"{1}, Remove a +1/+1 counter from Golgari Grave-Troll: Regenerate Golgari Grave-Troll."
+"Dredge 6 (If you would draw a card, you may mill six cards instead. If you do, return this card from your graveyard to your hand.)"
+0/0
+Golgari Thug
+{1}{B}
+Creature — Human Warrior
+"When Golgari Thug dies, put target creature card from your graveyard on top of your library."
+"Dredge 4 (If you would draw a card, you may mill four cards instead. If you do, return this card from your graveyard to your hand.)"
+1/1
+Goryo's Vengeance
+{1}{B}
+Instant — Arcane
+Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.
+"Splice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
+Grave Scrabbler
+{3}{B}
+Creature — Zombie
+"Madness {1}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+"When Grave Scrabbler enters the battlefield, if its madness cost was paid, you may return target creature card from a graveyard to its owner’s hand."
+2/2
+Grave Strength
+{1}{B}
+Sorcery
+"Choose target creature. Mill three cards, then put a +1/+1 counter on that creature for each creature card in your graveyard."
+Groundskeeper
+{G}
+Creature — Human Druid
+{1}{G}: Return target basic land card from your graveyard to your hand.
+1/1
+Gurmag Angler
+{6}{B}
+Creature — Zombie Fish
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+5/5
+Heap Doll
+{1}
+Artifact Creature — Scarecrow
+Sacrifice Heap Doll: Exile target card from a graveyard.
+1/1
+Heliod's Pilgrim
+{2}{W}
+Creature — Human Cleric
+"When Heliod’s Pilgrim enters the battlefield, you may search your library for an Aura card, reveal it, put it into your hand, then shuffle your library."
+1/2
+Hero of Iroas
+{1}{W}
+Creature — Human Soldier
+Aura spells you cast cost {1} less to cast.
+"Heroic — Whenever you cast a spell that targets Hero of Iroas, put a +1/+1 counter on Hero of Iroas."
+2/2
+Hero of Leina Tower
+{G}
+Creature — Human Warrior
+"Heroic — Whenever you cast a spell that targets Hero of Leina Tower, you may pay {X}. If you do, put X +1/+1 counters on Hero of Leina Tower."
+1/1
+Hissing Iguanar
+{2}{R}
+Creature — Lizard
+"Whenever another creature dies, you may have Hissing Iguanar deal 1 damage to target player or planeswalker."
+3/1
+Hooting Mandrills
+{5}{G}
+Creature — Ape
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Trample
+4/4
+Hyena Umbra
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has first strike.
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Icatian Crier
+{2}{W}
+Creature — Human Spellshaper
+"{1}{W}, {T}, Discard a card: Create two 1/1 white Citizen creature tokens."
+1/1
+Ingot Chewer
+{4}{R}
+Creature — Elemental
+"When Ingot Chewer enters the battlefield, destroy target artifact."
+"Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+3/3
+Iridescent Drake
+{3}{U}
+Creature — Drake
+Flying
+"When Iridescent Drake enters the battlefield, put target Aura card from a graveyard onto the battlefield under your control attached to Iridescent Drake."
+2/2
+Just the Wind
+{1}{U}
+Instant
+Return target creature to its owner’s hand.
+"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Karakas
+Legendary Land
+{T}: Add {W}.
+{T}: Return target legendary creature to its owner’s hand.
+Karn Liberated
+{7}
+Legendary Planeswalker — Karn
++4: Target player exiles a card from their hand.
+−3: Exile target permanent.
+"−14: Restart the game, leaving in exile all non-Aura permanent cards exiled with Karn Liberated. Then put those cards onto the battlefield under your control."
+Loyalty: 6
+Kitchen Finks
+{1}{G/W}{G/W}
+Creature — Ouphe
+"When Kitchen Finks enters the battlefield, you gain 2 life."
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+3/2
+Kodama's Reach
+{2}{G}
+Sorcery — Arcane
+"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+"Kozilek, Butcher of Truth"
+{10}
+Legendary Creature — Eldrazi
+"When you cast this spell, draw four cards."
+"Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)"
+"When Kozilek, Butcher of Truth is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+12/12
+Laboratory Maniac
+{2}{U}
+Creature — Human Wizard
+"If you would draw a card while your library has no cards in it, you win the game instead."
+2/2
+Last Gasp
+{1}{B}
+Instant
+Target creature gets -3/-3 until end of turn.
+Lavaclaw Reaches
+Land
+Lavaclaw Reaches enters the battlefield tapped.
+{T}: Add {B} or {R}.
+"{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with “{X}: This creature gets +X/+0 until end of turn.” It’s still a land."
+Lava Spike
+{R}
+Sorcery — Arcane
+Lava Spike deals 3 damage to target player or planeswalker.
+"Leovold, Emissary of Trest"
+{B}{G}{U}
+Legendary Creature — Elf Advisor
+Each opponent can’t draw more than one card each turn.
+"Whenever you or a permanent you control becomes the target of a spell or ability an opponent controls, you may draw a card."
+3/3
+Life from the Loam
+{1}{G}
+Sorcery
+Return up to three target land cards from your graveyard to your hand.
+"Dredge 3 (If you would draw a card, you may mill three cards instead. If you do, return this card from your graveyard to your hand.)"
+Liliana of the Veil
+{1}{B}{B}
+Legendary Planeswalker — Liliana
++1: Each player discards a card.
+−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.
+Loyalty: 3
+Living Lore
+{3}{U}
+Creature — Avatar
+"As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard."
+Living Lore’s power and toughness are each equal to the exiled card’s converted mana cost.
+"Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost."
+*/*
+Lord of Extinction
+{3}{B}{G}
+Creature — Elemental
+Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.
+*/*
+Lotus-Eye Mystics
+{3}{W}
+Creature — Human Monk
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+"When Lotus-Eye Mystics enters the battlefield, return target enchantment card from your graveyard to your hand."
+3/2
+Mad Prophet
+{3}{R}
+Creature — Human Shaman
+Haste
+"{T}, Discard a card: Draw a card."
+2/2
+Maelstrom Pulse
+{1}{B}{G}
+Sorcery
+Destroy target nonland permanent and all other permanents with the same name as that permanent.
+Mage-Ring Network
+Land
+{T}: Add {C}.
+"{1}, {T}: Put a storage counter on Mage-Ring Network."
+"{T}, Remove any number of storage counters from Mage-Ring Network: Add {C} for each storage counter removed this way."
+Magmaw
+{3}{R}{R}
+Creature — Elemental
+"{1}, Sacrifice a nonland permanent: Magmaw deals 1 damage to any target."
+4/4
+Magus of the Bazaar
+{1}{U}
+Creature — Human Wizard
+"{T}: Draw two cards, then discard three cards."
+0/1
+Mahamoti Djinn
+{4}{U}{U}
+Creature — Djinn
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+5/6
+Malevolent Whispers
+{3}{R}
+Sorcery
+Gain control of target creature until end of turn. Untap that creature. It gets +2/+0 and gains haste until end of turn.
+"Madness {3}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+Mammoth Umbra
+{4}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3 and has vigilance.
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Mana Vault
+{1}
+Artifact
+Mana Vault doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may pay {4}. If you do, untap Mana Vault."
+"At the beginning of your draw step, if Mana Vault is tapped, it deals 1 damage to you."
+{T}: Add {C}{C}{C}.
+Marang River Prowler
+{2}{U}
+Creature — Human Rogue
+Marang River Prowler can’t block and can’t be blocked.
+You may cast Marang River Prowler from your graveyard as long as you control a black or green permanent.
+2/1
+Mark of the Vampire
+{3}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and has lifelink.
+Martyr of Sands
+{W}
+Creature — Human Cleric
+"{1}, Reveal X white cards from your hand, Sacrifice Martyr of Sands: You gain three times X life."
+1/1
+"Mikaeus, the Unhallowed"
+{3}{B}{B}{B}
+Legendary Creature — Zombie Cleric
+Intimidate (This creature can’t be blocked except by artifact creatures and/or creatures that share a color with it.)
+"Whenever a Human deals damage to you, destroy it."
+"Other non-Human creatures you control get +1/+1 and have undying. (When a creature with undying dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)"
+5/5
+Miming Slime
+{2}{G}
+Sorcery
+"Create an X/X green Ooze creature token, where X is the greatest power among creatures you control."
+Miraculous Recovery
+{4}{W}
+Instant
+Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it.
+Mistveil Plains
+Land — Plains
+({T}: Add {W}.)
+Mistveil Plains enters the battlefield tapped.
+"{W}, {T}: Put target card from your graveyard on the bottom of your library. Activate this ability only if you control two or more white permanents."
+Moan of the Unhallowed
+{2}{B}{B}
+Sorcery
+Create two 2/2 black Zombie creature tokens.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Molten Birth
+{1}{R}{R}
+Sorcery
+"Create two 1/1 red Elemental creature tokens, then flip a coin. If you win the flip, return Molten Birth to its owner’s hand."
+Murderous Redcap
+{2}{B/R}{B/R}
+Creature — Goblin Assassin
+"When Murderous Redcap enters the battlefield, it deals damage equal to its power to any target."
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+2/2
+Myr Servitor
+{1}
+Artifact Creature — Myr
+"At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from their graveyard to the battlefield."
+1/1
+Mystic Retrieval
+{3}{U}
+Sorcery
+Return target instant or sorcery card from your graveyard to your hand.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Nightbird's Clutches
+{1}{R}
+Sorcery
+Up to two target creatures can’t block this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Noble Hierarch
+{G}
+Creature — Human Druid
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"{T}: Add {G}, {W}, or {U}."
+0/1
+Nourishing Shoal
+{X}{G}{G}
+Instant — Arcane
+You may exile a green card with converted mana cost X from your hand rather than pay this spell’s mana cost.
+You gain X life.
+Offalsnout
+{2}{B}
+Creature — Elemental
+Flash
+"When Offalsnout leaves the battlefield, exile target card from a graveyard."
+"Evoke {B} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+2/2
+Olivia's Dragoon
+{1}{B}
+Creature — Vampire Berserker
+Discard a card: Olivia’s Dragoon gains flying until end of turn.
+2/2
+Patchwork Gnomes
+{3}
+Artifact Creature — Gnome
+Discard a card: Regenerate Patchwork Gnomes.
+2/1
+Pattern of Rebirth
+{3}{G}
+Enchantment — Aura
+Enchant creature
+"When enchanted creature dies, that creature’s controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library."
+Penumbra Wurm
+{5}{G}{G}
+Creature — Wurm
+Trample
+"When Penumbra Wurm dies, create a 6/6 black Wurm creature token with trample."
+6/6
+Phalanx Leader
+{W}{W}
+Creature — Human Soldier
+"Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control."
+1/1
+Phyrexian Altar
+{3}
+Artifact
+Sacrifice a creature: Add one mana of any color.
+Phyrexian Tower
+Legendary Land
+{T}: Add {C}.
+"{T}, Sacrifice a creature: Add {B}{B}."
+Platinum Emperion
+{8}
+Artifact Creature — Golem
+Your life total can’t change. (You can’t gain or lose life. You can’t pay any amount of life except 0.)
+8/8
+Plumeveil
+{W/U}{W/U}{W/U}
+Creature — Elemental
+Flash
+"Defender, flying"
+4/4
+Prey Upon
+{G}
+Sorcery
+Target creature you control fights target creature you don’t control. (Each deals damage equal to its power to the other.)
+Prismatic Lens
+{2}
+Artifact
+{T}: Add {C}.
+"{1}, {T}: Add one mana of any color."
+Pulse of Murasa
+{2}{G}
+Instant
+Return target creature or land card from a graveyard to its owner’s hand. You gain 6 life.
+Raging Ravine
+Land
+Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G}.
+"{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with “Whenever this creature attacks, put a +1/+1 counter on it.” It’s still a land."
+Raid Bombardment
+{2}{R}
+Enchantment
+"Whenever a creature you control with power 2 or less attacks, Raid Bombardment deals 1 damage to the player or planeswalker that creature is attacking."
+Rakdos Shred-Freak
+{B/R}{B/R}
+Creature — Human Berserker
+Haste
+2/1
+Rally the Peasants
+{2}{W}
+Instant
+Creatures you control get +2/+0 until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Reanimate
+{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+Reckless Charge
+{R}
+Sorcery
+Target creature gets +3/+0 and gains haste until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Reckless Wurm
+{3}{R}{R}
+Creature — Wurm
+Trample
+"Madness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+4/4
+Repel the Darkness
+{2}{W}
+Instant
+Tap up to two target creatures.
+Draw a card.
+Resurrection
+{2}{W}{W}
+Sorcery
+Return target creature card from your graveyard to the battlefield.
+Reveillark
+{4}{W}
+Creature — Elemental
+Flying
+"When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield."
+"Evoke {5}{W} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+4/3
+Reviving Vapors
+{2}{W}{U}
+Instant
+Reveal the top three cards of your library and put one of them into your hand. You gain life equal to that card’s converted mana cost. Put all other cards revealed this way into your graveyard.
+Reya Dawnbringer
+{6}{W}{W}{W}
+Legendary Creature — Angel
+Flying
+"At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
+4/6
+Rise from the Tides
+{5}{U}
+Sorcery
+Create a tapped 2/2 black Zombie creature token for each instant and sorcery card in your graveyard.
+Rogue's Passage
+Land
+{T}: Add {C}.
+"{4}, {T}: Target creature can’t be blocked this turn."
+Rolling Temblor
+{2}{R}
+Sorcery
+Rolling Temblor deals 2 damage to each creature without flying.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Ronom Unicorn
+{1}{W}
+Creature — Unicorn
+Sacrifice Ronom Unicorn: Destroy target enchantment.
+2/2
+Runed Halo
+{W}{W}
+Enchantment
+"As Runed Halo enters the battlefield, choose a card name."
+"You have protection from the chosen card name. (You can’t be targeted, dealt damage, or enchanted by anything with that name.)"
+Rune Snag
+{1}{U}
+Instant
+Counter target spell unless its controller pays {2} plus an additional {2} for each card named Rune Snag in each graveyard.
+Safehold Elite
+{1}{G/W}
+Creature — Elf Scout
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+2/2
+Sanitarium Skeleton
+{B}
+Creature — Skeleton
+{2}{B}: Return Sanitarium Skeleton from your graveyard to your hand.
+1/2
+Satyr Wayfinder
+{1}{G}
+Creature — Satyr
+"When Satyr Wayfinder enters the battlefield, reveal the top four cards of your library. You may put a land card from among them into your hand. Put the rest into your graveyard."
+1/1
+Scuzzback Marauders
+{4}{R/G}
+Creature — Goblin Warrior
+Trample
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+5/2
+Seismic Assault
+{R}{R}{R}
+Enchantment
+Discard a land card: Seismic Assault deals 2 damage to any target.
+Seize the Day
+{3}{R}
+Sorcery
+"Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase."
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Shed Weakness
+{G}
+Instant
+Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter from it.
+Shielding Plax
+{2}{G/U}
+Enchantment — Aura
+({G/U} can be paid with either {G} or {U}.)
+Enchant creature
+"When Shielding Plax enters the battlefield, draw a card."
+Enchanted creature can’t be the target of spells or abilities your opponents control.
+"Shirei, Shizo's Caretaker"
+{4}{B}
+Legendary Creature — Spirit
+"Whenever a creature with power 1 or less is put into your graveyard from the battlefield, you may return that card to the battlefield at the beginning of the next end step if Shirei, Shizo’s Caretaker is still on the battlefield."
+2/2
+Shriekmaw
+{4}{B}
+Creature — Elemental
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+"When Shriekmaw enters the battlefield, destroy target nonartifact, nonblack creature."
+"Evoke {1}{B} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+3/2
+"Sigarda, Host of Herons"
+{2}{G}{W}{W}
+Legendary Creature — Angel
+"Flying, hexproof"
+Spells and abilities your opponents control can’t cause you to sacrifice permanents.
+5/5
+Sigil of the New Dawn
+{3}{W}
+Enchantment
+"Whenever a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return that card to your hand."
+Skyspear Cavalry
+{3}{W}{W}
+Creature — Human Soldier
+Flying
+Double strike (This creature deals both first-strike and regular combat damage.)
+2/2
+Skywing Aven
+{2}{U}
+Creature — Bird Soldier
+Flying
+Discard a card: Return Skywing Aven to its owner’s hand.
+2/1
+Sleight of Hand
+{U}
+Sorcery
+Look at the top two cards of your library. Put one of them into your hand and the other on the bottom of your library.
+Slippery Bogle
+{G/U}
+Creature — Beast
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+1/1
+Slum Reaper
+{3}{B}
+Creature — Horror
+"When Slum Reaper enters the battlefield, each player sacrifices a creature."
+4/2
+Snake Umbra
+{2}{G}
+Enchantment — Aura
+Enchant creature
+"Enchanted creature gets +1/+1 and has “Whenever this creature deals damage to an opponent, you may draw a card.”"
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Snapcaster Mage
+{1}{U}
+Creature — Human Wizard
+Flash
+"When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+2/1
+Songs of the Damned
+{B}
+Instant
+Add {B} for each creature card in your graveyard.
+Soul's Fire
+{2}{R}
+Instant
+Target creature you control deals damage equal to its power to any target.
+Sovereigns of Lost Alara
+{4}{W}{U}
+Creature — Spirit
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library."
+4/5
+Sparkspitter
+{2}{R}
+Creature — Elemental Spellshaper
+"{R}, {T}, Discard a card: Create a 3/1 red Elemental creature token named Spark Elemental. It has trample, haste, and “At the beginning of the end step, sacrifice Spark Elemental.”"
+1/3
+Spider Spawning
+{4}{G}
+Sorcery
+Create a 1/2 green Spider creature token with reach for each creature card in your graveyard.
+Flashback {6}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Spider Umbra
+{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1 and has reach. (It can block creatures with flying.)
+"Totem armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)"
+Spirit Cairn
+{2}{W}
+Enchantment
+"Whenever a player discards a card, you may pay {W}. If you do, create a 1/1 white Spirit creature token with flying."
+Spoils of the Vault
+{B}
+Instant
+"Choose a card name. Reveal cards from the top of your library until you reveal a card with that name, then put that card into your hand. Exile all other cards revealed this way, and you lose 1 life for each of the exiled cards."
+"Squee, Goblin Nabob"
+{2}{R}
+Legendary Creature — Goblin
+"At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand."
+1/1
+Staunch-Hearted Warrior
+{3}{G}
+Creature — Human Warrior
+"Heroic — Whenever you cast a spell that targets Staunch-Hearted Warrior, put two +1/+1 counters on Staunch-Hearted Warrior."
+2/2
+Stingerfling Spider
+{4}{G}
+Creature — Spider
+Reach
+"When Stingerfling Spider enters the battlefield, you may destroy target creature with flying."
+2/5
+Stirring Wildwood
+Land
+Stirring Wildwood enters the battlefield tapped.
+{T}: Add {G} or {W}.
+"{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It’s still a land."
+Stitched Drake
+{1}{U}{U}
+Creature — Zombie Drake
+"As an additional cost to cast this spell, exile a creature card from your graveyard."
+Flying
+3/4
+Stitcher's Apprentice
+{1}{U}
+Creature — Homunculus
+"{1}{U}, {T}: Create a 2/2 blue Homunculus creature token, then sacrifice a creature."
+1/2
+Stream of Consciousness
+{1}{U}
+Instant — Arcane
+Target player shuffles up to four target cards from their graveyard into their library.
+Sublime Archangel
+{2}{W}{W}
+Creature — Angel
+Flying
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"Other creatures you control have exalted. (If a creature has multiple instances of exalted, each triggers separately.)"
+4/3
+Sultai Skullkeeper
+{1}{U}
+Creature — Naga Shaman
+"When Sultai Skullkeeper enters the battlefield, mill two cards."
+2/1
+Swift Reckoning
+{1}{W}
+Sorcery
+"Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you may cast Swift Reckoning as though it had flash. (You may cast it any time you could cast an instant.)"
+Destroy target tapped creature.
+"Talrand, Sky Summoner"
+{2}{U}{U}
+Legendary Creature — Merfolk Wizard
+"Whenever you cast an instant or sorcery spell, create a 2/2 blue Drake creature token with flying."
+2/2
+Tarmogoyf
+{1}{G}
+Creature — Lhurgoyf
+Tarmogoyf’s power is equal to the number of card types among cards in all graveyards and its toughness is equal to that number plus 1.
+*/1+*
+"Tasigur, the Golden Fang"
+{5}{B}
+Legendary Creature — Human Shaman
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+"{2}{G/U}{G/U}: Mill two cards, then return a nonland card of an opponent’s choice from your graveyard to your hand."
+4/5
+Temporal Manipulation
+{3}{U}{U}
+Sorcery
+Take an extra turn after this one.
+Terramorphic Expanse
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Tethmos High Priest
+{2}{W}
+Creature — Cat Cleric
+"Heroic — Whenever you cast a spell that targets Tethmos High Priest, return target creature card with converted mana cost 2 or less from your graveyard to the battlefield."
+2/3
+Thermo-Alchemist
+{1}{R}
+Creature — Human Shaman
+Defender
+{T}: Thermo-Alchemist deals 1 damage to each opponent.
+"Whenever you cast an instant or sorcery spell, untap Thermo-Alchemist."
+0/3
+Thespian's Stage
+Land
+{T}: Add {C}.
+"{2}, {T}: Thespian’s Stage becomes a copy of target land, except it has this ability."
+Think Twice
+{1}{U}
+Instant
+Draw a card.
+Flashback {2}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Through the Breach
+{4}{R}
+Instant — Arcane
+You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.
+"Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
+Travel Preparations
+{1}{G}
+Sorcery
+Put a +1/+1 counter on each of up to two target creatures.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Treasure Cruise
+{7}{U}
+Sorcery
+Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
+Draw three cards.
+Turn to Mist
+{1}{W/U}
+Instant
+Exile target creature. Return that card to the battlefield under its owner’s control at the beginning of the next end step.
+Twins of Maurer Estate
+{4}{B}
+Creature — Vampire
+"Madness {2}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
+3/5
+Ulamog's Crusher
+{8}
+Creature — Eldrazi
+"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)"
+Ulamog’s Crusher attacks each combat if able.
+8/8
+"Ulamog, the Infinite Gyre"
+{11}
+Legendary Creature — Eldrazi
+"When you cast this spell, destroy target permanent."
+Indestructible
+"Annihilator 4 (Whenever this creature attacks, defending player sacrifices four permanents.)"
+"When Ulamog, the Infinite Gyre is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+10/10
+Unburial Rites
+{4}{B}
+Sorcery
+Return target creature card from your graveyard to the battlefield.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Undying Rage
+{2}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and can’t block.
+"When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner’s hand."
+Unholy Hunger
+{3}{B}{B}
+Instant
+Destroy target creature.
+"Spell mastery — If there are two or more instant and/or sorcery cards in your graveyard, you gain 2 life."
+Unstable Mutation
+{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+"At the beginning of the upkeep of enchanted creature’s controller, put a -1/-1 counter on that creature."
+Urban Evolution
+{3}{G}{U}
+Sorcery
+Draw three cards. You may play an additional land this turn.
+"Urborg, Tomb of Yawgmoth"
+Legendary Land
+Each land is a Swamp in addition to its other land types.
+Vengeful Rebirth
+{4}{R}{G}
+Sorcery
+"Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card’s converted mana cost to any target."
+Exile Vengeful Rebirth.
+Vengevine
+{2}{G}{G}
+Creature — Elemental
+Haste
+"Whenever you cast a spell, if it’s the second creature spell you cast this turn, you may return Vengevine from your graveyard to the battlefield."
+4/3
+Verdant Eidolon
+{3}{G}
+Creature — Spirit
+"{G}, Sacrifice Verdant Eidolon: Add three mana of any one color."
+"Whenever you cast a multicolored spell, you may return Verdant Eidolon from your graveyard to your hand."
+2/2
+Vessel of Endless Rest
+{3}
+Artifact
+"When Vessel of Endless Rest enters the battlefield, put target card from a graveyard on the bottom of its owner’s library."
+{T}: Add one mana of any color.
+Vexing Devil
+{R}
+Creature — Devil
+"When Vexing Devil enters the battlefield, any opponent may have it deal 4 damage to them. If a player does, sacrifice Vexing Devil."
+4/3
+Visions of Beyond
+{U}
+Instant
+"Draw a card. If a graveyard has twenty or more cards in it, draw three cards instead."
+Walker of the Grove
+{6}{G}{G}
+Creature — Elemental
+"When Walker of the Grove leaves the battlefield, create a 4/4 green Elemental creature token."
+"Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
+7/7
+Wall of Reverence
+{3}{W}
+Creature — Spirit Wall
+"Defender, flying"
+"At the beginning of your end step, you may gain life equal to the power of target creature you control."
+1/6
+Wandering Champion
+{1}{W}
+Creature — Human Monk
+"Whenever Wandering Champion deals combat damage to a player, if you control a blue or red permanent, you may discard a card. If you do, draw a card."
+3/1
+Warleader's Helix
+{2}{R}{W}
+Instant
+Warleader’s Helix deals 4 damage to any target and you gain 4 life.
+Whirlwind Adept
+{4}{U}
+Creature — Djinn Monk
+Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+4/2
+Wickerbough Elder
+{3}{G}
+Creature — Treefolk Shaman
+Wickerbough Elder enters the battlefield with a -1/-1 counter on it.
+"{G}, Remove a -1/-1 counter from Wickerbough Elder: Destroy target artifact or enchantment."
+4/4
+Wild Hunger
+{2}{G}
+Instant
+Target creature gets +3/+1 and gains trample until end of turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Wild Mongrel
+{1}{G}
+Creature — Dog
+Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
+2/2
+Wingsteed Rider
+{1}{W}{W}
+Creature — Human Knight
+Flying
+"Heroic — Whenever you cast a spell that targets Wingsteed Rider, put a +1/+1 counter on Wingsteed Rider."
+2/2
+Woodfall Primus
+{5}{G}{G}{G}
+Creature — Treefolk Shaman
+Trample
+"When Woodfall Primus enters the battlefield, destroy target noncreature permanent."
+"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
+6/6
+Young Pyromancer
+{1}{R}
+Creature — Human Shaman
+"Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token."
+2/1

@@ -1,0 +1,616 @@
+Abomination
+{3}{B}{B}
+Creature — Horror
+"Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat."
+2/6
+Potion d'albâtre
+{X}{W}{W}
+Instant
+Choose one —
+• Target player gains X life.
+• Prevent the next X damage that would be dealt to any target this turn.
+Ali Baba
+{R}
+Creature — Human Rogue
+{R}: Tap target Wall.
+1/1
+Amrou sangami
+{W}{W}
+Creature — Kithkin
+Amrou Kithkin can’t be blocked by creatures with power 3 or greater.
+1/1
+Amulette de Kroog
+{2}
+Artifact
+"{2}, {T}: Prevent the next 1 damage that would be dealt to any target this turn."
+Foule en colère
+{2}{W}{W}
+Creature — Human
+Trample
+"As long as it’s your turn, Angry Mob’s power and toughness are each equal to 2 plus the number of Swamps your opponents control. As long as it’s not your turn, Angry Mob’s power and toughness are each 2."
+2+*/2+*
+Apprenti sorcier
+{1}{U}{U}
+Creature — Human Wizard
+"{U}, {T}: Add {C}{C}{C}."
+0/1
+Des cendres aux cendres
+{1}{B}{B}
+Sorcery
+Exile two target nonartifact creatures. Ashes to Ashes deals 5 damage to you.
+Harnais de bataille d'Ashnod
+{2}
+Artifact
+You may choose not to untap Ashnod’s Battle Gear during your untap step.
+"{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod’s Battle Gear remains tapped."
+Retour de flamme
+{U}
+Enchantment — Aura
+Enchant creature
+"Whenever enchanted creature deals damage to you, Backfire deals that much damage to that creature’s controller."
+Boule fulgurante
+{R}{R}{R}
+Creature — Elemental
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"At the beginning of the end step, sacrifice Ball Lightning."
+6/1
+Bélier
+{2}
+Artifact Creature — Construct
+"At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s blocking.)"
+"Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat."
+1/1
+Dame-oiselle
+{2}{R}
+Creature — Human Bird
+Flying
+1/2
+Accumulateur de mana noir
+{4}
+Artifact
+"{2}, {T}: Put a charge counter on Black Mana Battery."
+"{T}, Remove any number of charge counters from Black Mana Battery: Add {B}, then add an additional {B} for each charge counter removed this way."
+Flétrissement
+{B}{B}
+Enchantment — Aura
+Enchant land
+"When enchanted land becomes tapped, destroy it."
+Soif de sang
+{1}{R}
+Instant
+"If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1."
+Accumulateur de mana bleu
+{4}
+Artifact
+"{2}, {T}: Put a charge counter on Blue Mana Battery."
+"{T}, Remove any number of charge counters from Blue Mana Battery: Add {U}, then add an additional {U} for each charge counter removed this way."
+Diablotin des marécages
+{1}{B}
+Creature — Imp
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+1/1
+Lavage de cerveau
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack unless its controller pays {3}.
+Tablette de bronze
+{6}
+Artifact
+Remove Bronze Tablet from your deck before playing if you’re not playing for ante.
+Bronze Tablet enters the battlefield tapped.
+"{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If they do, put Bronze Tablet into its owner’s graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card."
+Frères du feu
+{1}{R}{R}
+Creature — Human Shaman
+{1}{R}{R}: Brothers of Fire deals 1 damage to any target and 1 damage to you.
+2/2
+Plante carnivore
+{3}{G}
+Creature — Plant Wall
+Defender
+4/5
+Fourmis charognardes
+{2}{B}{B}
+Creature — Insect
+{1}: Carrion Ants gets +1/+1 until end of turn.
+0/1
+Peuple des cavernes
+{1}{R}{R}
+Creature — Human
+"Whenever Cave People attacks, it gets +1/-2 until end of turn."
+"{1}{R}{R}, {T}: Target creature gains mountainwalk until end of turn. (It can’t be blocked as long as defending player controls a Mountain.)"
+1/4
+Cercle de protection: artefacts
+{1}{W}
+Enchantment
+"{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage."
+Statue d'argile
+{4}
+Artifact Creature — Golem
+{2}: Regenerate Clay Statue.
+3/1
+Oiseau mécanique
+{5}
+Artifact Creature — Bird
+Flying
+Clockwork Avian enters the battlefield with four +1/+0 counters on it.
+"At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it."
+"{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can’t cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep."
+0/4
+Colosse de Sardie
+{9}
+Artifact Creature — Golem
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+Colossus of Sardia doesn’t untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.
+9/9
+Heaume de corail
+{3}
+Artifact
+"{3}, Discard a card at random: Target creature gets +2/+2 until end of turn."
+Horreur cosmique
+{3}{B}{B}{B}
+Creature — Horror
+First strike
+"At the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you."
+7/7
+Manticore pourpre
+{2}{R}{R}
+Creature — Manticore
+Flying
+"{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature."
+2/2
+Chevalet maudit
+{4}
+Artifact
+"As Cursed Rack enters the battlefield, choose an opponent."
+The chosen player’s maximum hand size is four.
+Momie cyclopéenne
+{1}{B}
+Creature — Zombie
+"When Cyclopean Mummy dies, exile it."
+2/1
+Détonation
+{X}{R}
+Sorcery
+Destroy target artifact with converted mana cost X. It can’t be regenerated. Detonate deals X damage to that artifact’s controller.
+Machine diabolique
+{7}
+Artifact Creature — Construct
+{3}: Regenerate Diabolic Machine.
+4/4
+Transformation divine
+{2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +3/+3.
+Sangliers de Boissambre
+{4}{G}
+Creature — Boar
+4/4
+Guivre terrestre ancestrale
+{4}{W}{W}{W}
+Creature — Dragon Wurm
+"Defender, trample"
+"When Elder Land Wurm blocks, it loses defender."
+5/5
+Cavaliers elfes
+{3}{G}{G}
+Creature — Elf
+Elven Riders can’t be blocked except by Walls and/or creatures with flying.
+3/3
+Engagement énergétique
+{U}
+Sorcery
+"Tap target untapped creature you control. If you do, add an amount of {C} equal to that creature’s converted mana cost."
+Érosion
+{U}{U}{U}
+Enchantment — Aura
+Enchant land
+"At the beginning of the upkeep of enchanted land’s controller, destroy that land unless that player pays {1} or 1 life."
+Guerrier éternel
+{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has vigilance.
+Pierre de Guermont
+{2}
+Artifact
+{T}: Add one mana of any color that a land an opponent controls could produce.
+Fissure
+{3}{R}{R}
+Instant
+Destroy target creature or land. It can’t be regenerated.
+Inondation
+{U}
+Enchantment
+{U}{U}: Tap target creature without flying.
+Aire fortifiée
+{1}{W}{W}
+Enchantment
+"Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+Forme gazeuse
+{2}{U}
+Enchantment — Aura
+Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.
+Navire fantôme
+{2}{U}{U}
+Creature — Spirit
+Flying
+{U}{U}{U}: Regenerate Ghost Ship.
+2/4
+Force de géant
+{R}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2.
+Tortue marine géante
+{1}{U}
+Creature — Turtle
+Giant Tortoise gets +0/+3 as long as it’s untapped.
+1/1
+Luge des gobelins
+{1}{R}
+Creature — Goblin
+Trample
+Goblin Rock Sled doesn’t untap during your untap step if it attacked during your last turn.
+Goblin Rock Sled can’t attack unless defending player controls a Mountain.
+3/1
+Catapulte à mitraille
+{4}
+Artifact Creature — Construct
+{T}: Grapeshot Catapult deals 1 damage to target creature with flying.
+2/3
+Avidité
+{3}{B}
+Enchantment
+"{B}, Pay 2 life: Draw a card."
+Accumulateur de mana vert
+{4}
+Artifact
+"{2}, {T}: Put a charge counter on Green Mana Battery."
+"{T}, Remove any number of charge counters from Green Mana Battery: Add {G}, then add an additional {G} for each charge counter removed this way."
+Chacal d'Hurr
+{R}
+Creature — Jackal
+{T}: Target creature can’t be regenerated this turn.
+1/1
+Immolation
+{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/-2.
+Fournaise
+{5}{R}{R}
+Instant
+Inferno deals 6 damage to each creature and each player.
+Orques de la Griffe de fer
+{1}{R}
+Creature — Orc
+Ironclaw Orcs can’t block creatures with power 2 or greater.
+2/2
+Éfrit djunúnide
+{1}{B}{B}
+Creature — Efreet
+Flying
+"At the beginning of your upkeep, sacrifice Junún Efreet unless you pay {B}{B}."
+3/3
+Abeilles tueuses
+{1}{G}{G}
+Creature — Insect
+Flying
+{G}: Killer Bees gets +1/+1 until end of turn.
+0/1
+Destinée
+{3}{W}
+Enchantment
+"Artifacts, creatures, and lands your opponents control enter the battlefield tapped."
+Sangsues terrestres
+{1}{G}{G}
+Creature — Leech
+First strike
+2/2
+Contribution foncière
+{W}
+Enchantment
+"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
+Léviathan
+{5}{U}{U}{U}{U}
+Creature — Leviathan
+Trample
+Leviathan enters the battlefield tapped and doesn’t untap during your untap step.
+"At the beginning of your upkeep, you may sacrifice two Islands. If you do, untap Leviathan."
+Leviathan can’t attack unless you sacrifice two Islands. (This cost is paid as attackers are declared.)
+10/10
+Âme en peine
+{1}{B}{B}
+Creature — Spirit Minion
+Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+2/1
+Choc de mana
+{R}
+Sorcery
+You and target opponent each flip a coin. Mana Clash deals 1 damage to each player whose coin comes up tails. Repeat this process until both players’ coins come up heads on the same flip.
+Gaz des marais
+{B}
+Instant
+All creatures get -2/-0 until end of turn.
+Vipère des marais
+{3}{G}
+Creature — Snake
+"Whenever Marsh Viper deals damage to a player, that player gets two poison counters. (A player with ten or more poison counters loses the game.)"
+1/2
+Bombe cérébrale
+{U}
+Sorcery
+Each player may discard up to three cards. Mind Bomb deals damage to each player equal to 3 minus the number of cards they discarded this way.
+Usine de Mishra
+Land
+{T}: Add {C}.
+{1}: Mishra’s Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It’s still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.
+Moral
+{1}{W}{W}
+Instant
+Attacking creatures get +1/+1 until end of turn.
+Habitants des ténèbres
+{3}{B}
+Creature — Zombie
+"Whenever Murk Dwellers attacks and isn’t blocked, it gets +2/+0 until end of combat."
+2/2
+Vipère haje
+{G}
+Creature — Snake
+"Whenever Nafs Asp deals damage to a player, that player loses 1 life at the beginning of their next draw step unless they pay {1} before that draw step."
+1/1
+Oasis
+Land
+{T}: Prevent the next 1 damage that would be dealt to target creature this turn.
+Vautours d'Osai
+{1}{W}
+Creature — Bird
+Flying
+"At the beginning of each end step, if a creature died this turn, put a carrion counter on Osai Vultures."
+Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.
+1/1
+Piété
+{2}{W}
+Instant
+Blocking creatures get +0/+3 until end of turn.
+Piquiers
+{1}{W}
+Creature — Human Soldier
+"First strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+1/1
+Scorpion de l'Abime
+{2}{B}
+Creature — Scorpion
+"Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)"
+1/1
+Bohémiens pradeshi
+{2}{G}
+Creature — Human Nomad
+"{1}{G}, {T}: Target creature gets -2/-0 until end of turn."
+1/1
+Entité psionique
+{4}{U}
+Creature — Illusion
+{T}: Psionic Entity deals 2 damage to any target and 3 damage to itself.
+2/2
+Pyrotechnie
+{4}{R}
+Sorcery
+Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Esprit radjane
+{3}{G}
+Creature — Spirit
+{T}: Target creature loses flying until end of turn.
+3/2
+Loqueteux
+{2}{B}{B}
+Creature — Human Minion
+"{B}{B}{B}, {T}: Target opponent reveals their hand and discards a creature card at random. Activate this ability only during your turn."
+2/1
+Renouveau
+{3}{G}{G}{G}
+Sorcery
+Remove Rebirth from your deck before playing if you’re not playing for ante.
+"Each player may ante the top card of their library. If a player does, that player’s life total becomes 20."
+Accumulateur de mana rouge
+{4}
+Artifact
+"{2}, {T}: Put a charge counter on Red Mana Battery."
+"{T}, Remove any number of charge counters from Red Mana Battery: Add {R}, then add an additional {R} for each charge counter removed this way."
+Ligature de relique
+{2}{U}
+Enchantment — Aura
+Enchant artifact an opponent controls
+"Whenever enchanted artifact becomes tapped, choose one —"
+• Relic Bind deals 1 damage to target player or planeswalker.
+• Target player gains 1 life.
+Tempête de sable
+{G}
+Instant
+Sandstorm deals 1 damage to each attacking creature.
+Chercheur
+{2}{W}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t be blocked except by artifact creatures and/or white creatures.
+Léviathan ségovois
+{4}{U}
+Creature — Leviathan
+Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+3/3
+Changeforme
+{6}
+Artifact Creature — Shapeshifter
+"As Shapeshifter enters the battlefield, choose a number between 0 and 7."
+"At the beginning of your upkeep, you may choose a number between 0 and 7."
+Shapeshifter’s power is equal to the last chosen number and its toughness is equal to 7 minus that number.
+*/7-*
+Sindbad
+{1}{U}
+Creature — Human
+"{T}: Draw a card and reveal it. If it isn’t a land card, discard it."
+1/1
+Soeurs de la flamme
+{1}{R}{R}
+Creature — Human Shaman
+{T}: Add {R}.
+2/2
+Liaison psychique
+{W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"Whenever enchanted creature deals damage, you gain that much life."
+Fers psychiques
+{B}{B}
+Enchantment — Aura
+Enchant creature
+"Whenever enchanted creature becomes tapped, put a -0/-2 counter on it."
+Mine des morts-terrains
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Strip Mine: Destroy target land."
+Cité engloutie
+{U}{U}
+Enchantment
+"At the beginning of your upkeep, sacrifice Sunken City unless you pay {U}{U}."
+Blue creatures get +1/+1.
+Bibliothèque sylvestre
+{1}{G}
+Enchantment
+"At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library."
+Bâtonnet de Tavnos
+{4}
+Artifact
+"{2}, {T}: Target creature with power 2 or less can’t be blocked this turn."
+Armement de Tavnos
+{2}
+Artifact
+You may choose not to untap Tawnos’s Weaponry during your untap step.
+"{2}, {T}: Target creature gets +1/+1 for as long as Tawnos’s Weaponry remains tapped."
+Éfrit de la tourmente
+{1}{R}{R}{R}
+Creature — Efreet
+Remove Tempest Efreet from your deck before playing if you’re not playing for ante.
+"{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn’t, they reveal a card at random from their hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player’s graveyard. This change in ownership is permanent."
+3/3
+Tetravus
+{6}
+Artifact Creature — Construct
+Flying
+Tetravus enters the battlefield with three +1/+1 counters on it.
+"At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, create that many 1/1 colorless Tetravite artifact creature tokens. They each have flying and “This creature can’t be enchanted.”"
+"At the beginning of your upkeep, you may exile any number of tokens created with Tetravus. If you do, put that many +1/+1 counters on Tetravus."
+1/1
+La brute
+{1}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+0.
+{R}{R}{R}: Regenerate enchanted creature.
+Élémental du temps
+{2}{U}
+Creature — Elemental
+"When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you."
+"{2}{U}{U}, {T}: Return target permanent that isn’t enchanted to its owner’s hand."
+0/2
+Triskèle
+{6}
+Artifact Creature — Construct
+Triskelion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Triskelion: It deals 1 damage to any target.
+1/1
+Loups de la toundra
+{W}
+Creature — Wolf
+First strike (This creature deals combat damage before creatures without first strike.)
+1/1
+Bascule
+{U}
+Instant
+"You may tap or untap target artifact, creature, or land."
+Oncle Istvân
+{1}{B}{B}{B}
+Creature — Human
+Prevent all damage that would be dealt to Uncle Istvan by creatures.
+1/3
+Étendues sauvages
+{2}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Vengeur urzalien
+{6}
+Artifact Creature — Shapeshifter
+"{0}: Urza’s Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
+4/4
+Chauves-souris vampires
+{B}
+Creature — Bat
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
+0/1
+Venin
+{1}{G}{G}
+Enchantment — Aura
+Enchant creature
+"Whenever enchanted creature blocks or becomes blocked by a non-Wall creature, destroy the other creature at end of combat."
+Visions
+{W}
+Sorcery
+Look at the top five cards of target player’s library. You may then have that player shuffle that library.
+Mur de poussière
+{2}{R}
+Creature — Wall
+Defender (This creature can’t attack.)
+"Whenever Wall of Dust blocks a creature, that creature can’t attack during its controller’s next turn."
+1/4
+Mur de lances
+{3}
+Artifact Creature — Wall
+Defender (This creature can’t attack.)
+First strike
+2/3
+Derviche tourneur
+{G}{G}
+Creature — Human Monk
+Protection from black
+"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
+1/1
+Accumulateur de mana blanc
+{4}
+Artifact
+"{2}, {T}: Put a charge counter on White Mana Battery."
+"{T}, Remove any number of charge counters from White Mana Battery: Add {W}, then add an additional {W} for each charge counter removed this way."
+Vents du changement
+{R}
+Sorcery
+"Each player shuffles the cards from their hand into their library, then draws that many cards."
+Rafale hivernale
+{X}{G}
+Sorcery
+Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.
+Mot d'entraves
+{X}{B}{B}
+Sorcery
+Tap X target creatures.
+Poltergeist xénique
+{1}{B}{B}
+Creature — Spirit
+"{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+1/1
+Soldat yotien
+{3}
+Artifact Creature — Soldier
+Vigilance
+1/4
+Faucon du zéphyr
+{1}{U}
+Creature — Bird
+"Flying, vigilance"
+1/1

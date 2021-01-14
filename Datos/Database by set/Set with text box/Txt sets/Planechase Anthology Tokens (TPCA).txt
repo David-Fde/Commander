@@ -1,0 +1,65 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Beast
+Token Creature — Beast
+3/3
+Boar
+Token Creature — Boar
+3/3
+Dragon
+Token Creature — Dragon
+Flying
+5/5
+Eldrazi
+Token Creature — Eldrazi
+"Annihilator 1 (Whenever this creature attacks, defending player sacrifices a permanent.)"
+7/7
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Eldrazi Spawn
+Token Creature — Eldrazi Spawn
+Sacrifice this creature: Add {C}.
+0/1
+Germ
+Token Creature — Germ
+0/0
+Goat
+Token Creature — Goat
+0/1
+Goblin
+Token Creature — Goblin
+1/1
+Hellion
+Token Creature — Hellion
+4/4
+Insect
+Token Creature — Insect
+1/1
+Ooze
+Token Creature — Ooze
+1/1
+Ooze
+Token Creature — Ooze
+"When this creature dies, create two 1/1 green Ooze creature tokens."
+2/2
+Plant
+Token Creature — Plant
+0/1
+Saproling
+Token Creature — Saproling
+1/1
+Spider
+Token Creature — Spider
+Reach
+2/4
+Zombie
+Token Creature — Zombie
+2/2

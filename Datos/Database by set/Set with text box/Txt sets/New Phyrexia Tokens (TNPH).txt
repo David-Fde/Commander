@@ -1,0 +1,15 @@
+Beast
+Token Creature — Beast
+3/3
+Goblin
+Token Creature — Goblin
+1/1
+Golem
+Token Artifact Creature — Golem
+3/3
+Myr
+Token Artifact Creature — Myr
+1/1
+Poison Counter
+Card
+(A player with ten or more poison counters loses the game.)

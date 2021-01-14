@@ -1,0 +1,57 @@
+Blastoderm
+{2}{G}{G}
+Creature — Beast
+Shroud (This creature can’t be the target of spells or abilities.)
+"Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
+5/5
+Cabal Therapy
+{B}
+Sorcery
+Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Circle of Protection: Red
+{1}{W}
+Enchantment
+"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
+Counterspell
+{U}{U}
+Instant
+Counter target spell.
+Duress
+{B}
+Sorcery
+"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Fact or Fiction
+{3}{U}
+Instant
+Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
+Flametongue Kavu
+{3}{R}
+Creature — Kavu
+"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
+4/2
+Icy Manipulator
+{4}
+Artifact
+"{1}, {T}: Tap target artifact, creature, or land."
+Juggernaut
+{4}
+Artifact Creature — Juggernaut
+Juggernaut attacks each combat if able.
+Juggernaut can’t be blocked by Walls.
+5/3
+Kird Ape
+{R}
+Creature — Ape
+Kird Ape gets +1/+2 as long as you control a Forest.
+1/1
+Rancor
+{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+"When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand."
+Seal of Cleansing
+{1}{W}
+Enchantment
+Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.

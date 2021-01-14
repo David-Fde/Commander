@@ -1,0 +1,13 @@
+Figure of Destiny
+{R/W}
+Creature — Kithkin
+{R/W}: Figure of Destiny becomes a Kithkin Spirit with base power and toughness 2/2.
+"{R/W}{R/W}{R/W}: If Figure of Destiny is a Spirit, it becomes a Kithkin Spirit Warrior with base power and toughness 4/4."
+"{R/W}{R/W}{R/W}{R/W}{R/W}{R/W}: If Figure of Destiny is a Warrior, it becomes a Kithkin Spirit Warrior Avatar with base power and toughness 8/8, flying, and first strike."
+1/1
+Overbeing of Myth
+{G/U}{G/U}{G/U}{G/U}{G/U}
+Creature — Spirit Avatar
+Overbeing of Myth’s power and toughness are each equal to the number of cards in your hand.
+"At the beginning of your draw step, draw an additional card."
+*/*

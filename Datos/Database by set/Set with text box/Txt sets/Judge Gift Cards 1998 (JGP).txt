@@ -1,0 +1,11 @@
+Gaea's Cradle
+Legendary Land
+{T}: Add {G} for each creature you control.
+Lightning Bolt
+{R}
+Instant
+Lightning Bolt deals 3 damage to any target.
+Stroke of Genius
+{X}{2}{U}
+Instant
+Target player draws X cards.

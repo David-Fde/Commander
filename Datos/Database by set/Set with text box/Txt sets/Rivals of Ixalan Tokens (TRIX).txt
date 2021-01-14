@@ -1,0 +1,28 @@
+City's Blessing
+Card
+Elemental
+Token Creature — Elemental
+"At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn."
+0/1
+Elemental
+Token Creature — Elemental
+1/1
+Golem
+Token Artifact Creature — Golem
+4/4
+"Huatli, Radiant Champion Emblem"
+Emblem — Huatli
+"Whenever a creature enters the battlefield under your control, you may draw a card."
+Rivals of Ixalan Checklist
+Card
+(You can mark this card to represent a double-faced card in your library or hand.)
+☐ Hadana’s Climb {1}{G}{U}
+☐ Journey to Eternity {1}{B}{G}
+☐ Path of Mettle {R}{W}
+☐ Profane Procession {1}{W}{B}
+☐ Storm the Vault {2}{U}{R}
+☐ Azor’s Gateway {2}
+☐ Golden Guardian {4}
+Saproling
+Token Creature — Saproling
+1/1

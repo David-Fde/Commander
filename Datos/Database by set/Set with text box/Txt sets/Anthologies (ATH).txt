@@ -1,0 +1,407 @@
+Aesthir Glider
+{3}
+Artifact Creature — Bird Construct
+Flying
+Aesthir Glider can’t block.
+2/1
+Armageddon
+{3}{W}
+Sorcery
+Destroy all lands.
+Armored Pegasus
+{1}{W}
+Creature — Pegasus
+Flying
+1/2
+Benalish Knight
+{2}{W}
+Creature — Human Knight
+Flash (You may cast this spell any time you could cast an instant.)
+First strike (This creature deals combat damage before creatures without first strike.)
+2/2
+Black Knight
+{B}{B}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from white (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything white.)"
+2/2
+Brushland
+Land
+{T}: Add {C}.
+{T}: Add {G} or {W}. Brushland deals 1 damage to you.
+Canopy Spider
+{1}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+1/3
+Carnivorous Plant
+{3}{G}
+Creature — Plant Wall
+Defender
+4/5
+Combat Medic
+{2}{W}
+Creature — Human Cleric Soldier
+{1}{W}: Prevent the next 1 damage that would be dealt to any target this turn.
+0/2
+Cuombajj Witches
+{B}{B}
+Creature — Human Wizard
+{T}: Cuombajj Witches deals 1 damage to any target and 1 damage to any target of an opponent’s choice.
+1/3
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Drifting Meadow
+Land
+Drifting Meadow enters the battlefield tapped.
+{T}: Add {W}.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Erhnam Djinn
+{3}{G}
+Creature — Djinn
+"At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep. (It can’t be blocked as long as defending player controls a Forest.)"
+4/5
+Feast of the Unicorn
+{3}{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +4/+0.
+Fireball
+{X}{R}
+Sorcery
+This spell costs {1} more to cast for each target beyond the first.
+"Fireball deals X damage divided evenly, rounded down, among any number of targets."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Freewind Falcon
+{1}{W}
+Creature — Bird
+"Flying, protection from red"
+1/1
+Giant Growth
+{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Giant Spider
+{3}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+2/4
+Goblin Balloon Brigade
+{R}
+Creature — Goblin Warrior
+{R}: Goblin Balloon Brigade gains flying until end of turn.
+1/1
+Goblin Digging Team
+{R}
+Creature — Goblin
+"{T}, Sacrifice Goblin Digging Team: Destroy target Wall."
+1/1
+Goblin Grenade
+{R}
+Sorcery
+"As an additional cost to cast this spell, sacrifice a Goblin."
+Goblin Grenade deals 5 damage to any target.
+Goblin Hero
+{2}{R}
+Creature — Goblin
+2/2
+Goblin King
+{1}{R}{R}
+Creature — Goblin
+Other Goblins get +1/+1 and have mountainwalk.
+2/2
+Goblin Matron
+{2}{R}
+Creature — Goblin
+"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
+1/1
+Goblin Mutant
+{2}{R}{R}
+Creature — Goblin Mutant
+Trample
+Goblin Mutant can’t attack if defending player controls an untapped creature with power 3 or greater.
+Goblin Mutant can’t block creatures with power 3 or greater.
+5/3
+Goblin Offensive
+{X}{1}{R}{R}
+Sorcery
+Create X 1/1 red Goblin creature tokens.
+Goblin Recruiter
+{1}{R}
+Creature — Goblin
+"When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order."
+1/1
+Goblin Snowman
+{3}{R}
+Creature — Goblin
+"Whenever Goblin Snowman blocks, prevent all combat damage that would be dealt to and dealt by it this turn."
+{T}: Goblin Snowman deals 1 damage to target creature it’s blocking.
+1/1
+Goblin Tinkerer
+{1}{R}
+Creature — Goblin Artificer
+"{R}, {T}: Destroy target artifact. That artifact deals damage equal to its converted mana cost to Goblin Tinkerer."
+1/2
+Goblin Vandal
+{R}
+Creature — Goblin Rogue
+"Whenever Goblin Vandal attacks and isn’t blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn."
+1/1
+Goblin Warrens
+{2}{R}
+Enchantment
+"{2}{R}, Sacrifice two Goblins: Create three 1/1 red Goblin creature tokens."
+Gorilla Chieftain
+{2}{G}{G}
+Creature — Ape
+{1}{G}: Regenerate Gorilla Chieftain.
+3/3
+Hurricane
+{X}{G}
+Sorcery
+Hurricane deals X damage to each creature with flying and each player.
+Hymn to Tourach
+{B}{B}
+Sorcery
+Target player discards two cards at random.
+Hypnotic Specter
+{1}{B}{B}
+Creature — Specter
+Flying
+"Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random."
+2/2
+Icatian Javelineers
+{W}
+Creature — Human Soldier
+Icatian Javelineers enters the battlefield with a javelin counter on it.
+"{T}, Remove a javelin counter from Icatian Javelineers: It deals 1 damage to any target."
+1/1
+Ihsan's Shade
+{3}{B}{B}{B}
+Legendary Creature — Shade Knight
+Protection from white
+5/5
+Infantry Veteran
+{W}
+Creature — Human Soldier
+{T}: Target attacking creature gets +1/+1 until end of turn.
+1/1
+Jalum Tome
+{3}
+Artifact
+"{2}, {T}: Draw a card, then discard a card."
+Knight of Stromgald
+{B}{B}
+Creature — Human Knight
+Protection from white
+{B}: Knight of Stromgald gains first strike until end of turn.
+{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
+2/1
+Lady Orca
+{5}{B}{R}
+Legendary Creature — Demon
+7/4
+Lightning Bolt
+{R}
+Instant
+Lightning Bolt deals 3 damage to any target.
+Llanowar Elves
+{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/1
+"Mirri, Cat Warrior"
+{1}{G}{G}
+Legendary Creature — Cat Warrior
+"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can’t be blocked as long as defending player controls a Forest, and attacking doesn’t cause this creature to tap.)"
+2/3
+Mogg Fanatic
+{R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+1/1
+Mogg Flunkies
+{1}{R}
+Creature — Goblin
+Mogg Flunkies can’t attack or block alone.
+3/3
+Mogg Raider
+{R}
+Creature — Goblin
+Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
+1/1
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Nevinyrral's Disk
+{4}
+Artifact
+Nevinyrral’s Disk enters the battlefield tapped.
+"{1}, {T}: Destroy all artifacts, creatures, and enchantments."
+Order of the White Shield
+{W}{W}
+Creature — Human Knight
+Protection from black
+{W}: Order of the White Shield gains first strike until end of turn.
+{W}{W}: Order of the White Shield gets +1/+0 until end of turn.
+2/1
+Overrun
+{2}{G}{G}{G}
+Sorcery
+Creatures you control get +3/+3 and gain trample until end of turn.
+Pacifism
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Pegasus Charger
+{2}{W}
+Creature — Pegasus
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+First strike (This creature deals combat damage before creatures without first strike.)
+2/1
+Pegasus Stampede
+{1}{W}
+Sorcery
+"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Create a 1/1 white Pegasus creature token with flying.
+Pendelhaven
+Legendary Land
+{T}: Add {G}.
+{T}: Target 1/1 creature gets +1/+2 until end of turn.
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Polluted Mire
+Land
+Polluted Mire enters the battlefield tapped.
+{T}: Add {B}.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Pyrokinesis
+{4}{R}{R}
+Instant
+You may exile a red card from your hand rather than pay this spell’s mana cost.
+Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
+Pyrotechnics
+{4}{R}
+Sorcery
+Pyrotechnics deals 4 damage divided as you choose among any number of targets.
+Raging Goblin
+{R}
+Creature — Goblin Berserker
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+1/1
+Ranger en-Vec
+{1}{G}{W}
+Creature — Human Soldier Archer
+First strike
+{G}: Regenerate Ranger en-Vec.
+2/2
+Sacred Mesa
+{2}{W}
+Enchantment
+"At the beginning of your upkeep, sacrifice Sacred Mesa unless you sacrifice a Pegasus."
+{1}{W}: Create a 1/1 white Pegasus creature token with flying.
+Samite Healer
+{1}{W}
+Creature — Human Cleric
+{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+1/1
+Scavenger Folk
+{G}
+Creature — Human
+"{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact."
+1/1
+Serra Angel
+{3}{W}{W}
+Creature — Angel
+"Flying, vigilance"
+4/4
+Serrated Arrows
+{4}
+Artifact
+Serrated Arrows enters the battlefield with three arrowhead counters on it.
+"At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it."
+"{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
+Slippery Karst
+Land
+Slippery Karst enters the battlefield tapped.
+{T}: Add {G}.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Smoldering Crater
+Land
+Smoldering Crater enters the battlefield tapped.
+{T}: Add {R}.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Spectral Bears
+{1}{G}
+Creature — Bear Spirit
+"Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn’t untap during your next untap step."
+3/3
+Strip Mine
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Strip Mine: Destroy target land."
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swords to Plowshares
+{W}
+Instant
+Exile target creature. Its controller gains life equal to its power.
+Terror
+{1}{B}
+Instant
+"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
+Unholy Strength
+{B}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+1.
+Uthden Troll
+{2}{R}
+Creature — Troll
+{R}: Regenerate Uthden Troll.
+2/2
+Volcanic Dragon
+{4}{R}{R}
+Creature — Dragon
+"Flying, haste"
+4/4
+Warrior's Honor
+{2}{W}
+Instant
+Creatures you control get +1/+1 until end of turn.
+White Knight
+{W}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from black (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything black.)"
+2/2
+Woolly Spider
+{1}{G}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+"Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn."
+2/3
+Youthful Knight
+{1}{W}
+Creature — Human Knight
+First strike
+2/1

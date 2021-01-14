@@ -1,0 +1,15 @@
+Curse of Thirst
+{4}{B}
+Enchantment — Aura Curse
+Enchant player
+"At the beginning of enchanted player’s upkeep, Curse of Thirst deals damage to that player equal to the number of Curses attached to them."
+Gather the Townsfolk
+{1}{W}
+Sorcery
+Create two 1/1 white Human creature tokens.
+"Fateful hour — If you have 5 or less life, create five of those tokens instead."
+Nearheath Stalker
+{4}{R}
+Creature — Vampire Rogue
+"Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)"
+4/1

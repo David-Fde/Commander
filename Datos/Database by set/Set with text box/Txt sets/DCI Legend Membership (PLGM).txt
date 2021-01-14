@@ -1,0 +1,8 @@
+Counterspell
+{U}{U}
+Instant
+Counter target spell.
+Incinerate
+{1}{R}
+Instant
+Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.

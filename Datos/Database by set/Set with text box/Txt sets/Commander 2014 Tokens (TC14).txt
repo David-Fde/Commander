@@ -1,0 +1,123 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Ape
+Token Creature — Ape
+3/3
+Beast
+Token Creature — Beast
+3/3
+Beast
+Token Creature — Beast
+4/4
+Cat
+Token Creature — Cat
+2/2
+"Daretti, Scrap Savant Emblem"
+Emblem — Daretti
+"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
+Demon
+Token Creature — Demon
+Flying
+5/5
+Demon
+Token Creature — Demon
+Flying
+*/*
+Elemental
+Token Creature — Elemental
+5/3
+Elephant
+Token Creature — Elephant
+3/3
+Elf Druid
+Token Creature — Elf Druid
+{T}: Add {G}.
+1/1
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Fish
+Token Creature — Fish
+"When this creature dies, create a 6/6 blue Whale creature token with “When this creature dies, create a 9/9 blue Kraken creature token.”"
+3/3
+Gargoyle
+Token Artifact Creature — Gargoyle
+Flying
+3/4
+Germ
+Token Creature — Germ
+0/0
+Goat
+Token Creature — Goat
+0/1
+Goblin
+Token Creature — Goblin
+1/1
+Horror
+Token Creature — Horror
+*/*
+Kor Soldier
+Token Creature — Kor Soldier
+1/1
+Kraken
+Token Creature — Kraken
+9/9
+Myr
+Token Artifact Creature — Myr
+1/1
+Ob Nixilis of the Black Oath Emblem
+Emblem — Nixilis
+"{1}{B}, Sacrifice a creature: You gain X life and draw X cards, where X is the sacrificed creature’s power."
+Pegasus
+Token Creature — Pegasus
+Flying
+1/1
+Pentavite
+Token Artifact Creature — Pentavite
+Flying
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Stoneforged Blade
+Token Artifact — Equipment
+Indestructible
+Equipped creature gets +5/+5 and has double strike.
+Equip {0}
+"Teferi, Temporal Archmage Emblem"
+Emblem — Teferi
+You may activate loyalty abilities of planeswalkers you control on any player’s turn any time you could cast an instant.
+Treefolk
+Token Creature — Treefolk
+*/*
+Tuktuk the Returned
+Token Artifact Creature — Goblin Golem
+Tuktuk the Returned is legendary.
+5/5
+Whale
+Token Creature — Whale
+"When this creature dies, create a 9/9 blue Kraken creature token."
+6/6
+Wolf
+Token Creature — Wolf
+2/2
+Wurm
+Token Artifact Creature — Wurm
+Deathtouch
+3/3
+Wurm
+Token Artifact Creature — Wurm
+Lifelink
+3/3
+Zombie
+Token Creature — Zombie
+2/2
+Zombie
+Token Creature — Zombie
+*/*

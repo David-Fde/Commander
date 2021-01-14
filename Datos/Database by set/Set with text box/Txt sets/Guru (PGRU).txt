@@ -1,0 +1,15 @@
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)

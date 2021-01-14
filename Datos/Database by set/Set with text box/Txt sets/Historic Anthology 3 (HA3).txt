@@ -1,0 +1,129 @@
+Akroma's Memorial
+{7}
+Legendary Artifact
+"Creatures you control have flying, first strike, vigilance, trample, haste, and protection from black and from red."
+Ancient Ziggurat
+Land
+{T}: Add one mana of any color. Spend this mana only to cast a creature spell.
+Body Double
+{4}{U}
+Creature — Shapeshifter
+You may have Body Double enter the battlefield as a copy of any creature card in a graveyard.
+0/0
+Chainer's Edict
+{1}{B}
+Sorcery
+Target player sacrifices a creature.
+Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Devil's Play
+{X}{R}
+Sorcery
+Devil’s Play deals X damage to any target.
+Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Enchantress's Presence
+{2}{G}
+Enchantment
+"Whenever you cast an enchantment spell, draw a card."
+Gempalm Incinerator
+{2}{R}
+Creature — Goblin
+"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)"
+"When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield."
+2/1
+Gempalm Polluter
+{5}{B}
+Creature — Zombie
+"Cycling {B}{B} ({B}{B}, Discard this card: Draw a card.)"
+"When you cycle Gempalm Polluter, you may have target player lose life equal to the number of Zombies on the battlefield."
+4/3
+Honden of Cleansing Fire
+{3}{W}
+Legendary Enchantment — Shrine
+"At the beginning of your upkeep, you gain 2 life for each Shrine you control."
+Honden of Infinite Rage
+{2}{R}
+Legendary Enchantment — Shrine
+"At the beginning of your upkeep, Honden of Infinite Rage deals damage to any target equal to the number of Shrines you control."
+Honden of Life's Web
+{4}{G}
+Legendary Enchantment — Shrine
+"At the beginning of your upkeep, create a 1/1 colorless Spirit creature token for each Shrine you control."
+Honden of Night's Reach
+{3}{B}
+Legendary Enchantment — Shrine
+"At the beginning of your upkeep, target opponent discards a card for each Shrine you control."
+Honden of Seeing Winds
+{4}{U}
+Legendary Enchantment — Shrine
+"At the beginning of your upkeep, draw a card for each Shrine you control."
+Krosan Tusker
+{5}{G}{G}
+Creature — Boar Beast
+"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)"
+"When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)"
+6/5
+Maze's End
+Land
+Maze’s End enters the battlefield tapped.
+{T}: Add {C}.
+"{3}, {T}, Return Maze’s End to its owner’s hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game."
+Mirari's Wake
+{3}{G}{W}
+Enchantment
+Creatures you control get +1/+1.
+"Whenever you tap a land for mana, add one mana of any type that land produced."
+Momentary Blink
+{1}{W}
+Instant
+"Exile target creature you control, then return it to the battlefield under its owner’s control."
+Flashback {3}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Phyrexian Obliterator
+{B}{B}{B}{B}
+Creature — Horror
+Trample
+"Whenever a source deals damage to Phyrexian Obliterator, that source’s controller sacrifices that many permanents."
+5/5
+Ratchet Bomb
+{2}
+Artifact
+{T}: Put a charge counter on Ratchet Bomb.
+"{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb."
+Roar of the Wurm
+{6}{G}
+Sorcery
+Create a 6/6 green Wurm creature token.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Silent Departure
+{U}
+Sorcery
+Return target creature to its owner’s hand.
+Flashback {4}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Swan Song
+{U}
+Instant
+"Counter target enchantment, instant, or sorcery spell. Its controller creates a 2/2 blue Bird creature token with flying."
+Tectonic Reformation
+{1}{R}
+Enchantment
+Each land card in your hand has cycling {R}.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Tempered Steel
+{1}{W}{W}
+Enchantment
+Artifact creatures you control get +2/+2.
+Timely Reinforcements
+{2}{W}
+Sorcery
+"If you have less life than an opponent, you gain 6 life. If you control fewer creatures than an opponent, create three 1/1 white Soldier creature tokens."
+"Ulamog, the Ceaseless Hunger"
+{10}
+Legendary Creature — Eldrazi
+"When you cast this spell, exile two target permanents."
+Indestructible
+"Whenever Ulamog, the Ceaseless Hunger attacks, defending player exiles the top twenty cards of their library."
+10/10
+Unburial Rites
+{4}{B}
+Sorcery
+Return target creature card from your graveyard to the battlefield.
+Flashback {3}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)

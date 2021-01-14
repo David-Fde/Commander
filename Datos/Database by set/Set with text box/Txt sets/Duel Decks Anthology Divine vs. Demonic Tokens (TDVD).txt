@@ -1,0 +1,11 @@
+Demon
+Token Creature — Demon
+Flying
+*/*
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Thrull
+Token Creature — Thrull
+0/1

@@ -1,0 +1,66 @@
+Angel
+Token Creature — Angel
+"Flying, vigilance"
+4/4
+Assassin
+Token Creature — Assassin
+Deathtouch
+"Whenever this creature deals damage to a planeswalker, destroy that planeswalker."
+1/1
+Citizen
+Token Creature — Citizen
+This creature is all colors.
+2/2
+Devil
+Token Creature — Devil
+"When this creature dies, it deals 1 damage to any target."
+1/1
+Dragon
+Token Creature — Dragon
+Flying
+4/4
+Goblin
+Token Creature — Goblin
+1/1
+"Nissa, Who Shakes the World Emblem"
+Emblem — Nissa
+Lands you control have indestructible.
+Servo
+Token Artifact Creature — Servo
+1/1
+Soldier
+Token Creature — Soldier
+Vigilance
+2/2
+Spirit
+Token Creature — Spirit
+2/2
+"Voja, Friend to Elves"
+Token Legendary Creature — Wolf
+3/3
+Wall
+Token Creature — Wall
+Defender
+0/3
+Wizard
+Token Creature — Wizard
+2/2
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2
+Zombie Army
+Token Creature — Zombie Army
+0/0
+Zombie Army
+Token Creature — Zombie Army
+0/0
+Zombie Army
+Token Creature — Zombie Army
+0/0
+Zombie Warrior
+Token Creature — Zombie Warrior
+Vigilance
+4/4

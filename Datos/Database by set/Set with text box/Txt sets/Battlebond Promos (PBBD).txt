@@ -1,0 +1,147 @@
+Blaring Captain
+{3}{B}
+Creature — Azra Warrior
+"Partner with Blaring Recruiter (When this creature enters the battlefield, target player may put Blaring Recruiter into their hand from their library, then shuffle.)"
+"Whenever Blaring Captain attacks, attacking Warriors get +1/+1 until end of turn."
+2/2
+Blaring Recruiter
+{3}{W}
+Creature — Elf Warrior
+"Partner with Blaring Captain (When this creature enters the battlefield, target player may put Blaring Captain into their hand from their library, then shuffle.)"
+{2}{W}: Create a 1/1 white Warrior creature token.
+2/2
+Chakram Retriever
+{4}{U}
+Creature — Elemental Dog
+"Partner with Chakram Slinger (When this creature enters the battlefield, target player may put Chakram Slinger into their hand from their library, then shuffle.)"
+"Whenever you cast a spell during your turn, untap target creature."
+2/4
+Chakram Slinger
+{4}{R}
+Creature — Human Warrior
+"Partner with Chakram Retriever (When this creature enters the battlefield, target player may put Chakram Retriever into their hand from their library, then shuffle.)"
+"{R}, {T}: Chakram Slinger deals 2 damage to target player or planeswalker."
+2/4
+Gorm the Great
+{3}{G}
+Legendary Creature — Giant Warrior
+"Partner with Virtus the Veiled (When this creature enters the battlefield, target player may put Virtus into their hand from their library, then shuffle.)"
+Vigilance
+"Gorm the Great must be blocked if able, and Gorm must be blocked by two or more creatures if able."
+2/7
+Impetuous Protege
+{2}{R}
+Creature — Human Warrior
+"Partner with Proud Mentor (When this creature enters the battlefield, target player may put Proud Mentor into their hand from their library, then shuffle.)"
+"Whenever Impetuous Protege attacks, it gets +X/+0 until end of turn, where X is the greatest power among tapped creatures your opponents control."
+0/4
+Khorvath Brightflame
+{5}{R}
+Legendary Creature — Dragon
+"Partner with Sylvia Brightspear (When this creature enters the battlefield, target player may put Sylvia into their hand from their library, then shuffle.)"
+"Flying, haste"
+Knights your team controls have flying and haste.
+3/4
+"Krav, the Unredeemed"
+{4}{B}
+Legendary Creature — Demon
+"Partner with Regna, the Redeemer (When this creature enters the battlefield, target player may put Regna into their hand from their library, then shuffle.)"
+"{B}, Sacrifice X creatures: Target player draws X cards and gains X life. Put X +1/+1 counters on Krav, the Unredeemed."
+3/3
+Ley Weaver
+{3}{G}
+Creature — Human Druid
+"Partner with Lore Weaver (When this creature enters the battlefield, target player may put Lore Weaver into their hand from their library, then shuffle.)"
+{T}: Untap two target lands.
+2/2
+Lore Weaver
+{3}{U}
+Creature — Human Wizard
+"Partner with Ley Weaver (When this creature enters the battlefield, target player may put Ley Weaver into their hand from their library, then shuffle.)"
+{5}{U}{U}: Target player draws two cards.
+2/2
+"Okaun, Eye of Chaos"
+{4}{R}
+Legendary Creature — Cyclops Berserker
+"Partner with Zndrsplt, Eye of Wisdom (When this creature enters the battlefield, target player may put Zndrsplt into their hand from their library, then shuffle.)"
+"At the beginning of combat on your turn, flip a coin until you lose a flip."
+"Whenever a player wins a coin flip, double Okaun’s power and toughness until end of turn."
+3/3
+"Pir, Imaginative Rascal"
+{2}{G}
+Legendary Creature — Human
+"Partner with Toothy, Imaginary Friend (When this creature enters the battlefield, target player may put Toothy into their hand from their library, then shuffle.)"
+"If one or more counters would be put on a permanent your team controls, that many plus one of each of those kinds of counters are put on that permanent instead."
+1/1
+Proud Mentor
+{2}{W}
+Creature — Human Warrior
+"Partner with Impetuous Protege (When this creature enters the battlefield, target player may put Impetuous Protege into their hand from their library, then shuffle.)"
+"{W}, {T}: Tap target creature."
+1/1
+"Regna, the Redeemer"
+{5}{W}
+Legendary Creature — Angel
+"Partner with Krav, the Unredeemed (When this creature enters the battlefield, target player may put Krav into their hand from their library, then shuffle.)"
+Flying
+"At the beginning of each end step, if your team gained life this turn, create two 1/1 white Warrior creature tokens."
+4/4
+Rowan Kenrith
+{4}{R}{R}
+Legendary Planeswalker — Rowan
+"+2: During target player’s next turn, each creature that player controls attacks if able."
+−2: Rowan Kenrith deals 3 damage to each tapped creature target player controls.
+"−8: Target player gets an emblem with “Whenever you activate an ability that isn’t a mana ability, copy it. You may choose new targets for the copy.”"
+Partner with Will Kenrith
+Rowan Kenrith can be your commander.
+Loyalty: 4
+Soulblade Corrupter
+{4}{B}
+Creature — Human Warrior
+"Partner with Soulblade Renewer (When this creature enters the battlefield, target player may put Soulblade Renewer into their hand from their library, then shuffle.)"
+Deathtouch
+"Whenever a creature with a +1/+1 counter on it attacks one of your opponents, that creature gains deathtouch until end of turn."
+3/3
+Soulblade Renewer
+{4}{G}
+Creature — Elf Warrior
+"Partner with Soulblade Corrupter (When this creature enters the battlefield, target player may put Soulblade Corrupter into their hand from their library, then shuffle.)"
+"When Soulblade Renewer enters the battlefield, support 2. (Put a +1/+1 counter on each of up to two other target creatures.)"
+2/2
+Sylvia Brightspear
+{2}{W}
+Legendary Creature — Human Knight
+"Partner with Khorvath Brightflame (When this creature enters the battlefield, target player may put Khorvath into their hand from their library, then shuffle.)"
+Double strike
+Dragons your team controls have double strike.
+2/2
+"Toothy, Imaginary Friend"
+{3}{U}
+Legendary Creature — Illusion
+"Partner with Pir, Imaginative Rascal (When this creature enters the battlefield, target player may put Pir into their hand from their library, then shuffle.)"
+"Whenever you draw a card, put a +1/+1 counter on Toothy, Imaginary Friend."
+"When Toothy leaves the battlefield, draw a card for each +1/+1 counter on it."
+1/1
+Virtus the Veiled
+{2}{B}
+Legendary Creature — Azra Assassin
+"Partner with Gorm the Great (When this creature enters the battlefield, target player may put Gorm into their hand from their library, then shuffle.)"
+Deathtouch
+"Whenever Virtus the Veiled deals combat damage to a player, that player loses half their life, rounded up."
+1/1
+Will Kenrith
+{4}{U}{U}
+Legendary Planeswalker — Will
+"+2: Until your next turn, up to two target creatures each have base power and toughness 0/3 and lose all abilities."
+"−2: Target player draws two cards. Until your next turn, instant, sorcery, and planeswalker spells that player casts cost {2} less to cast."
+"−8: Target player gets an emblem with “Whenever you cast an instant or sorcery spell, copy it. You may choose new targets for the copy.”"
+Partner with Rowan Kenrith
+Will Kenrith can be your commander.
+Loyalty: 4
+"Zndrsplt, Eye of Wisdom"
+{4}{U}
+Legendary Creature — Homunculus
+"Partner with Okaun, Eye of Chaos (When this creature enters the battlefield, target player may put Okaun into their hand from their library, then shuffle.)"
+"At the beginning of combat on your turn, flip a coin until you lose a flip."
+"Whenever a player wins a coin flip, draw a card."
+1/4

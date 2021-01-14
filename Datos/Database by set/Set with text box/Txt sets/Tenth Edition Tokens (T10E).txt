@@ -1,0 +1,20 @@
+Dragon
+Token Creature — Dragon
+Flying
+5/5
+Goblin
+Token Creature — Goblin
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Wasp
+Token Artifact Creature — Insect
+Flying
+1/1
+Zombie
+Token Creature — Zombie
+2/2

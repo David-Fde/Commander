@@ -1,0 +1,62 @@
+Accumulated Knowledge
+{1}{U}
+Instant
+"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards."
+Avalanche Riders
+{3}{R}
+Creature — Human Nomad
+Haste
+"Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+"When Avalanche Riders enters the battlefield, destroy target land."
+2/2
+Brainstorm
+{U}
+Instant
+"Draw three cards, then put two cards from your hand on top of your library in any order."
+Carrion Feeder
+{B}
+Creature — Zombie
+Carrion Feeder can’t block.
+Sacrifice a creature: Put a +1/+1 counter on Carrion Feeder.
+1/1
+Krosan Warchief
+{2}{G}
+Creature — Beast
+Beast spells you cast cost {1} less to cast.
+{1}{G}: Regenerate target Beast.
+2/2
+Lightning Rift
+{1}{R}
+Enchantment
+"Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to any target."
+Mother of Runes
+{W}
+Creature — Human Cleric
+{T}: Target creature you control gains protection from the color of your choice until end of turn.
+1/1
+Reanimate
+{B}
+Sorcery
+Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.
+Silver Knight
+{W}{W}
+Creature — Human Knight
+"First strike, protection from red"
+2/2
+Slice and Dice
+{4}{R}{R}
+Sorcery
+Slice and Dice deals 4 damage to each creature.
+"Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)"
+"When you cycle Slice and Dice, you may have it deal 1 damage to each creature."
+Treetop Village
+Land
+Treetop Village enters the battlefield tapped.
+{T}: Add {G}.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)
+Willbender
+{1}{U}
+Creature — Human Wizard
+Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Willbender is turned face up, change the target of target spell or ability with a single target."
+1/2

@@ -1,0 +1,32 @@
+Fated Intervention
+{2}{G}{G}{G}
+Instant
+"Create two 3/3 green Centaur enchantment creature tokens. If it’s your turn, scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Font of Fertility
+{G}
+Enchantment
+"{1}{G}, Sacrifice Font of Fertility: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Hydra Broodmaster
+{4}{G}{G}
+Creature — Hydra
+"{X}{X}{G}: Monstrosity X. (If this creature isn’t monstrous, put X +1/+1 counters on it and it becomes monstrous.)"
+"When Hydra Broodmaster becomes monstrous, create X X/X green Hydra creature tokens."
+7/7
+Prognostic Sphinx
+{3}{U}{U}
+Creature — Sphinx
+Flying
+Discard a card: Prognostic Sphinx gains hexproof until end of turn. Tap it.
+"Whenever Prognostic Sphinx attacks, scry 3. (Look at the top three cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+3/5
+Prophet of Kruphix
+{3}{G}{U}
+Creature — Human Wizard
+Untap all creatures and lands you control during each other player’s untap step.
+You may cast creature spells as though they had flash.
+2/3
+Temple of Mystery
+Land
+Temple of Mystery enters the battlefield tapped.
+"When Temple of Mystery enters the battlefield, scry 1."
+{T}: Add {G} or {U}.

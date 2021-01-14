@@ -1,0 +1,1313 @@
+Abyssal Persecutor
+{2}{B}{B}
+Creature — Demon
+"Flying, trample"
+You can’t win the game and your opponents can’t lose the game.
+6/6
+Abzan Battle Priest
+{3}{W}
+Creature — Human Cleric
+"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has lifelink.
+3/2
+Abzan Falconer
+{2}{W}
+Creature — Human Soldier
+"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has flying.
+2/3
+Aerial Predation
+{2}{G}
+Instant
+Destroy target creature with flying. You gain 2 life.
+Aetherize
+{3}{U}
+Instant
+Return all attacking creatures to their owner’s hand.
+Aether Vial
+{1}
+Artifact
+"At the beginning of your upkeep, you may put a charge counter on Aether Vial."
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
+Ainok Bond-Kin
+{1}{W}
+Creature — Dog Soldier
+"Outlast {1}{W} ({1}{W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has first strike.
+2/1
+Ajani's Pridemate
+{1}{W}
+Creature — Cat Soldier
+"Whenever you gain life, put a +1/+1 counter on Ajani’s Pridemate."
+2/2
+Amass the Components
+{3}{U}
+Sorcery
+"Draw three cards, then put a card from your hand on the bottom of your library."
+Ancestral Vision
+Sorcery
+"Suspend 4—{U} (Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+Target player draws three cards.
+Angelic Accord
+{3}{W}
+Enchantment
+"At the beginning of each end step, if you gained 4 or more life this turn, create a 4/4 white Angel creature token with flying."
+Angel of Mercy
+{4}{W}
+Creature — Angel
+Flying
+"When Angel of Mercy enters the battlefield, you gain 3 life."
+3/3
+Anger of the Gods
+{1}{R}{R}
+Sorcery
+"Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead."
+Archangel of Thune
+{3}{W}{W}
+Creature — Angel
+Flying
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+"Whenever you gain life, put a +1/+1 counter on each creature you control."
+3/4
+Assault Formation
+{1}{G}
+Enchantment
+Each creature you control assigns combat damage equal to its toughness rather than its power.
+{G}: Target creature with defender can attack this turn as though it didn’t have defender.
+{2}{G}: Creatures you control get +0/+1 until end of turn.
+Auriok Champion
+{W}{W}
+Creature — Human Cleric
+Protection from black and from red
+"Whenever another creature enters the battlefield, you may gain 1 life."
+1/1
+Austere Command
+{4}{W}{W}
+Sorcery
+Choose two —
+• Destroy all artifacts.
+• Destroy all enchantments.
+• Destroy all creatures with converted mana cost 3 or less.
+• Destroy all creatures with converted mana cost 4 or greater.
+"Avacyn, Angel of Hope"
+{5}{W}{W}{W}
+Legendary Creature — Angel
+"Flying, vigilance, indestructible"
+Other permanents you control have indestructible.
+8/8
+Azorius Chancery
+Land
+Azorius Chancery enters the battlefield tapped.
+"When Azorius Chancery enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {W}{U}.
+Azorius Charm
+{W}{U}
+Instant
+Choose one —
+• Creatures you control gain lifelink until end of turn.
+• Draw a card.
+• Put target attacking or blocking creature on top of its owner’s library.
+Bala Ged Scorpion
+{3}{B}
+Creature — Scorpion
+"When Bala Ged Scorpion enters the battlefield, you may destroy target creature with power 1 or less."
+2/3
+Balustrade Spy
+{3}{B}
+Creature — Vampire Rogue
+Flying
+"When Balustrade Spy enters the battlefield, target player reveals cards from the top of their library until they reveal a land card, then puts those cards into their graveyard."
+2/3
+Battle-Rattle Shaman
+{3}{R}
+Creature — Goblin Shaman
+"At the beginning of combat on your turn, you may have target creature get +2/+0 until end of turn."
+2/2
+Benevolent Ancestor
+{2}{W}
+Creature — Spirit
+Defender (This creature can’t attack.)
+{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+0/4
+Bewilder
+{2}{U}
+Instant
+Target creature gets -3/-0 until end of turn.
+Draw a card.
+Bladewing's Thrall
+{2}{B}{B}
+Creature — Zombie
+Bladewing’s Thrall has flying as long as you control a Dragon.
+"When a Dragon enters the battlefield, you may return Bladewing’s Thrall from your graveyard to the battlefield."
+3/3
+Bladewing the Risen
+{3}{B}{B}{R}{R}
+Legendary Creature — Zombie Dragon
+Flying
+"When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield."
+{B}{R}: Dragon creatures get +1/+1 until end of turn.
+4/4
+Blinding Mage
+{1}{W}
+Creature — Human Wizard
+"{W}, {T}: Tap target creature."
+1/2
+Blizzard Specter
+{2}{U}{B}
+Snow Creature — Specter
+Flying
+"Whenever Blizzard Specter deals combat damage to a player, choose one —"
+• That player returns a permanent they control to its owner’s hand.
+• That player discards a card.
+2/3
+Blood Baron of Vizkopa
+{3}{W}{B}
+Creature — Vampire
+"Lifelink, protection from white and from black"
+"As long as you have 30 or more life and an opponent has 10 or less life, Blood Baron of Vizkopa gets +6/+6 and has flying."
+4/4
+Bloodghast
+{B}{B}
+Creature — Vampire Spirit
+Bloodghast can’t block.
+Bloodghast has haste as long as an opponent has 10 or less life.
+"Landfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield."
+2/1
+Bogardan Hellkite
+{6}{R}{R}
+Creature — Dragon
+Flash
+Flying
+"When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of targets."
+5/5
+Bogbrew Witch
+{3}{B}
+Creature — Human Wizard
+"{2}, {T}: Search your library for a card named Festering Newt or Bubbling Cauldron, put it onto the battlefield tapped, then shuffle your library."
+1/3
+Borderland Marauder
+{1}{R}
+Creature — Human Warrior
+"Whenever Borderland Marauder attacks, it gets +2/+0 until end of turn."
+1/2
+Boros Garrison
+Land
+Boros Garrison enters the battlefield tapped.
+"When Boros Garrison enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {R}{W}.
+Bubbling Cauldron
+{2}
+Artifact
+"{1}, {T}, Sacrifice a creature: You gain 4 life."
+"{1}, {T}, Sacrifice a creature named Festering Newt: Each opponent loses 4 life. You gain life equal to the life lost this way."
+Burrenton Forge-Tender
+{W}
+Creature — Kithkin Wizard
+Protection from red
+Sacrifice Burrenton Forge-Tender: Prevent all damage a red source of your choice would deal this turn.
+1/1
+Butcher's Glee
+{2}{B}
+Instant
+Target creature gets +3/+0 and gains lifelink until end of turn. Regenerate it. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)
+Carven Caryatid
+{1}{G}{G}
+Creature — Spirit
+Defender (This creature can’t attack.)
+"When Carven Caryatid enters the battlefield, draw a card."
+2/5
+Cephalid Broker
+{3}{U}
+Creature — Cephalid
+"{T}: Target player draws two cards, then discards two cards."
+2/2
+Channel
+{G}{G}
+Sorcery
+"Until end of turn, any time you could activate a mana ability, you may pay 1 life. If you do, add {C}."
+Charmbreaker Devils
+{5}{R}
+Creature — Devil
+"At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand."
+"Whenever you cast an instant or sorcery spell, Charmbreaker Devils gets +4/+0 until end of turn."
+4/4
+Child of Night
+{1}{B}
+Creature — Vampire
+Lifelink
+2/1
+Chronicler of Heroes
+{1}{G}{W}
+Creature — Centaur Wizard
+"When Chronicler of Heroes enters the battlefield, draw a card if you control a creature with a +1/+1 counter on it."
+3/3
+Claustrophobia
+{1}{U}{U}
+Enchantment — Aura
+Enchant creature
+"When Claustrophobia enters the battlefield, tap enchanted creature."
+Enchanted creature doesn’t untap during its controller’s untap step.
+Condescend
+{X}{U}
+Instant
+"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
+Consecrated Sphinx
+{4}{U}{U}
+Creature — Sphinx
+Flying
+"Whenever an opponent draws a card, you may draw two cards."
+4/6
+Coordinated Assault
+{R}
+Instant
+Up to two target creatures each get +1/+0 and gain first strike until end of turn.
+Corpsejack Menace
+{2}{B}{G}
+Creature — Fungus
+"If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead."
+4/4
+Crowned Ceratok
+{3}{G}
+Creature — Rhino
+Trample
+Each creature you control with a +1/+1 counter on it has trample.
+4/3
+Crucible of Fire
+{3}{R}
+Enchantment
+Dragon creatures you control get +3/+3.
+Cryptic Command
+{1}{U}{U}{U}
+Instant
+Choose two —
+• Counter target spell.
+• Return target permanent to its owner’s hand.
+• Tap all creatures your opponents control.
+• Draw a card.
+Curse of Predation
+{2}{G}
+Enchantment — Aura Curse
+Enchant player
+"Whenever a creature attacks enchanted player, put a +1/+1 counter on it."
+Darksteel Axe
+{1}
+Artifact — Equipment
+Indestructible (Effects that say “destroy” don’t destroy this artifact.)
+Equipped creature gets +2/+0.
+Equip {2}
+Day of the Dragons
+{4}{U}{U}{U}
+Enchantment
+"When Day of the Dragons enters the battlefield, exile all creatures you control. Then create that many 5/5 red Dragon creature tokens with flying."
+"When Day of the Dragons leaves the battlefield, sacrifice all Dragons you control. Then return the exiled cards to the battlefield under your control."
+Dead Reveler
+{2}{B}
+Creature — Zombie
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can’t block as long as it has a +1/+1 counter on it.)
+2/3
+Diminish
+{U}
+Instant
+Target creature has base power and toughness 1/1 until end of turn.
+Dimir Aqueduct
+Land
+Dimir Aqueduct enters the battlefield tapped.
+"When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {U}{B}.
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Dissolve
+{1}{U}{U}
+Instant
+Counter target spell. Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
+Distortion Strike
+{U}
+Sorcery
+Target creature gets +1/+0 until end of turn and can’t be blocked this turn.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Doom Blade
+{1}{B}
+Instant
+Destroy target nonblack creature.
+Doomed Traveler
+{W}
+Creature — Human Soldier
+"When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying."
+1/1
+Doorkeeper
+{1}{U}
+Creature — Homunculus
+Defender
+"{2}{U}, {T}: Target player mills X cards, where X is the number of creatures with defender you control."
+0/4
+Draconic Roar
+{1}{R}
+Instant
+"As an additional cost to cast this spell, you may reveal a Dragon card from your hand."
+"Draconic Roar deals 3 damage to target creature. If you revealed a Dragon card or controlled a Dragon as you cast this spell, Draconic Roar deals 3 damage to that creature’s controller."
+Dragon Bell Monk
+{2}{W}
+Creature — Human Monk
+Vigilance
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+2/2
+Dragon Egg
+{2}{R}
+Creature — Dragon Egg
+Defender
+"When Dragon Egg dies, create a 2/2 red Dragon creature token with flying and “{R}: This creature gets +1/+0 until end of turn.”"
+0/2
+Dragonloft Idol
+{4}
+Artifact Creature — Gargoyle
+"As long as you control a Dragon, Dragonloft Idol gets +1/+1 and has flying and trample."
+3/3
+Dragonlord's Servant
+{1}{R}
+Creature — Goblin Shaman
+Dragon spells you cast cost {1} less to cast.
+1/3
+Dragon Tempest
+{1}{R}
+Enchantment
+"Whenever a creature with flying enters the battlefield under your control, it gains haste until end of turn."
+"Whenever a Dragon enters the battlefield under your control, it deals X damage to any target, where X is the number of Dragons you control."
+Duress
+{B}
+Sorcery
+"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Durkwood Baloth
+{4}{G}{G}
+Creature — Beast
+"Suspend 5—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with five time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
+5/5
+Duskdale Wurm
+{5}{G}{G}
+Creature — Wurm
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+7/7
+Earth Elemental
+{3}{R}{R}
+Creature — Elemental
+4/5
+Electrolyze
+{1}{U}{R}
+Instant
+Electrolyze deals 2 damage divided as you choose among one or two targets.
+Draw a card.
+"Elesh Norn, Grand Cenobite"
+{5}{W}{W}
+Legendary Creature — Praetor
+Vigilance
+Other creatures you control get +2/+2.
+Creatures your opponents control get -2/-2.
+4/7
+Elusive Spellfist
+{1}{U}
+Creature — Human Monk
+"Whenever you cast a noncreature spell, Elusive Spellfist gets +1/+0 until end of turn and can’t be blocked this turn."
+1/3
+Emerge Unscathed
+{W}
+Instant
+Target creature you control gains protection from the color of your choice until end of turn.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Emeria Angel
+{2}{W}{W}
+Creature — Angel
+Flying
+"Landfall — Whenever a land enters the battlefield under your control, you may create a 1/1 white Bird creature token with flying."
+3/3
+Enlarge
+{3}{G}{G}
+Sorcery
+Target creature gets +7/+7 and gains trample until end of turn. It must be blocked this turn if able. (A creature with trample can deal excess combat damage to the player or planeswalker it’s attacking.)
+Eternal Thirst
+{1}{B}
+Enchantment — Aura
+Enchant creature
+"Enchanted creature has lifelink and “Whenever a creature an opponent controls dies, put a +1/+1 counter on this creature.” (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)"
+Evolving Wilds
+Land
+"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Festering Newt
+{B}
+Creature — Salamander
+"When Festering Newt dies, target creature an opponent controls gets -1/-1 until end of turn. That creature gets -4/-4 instead if you control a creature named Bogbrew Witch."
+1/1
+Fireball
+{X}{R}
+Sorcery
+This spell costs {1} more to cast for each target beyond the first.
+"Fireball deals X damage divided evenly, rounded down, among any number of targets."
+Firemane Angel
+{3}{R}{W}{W}
+Creature — Angel
+"Flying, first strike"
+"At the beginning of your upkeep, if Firemane Angel is in your graveyard or on the battlefield, you may gain 1 life."
+{6}{R}{R}{W}{W}: Return Firemane Angel from your graveyard to the battlefield. Activate this ability only during your upkeep.
+4/3
+Flusterstorm
+{U}
+Instant
+Counter target instant or sorcery spell unless its controller pays {1}.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Fog Bank
+{1}{U}
+Creature — Wall
+"Defender, flying"
+Prevent all combat damage that would be dealt to and dealt by Fog Bank.
+0/2
+Foul-Tongue Invocation
+{2}{B}
+Instant
+"As an additional cost to cast this spell, you may reveal a Dragon card from your hand."
+"Target player sacrifices a creature. If you revealed a Dragon card or controlled a Dragon as you cast this spell, you gain 4 life."
+Frost Lynx
+{2}{U}
+Creature — Elemental Cat
+"When Frost Lynx enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step."
+2/2
+Furnace Whelp
+{2}{R}{R}
+Creature — Dragon
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{R}: Furnace Whelp gets +1/+0 until end of turn.
+2/2
+Fury Charm
+{1}{R}
+Instant
+Choose one —
+• Destroy target artifact.
+• Target creature gets +1/+1 and gains trample until end of turn.
+• Remove two time counters from target permanent or suspended card.
+Genesis Hydra
+{X}{G}{G}
+Creature — Plant Hydra
+"When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library."
+Genesis Hydra enters the battlefield with X +1/+1 counters on it.
+0/0
+Genesis Wave
+{X}{G}{G}{G}
+Sorcery
+Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren’t put onto the battlefield into your graveyard.
+Glimpse the Unthinkable
+{U}{B}
+Sorcery
+Target player mills ten cards.
+Golgari Rot Farm
+Land
+Golgari Rot Farm enters the battlefield tapped.
+"When Golgari Rot Farm enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {B}{G}.
+Graven Cairns
+Land
+{T}: Add {C}.
+"{B/R}, {T}: Add {B}{B}, {B}{R}, or {R}{R}."
+Greater Basilisk
+{3}{G}{G}
+Creature — Basilisk
+Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
+3/5
+Great Teacher's Decree
+{3}{W}
+Sorcery
+Creatures you control get +2/+1 until end of turn.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Grisly Spectacle
+{2}{B}{B}
+Instant
+Destroy target nonartifact creature. Its controller mills cards equal to that creature’s power.
+Grove of the Burnwillows
+Land
+{T}: Add {C}.
+{T}: Add {R} or {G}. Each opponent gains 1 life.
+Gruul Turf
+Land
+Gruul Turf enters the battlefield tapped.
+"When Gruul Turf enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {R}{G}.
+Guard Duty
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has defender.
+Guardian Idol
+{2}
+Artifact
+Guardian Idol enters the battlefield tapped.
+{T}: Add {C}.
+{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.
+Guided Strike
+{1}{W}
+Instant
+Target creature gets +1/+0 and gains first strike until end of turn.
+Draw a card.
+Guttersnipe
+{2}{R}
+Creature — Goblin Shaman
+"Whenever you cast an instant or sorcery spell, Guttersnipe deals 2 damage to each opponent."
+2/2
+Hammerhand
+{R}
+Enchantment — Aura
+Enchant creature
+"When Hammerhand enters the battlefield, target creature can’t block this turn."
+Enchanted creature gets +1/+1 and has haste. (It can attack and {T} no matter when it came under your control.)
+Haunting Hymn
+{4}{B}{B}
+Instant
+"Target player discards two cards. If you cast this spell during your main phase, that player discards four cards instead."
+Heat Ray
+{X}{R}
+Instant
+Heat Ray deals X damage to target creature.
+Heroes' Bane
+{3}{G}{G}
+Creature — Hydra
+Heroes’ Bane enters the battlefield with four +1/+1 counters on it.
+"{2}{G}{G}: Put X +1/+1 counters on Heroes’ Bane, where X is its power."
+0/0
+Hoarding Dragon
+{3}{R}{R}
+Creature — Dragon
+Flying
+"When Hoarding Dragon enters the battlefield, you may search your library for an artifact card, exile it, then shuffle your library."
+"When Hoarding Dragon dies, you may put the exiled card into its owner’s hand."
+4/4
+Horizon Canopy
+Land
+"{T}, Pay 1 life: Add {G} or {W}."
+"{1}, {T}, Sacrifice Horizon Canopy: Draw a card."
+Hunting Pack
+{5}{G}{G}
+Instant
+Create a 4/4 green Beast creature token.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
+Hunt the Weak
+{3}{G}
+Sorcery
+Put a +1/+1 counter on target creature you control. Then that creature fights target creature you don’t control. (Each deals damage equal to its power to the other.)
+Hypersonic Dragon
+{3}{U}{R}
+Creature — Dragon
+"Flying, haste"
+You may cast sorcery spells as though they had flash. (You may cast them any time you could cast an instant.)
+4/4
+Illusory Ambusher
+{4}{U}
+Creature — Cat Illusion
+Flash (You may cast this spell any time you could cast an instant.)
+"Whenever Illusory Ambusher is dealt damage, draw that many cards."
+4/1
+Illusory Angel
+{2}{U}
+Creature — Angel Illusion
+Cast this spell only if you’ve cast another spell this turn.
+Flying
+4/4
+Indulgent Tormentor
+{3}{B}{B}
+Creature — Demon
+Flying
+"At the beginning of your upkeep, draw a card unless target opponent sacrifices a creature or pays 3 life."
+5/3
+Infantry Veteran
+{W}
+Creature — Human Soldier
+{T}: Target attacking creature gets +1/+1 until end of turn.
+1/1
+Inspiring Call
+{2}{G}
+Instant
+Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn.
+Iona's Judgment
+{4}{W}
+Sorcery
+Exile target creature or enchantment.
+Ivy Elemental
+{X}{G}
+Creature — Elemental
+Ivy Elemental enters the battlefield with X +1/+1 counters on it.
+0/0
+Izzet Boilerworks
+Land
+Izzet Boilerworks enters the battlefield tapped.
+"When Izzet Boilerworks enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {U}{R}.
+Jace's Phantasm
+{U}
+Creature — Illusion
+Flying
+Jace’s Phantasm gets +4/+4 as long as an opponent has ten or more cards in their graveyard.
+1/1
+Jaddi Offshoot
+{G}
+Creature — Plant
+Defender
+"Landfall — Whenever a land enters the battlefield under your control, you gain 1 life."
+0/3
+Jhessian Thief
+{2}{U}
+Creature — Human Rogue
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+"Whenever Jhessian Thief deals combat damage to a player, draw a card."
+1/3
+"Jin-Gitaxias, Core Augur"
+{8}{U}{U}
+Legendary Creature — Praetor
+Flash
+"At the beginning of your end step, draw seven cards."
+Each opponent’s maximum hand size is reduced by seven.
+5/4
+"Jugan, the Rising Star"
+{3}{G}{G}{G}
+Legendary Creature — Dragon Spirit
+Flying
+"When Jugan, the Rising Star dies, you may distribute five +1/+1 counters among any number of target creatures."
+5/5
+Jungle Barrier
+{2}{G}{U}
+Creature — Plant Wall
+Defender (This creature can’t attack.)
+"When Jungle Barrier enters the battlefield, draw a card."
+2/6
+"Keiga, the Tide Star"
+{5}{U}
+Legendary Creature — Dragon Spirit
+Flying
+"When Keiga, the Tide Star dies, gain control of target creature."
+5/5
+Keldon Halberdier
+{4}{R}
+Creature — Human Warrior
+First strike
+"Suspend 4—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
+4/1
+"Kiki-Jiki, Mirror Breaker"
+{2}{R}{R}{R}
+Legendary Creature — Goblin Shaman
+Haste
+"{T}: Create a token that’s a copy of target nonlegendary creature you control, except it has haste. Sacrifice it at the beginning of the next end step."
+2/2
+Kiln Fiend
+{1}{R}
+Creature — Elemental Beast
+"Whenever you cast an instant or sorcery spell, Kiln Fiend gets +3/+0 until end of turn."
+1/2
+Knight of the Reliquary
+{1}{G}{W}
+Creature — Human Knight
+Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
+"{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library."
+2/2
+"Kokusho, the Evening Star"
+{4}{B}{B}
+Legendary Creature — Dragon Spirit
+Flying
+"When Kokusho, the Evening Star dies, each opponent loses 5 life. You gain life equal to the life lost this way."
+5/5
+Kolaghan Monument
+{3}
+Artifact
+{T}: Add {B} or {R}.
+{4}{B}{R}: Kolaghan Monument becomes a 4/4 black and red Dragon artifact creature with flying until end of turn.
+Lead the Stampede
+{2}{G}
+Sorcery
+Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
+Lightning Helix
+{R}{W}
+Instant
+Lightning Helix deals 3 damage to any target and you gain 3 life.
+Lord of the Pit
+{4}{B}{B}{B}
+Creature — Demon
+"Flying, trample"
+"At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can’t, Lord of the Pit deals 7 damage to you."
+7/7
+Lotus Cobra
+{1}{G}
+Creature — Snake
+"Landfall — Whenever a land enters the battlefield under your control, add one mana of any color."
+2/1
+Lure
+{1}{G}{G}
+Enchantment — Aura
+Enchant creature
+All creatures able to block enchanted creature do so.
+Magus of the Moon
+{2}{R}
+Creature — Human Wizard
+Nonbasic lands are Mountains.
+2/2
+Mahamoti Djinn
+{4}{U}{U}
+Creature — Djinn
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+5/6
+Malfegor
+{2}{B}{B}{R}{R}
+Legendary Creature — Demon Dragon
+Flying
+"When Malfegor enters the battlefield, discard your hand. Each opponent sacrifices a creature for each card discarded this way."
+6/6
+Mana Drain
+{U}{U}
+Instant
+"Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell’s converted mana cost."
+Manakin
+{2}
+Artifact Creature — Construct
+{T}: Add {C}.
+1/1
+Mana Leak
+{1}{U}
+Instant
+Counter target spell unless its controller pays {3}.
+Mark of Mutiny
+{2}{R}
+Sorcery
+Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn. (It can attack and {T} this turn.)
+Mer-Ek Nightblade
+{3}{B}
+Creature — Orc Assassin
+"Outlast {B} ({B}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
+Each creature you control with a +1/+1 counter on it has deathtouch.
+2/3
+Mindcrank
+{2}
+Artifact
+"Whenever an opponent loses life, that player mills that many cards. (Damage dealt by sources without infect causes loss of life.)"
+Mind Stone
+{2}
+Artifact
+{T}: Add {C}.
+"{1}, {T}, Sacrifice Mind Stone: Draw a card."
+Mishra's Bauble
+{0}
+Artifact
+"{T}, Sacrifice Mishra’s Bauble: Look at the top card of target player’s library. Draw a card at the beginning of the next turn’s upkeep."
+Mnemonic Wall
+{4}{U}
+Creature — Wall
+Defender
+"When Mnemonic Wall enters the battlefield, you may return target instant or sorcery card from your graveyard to your hand."
+0/4
+Monastery Swiftspear
+{R}
+Creature — Human Monk
+Haste
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+1/2
+Moonglove Extract
+{3}
+Artifact
+Sacrifice Moonglove Extract: It deals 2 damage to any target.
+Nantuko Shaman
+{2}{G}
+Creature — Insect Shaman
+"When Nantuko Shaman enters the battlefield, if you control no tapped lands, draw a card."
+"Suspend 1—{2}{G}{G} (Rather than cast this card from your hand, you may pay {2}{G}{G} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
+3/2
+Nature's Claim
+{G}
+Instant
+Destroy target artifact or enchantment. Its controller gains 4 life.
+Necropotence
+{B}{B}{B}
+Enchantment
+Skip your draw step.
+"Whenever you discard a card, exile that card from your graveyard."
+Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.
+Netcaster Spider
+{2}{G}
+Creature — Spider
+Reach (This creature can block creatures with flying.)
+"Whenever Netcaster Spider blocks a creature with flying, Netcaster Spider gets +2/+0 until end of turn."
+2/3
+Night of Souls' Betrayal
+{2}{B}{B}
+Legendary Enchantment
+All creatures get -1/-1.
+Nimbus Maze
+Land
+{T}: Add {C}.
+{T}: Add {W}. Activate this ability only if you control an Island.
+{T}: Add {U}. Activate this ability only if you control a Plains.
+Noxious Dragon
+{4}{B}{B}
+Creature — Dragon
+Flying
+"When Noxious Dragon dies, you may destroy target creature with converted mana cost 3 or less."
+4/4
+Oblivion Stone
+{3}
+Artifact
+"{4}, {T}: Put a fate counter on target permanent."
+"{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents."
+"Ob Nixilis, the Fallen"
+{3}{B}{B}
+Legendary Creature — Demon
+"Landfall — Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen."
+3/3
+Obstinate Baloth
+{2}{G}{G}
+Creature — Beast
+"When Obstinate Baloth enters the battlefield, you gain 4 life."
+"If a spell or ability an opponent controls causes you to discard Obstinate Baloth, put it onto the battlefield instead of putting it into your graveyard."
+4/4
+Ojutai's Breath
+{2}{U}
+Instant
+Tap target creature. It doesn’t untap during its controller’s next untap step.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Orzhov Basilica
+Land
+Orzhov Basilica enters the battlefield tapped.
+"When Orzhov Basilica enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {W}{B}.
+Overgrown Battlement
+{1}{G}
+Creature — Wall
+Defender
+{T}: Add {G} for each creature with defender you control.
+0/4
+Palladium Myr
+{3}
+Artifact Creature — Myr
+{T}: Add {C}{C}.
+2/2
+Path of Bravery
+{2}{W}
+Enchantment
+"As long as your life total is greater than or equal to your starting life total, creatures you control get +1/+1."
+"Whenever one or more creatures you control attack, you gain life equal to the number of attacking creatures."
+Pentarch Ward
+{2}{W}
+Enchantment — Aura
+Enchant creature
+"As Pentarch Ward enters the battlefield, choose a color."
+"When Pentarch Ward enters the battlefield, draw a card."
+Enchanted creature has protection from the chosen color. This effect doesn’t remove Pentarch Ward.
+Phantom Monster
+{3}{U}
+Creature — Illusion
+Flying
+3/3
+Phantom Tiger
+{2}{G}
+Creature — Cat Spirit
+Phantom Tiger enters the battlefield with two +1/+1 counters on it.
+"If damage would be dealt to Phantom Tiger, prevent that damage. Remove a +1/+1 counter from Phantom Tiger."
+1/0
+Phyrexian Rager
+{2}{B}
+Creature — Horror
+"When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life."
+2/2
+Pillar of Flame
+{R}
+Sorcery
+"Pillar of Flame deals 2 damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
+Prey's Vengeance
+{G}
+Instant
+Target creature gets +2/+2 until end of turn.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Primeval Titan
+{4}{G}{G}
+Creature — Giant
+Trample
+"Whenever Primeval Titan enters the battlefield or attacks, you may search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library."
+6/6
+Pristine Talisman
+{3}
+Artifact
+{T}: Add {C}. You gain 1 life.
+Prodigal Pyromancer
+{2}{R}
+Creature — Human Wizard
+{T}: Prodigal Pyromancer deals 1 damage to any target.
+1/1
+Radiant Fountain
+Land
+"When Radiant Fountain enters the battlefield, you gain 2 life."
+{T}: Add {C}.
+Rakdos Carnarium
+Land
+Rakdos Carnarium enters the battlefield tapped.
+"When Rakdos Carnarium enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {B}{R}.
+Rakdos Drake
+{2}{B}
+Creature — Drake
+Flying
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can’t block as long as it has a +1/+1 counter on it.)
+1/2
+Rampaging Baloths
+{4}{G}{G}
+Creature — Beast
+Trample
+"Landfall — Whenever a land enters the battlefield under your control, you may create a 4/4 green Beast creature token."
+6/6
+Reave Soul
+{1}{B}
+Sorcery
+Destroy target creature with power 3 or less.
+Repeal
+{X}{U}
+Instant
+Return target nonland permanent with converted mana cost X to its owner’s hand.
+Draw a card.
+Restoration Angel
+{3}{W}
+Creature — Angel
+Flash
+Flying
+"When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control."
+3/4
+Rift Bolt
+{2}{R}
+Sorcery
+Rift Bolt deals 3 damage to any target.
+"Suspend 1—{R} (Rather than cast this card from your hand, you may pay {R} and exile it with a time counter on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+River of Tears
+Land
+"{T}: Add {U}. If you played a land this turn, add {B} instead."
+Riverwheel Aerialists
+{5}{U}
+Creature — Djinn Monk
+Flying
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+4/5
+Rosheen Meanderer
+{3}{R/G}
+Legendary Creature — Giant Shaman
+{T}: Add {C}{C}{C}{C}. Spend this mana only on costs that contain {X}.
+4/4
+Rotfeaster Maggot
+{4}{B}
+Creature — Insect
+"When Rotfeaster Maggot enters the battlefield, exile target creature card from a graveyard. You gain life equal to that card’s toughness."
+3/5
+Runed Servitor
+{2}
+Artifact Creature — Construct
+"When Runed Servitor dies, each player draws a card."
+2/2
+Rune-Scarred Demon
+{5}{B}{B}
+Creature — Demon
+Flying
+"When Rune-Scarred Demon enters the battlefield, search your library for a card, put it into your hand, then shuffle your library."
+6/6
+"Ryusei, the Falling Star"
+{5}{R}
+Legendary Creature — Dragon Spirit
+Flying
+"When Ryusei, the Falling Star dies, it deals 5 damage to each creature without flying."
+5/5
+Sandstone Oracle
+{7}
+Artifact Creature — Sphinx
+Flying
+"When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference."
+4/4
+Sanguine Bond
+{3}{B}{B}
+Enchantment
+"Whenever you gain life, target opponent loses that much life."
+Savageborn Hydra
+{X}{R}{G}
+Creature — Hydra
+Double strike
+Savageborn Hydra enters the battlefield with X +1/+1 counters on it.
+{1}{R/G}: Put a +1/+1 counter on Savageborn Hydra. Activate this ability only any time you could cast a sorcery.
+0/0
+Scion of Ugin
+{6}
+Creature — Dragon Spirit
+Flying
+4/4
+Scourge of Valkas
+{2}{R}{R}{R}
+Creature — Dragon
+Flying
+"Whenever Scourge of Valkas or another Dragon enters the battlefield under your control, it deals X damage to any target, where X is the number of Dragons you control."
+{R}: Scourge of Valkas gets +1/+0 until end of turn.
+4/4
+Search for Tomorrow
+{2}{G}
+Sorcery
+"Search your library for a basic land card, put it onto the battlefield, then shuffle your library."
+"Suspend 2—{G} (Rather than cast this card from your hand, you may pay {G} and exile it with two time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
+Seeker of the Way
+{1}{W}
+Creature — Human Warrior
+"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
+"Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn."
+2/2
+Selesnya Sanctuary
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+"When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{W}.
+Serra Angel
+{3}{W}{W}
+Creature — Angel
+"Flying, vigilance"
+4/4
+Serra Ascendant
+{W}
+Creature — Human Monk
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)
+"As long as you have 30 or more life, Serra Ascendant gets +5/+5 and has flying."
+1/1
+Serum Powder
+{3}
+Artifact
+{T}: Add {C}.
+"Any time you could mulligan and Serum Powder is in your hand, you may exile all the cards from your hand, then draw that many cards. (You can do this in addition to taking mulligans.)"
+"Sheoldred, Whispering One"
+{5}{B}{B}
+Legendary Creature — Praetor
+Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
+"At the beginning of your upkeep, return target creature card from your graveyard to the battlefield."
+"At the beginning of each opponent’s upkeep, that player sacrifices a creature."
+6/6
+Shimmering Grotto
+Land
+{T}: Add {C}.
+"{1}, {T}: Add one mana of any color."
+Shriekgeist
+{1}{U}
+Creature — Spirit
+Flying
+"Whenever Shriekgeist deals combat damage to a player, that player mills two cards."
+1/1
+Simic Growth Chamber
+Land
+Simic Growth Chamber enters the battlefield tapped.
+"When Simic Growth Chamber enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{U}.
+Simic Sky Swallower
+{5}{G}{U}
+Creature — Leviathan
+"Flying, trample"
+Shroud (This creature can’t be the target of spells or abilities.)
+6/6
+Skywise Teachings
+{3}{U}
+Enchantment
+"Whenever you cast a noncreature spell, you may pay {1}{U}. If you do, create a 2/2 blue Djinn Monk creature token with flying."
+Sphinx of Uthuun
+{5}{U}{U}
+Creature — Sphinx
+Flying
+"When Sphinx of Uthuun enters the battlefield, reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
+5/6
+Spiritmonger
+{3}{B}{G}
+Creature — Beast
+"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger."
+{B}: Regenerate Spiritmonger.
+{G}: Spiritmonger becomes the color of your choice until end of turn.
+6/6
+Splatter Thug
+{2}{R}
+Creature — Human Warrior
+First strike
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can’t block as long as it has a +1/+1 counter on it.)
+2/2
+Staggershock
+{2}{R}
+Instant
+Staggershock deals 2 damage to any target.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Stalwart Aven
+{2}{W}
+Creature — Bird Soldier
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+"Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)"
+1/3
+Star Compass
+{2}
+Artifact
+Star Compass enters the battlefield tapped.
+{T}: Add one mana of any color that a basic land you control could produce.
+Student of Ojutai
+{3}{W}
+Creature — Human Monk
+"Whenever you cast a noncreature spell, you gain 2 life."
+2/4
+Sultai Flayer
+{3}{G}
+Creature — Naga Shaman
+"Whenever a creature you control with toughness 4 or greater dies, you gain 4 life."
+3/4
+Supreme Verdict
+{1}{W}{W}{U}
+Sorcery
+This spell can’t be countered.
+Destroy all creatures.
+Surreal Memoir
+{3}{R}
+Sorcery
+Return an instant card at random from your graveyard to your hand.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Survival Cache
+{2}{W}
+Sorcery
+"You gain 2 life. Then if you have more life than an opponent, draw a card."
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Sustainer of the Realm
+{2}{W}{W}
+Creature — Angel
+Flying
+"Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
+2/3
+Swords to Plowshares
+{W}
+Instant
+Exile target creature. Its controller gains life equal to its power.
+Tavern Swindler
+{1}{B}
+Creature — Human Rogue
+"{T}, Pay 3 life: Flip a coin. If you win the flip, you gain 6 life."
+2/2
+"Teferi, Mage of Zhalfir"
+{2}{U}{U}{U}
+Legendary Creature — Human Wizard
+Flash (You may cast this spell any time you could cast an instant.)
+Creature cards you own that aren’t on the battlefield have flash.
+Each opponent can cast spells only any time they could cast a sorcery.
+3/4
+Thought Scour
+{U}
+Instant
+Target player mills two cards.
+Draw a card.
+Thoughtseize
+{B}
+Sorcery
+Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
+Thran Dynamo
+{4}
+Artifact
+{T}: Add {C}{C}{C}.
+Thrill-Kill Assassin
+{1}{B}
+Creature — Human Assassin
+Deathtouch
+Unleash (You may have this creature enter the battlefield with a +1/+1 counter on it. It can’t block as long as it has a +1/+1 counter on it.)
+1/2
+Thundermaw Hellkite
+{3}{R}{R}
+Creature — Dragon
+Flying
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"When Thundermaw Hellkite enters the battlefield, it deals 1 damage to each creature with flying your opponents control. Tap those creatures."
+5/5
+Timberland Guide
+{1}{G}
+Creature — Human Scout
+"When Timberland Guide enters the battlefield, put a +1/+1 counter on target creature."
+1/1
+Topan Freeblade
+{1}{W}
+Creature — Human Soldier
+Vigilance (Attacking doesn’t cause this creature to tap.)
+"Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)"
+2/2
+Tormenting Voice
+{1}{R}
+Sorcery
+"As an additional cost to cast this spell, discard a card."
+Draw two cards.
+Trepanation Blade
+{3}
+Artifact — Equipment
+"Whenever equipped creature attacks, defending player reveals cards from the top of their library until they reveal a land card. The creature gets +1/+0 until end of turn for each card revealed this way. That player puts the revealed cards into their graveyard."
+Equip {2}
+Trumpet Blast
+{2}{R}
+Instant
+Attacking creatures get +2/+0 until end of turn.
+Ulcerate
+{B}
+Instant
+Target creature gets -3/-3 until end of turn. You lose 3 life.
+Undercity Troll
+{1}{G}
+Creature — Troll
+"Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)"
+"{2}{G}: Regenerate Undercity Troll. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+2/2
+Urabrask the Hidden
+{3}{R}{R}
+Legendary Creature — Praetor
+Creatures you control have haste.
+Creatures your opponents control enter the battlefield tapped.
+4/4
+Vent Sentinel
+{3}{R}
+Creature — Elemental
+Defender
+"{1}{R}, {T}: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control."
+2/4
+Virulent Swipe
+{B}
+Instant
+Target creature gets +2/+0 and gains deathtouch until end of turn.
+"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
+Vizkopa Guildmage
+{W}{B}
+Creature — Human Wizard
+{1}{W}{B}: Target creature gains lifelink until end of turn.
+"{1}{W}{B}: Whenever you gain life this turn, each opponent loses that much life."
+2/2
+"Vorinclex, Voice of Hunger"
+{6}{G}{G}
+Legendary Creature — Praetor
+Trample
+"Whenever you tap a land for mana, add one mana of any type that land produced."
+"Whenever an opponent taps a land for mana, that land doesn’t untap during its controller’s next untap step."
+7/6
+Wall of Roots
+{1}{G}
+Creature — Plant Wall
+Defender
+Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.
+0/5
+Wight of Precinct Six
+{1}{B}
+Creature — Zombie
+Wight of Precinct Six gets +1/+1 for each creature card in your opponents’ graveyards.
+1/1
+Wildsize
+{2}{G}
+Instant
+Target creature gets +2/+2 and gains trample until end of turn.
+Draw a card.
+Windfall
+{2}{U}
+Sorcery
+"Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way."
+Wing Shards
+{1}{W}{W}
+Instant
+Target player sacrifices an attacking creature.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Wrench Mind
+{B}{B}
+Sorcery
+Target player discards two cards unless they discard an artifact card.
+"Yosei, the Morning Star"
+{4}{W}{W}
+Legendary Creature — Dragon Spirit
+Flying
+"When Yosei, the Morning Star dies, target player skips their next untap step. Tap up to five target permanents that player controls."
+5/5

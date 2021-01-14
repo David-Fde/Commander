@@ -1,0 +1,58 @@
+Abhorrent Overlord
+{5}{B}{B}
+Creature — Demon
+Flying
+"When Abhorrent Overlord enters the battlefield, create a number of 1/1 black Harpy creature tokens with flying equal to your devotion to black. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)"
+"At the beginning of your upkeep, sacrifice a creature."
+6/6
+"Anthousa, Setessan Hero"
+{3}{G}{G}
+Legendary Creature — Human Warrior
+"Heroic — Whenever you cast a spell that targets Anthousa, Setessan Hero, up to three target lands you control each become 2/2 Warrior creatures until end of turn. They’re still lands."
+4/5
+Bident of Thassa
+{2}{U}{U}
+Legendary Enchantment Artifact
+"Whenever a creature you control deals combat damage to a player, you may draw a card."
+"{1}{U}, {T}: Creatures your opponents control attack this turn if able."
+Celestial Archon
+{3}{W}{W}
+Enchantment Creature — Archon
+"Bestow {5}{W}{W} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)"
+"Flying, first strike"
+Enchanted creature gets +4/+4 and has flying and first strike.
+4/4
+Ember Swallower
+{2}{R}{R}
+Creature — Elemental
+"{5}{R}{R}: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
+"When Ember Swallower becomes monstrous, each player sacrifices three lands."
+4/5
+Karametra's Acolyte
+{3}{G}
+Creature — Human Druid
+{T}: Add an amount of {G} equal to your devotion to green. (Each {G} in the mana costs of permanents you control counts toward your devotion to green.)
+1/4
+Nighthowler
+{1}{B}{B}
+Enchantment Creature — Horror
+"Bestow {2}{B}{B} (If you cast this card for its bestow cost, it’s an Aura spell with enchant creature. It becomes a creature again if it’s not attached to a creature.)"
+"Nighthowler and enchanted creature each get +X/+X, where X is the number of creature cards in all graveyards."
+0/0
+Phalanx Leader
+{W}{W}
+Creature — Human Soldier
+"Heroic — Whenever you cast a spell that targets Phalanx Leader, put a +1/+1 counter on each creature you control."
+1/1
+Shipbreaker Kraken
+{4}{U}{U}
+Creature — Kraken
+"{6}{U}{U}: Monstrosity 4. (If this creature isn’t monstrous, put four +1/+1 counters on it and it becomes monstrous.)"
+"When Shipbreaker Kraken becomes monstrous, tap up to four target creatures. Those creatures don’t untap during their controllers’ untap steps for as long as you control Shipbreaker Kraken."
+6/6
+Sylvan Caryatid
+{1}{G}
+Creature — Plant
+"Defender, hexproof"
+{T}: Add one mana of any color.
+0/3

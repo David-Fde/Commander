@@ -1,0 +1,40 @@
+Angel
+Token Creature — Angel
+Flying
+3/3
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Eldrazi Scion
+Token Creature — Eldrazi Scion
+Sacrifice this creature: Add {C}.
+1/1
+Elemental
+Token Creature — Elemental
+*/*
+Elemental
+Token Creature — Elemental
+3/1
+Plant
+Token Creature — Plant
+0/1
+Zombie
+Token Creature — Zombie
+2/2

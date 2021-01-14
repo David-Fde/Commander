@@ -1,0 +1,36 @@
+Avatar
+Token Creature — Avatar
+This creature’s power and toughness are each equal to your life total.
+*/*
+Beast
+Token Creature — Beast
+3/3
+Elemental
+Token Creature — Elemental
+4/4
+Elemental
+Token Creature — Elemental
+Flying
+4/4
+Elemental Shaman
+Token Creature — Elemental Shaman
+3/1
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Goblin Rogue
+Token Creature — Goblin Rogue
+1/1
+Kithkin Soldier
+Token Creature — Kithkin Soldier
+1/1
+Merfolk Wizard
+Token Creature — Merfolk Wizard
+1/1
+Shapeshifter
+Token Creature — Shapeshifter
+Changeling
+1/1
+Wolf
+Token Creature — Wolf
+2/2

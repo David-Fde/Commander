@@ -1,0 +1,12 @@
+Door of Destinies
+{4}
+Artifact
+"As Door of Destinies enters the battlefield, choose a creature type."
+"Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies."
+Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.
+Earwig Squad
+{3}{B}{B}
+Creature — Goblin Rogue
+Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+"When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent’s library for three cards and exile them. Then that player shuffles their library."
+5/3

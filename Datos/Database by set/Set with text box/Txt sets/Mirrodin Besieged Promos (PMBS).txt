@@ -1,0 +1,32 @@
+Black Sun's Zenith
+{X}{B}{B}
+Sorcery
+Put X -1/-1 counters on each creature. Shuffle Black Sun’s Zenith into its owner’s library.
+"Glissa, the Traitor"
+{B}{G}{G}
+Legendary Creature — Zombie Elf
+"First strike, deathtouch"
+"Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand."
+3/3
+Hero of Bladehold
+{2}{W}{W}
+Creature — Human Knight
+"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)"
+"Whenever Hero of Bladehold attacks, create two 1/1 white Soldier creature tokens that are tapped and attacking."
+3/4
+Mirran Crusader
+{1}{W}{W}
+Creature — Human Knight
+"Double strike, protection from black and from green"
+2/2
+Thopter Assembly
+{6}
+Artifact Creature — Thopter
+Flying
+"At the beginning of your upkeep, if you control no Thopters other than Thopter Assembly, return Thopter Assembly to its owner’s hand and create five 1/1 colorless Thopter artifact creature tokens with flying."
+5/5
+Treasure Mage
+{2}{U}
+Creature — Human Wizard
+"When Treasure Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 6 or greater, reveal it, put it into your hand, then shuffle your library."
+2/2

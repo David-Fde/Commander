@@ -1,0 +1,76 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Beast
+Token Creature — Beast
+3/3
+Beast
+Token Creature — Beast
+4/4
+Cat
+Token Creature — Cat
+2/2
+Copy
+Token
+(This token can be used to represent a token that’s a copy of a permanent.)
+Copy
+Token
+(This token can be used to represent a token that’s a copy of a permanent.)
+Dragon
+Token Creature — Dragon
+Flying
+{R}: This creature gets +1/+0 until end of turn.
+2/2
+Elephant
+Token Creature — Elephant
+3/3
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Golem
+Token Artifact Creature — Golem
+3/3
+Horror
+Token Artifact Creature — Horror
+*/*
+Illusion
+Token Creature — Illusion
+Flying
+1/1
+Plant
+Token Creature — Plant
+0/1
+Rock
+Token Artifact — Equipment
+"Equipped creature has “{1}, {T}, Sacrifice Rock: This creature deals 2 damage to any target.”"
+Equip {1}
+Salamander Warrior
+Token Creature — Salamander Warrior
+4/3
+Saproling
+Token Creature — Saproling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+The Monarch
+Card
+"At the beginning of your end step, draw a card."
+"Whenever a creature deals combat damage to you, its controller becomes the monarch."
+Thrull
+Token Creature — Thrull
+0/1
+Treasure
+Token Artifact — Treasure
+"{T}, Sacrifice this artifact: Add one mana of any color."
+Zombie
+Token Creature — Zombie
+2/2

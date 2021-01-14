@@ -1,0 +1,476 @@
+1999 World Championships Ad
+Card
+Albino Troll
+{1}{G}
+Creature — Troll
+"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+{1}{G}: Regenerate Albino Troll.
+3/3
+Ancient Tomb
+Land
+{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Ancient Tomb
+Land
+{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
+Arc Lightning
+{2}{R}
+Sorcery
+"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Arc Lightning
+{2}{R}
+Sorcery
+"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
+Avalanche Riders
+{3}{R}
+Creature — Human Nomad
+Haste
+"Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+"When Avalanche Riders enters the battlefield, destroy target land."
+2/2
+Blank Card
+Card
+Blank Card
+Card
+Boil
+{3}{R}
+Instant
+Destroy all Islands.
+Bottle Gnomes
+{3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+Bottle Gnomes
+{3}
+Artifact Creature — Gnome
+Sacrifice Bottle Gnomes: You gain 3 life.
+1/3
+Carrion Beetles
+{B}
+Creature — Insect
+"{2}{B}, {T}: Exile up to three target cards from a single graveyard."
+1/1
+Choke
+{2}{G}
+Enchantment
+Islands don’t untap during their controllers’ untap steps.
+City of Traitors
+Land
+"When you play another land, sacrifice City of Traitors."
+{T}: Add {C}{C}.
+Constant Mists
+{1}{G}
+Instant
+"Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Prevent all combat damage that would be dealt this turn.
+Corpse Dance
+{2}{B}
+Instant
+"Buyback {2} (You may pay an additional {2} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Return the top creature card of your graveyard to the battlefield. That creature gains haste until end of turn. Exile it at the beginning of the next end step.
+Covetous Dragon
+{4}{R}
+Creature — Dragon
+Flying
+"When you control no artifacts, sacrifice Covetous Dragon."
+6/5
+Cursed Scroll
+{1}
+Artifact
+"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Cursed Scroll
+{1}
+Artifact
+"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Cursed Scroll
+{1}
+Artifact
+"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Cursed Scroll
+{1}
+Artifact
+"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
+Dark Ritual
+{B}
+Instant
+Add {B}{B}{B}.
+Diabolic Edict
+{1}{B}
+Instant
+Target player sacrifices a creature.
+Duress
+{B}
+Sorcery
+"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Earthquake
+{X}{R}
+Sorcery
+Earthquake deals X damage to each creature without flying and each player.
+Elvish Lyrist
+{G}
+Creature — Elf
+"{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment."
+1/1
+Evincar's Justice
+{2}{B}{B}
+Sorcery
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Evincar’s Justice deals 2 damage to each creature and each player.
+Fire Diamond
+{2}
+Artifact
+Fire Diamond enters the battlefield tapped.
+{T}: Add {R}.
+Fireslinger
+{1}{R}
+Creature — Human Wizard
+{T}: Fireslinger deals 1 damage to any target and 1 damage to you.
+1/1
+Fireslinger
+{1}{R}
+Creature — Human Wizard
+{T}: Fireslinger deals 1 damage to any target and 1 damage to you.
+1/1
+Flowstone Flood
+{3}{R}
+Sorcery
+"Buyback—Pay 3 life, Discard a card at random. (You may pay 3 life and discard a card at random in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Destroy target land.
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Gaea's Cradle
+Legendary Land
+{T}: Add {G} for each creature you control.
+Ghitu Encampment
+Land
+Ghitu Encampment enters the battlefield tapped.
+{T}: Add {R}.
+{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It’s still a land. (It deals combat damage before creatures without first strike.)
+Giant Growth
+{G}
+Instant
+Target creature gets +3/+3 until end of turn.
+Grim Monolith
+{2}
+Artifact
+Grim Monolith doesn’t untap during your untap step.
+{T}: Add {C}{C}{C}.
+{4}: Untap Grim Monolith.
+Hammer of Bogardan
+{1}{R}{R}
+Sorcery
+Hammer of Bogardan deals 3 damage to any target.
+{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
+Hatred
+{3}{B}{B}
+Instant
+"As an additional cost to cast this spell, pay X life."
+Target creature gets +X/+0 until end of turn.
+Hurricane
+{X}{G}
+Sorcery
+Hurricane deals X damage to each creature with flying and each player.
+Jackal Pup
+{R}
+Creature — Jackal
+"Whenever Jackal Pup is dealt damage, it deals that much damage to you."
+2/1
+Jakub Šlemr Bio (1999)
+Card
+"1997 World Champion Jakub Šlemr came within two matches of becoming the first person to repeat as World Champion. The 22-year-old Prague native earned a flawless 6—0 resord during the Standard portion of the Swiss rounds. Šlemr, along with fellow teammate and quarterfinalist Gary Wise, played a mono-black deck coined “Black Control.” He used discard effects early with cards like Ravenous Rats, Duress, and Stupor. However, the majority of his deck was dedicated to board control with Cursed Scrolls, Powder Kegs, and Phyrexian Plaguelords."
+Jakub Šlemr Decklist (1999)
+Card
+Kai Budde Bio
+Card
+"Known as the “King of the Grand Prix,” Kai Budde earned an unprecedented three Grand Prix titles in 1999. Though he went only 4—2 during the Swiss portion of the World Championships, he cruised through the Final 8 to become the 1999 World Champion. The 19-year-old Köln, Germany native played a red-artifact deck that contained more than 30 artifacts. He used those artifacts to quickly generate huge amounts of mana, with which he could play a big creature like Masticore or Covetous Dragon. He would then finish off his opponent with a well-timed Wildfire."
+Kai Budde Decklist
+Card
+"Karn, Silver Golem"
+{5}
+Legendary Artifact Creature — Golem
+"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn."
+{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
+4/4
+Llanowar Elves
+{G}
+Creature — Elf Druid
+{T}: Add {G}.
+1/1
+Mark Le Pine Bio
+Card
+"Though only 17 years old, New Hampshire—native Mark Le Pine is a Pro Tour veteran. He has been with the Pro Tour since Atlanta ‘96 and has made the Top 8 three times (Mainz '97, Rome '98, and Worlds '99). Le Pine played an aggressive red deck called “Sped Red.” With his deck he applied pressure early with 11 fast creatures, then he’d shift into land-destruction mode with Wasteland, Stone Rain, Pillage, and Avalanche Riders. For the late game Le Pine used Cursed Scroll and Hammer of Bogardan to finish off his mana-crippled opponent."
+Mark Le Pine Decklist
+Card
+Masticore
+{4}
+Artifact Creature — Masticore
+"At the beginning of your upkeep, sacrifice Masticore unless you discard a card."
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.
+4/4
+Masticore
+{4}
+Artifact Creature — Masticore
+"At the beginning of your upkeep, sacrifice Masticore unless you discard a card."
+{2}: Masticore deals 1 damage to target creature.
+{2}: Regenerate Masticore.
+4/4
+Matt Linde Bio
+Card
+"Semifinalist Matt Linde is no stranger to high-level Magic® competition. The 18-year-old Maryland native was the 1998 U.S. National Champion. Linde played a very fast mono-green “Stompy” deck with 26 creatures—24 of which cost two mana or less to play. Supplementing this furious creature assault were four Rancors and four Giant Growths. Though the deck was designed to win by turn five, it did feature four Cursed Scrolls in case the game dragged on."
+Matt Linde Decklist
+Card
+Mishra's Helix
+{5}
+Artifact
+"{X}, {T}: Tap X target lands."
+Mishra's Helix
+{5}
+Artifact
+"{X}, {T}: Tap X target lands."
+Mogg Fanatic
+{R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+1/1
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Overrun
+{2}{G}{G}{G}
+Sorcery
+Creatures you control get +3/+3 and gain trample until end of turn.
+Perish
+{2}{B}
+Sorcery
+Destroy all green creatures. They can’t be regenerated.
+Persecute
+{2}{B}{B}
+Sorcery
+Choose a color. Target player reveals their hand and discards all cards of that color.
+Phyrexian Negator
+{2}{B}
+Creature — Horror
+Trample
+"Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
+5/5
+Phyrexian Negator
+{2}{B}
+Creature — Horror
+Trample
+"Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
+5/5
+Phyrexian Plaguelord
+{3}{B}{B}
+Creature — Carrier
+"{T}, Sacrifice Phyrexian Plaguelord: Target creature gets -4/-4 until end of turn."
+Sacrifice a creature: Target creature gets -1/-1 until end of turn.
+4/4
+Phyrexian Processor
+{4}
+Artifact
+"As Phyrexian Processor enters the battlefield, pay any amount of life."
+"{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
+Pillage
+{1}{R}{R}
+Sorcery
+Destroy target artifact or land. It can’t be regenerated.
+Pouncing Jaguar
+{G}
+Creature — Cat
+"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+2/2
+Powder Keg
+{2}
+Artifact
+"At the beginning of your upkeep, you may put a fuse counter on Powder Keg."
+"{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg."
+Rack and Ruin
+{2}{R}
+Instant
+Destroy two target artifacts.
+Rancor
+{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+"When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand."
+Rapid Decay
+{1}{B}
+Instant
+Exile up to three target cards from a single graveyard.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Rapid Decay
+{1}{B}
+Instant
+Exile up to three target cards from a single graveyard.
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+Ravenous Rats
+{1}{B}
+Creature — Rat
+"When Ravenous Rats enters the battlefield, target opponent discards a card."
+1/1
+River Boa
+{1}{G}
+Creature — Snake
+Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
+{G}: Regenerate River Boa.
+2/1
+Scald
+{1}{R}
+Enchantment
+"Whenever a player taps an Island for mana, Scald deals 1 damage to that player."
+Shattering Pulse
+{1}{R}
+Instant
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Destroy target artifact.
+Shattering Pulse
+{1}{R}
+Instant
+"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Destroy target artifact.
+Shock
+{R}
+Instant
+Shock deals 2 damage to any target.
+Spawning Pool
+Land
+Spawning Pool enters the battlefield tapped.
+{T}: Add {B}.
+"{1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with “{B}: Regenerate this creature” until end of turn. It’s still a land. (If it regenerates, the next time it would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+Spellshock
+{2}{R}
+Enchantment
+"Whenever a player casts a spell, Spellshock deals 2 damage to that player."
+Sphere of Resistance
+{2}
+Artifact
+Spells cost {1} more to cast.
+Stone Rain
+{2}{R}
+Sorcery
+Destroy target land.
+Stromgald Cabal
+{1}{B}{B}
+Creature — Human Knight
+"{T}, Pay 1 life: Counter target white spell."
+2/2
+Stupor
+{2}{B}
+Sorcery
+"Target opponent discards a card at random, then discards a card."
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Temporal Aperture
+{2}
+Artifact
+"{5}, {T}: Shuffle your library, then reveal the top card. Until end of turn, for as long as that card remains on top of your library, play with the top card of your library revealed and you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)"
+Thran Dynamo
+{4}
+Artifact
+{T}: Add {C}{C}{C}.
+Thran Foundry
+{1}
+Artifact
+"{1}, {T}, Exile Thran Foundry: Target player shuffles their graveyard into their library."
+Thran Foundry
+{1}
+Artifact
+"{1}, {T}, Exile Thran Foundry: Target player shuffles their graveyard into their library."
+Ticking Gnomes
+{3}
+Artifact Creature — Gnome
+"Echo {3} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+Sacrifice Ticking Gnomes: It deals 1 damage to any target.
+3/3
+Treetop Village
+Land
+Treetop Village enters the battlefield tapped.
+{T}: Add {G}.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)
+Uktabi Orangutan
+{2}{G}
+Creature — Ape
+"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+2/2
+Uktabi Orangutan
+{2}{G}
+Creature — Ape
+"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+2/2
+Vampiric Tutor
+{B}
+Instant
+"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+Volrath's Stronghold
+Legendary Land
+{T}: Add {C}.
+"{1}{B}, {T}: Put target creature card from your graveyard on top of your library."
+Voltaic Key
+{1}
+Artifact
+"{1}, {T}: Untap target artifact."
+Wasteland
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Wasteland
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+Weatherseed Treefolk
+{2}{G}{G}{G}
+Creature — Treefolk
+Trample
+"When Weatherseed Treefolk dies, return it to its owner’s hand."
+5/3
+Wild Dogs
+{G}
+Creature — Dog
+"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Wild Dogs."
+"Cycling {2} ({2}, Discard this card: Draw a card.)"
+2/1
+Wildfire
+{4}{R}{R}
+Sorcery
+Each player sacrifices four lands. Wildfire deals 4 damage to each creature.
+Worn Powerstone
+{3}
+Artifact
+Worn Powerstone enters the battlefield tapped.
+{T}: Add {C}{C}.
+Yawgmoth's Will
+{2}{B}
+Sorcery
+"Until end of turn, you may play lands and cast spells from your graveyard."
+"If a card would be put into your graveyard from anywhere this turn, exile that card instead."

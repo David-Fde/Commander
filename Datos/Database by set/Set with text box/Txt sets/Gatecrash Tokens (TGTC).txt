@@ -1,0 +1,28 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Cleric
+Token Creature — Cleric
+"{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
+1/1
+Domri Rade Emblem
+Emblem — Domri
+"Creatures you control have double strike, trample, hexproof, and haste."
+Frog Lizard
+Token Creature — Frog Lizard
+3/3
+Horror
+Token Creature — Horror
+Flying
+1/1
+Rat
+Token Creature — Rat
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1

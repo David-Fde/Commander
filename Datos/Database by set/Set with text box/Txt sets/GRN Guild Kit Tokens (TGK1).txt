@@ -1,0 +1,65 @@
+Copy
+Token
+Horror
+Token Creature — Horror
+Flying
+1/1
+Elemental
+Token Creature — Elemental
+Vigilance
+8/8
+Centaur
+Token Creature — Centaur
+3/3
+Goblin
+Token Creature — Goblin
+1/1
+Soldier
+Token Creature — Soldier
+Lifelink
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Elf Knight
+Token Creature — Elf Knight
+Vigilance
+2/2
+Saproling
+Token Creature — Saproling
+1/1
+Insect
+Token Creature — Insect
+Soldier
+Token Creature — Soldier
+1/1
+Goblin
+Token Creature — Goblin
+1/1
+Soldier
+Token Creature — Soldier
+Lifelink
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Voja
+Token Legendary Creature — Wolf
+2/2
+Saproling
+Token Creature — Saproling
+1/1
+Weird
+Token Creature — Weird
+"Defender, flying"
+3/3
+Goblin
+Token Creature — Goblin
+1/1
+Wurm
+Token Creature — Wurm
+Trample
+5/5
+Saproling
+Token Creature — Saproling
+1/1

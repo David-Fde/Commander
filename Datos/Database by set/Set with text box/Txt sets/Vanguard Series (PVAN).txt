@@ -1,0 +1,160 @@
+Ashnod
+Vanguard
+"Whenever a creature deals damage to you, destroy it."
+Hand Size: +1
+Starting Life: -8
+Barrin
+Vanguard
+Sacrifice a permanent: Return target creature to its owner’s hand.
+Hand Size: +0
+Starting Life: +6
+Crovax
+Vanguard
+"Whenever a creature you control deals damage to a creature or player, you gain 1 life."
+Hand Size: +2
+Starting Life: +0
+Eladamri
+Vanguard
+{0}: The next 1 damage that would be dealt to target creature you control is dealt to you instead.
+Hand Size: -1
+Starting Life: +15
+Ertai
+Vanguard
+Creatures you control have hexproof. (They can’t be the targets of spells or abilities your opponents control.)
+Hand Size: -1
+Starting Life: +4
+Gerrard
+Vanguard
+"At the beginning of your draw step, draw an additional card."
+Hand Size: -4
+Starting Life: +0
+Gix
+Vanguard
+{3}: Return target creature card from your graveyard to your hand.
+Hand Size: -2
+Starting Life: +18
+Greven il-Vec
+Vanguard
+"Whenever a creature you control deals damage to a creature, destroy the other creature. It can’t be regenerated."
+Hand Size: -1
+Starting Life: +2
+Hanna
+Vanguard
+Spells you cast cost {1} less to cast.
+Hand Size: +1
+Starting Life: -5
+Karn
+Vanguard
+Each noncreature artifact you control is an artifact creature with power and toughness each equal to its converted mana cost.
+Hand Size: +1
+Starting Life: +6
+Lyna
+Vanguard
+Creatures you control have shadow. (They can block and be blocked only by creatures with shadow.)
+Hand Size: +2
+Starting Life: -4
+Maraxus
+Vanguard
+Creatures you control get +1/+0.
+Hand Size: +1
+Starting Life: +2
+Mirri
+Vanguard
+"If a basic land you control is tapped for mana, it produces mana of a color of your choice instead of any other type."
+Hand Size: +0
+Starting Life: +5
+Mishra
+Vanguard
+"If a creature you control would deal damage, it deals double that damage instead."
+Hand Size: +0
+Starting Life: -3
+Multani
+Vanguard
+"Creatures you control get +X/+0, where X is the number of cards in your hand."
+Hand Size: -3
+Starting Life: -2
+Oracle
+Vanguard
+{0}: Untap target attacking creature you control and remove it from combat.
+Hand Size: +1
+Starting Life: +9
+Orim
+Vanguard
+Creatures you control have reach.
+Hand Size: +0
+Starting Life: +12
+Rofellos
+Vanguard
+"Whenever a creature you control dies, draw a card."
+Hand Size: -2
+Starting Life: +4
+Selenia
+Vanguard
+Creatures you control have vigilance.
+Hand Size: +1
+Starting Life: +7
+Serra
+Vanguard
+Creatures you control get +0/+2.
+Hand Size: +1
+Starting Life: +1
+Sidar Kondo
+Vanguard
+{3}: Target creature gets +3/+3 until end of turn.
+Hand Size: -1
+Starting Life: +12
+Sisay
+Vanguard
+"Whenever you tap a land for mana, add one mana of any type that land produced."
+Hand Size: -2
+Starting Life: -3
+"Sliver Queen, Brood Mother"
+Vanguard
+{3}: Create a 1/1 colorless Sliver creature token.
+Hand Size: +0
+Starting Life: +8
+Squee
+Vanguard
+Your opponents play with their hands revealed.
+Hand Size: +3
+Starting Life: -4
+Starke
+Vanguard
+"At the beginning of your draw step, you may draw an additional card. If you do, put a card from your hand on the bottom of your library."
+Hand Size: +0
+Starting Life: -2
+Tahngarth
+Vanguard
+Creatures you control have haste.
+Hand Size: -1
+Starting Life: +7
+Takara
+Vanguard
+Sacrifice a creature: Takara deals 1 damage to any target.
+Hand Size: +3
+Starting Life: -8
+Tawnos
+Vanguard
+"You may cast artifact, creature, and enchantment spells as though they had flash."
+Hand Size: +3
+Starting Life: -4
+Titania
+Vanguard
+You may play an additional land on each of your turns.
+Hand Size: +2
+Starting Life: -5
+Urza
+Vanguard
+{3}: Urza deals 1 damage to any target.
+Hand Size: -1
+Starting Life: +10
+Volrath
+Vanguard
+"Whenever a creature you control is put into your graveyard from the battlefield, you may put it on top of your library."
+Hand Size: +2
+Starting Life: -3
+Xantcha
+Vanguard
+Sacrifice a permanent: Regenerate target creature.
+Hand Size: +1
+Starting Life: +3

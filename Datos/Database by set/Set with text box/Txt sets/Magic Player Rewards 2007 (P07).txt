@@ -1,0 +1,28 @@
+Condemn
+{W}
+Instant
+Put target attacking creature on the bottom of its owner’s library. Its controller gains life equal to its toughness.
+Cruel Edict
+{1}{B}
+Sorcery
+Target opponent sacrifices a creature.
+Disenchant
+{1}{W}
+Instant
+Destroy target artifact or enchantment.
+Mortify
+{1}{W}{B}
+Instant
+Destroy target creature or enchantment.
+Psionic Blast
+{2}{U}
+Instant
+Psionic Blast deals 4 damage to any target and 2 damage to you.
+Recollect
+{2}{G}
+Sorcery
+Return target card from your graveyard to your hand.
+Wrath of God
+{2}{W}{W}
+Sorcery
+Destroy all creatures. They can’t be regenerated.

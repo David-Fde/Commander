@@ -1,0 +1,40 @@
+Chill
+{1}{U}
+Enchantment
+Red spells cost {2} more to cast.
+Duress
+{B}
+Sorcery
+"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
+Enlightened Tutor
+{W}
+Instant
+"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Island
+Basic Land — Island
+({T}: Add {U}.)
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+Pillage
+{1}{R}{R}
+Sorcery
+Destroy target artifact or land. It can’t be regenerated.
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Stupor
+{2}{B}
+Sorcery
+"Target opponent discards a card at random, then discards a card."
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Uktabi Orangutan
+{2}{G}
+Creature — Ape
+"When Uktabi Orangutan enters the battlefield, destroy target artifact."
+2/2

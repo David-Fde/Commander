@@ -1,0 +1,47 @@
+Aeronaut Tinkerer
+{2}{U}
+Creature — Human Artificer
+Aeronaut Tinkerer has flying as long as you control an artifact. (It can’t be blocked except by creatures with flying or reach.)
+2/3
+Bloodthrone Vampire
+{1}{B}
+Creature — Vampire
+Sacrifice a creature: Bloodthrone Vampire gets +2/+2 until end of turn.
+1/1
+Chandra's Fury
+{4}{R}
+Instant
+Chandra’s Fury deals 4 damage to target player or planeswalker and 1 damage to each creature that player or that planeswalker’s controller controls.
+Kor Skyfisher
+{1}{W}
+Creature — Kor Soldier
+Flying
+"When Kor Skyfisher enters the battlefield, return a permanent you control to its owner’s hand."
+2/3
+Merfolk Mesmerist
+{1}{U}
+Creature — Merfolk Wizard
+"{U}, {T}: Target player mills two cards."
+1/2
+Relentless Rats
+{1}{B}{B}
+Creature — Rat
+Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
+A deck can have any number of cards named Relentless Rats.
+2/2
+Shepherd of the Lost
+{4}{W}
+Creature — Angel
+"Flying, first strike, vigilance"
+3/3
+Stealer of Secrets
+{2}{U}
+Creature — Human Rogue
+"Whenever Stealer of Secrets deals combat damage to a player, draw a card."
+2/2
+Steward of Valeron
+{G}{W}
+Creature — Human Druid Knight
+Vigilance
+{T}: Add {G}.
+2/2

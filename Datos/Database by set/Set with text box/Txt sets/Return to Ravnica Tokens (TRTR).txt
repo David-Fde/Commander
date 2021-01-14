@@ -1,0 +1,43 @@
+Assassin
+Token Creature — Assassin
+"Whenever this creature deals combat damage to a player, that player loses the game."
+1/1
+Bird
+Token Creature — Bird
+Flying
+1/1
+Centaur
+Token Creature — Centaur
+3/3
+Dragon
+Token Creature — Dragon
+Flying
+6/6
+Elemental
+Token Creature — Elemental
+Vigilance
+8/8
+Goblin
+Token Creature — Goblin
+1/1
+Knight
+Token Creature — Knight
+Vigilance
+2/2
+Ooze
+Token Creature — Ooze
+*/*
+Rhino
+Token Creature — Rhino
+Trample
+4/4
+Saproling
+Token Creature — Saproling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Wurm
+Token Creature — Wurm
+Trample
+5/5

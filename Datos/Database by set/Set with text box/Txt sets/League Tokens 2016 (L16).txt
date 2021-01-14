@@ -1,0 +1,7 @@
+Servo
+Token Artifact Creature — Servo
+1/1
+Thopter
+Token Artifact Creature — Thopter
+Flying
+1/1

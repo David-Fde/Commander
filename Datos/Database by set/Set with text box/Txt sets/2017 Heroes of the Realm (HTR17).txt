@@ -1,0 +1,17 @@
+Diabolical Salvation
+{2}{R}{R}{R}{R}
+Instant
+Split second
+"Create four 4/4 red Devil creature tokens with haste and “When this creature dies, create a colorless Treasure artifact token with ‘{T}, Sacrifice this artifact: Add one mana of any color.’” Sacrifice the Devil tokens at the beginning of the next end step."
+"Inzerva, Master of Insights"
+{1}{2/U}{2/R}
+Legendary Planeswalker — Inzerva
+"+2: Draw two cards, then discard a card."
+"−2: Look at the top two cards of each other player’s library, then put any number of them on the bottom of that library and the rest on top in any order. Scry 2."
+"−4: You get an emblem with “Your opponents play with their hands revealed” and “Whenever an opponent draws a card, this emblem deals 1 damage to them.”"
+Loyalty: 4
+"M'Odo, the Gnarled Oracle"
+{B}{U}{G}
+Legendary Creature — Zombie Elf Wizard
+"Eminence — {X}, Discard a card: Target player reveals cards from the top of their library until they reveal a creature card with converted mana cost X or less. Put that card onto the battlefield under your control, then that player shuffles the rest into their library. Activate this ability only if M'Odo, the Gnarled Oracle is on the battlefield or in the command zone."
+0/3

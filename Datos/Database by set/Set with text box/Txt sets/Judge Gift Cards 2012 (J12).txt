@@ -1,0 +1,44 @@
+Centaur
+Token Creature — Centaur
+3/3
+Command Tower
+Land
+{T}: Add one mana of any color in your commander’s color identity.
+Flusterstorm
+{U}
+Instant
+Counter target instant or sorcery spell unless its controller pays {1}.
+"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
+Karakas
+Legendary Land
+{T}: Add {W}.
+{T}: Return target legendary creature to its owner’s hand.
+Karmic Guide
+{3}{W}{W}
+Creature — Angel Spirit
+"Flying, protection from black"
+"Echo {3}{W}{W} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+"When Karmic Guide enters the battlefield, return target creature card from your graveyard to the battlefield."
+2/2
+Noble Hierarch
+{G}
+Creature — Human Druid
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"{T}: Add {G}, {W}, or {U}."
+0/1
+Sneak Attack
+{3}{R}
+Enchantment
+{R}: You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice the creature at the beginning of the next end step.
+Sword of Light and Shadow
+{3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has protection from white and from black.
+"Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand."
+Equip {2}
+"Xiahou Dun, the One-Eyed"
+{2}{B}{B}
+Legendary Creature — Human Soldier
+Horsemanship (This creature can’t be blocked except by creatures with horsemanship.)
+"Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared."
+3/2

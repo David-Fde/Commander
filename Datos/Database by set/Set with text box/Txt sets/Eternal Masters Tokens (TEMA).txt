@@ -1,0 +1,53 @@
+Carnivore
+Token Creature — Beast
+3/1
+Dack Fayden Emblem
+Emblem — Dack
+"Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
+Dragon
+Token Creature — Dragon
+Flying
+{R}: This creature gets +1/+0 until end of turn.
+2/2
+Elemental
+Token Creature — Elemental
+1/1
+Elemental
+Token Creature — Elemental
+Flying
+5/5
+Elephant
+Token Creature — Elephant
+3/3
+Elf Warrior
+Token Creature — Elf Warrior
+1/1
+Goblin
+Token Creature — Goblin
+1/1
+Goblin Soldier
+Token Creature — Goblin Soldier
+1/1
+Serf
+Token Creature — Serf
+0/1
+Soldier
+Token Creature — Soldier
+1/1
+Spirit
+Token Creature — Spirit
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Wall
+Token Creature — Wall
+Defender
+5/5
+Wurm
+Token Creature — Wurm
+6/6
+Zombie
+Token Creature — Zombie
+2/2

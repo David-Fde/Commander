@@ -1,0 +1,35 @@
+"Chandra, Flamecaller"
+{4}{R}{R}
+Legendary Planeswalker — Chandra
++1: Create two 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+"0: Discard all the cards in your hand, then draw that many cards plus one."
+"−X: Chandra, Flamecaller deals X damage to each creature."
+Loyalty: 4
+"Gideon, Ally of Zendikar"
+{2}{W}{W}
+Legendary Planeswalker — Gideon
+"+1: Until end of turn, Gideon, Ally of Zendikar becomes a 5/5 Human Soldier Ally creature with indestructible that’s still a planeswalker. Prevent all damage that would be dealt to him this turn."
+0: Create a 2/2 white Knight Ally creature token.
+−4: You get an emblem with “Creatures you control get +1/+1.”
+Loyalty: 4
+"Jace, Unraveler of Secrets"
+{3}{U}{U}
+Legendary Planeswalker — Jace
+"+1: Scry 1, then draw a card."
+−2: Return target creature to its owner’s hand.
+"−8: You get an emblem with “Whenever an opponent casts their first spell each turn, counter that spell.”"
+Loyalty: 5
+"Liliana, the Last Hope"
+{1}{B}{B}
+Legendary Planeswalker — Liliana
++1: Up to one target creature gets -2/-1 until your next turn.
+"−2: Mill two cards, then you may return a creature card from your graveyard to your hand."
+"−7: You get an emblem with “At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.”"
+Loyalty: 3
+"Nissa, Voice of Zendikar"
+{1}{G}{G}
+Legendary Planeswalker — Nissa
++1: Create a 0/1 green Plant creature token.
+−2: Put a +1/+1 counter on each creature you control.
+"−7: You gain X life and draw X cards, where X is the number of lands you control."
+Loyalty: 3

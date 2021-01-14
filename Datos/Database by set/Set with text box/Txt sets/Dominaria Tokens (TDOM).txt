@@ -1,0 +1,56 @@
+Cleric
+Token Creature — Cleric
+0/1
+Construct
+Token Artifact Creature — Construct
+This creature gets +1/+1 for each artifact you control.
+0/0
+Demon
+Token Creature — Demon
+"Flying, trample"
+"At the beginning of your upkeep, sacrifice another creature. If you can’t, this creature deals 6 damage to you."
+6/6
+Elemental
+Token Creature — Elemental
+"Trample, haste"
+3/1
+Goblin
+Token Creature — Goblin
+1/1
+Jaya Ballard Emblem
+Emblem — Jaya
+"You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."
+Karox Bladewing
+Token Legendary Creature — Dragon
+Flying
+4/4
+Knight
+Token Creature — Knight
+Vigilance
+2/2
+Knight
+Token Creature — Knight
+Vigilance
+2/2
+Nightmare Horror
+Token Creature — Nightmare Horror
+*/*
+Saproling
+Token Creature — Saproling
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Saproling
+Token Creature — Saproling
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+"Teferi, Hero of Dominaria Emblem"
+Emblem — Teferi
+"Whenever you draw a card, exile target permanent an opponent controls."
+Zombie Knight
+Token Creature — Zombie Knight
+Menace (This creature can’t be blocked except by two or more creatures.)
+2/2

@@ -1,0 +1,21 @@
+The Avenger
+Hero
+"{3}, {T}: Target creature you control gains deathtouch until end of turn."
+The Harvester
+Hero
+"{T}: Draw a card, then discard a card."
+The Hunter
+Hero
+{T}: Target creature you control gets +1/+1 until end of turn.
+The Philosopher
+Hero
+"{2}, {T}: Tap target creature."
+The Protector
+Hero
+{T}: Prevent the next 1 damage that would be dealt to any target this turn.
+The Slayer
+Hero
+You start the game with an additional 7 life.
+The Warrior
+Hero
+{T}: Target creature you control gains haste until end of turn.

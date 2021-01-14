@@ -1,0 +1,29 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Demon
+Token Creature — Demon
+Flying
+5/5
+Human
+Token Creature — Human
+1/1
+Human
+Token Creature — Human
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+"Tamiyo, the Moon Sage Emblem"
+Emblem — Tamiyo
+You have no maximum hand size.
+"Whenever a card is put into your graveyard from anywhere, you may return it to your hand."
+Zombie
+Token Creature — Zombie
+2/2

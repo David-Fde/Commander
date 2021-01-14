@@ -1,0 +1,74 @@
+Chasm Skulker
+{2}{U}
+Creature — Squid Horror
+"Whenever you draw a card, put a +1/+1 counter on Chasm Skulker."
+"When Chasm Skulker dies, create X 1/1 blue Squid creature tokens with islandwalk, where X is the number of +1/+1 counters on Chasm Skulker. (They can’t be blocked as long as defending player controls an Island.)"
+1/1
+Chief Engineer
+{1}{U}
+Creature — Vedalken Artificer
+Artifact spells you cast have convoke. (Your creatures can help cast those spells. Each creature you tap while casting an artifact spell pays for {1} or one mana of that creature’s color.)
+1/3
+Goblin Rabblemaster
+{2}{R}
+Creature — Goblin Warrior
+Other Goblin creatures you control attack each combat if able.
+"At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste."
+"Whenever Goblin Rabblemaster attacks, it gets +1/+0 until end of turn for each other attacking Goblin."
+2/2
+Indulgent Tormentor
+{3}{B}{B}
+Creature — Demon
+Flying
+"At the beginning of your upkeep, draw a card unless target opponent sacrifices a creature or pays 3 life."
+5/3
+In Garruk's Wake
+{7}{B}{B}
+Sorcery
+Destroy all creatures you don’t control and all planeswalkers you don’t control.
+In Garruk's Wake
+{7}{B}{B}
+Sorcery
+Destroy all creatures you don’t control and all planeswalkers you don’t control.
+Mercurial Pretender
+{4}{U}
+Creature — Shapeshifter
+"You may have Mercurial Pretender enter the battlefield as a copy of a creature you control, except it has “{2}{U}{U}: Return this creature to its owner’s hand.”"
+0/0
+"Ob Nixilis, Unshackled"
+{4}{B}{B}
+Legendary Creature — Demon
+"Flying, trample"
+"Whenever an opponent searches their library, that player sacrifices a creature and loses 10 life."
+"Whenever another creature dies, put a +1/+1 counter on Ob Nixilis, Unshackled."
+4/4
+Phytotitan
+{4}{G}{G}
+Creature — Plant Elemental
+"When Phytotitan dies, return it to the battlefield tapped under its owner’s control at the beginning of their next upkeep."
+7/2
+Reclamation Sage
+{2}{G}
+Creature — Elf Shaman
+"When Reclamation Sage enters the battlefield, you may destroy target artifact or enchantment."
+2/1
+Resolute Archangel
+{5}{W}{W}
+Creature — Angel
+Flying
+"When Resolute Archangel enters the battlefield, if your life total is less than your starting life total, it becomes equal to your starting life total."
+4/4
+Siege Dragon
+{5}{R}{R}
+Creature — Dragon
+Flying
+"When Siege Dragon enters the battlefield, destroy all Walls your opponents control."
+"Whenever Siege Dragon attacks, if defending player controls no Walls, it deals 2 damage to each creature without flying that player controls."
+5/5
+Soul of New Phyrexia
+{6}
+Artifact Creature — Avatar
+Trample
+{5}: Permanents you control gain indestructible until end of turn.
+"{5}, Exile Soul of New Phyrexia from your graveyard: Permanents you control gain indestructible until end of turn."
+6/6

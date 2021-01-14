@@ -1,0 +1,66 @@
+Albino Troll
+{1}{G}
+Creature — Troll
+"Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
+{1}{G}: Regenerate Albino Troll.
+3/3
+Aura of Silence
+{1}{W}{W}
+Enchantment
+Artifact and enchantment spells your opponents cast cost {2} more to cast.
+Sacrifice Aura of Silence: Destroy target artifact or enchantment.
+Black Knight
+{B}{B}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from white (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything white.)"
+2/2
+Dissipate
+{1}{U}{U}
+Instant
+"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard."
+Drain Life
+{X}{1}{B}
+Sorcery
+Spend only black mana on X.
+"Drain Life deals X damage to any target. You gain life equal to the damage dealt, but not more life than the player’s life total before the damage was dealt, the planeswalker’s loyalty before the damage was dealt, or the creature’s toughness."
+Fireslinger
+{1}{R}
+Creature — Human Wizard
+{T}: Fireslinger deals 1 damage to any target and 1 damage to you.
+1/1
+Forbid
+{1}{U}{U}
+Instant
+"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
+Counter target spell.
+Mogg Fanatic
+{R}
+Creature — Goblin
+Sacrifice Mogg Fanatic: It deals 1 damage to any target.
+1/1
+Soltari Priest
+{W}{W}
+Creature — Soltari Cleric
+Protection from red
+Shadow (This creature can block or be blocked by only creatures with shadow.)
+2/1
+Spike Feeder
+{1}{G}{G}
+Creature — Spike
+Spike Feeder enters the battlefield with two +1/+1 counters on it.
+"{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature."
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
+0/0
+Wall of Blossoms
+{1}{G}
+Creature — Plant Wall
+Defender
+"When Wall of Blossoms enters the battlefield, draw a card."
+0/4
+White Knight
+{W}{W}
+Creature — Human Knight
+First strike (This creature deals combat damage before creatures without first strike.)
+"Protection from black (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything black.)"
+2/2

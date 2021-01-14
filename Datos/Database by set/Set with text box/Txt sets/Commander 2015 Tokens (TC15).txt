@@ -1,0 +1,87 @@
+Angel
+Token Creature — Angel
+Flying
+4/4
+Bear
+Token Creature — Bear
+2/2
+Beast
+Token Creature — Beast
+4/4
+Cat
+Token Creature — Cat
+2/2
+Dragon
+Token Creature — Dragon
+Flying
+5/5
+Drake
+Token Creature — Drake
+Flying
+2/2
+Elemental
+Token Creature — Elemental
+Flying
+5/5
+Elemental Shaman
+Token Creature — Elemental Shaman
+3/1
+Elephant
+Token Creature — Elephant
+3/3
+Experience
+Card
+(Place your experience counters here.)
+Frog Lizard
+Token Creature — Frog Lizard
+3/3
+Germ
+Token Creature — Germ
+0/0
+Gold
+Token Artifact — Gold
+Sacrifice this artifact: Add one mana of any color.
+Knight
+Token Creature — Knight
+First strike
+2/2
+Knight
+Token Creature — Knight
+Vigilance
+2/2
+Lightning Rager
+Token Creature — Elemental
+"Trample, haste"
+"At the beginning of the end step, sacrifice this creature."
+5/1
+Saproling
+Token Creature — Saproling
+1/1
+Shapeshifter
+Token Creature — Shapeshifter
+Changeling
+1/1
+Snake
+Token Creature — Snake
+1/1
+Snake
+Token Creature — Snake
+1/1
+Spider
+Token Creature — Spider
+Reach
+1/2
+Spirit
+Token Enchantment Creature — Spirit
+This creature’s power and toughness are each equal to the number of experience counters you have.
+*/*
+Spirit
+Token Creature — Spirit
+Flying
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2

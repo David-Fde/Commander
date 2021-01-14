@@ -1,0 +1,14 @@
+Argothian Enchantress
+{1}{G}
+Creature — Human Druid
+Shroud (This creature can’t be the target of spells or abilities.)
+"Whenever you cast an enchantment spell, draw a card."
+0/1
+Intuition
+{2}{U}
+Instant
+Search your library for three cards and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. Then shuffle your library.
+Living Death
+{3}{B}{B}
+Sorcery
+"Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."

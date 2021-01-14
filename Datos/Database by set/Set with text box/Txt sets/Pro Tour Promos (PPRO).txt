@@ -1,0 +1,147 @@
+Aether Vial
+{1}
+Artifact
+"At the beginning of your upkeep, you may put a charge counter on Aether Vial."
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Aether Vial from your hand onto the battlefield.
+Ajani Goldmane
+{2}{W}{W}
+Legendary Planeswalker — Ajani
++1: You gain 2 life.
+−1: Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.
+−6: Create a white Avatar creature token. It has “This creature’s power and toughness are each equal to your life total.”
+Loyalty: 4
+Arcbound Ravager
+{2}
+Artifact Creature — Beast
+Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+"Modular 1 (This creature enters the battlefield with a +1/+1 counter on it. When it dies, you may put its +1/+1 counters on target artifact creature.)"
+0/0
+Avatar of Woe
+{6}{B}{B}
+Creature — Avatar
+"If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast."
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can’t be regenerated.
+6/5
+Cryptic Command
+{1}{U}{U}{U}
+Instant
+Choose two —
+• Counter target spell.
+• Return target permanent to its owner’s hand.
+• Tap all creatures your opponents control.
+• Draw a card.
+太陽の宿敵、エルズペス
+{2}{W}{W}
+伝説のプレインズウォーカー — エルズペス
+-1：あなたがコントロールしているクリーチャー最大２体を対象とする。ターン終了時まで、それらはそれぞれ＋２/＋１の修整を受ける。
+-2：白の１/１の人間・兵士・クリーチャー・トークンを２体生成する。
+-3：あなたは５点のライフを得る。
+"脱出―{4}{W}{W}, あなたの墓地から他のカード４枚を追放する。（あなたはあなたの墓地から、このカードをこれの脱出コストで唱えてもよい。）"
+Loyalty: 5
+"Emrakul, the Aeons Torn"
+{15}
+Legendary Creature — Eldrazi
+This spell can’t be countered.
+"When you cast this spell, take an extra turn after this one."
+"Flying, protection from colored spells, annihilator 6"
+"When Emrakul, the Aeons Torn is put into a graveyard from anywhere, its owner shuffles their graveyard into their library."
+15/15
+Eternal Dragon
+{5}{W}{W}
+Creature — Dragon Spirit
+Flying
+{3}{W}{W}: Return Eternal Dragon from your graveyard to your hand. Activate this ability only during your upkeep.
+"Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
+5/5
+実験の狂乱
+{3}{R}
+エンチャント
+あなたはいつでもあなたのライブラリーの一番上のカードを見てもよい。
+あなたはあなたのライブラリーの一番上のカードをプレイしてもよい。
+あなたはあなたの手札からカードをプレイすることはできない。
+{3}{R}：実験の狂乱を破壊する。
+願いのフェイ
+{1}{U}
+クリーチャー — フェアリー・ウィザード
+飛行
+"{1}{U}, カード２枚を捨てる：願いのフェイをオーナーの手札に戻す。"
+1/4
+成就
+{3}{U}
+ソーサリー ― 出来事
+あなたは、ゲームの外部からあなたがオーナーでありクリーチャーでないカード１枚を選び、それを公開してあなたの手札に加えてもよい。
+戦慄衆の将軍、リリアナ
+{4}{B}{B}
+伝説のプレインズウォーカー — リリアナ
+あなたがコントロールしているクリーチャーが１体死亡するたび、カードを１枚引く。
++1：黒の２/２のゾンビ・クリーチャー・トークンを１体生成する。
+-4：各プレイヤーはそれぞれクリーチャー２体を生け贄に捧げる。
+-9：各対戦相手はそれぞれ、パーマネント・タイプ１つにつき、そのタイプであり自分がコントロールしているパーマネント１つを選び、残りを生け贄に捧げる。
+Loyalty: 6
+Liliana of the Veil
+{1}{B}{B}
+Legendary Planeswalker — Liliana
++1: Each player discards a card.
+−2: Target player sacrifices a creature.
+−6: Separate all permanents target player controls into two piles. That player sacrifices all permanents in the pile of their choice.
+Loyalty: 3
+Mirari's Wake
+{3}{G}{W}
+Enchantment
+Creatures you control get +1/+1.
+"Whenever you tap a land for mana, add one mana of any type that land produced."
+神秘の論争
+{2}{U}
+インスタント
+この呪文が青の呪文を対象とするなら、これを唱えるためのコストは{2}少なくなる。
+呪文１つを対象とする。それのコントローラーが{3}を支払わないかぎり、それを打ち消す。
+覆いを割く者、ナーセット
+{1}{U}{U}
+伝説のプレインズウォーカー — ナーセット
+各ターン、各対戦相手はそれぞれ、カードを２枚以上引くことができない。
+-2：あなたのライブラリーの一番上からカードを４枚見る。あなたはその中からクリーチャーでも土地でもないカード１枚を公開してあなたの手札に加えてもよい。残りをあなたのライブラリーの一番下に無作為の順番で置く。
+Loyalty: 5
+世界を揺るがす者、ニッサ
+{3}{G}{G}
+伝説のプレインズウォーカー — ニッサ
+あなたがマナを引き出す目的で森をタップするたび、追加で{G}を加える。
++1：あなたがコントロールしていてクリーチャーでない土地最大１つを対象とし、それの上に＋１/＋１カウンターを３個置く。それをアンタップする。それは警戒と速攻を持つ０/０のエレメンタル・クリーチャーになる。それは土地でもある。
+-8：あなたは「あなたがコントロールしている土地は破壊不能を持つ。」を持つ紋章を得る。あなたのライブラリーから森・カード望む枚数を探し、それらをタップ状態で戦場に出し、その後あなたのライブラリーを切り直す。
+Loyalty: 5
+Noble Hierarch
+{G}
+Creature — Human Druid
+"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
+"{T}: Add {G}, {W}, or {U}."
+0/1
+プテラマンダー
+{U}
+クリーチャー — サラマンダー・ドレイク
+飛行
+{7}{U}：順応４を行う。この能力を起動するためのコストは、あなたの墓地にありインスタントかソーサリーであるカード１枚につき{1}少なくなる。（このクリーチャーの上に＋１/＋１カウンターが置かれていないなら、これの上に＋１/＋１カウンターを４個置く。）
+1/1
+Snapcaster Mage
+{1}{U}
+Creature — Human Wizard
+Flash
+"When Snapcaster Mage enters the battlefield, target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (You may cast that card from your graveyard for its flashback cost. Then exile it.)"
+2/1
+Surgical Extraction
+{B/P}
+Instant
+({B/P} can be paid with either {B} or 2 life.)
+"Choose target card in a graveyard other than a basic land card. Search its owner’s graveyard, hand, and library for any number of cards with the same name as that card and exile them. Then that player shuffles their library."
+"Treva, the Renewer"
+{3}{G}{W}{U}
+Legendary Creature — Dragon
+Flying
+"Whenever Treva, the Renewer deals combat damage to a player, you may pay {2}{W}. If you do, choose a color, then you gain 1 life for each permanent of that color."
+6/6
+ゴルガリの女王、ヴラスカ
+{2}{B}{G}
+伝説のプレインズウォーカー — ヴラスカ
++2：あなたは他のパーマネント１つを生け贄に捧げてもよい。そうしたなら、あなたは１点のライフを得て、カードを１枚引く。
+-3：点数で見たマナ・コストが３以下で土地でないパーマネント１つを対象とし、それを破壊する。
+-9：あなたは「あなたがコントロールしているクリーチャー１体がプレイヤー１人に戦闘ダメージを与えるたび、そのプレイヤーはこのゲームに敗北する。」を持つ紋章を得る。
+Loyalty: 4

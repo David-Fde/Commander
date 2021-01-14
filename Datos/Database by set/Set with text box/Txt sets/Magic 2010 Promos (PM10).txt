@@ -1,0 +1,26 @@
+Ant Queen
+{3}{G}{G}
+Creature — Insect
+{1}{G}: Create a 1/1 green Insect creature token.
+5/5
+Honor of the Pure
+{1}{W}
+Enchantment
+White creatures you control get +1/+1.
+Mycoid Shepherd
+{1}{G}{G}{W}
+Creature — Fungus
+"Whenever Mycoid Shepherd or another creature you control with power 5 or greater dies, you may gain 5 life."
+5/4
+Naya Sojourners
+{2}{R}{G}{W}
+Creature — Elf Shaman
+"When you cycle Naya Sojourners or it dies, you may put a +1/+1 counter on target creature."
+"Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)"
+5/3
+Vampire Nocturnus
+{1}{B}{B}{B}
+Creature — Vampire
+Play with the top card of your library revealed.
+"As long as the top card of your library is black, Vampire Nocturnus and other Vampire creatures you control get +2/+1 and have flying."
+3/3

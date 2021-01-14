@@ -1,0 +1,26 @@
+Avatar
+Token Creature — Avatar
+This creature’s power and toughness are each equal to your life total.
+*/*
+Beast
+Token Creature — Beast
+3/3
+Gargoyle
+Token Artifact Creature — Gargoyle
+Flying
+3/4
+Goblin
+Token Creature — Goblin
+1/1
+Insect
+Token Creature — Insect
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Wolf
+Token Creature — Wolf
+2/2
+Zombie
+Token Creature — Zombie
+2/2

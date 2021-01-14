@@ -1,0 +1,50 @@
+Badlands
+Land — Swamp Mountain
+({T}: Add {B} or {R}.)
+Bayou
+Land — Swamp Forest
+({T}: Add {B} or {G}.)
+Brainstorm
+{U}
+Instant
+"Draw three cards, then put two cards from your hand on top of your library in any order."
+City of Traitors
+Land
+"When you play another land, sacrifice City of Traitors."
+{T}: Add {C}{C}.
+Force of Will
+{3}{U}{U}
+Instant
+You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
+Counter target spell.
+Gaea's Cradle
+Legendary Land
+{T}: Add {G} for each creature you control.
+Plateau
+Land — Mountain Plains
+({T}: Add {R} or {W}.)
+Savannah
+Land — Forest Plains
+({T}: Add {G} or {W}.)
+Scrubland
+Land — Plains Swamp
+({T}: Add {W} or {B}.)
+Taiga
+Land — Mountain Forest
+({T}: Add {R} or {G}.)
+Tropical Island
+Land — Forest Island
+({T}: Add {G} or {U}.)
+Tundra
+Land — Plains Island
+({T}: Add {W} or {U}.)
+Underground Sea
+Land — Island Swamp
+({T}: Add {U} or {B}.)
+Volcanic Island
+Land — Island Mountain
+({T}: Add {U} or {R}.)
+Wasteland
+Land
+{T}: Add {C}.
+"{T}, Sacrifice Wasteland: Destroy target nonbasic land."

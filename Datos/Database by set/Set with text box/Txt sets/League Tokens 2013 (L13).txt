@@ -1,0 +1,13 @@
+Bird
+Token Creature — Bird
+Flying
+1/1
+Sliver
+Token Creature — Sliver
+1/1
+Soldier
+Token Creature — Soldier
+1/1
+Soldier
+Token Creature — Soldier
+1/1

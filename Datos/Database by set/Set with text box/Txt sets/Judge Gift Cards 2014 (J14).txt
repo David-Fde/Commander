@@ -1,0 +1,66 @@
+"|Ducg,norn gSeDZaOnobt."
+{5}{W}{W}
+|MewkfuDs psewtr.
+"|zvEpnrYhm. |su,Lecc,CF,CsYPYcs,usFPuuDs2\2MEtepuC."
+"|su,CF,FsnUUCA,CsYPuc,suPuuDs3\3MEtepuC."
+4/7
+Force of Will
+{3}{U}{U}
+Instant
+You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
+Counter target spell.
+Forest
+Basic Land — Forest
+({T}: Add {G}.)
+Greater Good
+{2}{G}{G}
+Enchantment
+"Sacrifice a creature: Draw cards equal to the sacrificed creature’s power, then discard three cards."
+"Hanna, Ship's Navigator"
+{1}{W}{U}
+Legendary Creature — Human Artificer
+"{1}{W}{U}, {T}: Return target artifact or enchantment card from your graveyard to your hand."
+1/2
+Island
+Basic Land — Island
+({T}: Add {U}.)
+"Karador, Ghost Chieftain"
+{5}{W}{B}{G}
+Legendary Creature — Centaur Spirit
+This spell costs {1} less to cast for each creature card in your graveyard.
+"During each of your turns, you may cast a creature spell from your graveyard."
+3/4
+Mountain
+Basic Land — Mountain
+({T}: Add {R}.)
+"Nekusar, the Mindrazer"
+{2}{U}{B}{R}
+Legendary Creature — Zombie Wizard
+"At the beginning of each player’s draw step, that player draws an additional card."
+"Whenever an opponent draws a card, Nekusar, the Mindrazer deals 1 damage to that player."
+2/4
+"Oloro, Ageless Ascetic"
+{3}{W}{U}{B}
+Legendary Creature — Giant Soldier
+"At the beginning of your upkeep, you gain 2 life."
+"Whenever you gain life, you may pay {1}. If you do, draw a card and each opponent loses 1 life."
+"At the beginning of your upkeep, if Oloro, Ageless Ascetic is in the command zone, you gain 2 life."
+4/5
+Plains
+Basic Land — Plains
+({T}: Add {W}.)
+Riku of Two Reflections
+{2}{G}{U}{R}
+Legendary Creature — Human Wizard
+"Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy."
+"Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that’s a copy of that creature."
+2/2
+Swamp
+Basic Land — Swamp
+({T}: Add {B}.)
+Sword of Feast and Famine
+{3}
+Artifact — Equipment
+Equipped creature gets +2/+2 and has protection from black and from green.
+"Whenever equipped creature deals combat damage to a player, that player discards a card and you untap all lands you control."
+Equip {2}

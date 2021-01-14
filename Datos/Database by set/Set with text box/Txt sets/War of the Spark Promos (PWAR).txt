@@ -1,0 +1,1047 @@
+"Ajani, the Greathearted"
+{2}{G}{W}
+Legendary Planeswalker — Ajani
+Creatures you control have vigilance.
++1: You gain 3 life.
+−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+Loyalty: 5
+"Ajani, the Greathearted"
+{2}{G}{W}
+Legendary Planeswalker — Ajani
+Creatures you control have vigilance.
++1: You gain 3 life.
+−2: Put a +1/+1 counter on each creature you control and a loyalty counter on each other planeswalker you control.
+Loyalty: 5
+寛大なる者、アジャニ
+{2}{G}{W}
+伝説のプレインズウォーカー — アジャニ
+あなたがコントロールしているクリーチャーは警戒を持つ。
++1：あなたは３点のライフを得る。
+-2：あなたがコントロールしている各クリーチャーの上に＋１/＋１カウンターをそれぞれ１個と、あなたがコントロールしている他の各プレインズウォーカーの上に忠誠カウンターをそれぞれ１個置く。
+Loyalty: 5
+"Angrath, Captain of Chaos"
+{2}{B/R}{B/R}
+Legendary Planeswalker — Angrath
+Creatures you control have menace.
+"−2: Amass 2. (Put two +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+Loyalty: 5
+混沌の船長、アングラス
+{2}{B/R}{B/R}
+伝説のプレインズウォーカー — アングラス
+あなたがコントロールしているクリーチャーは威迫を持つ。
+-2：動員２を行う。（あなたがコントロールしている軍団１体の上に＋１/＋１カウンターを２個置く。あなたが軍団をコントロールしていないなら、その前に、黒の０/０のゾンビ・軍団・クリーチャー・トークンを１体生成する。）
+Loyalty: 5
+"Arlinn, Voice of the Pack"
+{4}{G}{G}
+Legendary Planeswalker — Arlinn
+Each creature you control that’s a Wolf or a Werewolf enters the battlefield with an additional +1/+1 counter on it.
+−2: Create a 2/2 green Wolf creature token.
+Loyalty: 7
+群れの声、アーリン
+{4}{G}{G}
+伝説のプレインズウォーカー — アーリン
+あなたがコントロールしていて狼か狼男である各クリーチャーは、それぞれ＋１/＋１カウンターが追加で１個置かれた状態で戦場に出る。
+-2：緑の２/２の狼・クリーチャー・トークンを１体生成する。
+Loyalty: 7
+"Ashiok, Dream Render"
+{1}{U/B}{U/B}
+Legendary Planeswalker — Ashiok
+Spells and abilities your opponents control can’t cause their controller to search their library.
+−1: Target player mills four cards. Then exile each opponent’s graveyard.
+Loyalty: 5
+夢を引き裂く者、アショク
+{1}{U/B}{U/B}
+伝説のプレインズウォーカー — アショク
+対戦相手がコントロールしている呪文や能力は、それのコントローラーにそのプレイヤーのライブラリーからカードを探させることができない。
+-1：プレイヤー１人を対象とする。そのプレイヤーは自分のライブラリーの一番上からカードを４枚自分の墓地に置く。その後、各対戦相手の墓地を追放する。
+Loyalty: 5
+Augur of Bolas
+{1}{U}
+Creature — Merfolk Wizard
+"When Augur of Bolas enters the battlefield, look at the top three cards of your library. You may reveal an instant or sorcery card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
+1/3
+Awakening of Vitu-Ghazi
+{3}{G}{G}
+Instant
+Put nine +1/+1 counters on target land you control. It becomes a legendary 0/0 Elemental creature with haste named Vitu-Ghazi. It’s still a land.
+Bioessence Hydra
+{3}{G}{U}
+Creature — Hydra Mutant
+Trample
+Bioessence Hydra enters the battlefield with a +1/+1 counter on it for each loyalty counter on planeswalkers you control.
+"Whenever one or more loyalty counters are put on planeswalkers you control, put that many +1/+1 counters on Bioessence Hydra."
+4/4
+Blast Zone
+Land
+Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+"{X}{X}, {T}: Put X charge counters on Blast Zone."
+"{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone."
+Blast Zone
+Land
+Blast Zone enters the battlefield with a charge counter on it.
+{T}: Add {C}.
+"{X}{X}, {T}: Put X charge counters on Blast Zone."
+"{3}, {T}, Sacrifice Blast Zone: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Blast Zone."
+Bolas's Citadel
+{3}{B}{B}{B}
+Legendary Artifact
+You may look at the top card of your library any time.
+"You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost."
+"{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life."
+Bolas's Citadel
+{3}{B}{B}{B}
+Legendary Artifact
+You may look at the top card of your library any time.
+"You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost."
+"{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life."
+Bolas's Citadel
+{3}{B}{B}{B}
+Legendary Artifact
+You may look at the top card of your library any time.
+"You may play lands and cast spells from the top of your library. If you cast a spell this way, pay life equal to its converted mana cost rather than pay its mana cost."
+"{T}, Sacrifice ten nonland permanents: Each opponent loses 10 life."
+Casualties of War
+{2}{B}{B}{G}{G}
+Sorcery
+Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.
+Casualties of War
+{2}{B}{B}{G}{G}
+Sorcery
+Choose one or more —
+• Destroy target artifact.
+• Destroy target creature.
+• Destroy target enchantment.
+• Destroy target land.
+• Destroy target planeswalker.
+"Chandra, Fire Artisan"
+{2}{R}{R}
+Legendary Planeswalker — Chandra
+"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker."
++1: Exile the top card of your library. You may play it this turn.
+−7: Exile the top seven cards of your library. You may play them this turn.
+Loyalty: 4
+"Chandra, Fire Artisan"
+{2}{R}{R}
+Legendary Planeswalker — Chandra
+"Whenever one or more loyalty counters are removed from Chandra, Fire Artisan, she deals that much damage to target opponent or planeswalker."
++1: Exile the top card of your library. You may play it this turn.
+−7: Exile the top seven cards of your library. You may play them this turn.
+Loyalty: 4
+炎の職工、チャンドラ
+{2}{R}{R}
+伝説のプレインズウォーカー — チャンドラ
+炎の職工、チャンドラの上から忠誠カウンターが１個以上取り除かれるたび、対戦相手１人かプレインズウォーカー１体を対象とする。これはそれにその個数に等しい点数のダメージを与える。
++1：あなたのライブラリーの一番上のカードを追放する。このターン、あなたはそれをプレイしてもよい。
+-7：あなたのライブラリーの一番上からカードを７枚追放する。このターン、あなたはそれらをプレイしてもよい。
+Loyalty: 4
+Command the Dreadhorde
+{4}{B}{B}
+Sorcery
+Choose any number of target creature and/or planeswalker cards in graveyards. Command the Dreadhorde deals damage to you equal to the total converted mana cost of those cards. Put them onto the battlefield under your control.
+Commence the Endgame
+{4}{U}{U}
+Instant
+This spell can’t be countered.
+"Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+Commence the Endgame
+{4}{U}{U}
+Instant
+This spell can’t be countered.
+"Draw two cards, then amass X, where X is the number of cards in your hand. (Put X +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+"Davriel, Rogue Shadowmage"
+{2}{B}
+Legendary Planeswalker — Davriel
+"At the beginning of each opponent’s upkeep, if that player has one or fewer cards in hand, Davriel, Rogue Shadowmage deals 2 damage to them."
+−1: Target player discards a card.
+Loyalty: 3
+はぐれ影魔道士、ダブリエル
+{2}{B}
+伝説のプレインズウォーカー — ダブリエル
+各対戦相手のアップキープの開始時に、そのプレイヤーの手札のカードが１枚以下である場合、はぐれ影魔道士、ダブリエルはそのプレイヤーに２点のダメージを与える。
+-1：プレイヤー１人を対象とする。そのプレイヤーはカード１枚を捨てる。
+Loyalty: 3
+Deliver Unto Evil
+{2}{B}
+Sorcery
+"Choose up to four target cards in your graveyard. If you control a Bolas planeswalker, return those cards to your hand. Otherwise, an opponent chooses two of them. Leave the chosen cards in your graveyard and put the rest into your hand."
+Exile Deliver Unto Evil.
+"Domri, Anarch of Bolas"
+{1}{R}{G}
+Legendary Planeswalker — Domri
+Creatures you control get +1/+0.
++1: Add {R} or {G}. Creature spells you cast this turn can’t be countered.
+−2: Target creature you control fights target creature you don’t control.
+Loyalty: 3
+"Domri, Anarch of Bolas"
+{1}{R}{G}
+Legendary Planeswalker — Domri
+Creatures you control get +1/+0.
++1: Add {R} or {G}. Creature spells you cast this turn can’t be countered.
+−2: Target creature you control fights target creature you don’t control.
+Loyalty: 3
+ボーラスの壊乱者、ドムリ
+{1}{R}{G}
+伝説のプレインズウォーカー — ドムリ
+あなたがコントロールしているクリーチャーは＋１/＋０の修整を受ける。
++1：{R}か{G}を加える。このターン、あなたが唱えるクリーチャー・呪文は打ち消されない。
+-2：あなたがコントロールしているクリーチャー１体と、あなたがコントロールしていないクリーチャー１体を対象とする。その前者はその後者と格闘を行う。
+Loyalty: 3
+"Dovin, Hand of Control"
+{2}{W/U}
+Legendary Planeswalker — Dovin
+"Artifact, instant, and sorcery spells your opponents cast cost {1} more to cast."
+"−1: Until your next turn, prevent all damage that would be dealt to and dealt by target permanent an opponent controls."
+Loyalty: 5
+支配の片腕、ドビン
+{2}{W/U}
+伝説のプレインズウォーカー — ドビン
+対戦相手がアーティファクトやインスタントやソーサリーである呪文を唱えるためのコストは{1}多くなる。
+-1：対戦相手がコントロールしているパーマネント１つを対象とする。あなたの次のターンまで、それに与えられるダメージとそれが与えるダメージをすべて軽減する。
+Loyalty: 5
+Dovin's Veto
+{W}{U}
+Instant
+This spell can’t be countered.
+Counter target noncreature spell.
+Dreadhorde Arcanist
+{1}{R}
+Creature — Zombie Wizard
+Trample
+"Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist’s power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+1/3
+Dreadhorde Arcanist
+{1}{R}
+Creature — Zombie Wizard
+Trample
+"Whenever Dreadhorde Arcanist attacks, you may cast target instant or sorcery card with converted mana cost less than or equal to Dreadhorde Arcanist’s power from your graveyard without paying its mana cost. If that spell would be put into your graveyard this turn, exile it instead."
+1/3
+Dreadhorde Butcher
+{B}{R}
+Creature — Zombie Warrior
+Haste
+"Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher."
+"When Dreadhorde Butcher dies, it deals damage equal to its power to any target."
+1/1
+Dreadhorde Butcher
+{B}{R}
+Creature — Zombie Warrior
+Haste
+"Whenever Dreadhorde Butcher deals combat damage to a player or planeswalker, put a +1/+1 counter on Dreadhorde Butcher."
+"When Dreadhorde Butcher dies, it deals damage equal to its power to any target."
+1/1
+Dreadhorde Invasion
+{1}{B}
+Enchantment
+"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+"Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn."
+Dreadhorde Invasion
+{1}{B}
+Enchantment
+"At the beginning of your upkeep, you lose 1 life and amass 1. (Put a +1/+1 counter on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+"Whenever a Zombie token you control with power 6 or greater attacks, it gains lifelink until end of turn."
+Enter the God-Eternals
+{2}{U}{U}{B}
+Sorcery
+"Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player mills four cards. Amass 4. (Put four +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+Enter the God-Eternals
+{2}{U}{U}{B}
+Sorcery
+"Enter the God-Eternals deals 4 damage to target creature and you gain life equal to the damage dealt this way. Target player mills four cards. Amass 4. (Put four +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+"Fblthp, the Lost"
+{1}{U}
+Legendary Creature — Homunculus
+"When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead."
+"When Fblthp becomes the target of a spell, shuffle Fblthp into its owner’s library."
+1/1
+"Fblthp, the Lost"
+{1}{U}
+Legendary Creature — Homunculus
+"When Fblthp, the Lost enters the battlefield, draw a card. If it entered from your library or was cast from your library, draw two cards instead."
+"When Fblthp becomes the target of a spell, shuffle Fblthp into its owner’s library."
+1/1
+"Feather, the Redeemed"
+{R}{W}{W}
+Legendary Creature — Angel
+Flying
+"Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step."
+3/4
+"Feather, the Redeemed"
+{R}{W}{W}
+Legendary Creature — Angel
+Flying
+"Whenever you cast an instant or sorcery spell that targets a creature you control, exile that card instead of putting it into your graveyard as it resolves. If you do, return it to your hand at the beginning of the next end step."
+3/4
+Finale of Devastation
+{X}{G}{G}
+Sorcery
+"Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+Finale of Devastation
+{X}{G}{G}
+Sorcery
+"Search your library and/or graveyard for a creature card with converted mana cost X or less and put it onto the battlefield. If you search your library this way, shuffle it. If X is 10 or more, creatures you control get +X/+X and gain haste until end of turn."
+Finale of Eternity
+{X}{B}{B}
+Sorcery
+"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield."
+Finale of Eternity
+{X}{B}{B}
+Sorcery
+"Destroy up to three target creatures with toughness X or less. If X is 10 or more, return all creature cards from your graveyard to the battlefield."
+Finale of Glory
+{X}{W}{W}
+Sorcery
+"Create X 2/2 white Soldier creature tokens with vigilance. If X is 10 or more, also create X 4/4 white Angel creature tokens with flying and vigilance."
+Finale of Promise
+{X}{R}{R}
+Sorcery
+"You may cast up to one target instant card and/or up to one target sorcery card from your graveyard each with converted mana cost X or less without paying their mana costs. If a spell cast this way would be put into your graveyard this turn, exile it instead. If X is 10 or more, copy each of those spells twice. You may choose new targets for the copies."
+Finale of Revelation
+{X}{U}{U}
+Sorcery
+"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game."
+Exile Finale of Revelation.
+Finale of Revelation
+{X}{U}{U}
+Sorcery
+"Draw X cards. If X is 10 or more, instead shuffle your graveyard into your library, draw X cards, untap up to five lands, and you have no maximum hand size for the rest of the game."
+Exile Finale of Revelation.
+Gideon Blackblade
+{1}{W}{W}
+Legendary Planeswalker — Gideon
+"As long as it’s your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that’s still a planeswalker."
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
+"+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn."
+−6: Exile target nonland permanent.
+Loyalty: 4
+Gideon Blackblade
+{1}{W}{W}
+Legendary Planeswalker — Gideon
+"As long as it’s your turn, Gideon Blackblade is a 4/4 Human Soldier creature with indestructible that’s still a planeswalker."
+Prevent all damage that would be dealt to Gideon Blackblade during your turn.
+"+1: Up to one other target creature you control gains your choice of vigilance, lifelink, or indestructible until end of turn."
+−6: Exile target nonland permanent.
+Loyalty: 4
+黒き剣のギデオン
+{1}{W}{W}
+伝説のプレインズウォーカー — ギデオン
+あなたのターンであるかぎり、黒き剣のギデオンは破壊不能を持つ４/４の人間・兵士・クリーチャーになる。これはプレインズウォーカーでもある。
+あなたのターン中に黒き剣のギデオンに与えられるダメージをすべて軽減する。
++1：あなたがコントロールしている他のクリーチャー最大１体を対象とする。ターン終了時まで、それは警戒か絆魂か破壊不能のうち、あなたが選んだ１つを得る。
+-6：土地でないパーマネント１つを対象とし、それを追放する。
+Loyalty: 4
+God-Eternal Bontu
+{3}{B}{B}
+Legendary Creature — Zombie God
+Menace
+"When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards."
+"When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
+5/6
+God-Eternal Kefnet
+{2}{U}{U}
+Legendary Creature — Zombie God
+Flying
+"You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast."
+"When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
+4/5
+God-Eternal Oketra
+{3}{W}{W}
+Legendary Creature — Zombie God
+Double strike
+"Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance."
+"When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
+3/6
+God-Eternal Rhonas
+{3}{G}{G}
+Legendary Creature — Zombie God
+Deathtouch
+"When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn."
+"When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
+5/5
+"Huatli, the Sun's Heart"
+{2}{G/W}
+Legendary Planeswalker — Huatli
+Each creature you control assigns combat damage equal to its toughness rather than its power.
+−3: You gain life equal to the greatest toughness among creatures you control.
+Loyalty: 7
+太陽の義士、ファートリ
+{2}{G/W}
+伝説のプレインズウォーカー — ファートリ
+あなたがコントロールしている各クリーチャーはそれぞれ、パワーではなくタフネスに等しい点数の戦闘ダメージを割り振る。
+-3：あなたは、あなたがコントロールしているクリーチャーの中で最大のタフネスに等しい点数のライフを得る。
+Loyalty: 7
+Ignite the Beacon
+{4}{W}
+Instant
+"Search your library for up to two planeswalker cards, reveal them, put them into your hand, then shuffle your library."
+"Ilharg, the Raze-Boar"
+{3}{R}{R}
+Legendary Creature — Boar God
+Trample
+"Whenever Ilharg, the Raze-Boar attacks, you may put a creature card from your hand onto the battlefield tapped and attacking. Return that creature to your hand at the beginning of the next end step."
+"When Ilharg, the Raze-Boar dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
+6/6
+"Jace, Wielder of Mysteries"
+{1}{U}{U}{U}
+Legendary Planeswalker — Jace
+"If you would draw a card while your library has no cards in it, you win the game instead."
++1: Target player mills two cards. Draw a card.
+"−8: Draw seven cards. Then if your library has no cards in it, you win the game."
+Loyalty: 4
+"Jace, Wielder of Mysteries"
+{1}{U}{U}{U}
+Legendary Planeswalker — Jace
+"If you would draw a card while your library has no cards in it, you win the game instead."
++1: Target player mills two cards. Draw a card.
+"−8: Draw seven cards. Then if your library has no cards in it, you win the game."
+Loyalty: 4
+神秘を操る者、ジェイス
+{1}{U}{U}{U}
+伝説のプレインズウォーカー — ジェイス
+あなたのライブラリーにカードがないときにあなたがカードを引くなら、代わりにあなたはこのゲームに勝利する。
++1:プレイヤー１人を対象とする。そのプレイヤーは、自分のライブラリーの一番上からカードを２枚自分の墓地に置く。カードを１枚引く。
+-8：カードを７枚引く。その後、あなたのライブラリーにカードがないなら、あなたはこのゲームに勝利する。
+Loyalty: 4
+"Jaya, Venerated Firemage"
+{4}{R}
+Legendary Planeswalker — Jaya
+"If another red source you control would deal damage to a permanent or player, it deals that much damage plus 1 to that permanent or player instead."
+"−2: Jaya, Venerated Firemage deals 2 damage to any target."
+Loyalty: 5
+敬慕される炎魔道士、ヤヤ
+{4}{R}
+伝説のプレインズウォーカー — ヤヤ
+あなたがコントロールしている他の赤の発生源がパーマネントやプレイヤーにダメージを与えるなら、代わりにそれはそのパーマネントやプレイヤーに、その点数に１を足した点数のダメージを与える。
+-2：クリーチャー１体かプレインズウォーカー１体かプレイヤー１人を対象とする。敬慕される炎魔道士、ヤヤはそれに２点のダメージを与える。
+Loyalty: 5
+"Jiang Yanggu, Wildcrafter"
+{2}{G}
+Legendary Planeswalker — Yanggu
+Each creature you control with a +1/+1 counter on it has “{T}: Add one mana of any color.”
+−1: Put a +1/+1 counter on target creature.
+Loyalty: 3
+野生造り、ジアン・ヤングー
+{2}{G}
+伝説のプレインズウォーカー — ヤングー
+あなたがコントロールしていて＋１/＋１カウンターが置かれている各クリーチャーはそれぞれ「{T}：好きな色１色のマナ１点を加える。」を持つ。
+-1：クリーチャー１体を対象とし、それの上に＋１/＋１カウンターを１個置く。
+Loyalty: 3
+Karn's Bastion
+Land
+{T}: Add {C}.
+"{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Karn's Bastion
+Land
+{T}: Add {C}.
+"{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+Karn's Bastion
+Land
+{T}: Add {C}.
+"{4}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
+"Karn, the Great Creator"
+{4}
+Legendary Planeswalker — Karn
+Activated abilities of artifacts your opponents control can’t be activated.
+"+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.
+Loyalty: 5
+"Karn, the Great Creator"
+{4}
+Legendary Planeswalker — Karn
+Activated abilities of artifacts your opponents control can’t be activated.
+"+1: Until your next turn, up to one target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost."
+−2: You may reveal an artifact card you own from outside the game or choose a face-up artifact card you own in exile. Put that card into your hand.
+Loyalty: 5
+大いなる創造者、カーン
+{4}
+伝説のプレインズウォーカー — カーン
+対戦相手がコントロールしているアーティファクトの起動型能力は起動できない。
++1：クリーチャーでないアーティファクト最大１つを対象とする。あなたの次のターンまで、それはパワーとタフネスがそれぞれそれの点数で見たマナ・コストに等しいアーティファクト・クリーチャーになる。
+-2：あなたは、ゲームの外部か追放領域にありあなたがオーナーであるアーティファクト・カード１枚を選び、そのカードを公開してあなたの手札に加えてもよい。
+Loyalty: 5
+"Kasmina, Enigmatic Mentor"
+{3}{U}
+Legendary Planeswalker — Kasmina
+Spells your opponents cast that target a creature or planeswalker you control cost {2} more to cast.
+"−2: Create a 2/2 blue Wizard creature token. Draw a card, then discard a card."
+Loyalty: 5
+謎めいた指導者、カズミナ
+{3}{U}
+伝説のプレインズウォーカー — カズミナ
+対戦相手が、あなたがコントロールしているクリーチャーかプレインズウォーカーを対象とする呪文を唱えるコストは{2}多くなる。
+-2：青の２/２のウィザード・クリーチャー・トークンを１体生成する。カードを１枚引き、その後カード１枚を捨てる。
+Loyalty: 5
+"Kaya, Bane of the Dead"
+{3}{W/B}{W/B}{W/B}
+Legendary Planeswalker — Kaya
+Your opponents and permanents your opponents control with hexproof can be the targets of spells and abilities you control as though they didn’t have hexproof.
+−3: Exile target creature.
+Loyalty: 7
+死者の災厄、ケイヤ
+{3}{W/B}{W/B}{W/B}
+伝説のプレインズウォーカー — ケイヤ
+呪禁を持つ、対戦相手と対戦相手がコントロールしているパーマネントは、それらが呪禁を持っていないかのように、あなたがコントロールしている呪文や能力の対象にできる。
+-3：クリーチャー１体を対象とし、それを追放する。
+Loyalty: 7
+"Kiora, Behemoth Beckoner"
+{2}{G/U}
+Legendary Planeswalker — Kiora
+"Whenever a creature with power 4 or greater enters the battlefield under your control, draw a card."
+−1: Untap target permanent.
+Loyalty: 7
+ビヒモスを招く者、キオーラ
+{2}{G/U}
+伝説のプレインズウォーカー — キオーラ
+パワーが４以上のクリーチャーが１体あなたのコントロール下で戦場に出るたび、カードを１枚引く。
+-1：パーマネント１つを対象とし、それをアンタップする。
+Loyalty: 7
+"Krenko, Tin Street Kingpin"
+{2}{R}
+Legendary Creature — Goblin
+"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko’s power."
+1/2
+"Krenko, Tin Street Kingpin"
+{2}{R}
+Legendary Creature — Goblin
+"Whenever Krenko, Tin Street Kingpin attacks, put a +1/+1 counter on it, then create a number of 1/1 red Goblin creature tokens equal to Krenko’s power."
+1/2
+"Liliana, Dreadhorde General"
+{4}{B}{B}
+Legendary Planeswalker — Liliana
+"Whenever a creature you control dies, draw a card."
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.
+Loyalty: 6
+"Liliana, Dreadhorde General"
+{4}{B}{B}
+Legendary Planeswalker — Liliana
+"Whenever a creature you control dies, draw a card."
++1: Create a 2/2 black Zombie creature token.
+−4: Each player sacrifices two creatures.
+−9: Each opponent chooses a permanent they control of each permanent type and sacrifices the rest.
+Loyalty: 6
+戦慄衆の将軍、リリアナ
+{4}{B}{B}
+伝説のプレインズウォーカー — リリアナ
+あなたがコントロールしているクリーチャーが１体死亡するたび、カードを１枚引く。
++1：黒の２/２のゾンビ・クリーチャー・トークンを１体生成する。
+-4：各プレイヤーはそれぞれクリーチャー２体を生け贄に捧げる。
+-9：各対戦相手はそれぞれ、パーマネント・タイプ１つにつき、そのタイプであり自分がコントロールしているパーマネント１つを選び、残りを生け贄に捧げる。
+Loyalty: 6
+Liliana's Triumph
+{1}{B}
+Instant
+"Each opponent sacrifices a creature. If you control a Liliana planeswalker, each opponent also discards a card."
+Living Twister
+{R}{R}{G}
+Creature — Elemental
+"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target."
+{G}: Return a tapped land you control to its owner’s hand.
+2/5
+Living Twister
+{R}{R}{G}
+Creature — Elemental
+"{1}{R}, Discard a land card: Living Twister deals 2 damage to any target."
+{G}: Return a tapped land you control to its owner’s hand.
+2/5
+Massacre Girl
+{3}{B}{B}
+Legendary Creature — Human Assassin
+Menace
+"When Massacre Girl enters the battlefield, each other creature gets -1/-1 until end of turn. Whenever a creature dies this turn, each creature other than Massacre Girl gets -1/-1 until end of turn."
+4/4
+Mizzium Tank
+{1}{R}{R}
+Artifact — Vehicle
+Trample
+"Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn."
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+3/2
+Mizzium Tank
+{1}{R}{R}
+Artifact — Vehicle
+Trample
+"Whenever you cast a noncreature spell, Mizzium Tank becomes an artifact creature and gets +1/+1 until end of turn."
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)
+3/2
+Mobilized District
+Land
+{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It’s still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.
+Mobilized District
+Land
+{T}: Add {C}.
+{4}: Mobilized District becomes a 3/3 Citizen creature with vigilance until end of turn. It’s still a land. This ability costs {1} less to activate for each legendary creature and planeswalker you control.
+"Nahiri, Storm of Stone"
+{2}{R/W}{R/W}
+Legendary Planeswalker — Nahiri
+"As long as it’s your turn, creatures you control have first strike and equip abilities you activate cost {1} less to activate."
+"−X: Nahiri, Storm of Stone deals X damage to target tapped creature."
+Loyalty: 6
+石の嵐、ナヒリ
+{2}{R/W}{R/W}
+伝説のプレインズウォーカー — ナヒリ
+あなたのターンであるかぎり、あなたがコントロールしているクリーチャーは先制攻撃を持ち、あなたが装備能力を起動するためのコストは{1}少なくなる。
+-X：タップ状態のクリーチャー１体を対象とする。石の嵐、ナヒリはそれにＸ点のダメージを与える。
+Loyalty: 6
+"Narset, Parter of Veils"
+{1}{U}{U}
+Legendary Planeswalker — Narset
+Each opponent can’t draw more than one card each turn.
+"−2: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in a random order."
+Loyalty: 5
+覆いを割く者、ナーセット
+{1}{U}{U}
+伝説のプレインズウォーカー — ナーセット
+各ターン、各対戦相手はそれぞれ、カードを２枚以上引くことができない。
+-2：あなたのライブラリーの一番上からカードを４枚見る。あなたはその中からクリーチャーでも土地でもないカード１枚を公開してあなたの手札に加えてもよい。残りをあなたのライブラリーの一番下に無作為の順番で置く。
+Loyalty: 5
+Narset's Reversal
+{U}{U}
+Instant
+"Copy target instant or sorcery spell, then return it to its owner’s hand. You may choose new targets for the copy."
+Narset's Reversal
+{U}{U}
+Instant
+"Copy target instant or sorcery spell, then return it to its owner’s hand. You may choose new targets for the copy."
+"Neheb, Dreadhorde Champion"
+{2}{R}{R}
+Legendary Creature — Zombie Minotaur Warrior
+Trample
+"Whenever Neheb, Dreadhorde Champion deals combat damage to a player or planeswalker, you may discard any number of cards. If you do, draw that many cards and add that much {R}. Until end of turn, you don’t lose this mana as steps and phases end."
+5/4
+"Nicol Bolas, Dragon-God"
+{U}{B}{B}{B}{R}
+Legendary Planeswalker — Bolas
+"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield."
++1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+−3: Destroy target creature or planeswalker.
+−8: Each opponent who doesn’t control a legendary creature or planeswalker loses the game.
+Loyalty: 4
+"Nicol Bolas, Dragon-God"
+{U}{B}{B}{B}{R}
+Legendary Planeswalker — Bolas
+"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield."
++1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
+−3: Destroy target creature or planeswalker.
+−8: Each opponent who doesn’t control a legendary creature or planeswalker loses the game.
+Loyalty: 4
+龍神、ニコル・ボーラス
+{U}{B}{B}{B}{R}
+伝説のプレインズウォーカー — ボーラス
+龍神、ニコル・ボーラスは、戦場にある他のプレインズウォーカーすべての忠誠度能力をすべて持つ。
++1：あなたはカードを１枚引く。各対戦相手はそれぞれ、自分の手札からカード１枚か、自分がコントロールしているパーマネント１つを追放する。
+-3：クリーチャー１体かプレインズウォーカー１体を対象とし、それを破壊する。
+-8：伝説のクリーチャーもプレインズウォーカーもコントロールしていない各対戦相手はそれぞれこのゲームに敗北する。
+Loyalty: 4
+"Nissa, Who Shakes the World"
+{3}{G}{G}
+Legendary Planeswalker — Nissa
+"Whenever you tap a Forest for mana, add an additional {G}."
++1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that’s still a land.
+"−8: You get an emblem with “Lands you control have indestructible.” Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library."
+Loyalty: 5
+"Nissa, Who Shakes the World"
+{3}{G}{G}
+Legendary Planeswalker — Nissa
+"Whenever you tap a Forest for mana, add an additional {G}."
++1: Put three +1/+1 counters on up to one target noncreature land you control. Untap it. It becomes a 0/0 Elemental creature with vigilance and haste that’s still a land.
+"−8: You get an emblem with “Lands you control have indestructible.” Search your library for any number of Forest cards, put them onto the battlefield tapped, then shuffle your library."
+Loyalty: 5
+世界を揺るがす者、ニッサ
+{3}{G}{G}
+伝説のプレインズウォーカー — ニッサ
+あなたがマナを引き出す目的で森をタップするたび、追加で{G}を加える。
++1：あなたがコントロールしていてクリーチャーでない土地最大１つを対象とし、それの上に＋１/＋１カウンターを３個置く。それをアンタップする。それは警戒と速攻を持つ０/０のエレメンタル・クリーチャーになる。それは土地でもある。
+-8：あなたは「あなたがコントロールしている土地は破壊不能を持つ。」を持つ紋章を得る。あなたのライブラリーから森・カード望む枚数を探し、それらをタップ状態で戦場に出し、その後あなたのライブラリーを切り直す。
+Loyalty: 5
+Niv-Mizzet Reborn
+{W}{U}{B}{R}{G}
+Legendary Creature — Dragon Avatar
+Flying
+"When Niv-Mizzet Reborn enters the battlefield, reveal the top ten cards of your library. For each color pair, choose a card that’s exactly those colors from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order."
+6/6
+Oath of Kaya
+{1}{W}{B}
+Legendary Enchantment
+"When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life."
+"Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life."
+Oath of Kaya
+{1}{W}{B}
+Legendary Enchantment
+"When Oath of Kaya enters the battlefield, it deals 3 damage to any target and you gain 3 life."
+"Whenever an opponent attacks a planeswalker you control with one or more creatures, Oath of Kaya deals 2 damage to that player and you gain 2 life."
+"Ob Nixilis, the Hate-Twisted"
+{3}{B}{B}
+Legendary Planeswalker — Nixilis
+"Whenever an opponent draws a card, Ob Nixilis, the Hate-Twisted deals 1 damage to that player."
+−2: Destroy target creature. Its controller draws two cards.
+Loyalty: 5
+憎悪に歪む者、オブ・ニクシリス
+{3}{B}{B}
+伝説のプレインズウォーカー — ニクシリス
+対戦相手がカードを１枚引くたび、憎悪に歪む者、オブ・ニクシリスはそのプレイヤーに１点のダメージを与える。
+-2：クリーチャー１体を対象とし、それを破壊する。それのコントローラーはカードを２枚引く。
+Loyalty: 5
+Paradise Druid
+{1}{G}
+Creature — Elf Druid
+Paradise Druid has hexproof as long as it’s untapped.(It can’t be the target of spells or abilities your opponents control.)
+{T}: Add one mana of any color.
+2/1
+Parhelion II
+{6}{W}{W}
+Legendary Artifact — Vehicle
+"Flying, first strike, vigilance"
+"Whenever Parhelion II attacks, create two 4/4 white Angel creature tokens with flying and vigilance that are attacking."
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
+5/5
+Planewide Celebration
+{5}{G}{G}
+Sorcery
+Choose four. You may choose the same mode more than once.
+• Create a 2/2 Citizen creature token that’s all colors.
+• Return target permanent card from your graveyard to your hand.
+• Proliferate.
+• You gain 4 life.
+"Ral, Storm Conduit"
+{2}{U}{R}
+Legendary Planeswalker — Ral
+"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker."
++2: Scry 1.
+"−2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+Loyalty: 4
+"Ral, Storm Conduit"
+{2}{U}{R}
+Legendary Planeswalker — Ral
+"Whenever you cast or copy an instant or sorcery spell, Ral, Storm Conduit deals 1 damage to target opponent or planeswalker."
++2: Scry 1.
+"−2: When you cast your next instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy."
+Loyalty: 4
+嵐の伝導者、ラル
+{2}{U}{R}
+伝説のプレインズウォーカー — ラル
+あなたがインスタントやソーサリーである呪文を唱えるかコピーするたび、対戦相手１人かプレインズウォーカー１体を対象とする。嵐の伝導者、ラルはそれに１点のダメージを与える。
++2：占術１を行う。
+-2：このターン、あなたが次にインスタントやソーサリーである呪文を唱えたとき、その呪文をコピーする。あなたはそのコピーの新しい対象を選んでもよい。
+Loyalty: 4
+Ravnica at War
+{3}{W}
+Sorcery
+Exile all multicolored permanents.
+"Roalesk, Apex Hybrid"
+{2}{G}{G}{U}
+Legendary Creature — Human Mutant
+"Flying, trample"
+"When Roalesk, Apex Hybrid enters the battlefield, put two +1/+1 counters on another target creature you control."
+"When Roalesk dies, proliferate, then proliferate again. (Choose any number of permanents and/or players, then give each another counter of each kind already there. Then do it again.)"
+4/5
+Role Reversal
+{U}{U}{R}
+Sorcery
+Exchange control of two target permanents that share a permanent type.
+"Saheeli, Sublime Artificer"
+{1}{U/R}{U/R}
+Legendary Planeswalker — Saheeli
+"Whenever you cast a noncreature spell, create a 1/1 colorless Servo artifact creature token."
+"−2: Target artifact you control becomes a copy of another target artifact or creature you control until end of turn, except it’s an artifact in addition to its other types."
+Loyalty: 5
+崇高な工匠、サヒーリ
+{1}{U/R}{U/R}
+伝説のプレインズウォーカー — サヒーリ
+あなたがクリーチャーでない呪文を唱えるたび、無色の１/１の霊気装置・アーティファクト・クリーチャー・トークンを１体生成する。
+-2：あなたがコントロールしているアーティファクト１つと、あなたがコントロールしている他のアーティファクト１つかクリーチャー１つを対象とする。ターン終了時まで、その前者はそれの他のタイプに加えてアーティファクトであることを除きその後者のコピーになる。
+Loyalty: 5
+"Samut, Tyrant Smasher"
+{2}{R/G}{R/G}
+Legendary Planeswalker — Samut
+Creatures you control have haste.
+−1: Target creature gets +2/+1 and gains haste until end of turn. Scry 1.
+Loyalty: 5
+暴君潰し、サムト
+{2}{R/G}{R/G}
+伝説のプレインズウォーカー — サムト
+あなたがコントロールしているクリーチャーは速攻を持つ。
+-1：クリーチャー１体を対象とする。ターン終了時まで、それは＋２/＋１の修整を受け速攻を得る。占術１を行う。
+Loyalty: 5
+Sarkhan the Masterless
+{3}{R}{R}
+Legendary Planeswalker — Sarkhan
+"Whenever a creature attacks you or a planeswalker you control, each Dragon you control deals 1 damage to that creature."
+"+1: Until end of turn, each planeswalker you control becomes a 4/4 red Dragon creature and gains flying."
+−3: Create a 4/4 red Dragon creature token with flying.
+Loyalty: 5
+主無き者、サルカン
+{3}{R}{R}
+伝説のプレインズウォーカー — サルカン
+クリーチャーが１体、あなたかあなたがコントロールしているプレインズウォーカーを攻撃するたび、あなたがコントロールしている各ドラゴンはそのクリーチャーに１点のダメージを与える。
++1：ターン終了時まで、あなたがコントロールしている各プレインズウォーカーは赤の４/４のドラゴン・クリーチャーになり飛行を得る。
+-3：飛行を持つ赤の４/４のドラゴン・クリーチャー・トークンを１体生成する。
+Loyalty: 5
+Silent Submersible
+{U}{U}
+Artifact — Vehicle
+"Whenever Silent Submersible deals combat damage to a player or planeswalker, draw a card."
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
+2/3
+Single Combat
+{3}{W}{W}
+Sorcery
+"Each player chooses a creature or planeswalker they control, then sacrifices the rest. Players can’t cast creature or planeswalker spells until the end of your next turn."
+Solar Blaze
+{2}{R}{W}
+Sorcery
+Each creature deals damage to itself equal to its power.
+Solar Blaze
+{2}{R}{W}
+Sorcery
+Each creature deals damage to itself equal to its power.
+"Sorin, Vengeful Bloodlord"
+{2}{W}{B}
+Legendary Planeswalker — Sorin
+"As long as it’s your turn, creatures and planeswalkers you control have lifelink."
+"+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker."
+−X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.
+Loyalty: 4
+"Sorin, Vengeful Bloodlord"
+{2}{W}{B}
+Legendary Planeswalker — Sorin
+"As long as it’s your turn, creatures and planeswalkers you control have lifelink."
+"+2: Sorin, Vengeful Bloodlord deals 1 damage to target player or planeswalker."
+−X: Return target creature card with converted mana cost X from your graveyard to the battlefield. That creature is a Vampire in addition to its other types.
+Loyalty: 4
+復讐に燃えた血王、ソリン
+{2}{W}{B}
+伝説のプレインズウォーカー — ソリン
+あなたのターンであるかぎり、あなたがコントロールしている、クリーチャーやプレインズウォーカーは絆魂を持つ。
++2：プレイヤー１人かプレインズウォーカー１体を対象とする。復讐に燃えた血王、ソリンはそれに１点のダメージを与える。
+-X：あなたの墓地から点数で見たマナ・コストがＸであるクリーチャー・カード１枚を対象とし、それを戦場に戻す。そのクリーチャーはそれの他のタイプに加えて吸血鬼になる。
+Loyalty: 4
+Soul Diviner
+{U}{B}
+Creature — Zombie Wizard
+"{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card."
+2/3
+Soul Diviner
+{U}{B}
+Creature — Zombie Wizard
+"{T}, Remove a counter from an artifact, creature, land, or planeswalker you control: Draw a card."
+2/3
+Spark Double
+{3}{U}
+Creature — Illusion
+"You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it’s a creature, it enters with an additional loyalty counter on it if it’s a planeswalker, and it isn’t legendary if that permanent is legendary."
+0/0
+Spark Double
+{3}{U}
+Creature — Illusion
+"You may have Spark Double enter the battlefield as a copy of a creature or planeswalker you control, except it enters with an additional +1/+1 counter on it if it’s a creature, it enters with an additional loyalty counter on it if it’s a planeswalker, and it isn’t legendary if that permanent is legendary."
+0/0
+"Storrev, Devkarin Lich"
+{1}{B}{B}{G}
+Legendary Creature — Zombie Elf Wizard
+Trample
+"Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn’t put there this combat."
+5/4
+"Storrev, Devkarin Lich"
+{1}{B}{B}{G}
+Legendary Creature — Zombie Elf Wizard
+Trample
+"Whenever Storrev, Devkarin Lich deals combat damage to a player or planeswalker, return to your hand target creature or planeswalker card in your graveyard that wasn’t put there this combat."
+5/4
+"Tamiyo, Collector of Tales"
+{2}{G}{U}
+Legendary Planeswalker — Tamiyo
+Spells and abilities your opponents control can’t cause you to discard cards or sacrifice permanents.
+"+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard."
+−3: Return target card from your graveyard to your hand.
+Loyalty: 5
+"Tamiyo, Collector of Tales"
+{2}{G}{U}
+Legendary Planeswalker — Tamiyo
+Spells and abilities your opponents control can’t cause you to discard cards or sacrifice permanents.
+"+1: Choose a nonland card name, then reveal the top four cards of your library. Put all cards with the chosen name from among them into your hand and the rest into your graveyard."
+−3: Return target card from your graveyard to your hand.
+Loyalty: 5
+伝承の収集者、タミヨウ
+{2}{G}{U}
+伝説のプレインズウォーカー — タミヨウ
+対戦相手がコントロールしている呪文や能力は、あなたにカードを捨てさせることもパーマネントを生け贄に捧げさせることもできない。
++1：土地でないカード名１つを選び、その後あなたのライブラリーの一番上からカードを４枚公開する。その中から、その選ばれた名前を持つカードをすべてあなたの手札に加え、残りをあなたの墓地に置く。
+-3：あなたの墓地からカード１枚を対象とし、それをあなたの手札に戻す。
+Loyalty: 5
+"Teferi, Time Raveler"
+{1}{W}{U}
+Legendary Planeswalker — Teferi
+Each opponent can cast spells only any time they could cast a sorcery.
+"+1: Until your next turn, you may cast sorcery spells as though they had flash."
+"−3: Return up to one target artifact, creature, or enchantment to its owner’s hand. Draw a card."
+Loyalty: 4
+"Teferi, Time Raveler"
+{1}{W}{U}
+Legendary Planeswalker — Teferi
+Each opponent can cast spells only any time they could cast a sorcery.
+"+1: Until your next turn, you may cast sorcery spells as though they had flash."
+"−3: Return up to one target artifact, creature, or enchantment to its owner’s hand. Draw a card."
+Loyalty: 4
+時を解す者、テフェリー
+{1}{W}{U}
+伝説のプレインズウォーカー — テフェリー
+各対戦相手はそれぞれ、自分がソーサリーを唱えられるときにのみ呪文を唱えられる。
++1：あなたの次のターンまで、あなたはソーサリー・呪文を、それが瞬速を持っているかのように唱えてもよい。
+-3：アーティファクトかクリーチャーかエンチャント、最大１つを対象とし、それをオーナーの手札に戻す。カードを１枚引く。
+Loyalty: 4
+"Teyo, the Shieldmage"
+{2}{W}
+Legendary Planeswalker — Teyo
+You have hexproof. (You can’t be the target of spells or abilities your opponents control.)
+−2: Create a 0/3 white Wall creature token with defender.
+Loyalty: 5
+盾魔道士、テヨ
+{2}{W}
+伝説のプレインズウォーカー — テヨ
+あなたは呪禁を持つ。（あなたは対戦相手がコントロールしている呪文や能力の対象にならない。）
+-2：防衛を持つ白の０/３の壁・クリーチャー・トークンを１体生成する。
+Loyalty: 5
+The Elderspell
+{B}{B}
+Sorcery
+Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.
+The Elderspell
+{B}{B}
+Sorcery
+Destroy any number of target planeswalkers. Choose a planeswalker you control. Put two loyalty counters on it for each planeswalker destroyed this way.
+The Wanderer
+{3}{W}
+Legendary Planeswalker
+Prevent all noncombat damage that would be dealt to you and other permanents you control.
+−2: Exile target creature with power 4 or greater.
+Loyalty: 5
+放浪者
+{3}{W}
+伝説のプレインズウォーカー
+あなたや、あなたがコントロールしている他のパーマネントに与えられる、戦闘ダメージでないダメージをすべて軽減する。
+-2：パワーが４以上のクリーチャー１体を対象とし、それを追放する。
+Loyalty: 5
+"Tibalt, Rakish Instigator"
+{2}{R}
+Legendary Planeswalker — Tibalt
+Your opponents can’t gain life.
+"−2: Create a 1/1 red Devil creature token with “When this creature dies, it deals 1 damage to any target.”"
+Loyalty: 5
+無頼な扇動者、ティボルト
+{2}{R}
+伝説のプレインズウォーカー — ティボルト
+対戦相手はライフを得られない。
+-2：「このクリーチャーが死亡したとき、クリーチャー１体かプレインズウォーカー１体かプレイヤー１人を対象とする。これはそれに１点のダメージを与える。」を持つ赤の１/１のデビル・クリーチャー・トークンを１体生成する。
+Loyalty: 5
+Time Wipe
+{2}{W}{W}{U}
+Sorcery
+"Return a creature you control to its owner’s hand, then destroy all creatures."
+Time Wipe
+{2}{W}{W}{U}
+Sorcery
+"Return a creature you control to its owner’s hand, then destroy all creatures."
+Time Wipe
+{2}{W}{W}{U}
+Sorcery
+"Return a creature you control to its owner’s hand, then destroy all creatures."
+"Tolsimir, Friend to Wolves"
+{2}{G}{G}{W}
+Legendary Creature — Elf Scout
+"When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token."
+"Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature you don’t control."
+3/3
+"Tolsimir, Friend to Wolves"
+{2}{G}{G}{W}
+Legendary Creature — Elf Scout
+"When Tolsimir, Friend to Wolves enters the battlefield, create Voja, Friend to Elves, a legendary 3/3 green and white Wolf creature token."
+"Whenever a Wolf enters the battlefield under your control, you gain 3 life and that creature fights up to one target creature you don’t control."
+3/3
+"Tomik, Distinguished Advokist"
+{W}{W}
+Legendary Creature — Human Advisor
+Flying
+Lands on the battlefield and land cards in graveyards can’t be the targets of spells or abilities your opponents control.
+Your opponents can’t play land cards from graveyards.
+2/3
+"Tomik, Distinguished Advokist"
+{W}{W}
+Legendary Creature — Human Advisor
+Flying
+Lands on the battlefield and land cards in graveyards can’t be the targets of spells or abilities your opponents control.
+Your opponents can’t play land cards from graveyards.
+2/3
+"Ugin, the Ineffable"
+{6}
+Legendary Planeswalker — Ugin
+Colorless spells you cast cost {2} less to cast.
+"+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand."
+−3: Destroy target permanent that’s one or more colors.
+Loyalty: 4
+"Ugin, the Ineffable"
+{6}
+Legendary Planeswalker — Ugin
+Colorless spells you cast cost {2} less to cast.
+"+1: Exile the top card of your library face down and look at it. Create a 2/2 colorless Spirit creature token. When that token leaves the battlefield, put the exiled card into your hand."
+−3: Destroy target permanent that’s one or more colors.
+Loyalty: 4
+人知を超えるもの、ウギン
+{6}
+伝説のプレインズウォーカー — ウギン
+あなたが無色の呪文を唱えるためのコストは{2}少なくなる。
++1:あなたのライブラリーの一番上のカードを裏向きに追放し、それを見る。無色の２/２のスピリット・クリーチャー・トークンを１体生成する。そのトークンが戦場を離れたとき、その追放したカードをあなたの手札に加える。
+-3：１色以上の色を持つパーマネント１つを対象とし、それを破壊する。
+Loyalty: 4
+"Vivien, Champion of the Wilds"
+{2}{G}
+Legendary Planeswalker — Vivien
+You may cast creature spells as though they had flash.
+"+1: Until your next turn, up to one target creature gains vigilance and reach."
+"−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it’s a creature spell."
+Loyalty: 4
+"Vivien, Champion of the Wilds"
+{2}{G}
+Legendary Planeswalker — Vivien
+You may cast creature spells as though they had flash.
+"+1: Until your next turn, up to one target creature gains vigilance and reach."
+"−2: Look at the top three cards of your library. Exile one face down and put the rest on the bottom of your library in any order. For as long as it remains exiled, you may look at that card and you may cast it if it’s a creature spell."
+Loyalty: 4
+野獣の擁護者、ビビアン
+{2}{G}
+伝説のプレインズウォーカー — ビビアン
+あなたはクリーチャー・呪文を、それが瞬速を持っているかのように唱えてもよい。
++1：クリーチャー最大１体を対象とする。あなたの次のターンまで、それは警戒と到達を得る。
+-2：あなたのライブラリーの一番上からカードを３枚見る。そのうち１枚を裏向きに追放し、残りをあなたのライブラリーの一番下に望む順番で置く。それが追放され続けているかぎり、あなたはそのカードを見てもよく、それがクリーチャー・カードであるならあなたはそれを唱えてもよい。
+Loyalty: 4
+Vivien's Arkbow
+{1}{G}
+Legendary Artifact
+"{X}, {T}, Discard a card: Look at the top X cards of your library. You may put a creature card with converted mana cost X or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order."
+"Vraska, Swarm's Eminence"
+{2}{B/G}{B/G}
+Legendary Planeswalker — Vraska
+"Whenever a creature you control with deathtouch deals damage to a player or planeswalker, put a +1/+1 counter on that creature."
+"−2: Create a 1/1 black Assassin creature token with deathtouch and “Whenever this creature deals damage to a planeswalker, destroy that planeswalker.”"
+Loyalty: 5
+群集の威光、ヴラスカ
+{2}{B/G}{B/G}
+伝説のプレインズウォーカー — ヴラスカ
+あなたがコントロールしていて接死を持つクリーチャー１体がプレイヤー１人かプレインズウォーカー１体にダメージを与えるたび、そのクリーチャーの上に＋１/＋１カウンターを１個置く。
+-2：接死と「このクリーチャーがプレインズウォーカー１体にダメージを与えるたび、そのプレインズウォーカーを破壊する。」を持つ黒の１/１の暗殺者・クリーチャー・トークンを１体生成する。
+Loyalty: 5
+Widespread Brutality
+{1}{B}{R}{R}
+Sorcery
+"Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"
+Widespread Brutality
+{1}{B}{R}{R}
+Sorcery
+"Amass 2, then the Army you amassed deals damage equal to its power to each non-Army creature. (To amass 2, put two +1/+1 counters on an Army you control. If you don’t control one, create a 0/0 black Zombie Army creature token first.)"

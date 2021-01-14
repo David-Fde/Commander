@@ -1,0 +1,3169 @@
+Onda expansiva de éter
+{3}{W}
+Instant
+Choose one —
+• Tap all Spirits.
+• Tap all non-Spirit creatures.
+Categoría alfa
+{2}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 for each other creature on the battlefield that shares a creature type with it.
+Comandante de Emboscada
+{3}{G}{G}
+Creature — Elf
+Forests you control are 1/1 green Elf creatures that are still lands.
+"{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn."
+2/2
+Paje angélico
+{1}{W}
+Creature — Angel Spirit
+Flying
+{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
+1/1
+Ángel de piedad
+{4}{W}
+Creature — Angel
+Flying
+"When Angel of Mercy enters the battlefield, you gain 3 life."
+3/3
+Ángel de piedad
+{4}{W}
+Creature — Angel
+Flying
+"When Angel of Mercy enters the battlefield, you gain 3 life."
+3/3
+Ángel de Castigo
+{6}{W}
+Creature — Angel
+"Flying, first strike"
+5/5
+Dragado de Afetto
+{3}{B}
+Sorcery
+Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+Dragado de Afetto
+{3}{B}
+Sorcery
+Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.
+Nishoba Artico
+{5}{G}
+Creature — Cat Warrior
+Trample
+"Cumulative upkeep {G} or {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+"When Arctic Nishoba dies, you gain 2 life for each age counter on it."
+6/6
+Nishoba Artico
+{5}{G}
+Creature — Cat Warrior
+Trample
+"Cumulative upkeep {G} or {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
+"When Arctic Nishoba dies, you gain 2 life for each age counter on it."
+6/6
+Milicianos ardorosos
+{4}{W}
+Creature — Human Soldier
+Vigilance
+2/5
+Milicianos ardorosos
+{4}{W}
+Creature — Human Soldier
+Vigilance
+2/5
+Mago auraencantado
+{5}{W}
+Creature — Human Wizard
+"When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library."
+3/3
+Mago auraencantado
+{5}{W}
+Creature — Human Wizard
+"When Auratouched Mage enters the battlefield, search your library for an Aura card that could enchant it. If Auratouched Mage is still on the battlefield, put that Aura card onto the battlefield attached to it. Otherwise, reveal the Aura card and put it into your hand. Then shuffle your library."
+3/3
+Leevientos aven
+{3}{U}{U}
+Creature — Bird Soldier Wizard
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of their library.
+3/3
+Leevientos aven
+{3}{U}{U}
+Creature — Bird Soldier Wizard
+Flying (This creature can’t be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of their library.
+3/3
+"Azami, señora de los pergaminos"
+{2}{U}{U}{U}
+Legendary Creature — Human Wizard
+Tap an untapped Wizard you control: Draw a card.
+0/2
+Furia balduviana
+{X}{R}
+Instant
+Target attacking creature gets +X/+0 until end of turn.
+Draw a card at the beginning of the next turn’s upkeep.
+Furia balduviana
+{X}{R}
+Instant
+Target attacking creature gets +X/+0 until end of turn.
+Draw a card at the beginning of the next turn’s upkeep.
+Bestia de carga
+{6}
+Artifact Creature — Golem
+Beast of Burden’s power and toughness are each equal to the number of creatures on the battlefield.
+*/*
+Esfinge del campanario
+{4}{U}
+Creature — Sphinx
+Flying
+"Whenever a source deals damage to Belltower Sphinx, that source’s controller mills that many cards."
+2/5
+Esfinge del campanario
+{4}{U}
+Creature — Sphinx
+Flying
+"Whenever a source deals damage to Belltower Sphinx, that source’s controller mills that many cards."
+2/5
+Traición de la carne
+{5}{B}
+Instant
+Choose one —
+• Destroy target creature.
+• Return target creature card from your graveyard to the battlefield.
+Entwine—Sacrifice three lands. (Choose both if you pay the entwine cost.)
+Guardabosques leeabedules
+{G}
+Creature — Elf Druid
+Tap two untapped Elves you control: Add one mana of any color.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1
+Guardabosques leeabedules
+{G}
+Creature — Elf Druid
+Tap two untapped Elves you control: Add one mana of any color.
+Morph {G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+1/1
+Baku melena de cuchillas
+{1}{R}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku."
+"{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn."
+1/1
+Baku melena de cuchillas
+{1}{R}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku."
+"{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn."
+1/1
+Baku melena de cuchillas
+{1}{R}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku."
+"{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn."
+1/1
+Fragmentado de cuchillas
+{2}{R}
+Creature — Sliver
+All Sliver creatures get +1/+0.
+2/2
+Fragmentado de cuchillas
+{2}{R}
+Creature — Sliver
+All Sliver creatures get +1/+0.
+2/2
+Fragmentado de cuchillas
+{2}{R}
+Creature — Sliver
+All Sliver creatures get +1/+0.
+2/2
+Fragmentado de cuchillas
+{2}{R}
+Creature — Sliver
+All Sliver creatures get +1/+0.
+2/2
+Trepador ciego
+{1}{B}
+Creature — Zombie Beast
+"Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn."
+3/3
+Trepador ciego
+{1}{B}
+Creature — Zombie Beast
+"Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn."
+3/3
+Espíritu titilante
+{3}{W}
+Creature — Spirit
+{0}: Return Blinking Spirit to its owner’s hand.
+2/2
+Chamán de familia
+{1}{G}
+Creature — Elf Wizard Shaman
+"{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard."
+1/1
+Esencia de sangre
+{3}{G}
+Instant
+All creatures able to block target creature this turn do so.
+Spaccaossa
+{1}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+Equip {1}
+Spaccaossa
+{1}
+Artifact — Equipment
+Equipped creature gets +2/+0.
+Equip {1}
+Trampa explosiva
+{6}
+Artifact
+"As Booby Trap enters the battlefield, choose an opponent and a card name other than a basic land card name."
+The chosen player reveals each card they draw.
+"When the chosen player draws a card with the chosen name, sacrifice Booby Trap. If you do, Booby Trap deals 10 damage to that player."
+Búmerang
+{U}{U}
+Instant
+Return target permanent to its owner’s hand.
+Búmerang
+{U}{U}
+Instant
+Return target permanent to its owner’s hand.
+Elemental de zarzas
+{3}{G}{G}
+Creature — Elemental
+"Whenever an Aura becomes attached to Bramble Elemental, create two 1/1 green Saproling creature tokens."
+4/4
+Fragmentado reproductor
+{4}{G}
+Creature — Sliver
+"Whenever a Sliver deals combat damage to a player, its controller may create a 1/1 colorless Sliver creature token."
+3/3
+Escamasangrienta Árbol Ardiente
+{2}{R}{G}
+Creature — Viashino Berserker
+"Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)"
+{2}{R}: Target creature can’t block Burning-Tree Bloodscale this turn.
+{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able.
+2/2
+Convocadora de la garra
+{2}{G}
+Creature — Elf
+Flash
+"When Caller of the Claw enters the battlefield, create a 2/2 green Bear creature token for each nontoken creature put into your graveyard from the battlefield this turn."
+2/2
+Llamado de la sangre
+{4}{B}
+Instant — Arcane
+"As an additional cost to cast this spell, sacrifice a creature."
+"Target creature gets -X/-X until end of turn, where X is the sacrificed creature’s power."
+Aullador carroñero
+{3}{B}
+Creature — Zombie Wolf
+Pay 1 life: Carrion Howler gets +2/-1 until end of turn.
+2/2
+Ratas carroñeras
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Ratas carroñeras
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Ratas carroñeras
+{B}
+Creature — Rat
+"Whenever Carrion Rats attacks or blocks, any player may exile a card from their graveyard. If a player does, Carrion Rats assigns no combat damage this turn."
+2/1
+Kirin celestial
+{2}{W}{W}
+Legendary Creature — Kirin Spirit
+Flying
+"Whenever you cast a Spirit or Arcane spell, destroy all permanents with that spell’s converted mana cost."
+3/3
+Agente cefálido
+{1}{U}{U}
+Creature — Cephalid Wizard
+"Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owner’s hand."
+1/1
+Acoso escalofriante
+{1}{B}
+Instant
+"As an additional cost to cast this spell, exile X creature cards from your graveyard."
+Target creature gets -X/-X until end of turn.
+Ratas gorjeantes
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Ratas gorjeantes
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Ratas gorjeantes
+{1}{B}{B}
+Creature — Rat
+"When Chittering Rats enters the battlefield, target opponent puts a card from their hand on top of their library."
+2/2
+Agarre de la Subciudad
+{1}{U}{U}{B}
+Instant
+Return target permanent to its owner’s hand. Its controller loses 3 life.
+"Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+Agarre de la Subciudad
+{1}{U}{U}{B}
+Instant
+Return target permanent to its owner’s hand. Its controller loses 3 life.
+"Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+Piratería costera
+{2}{U}{U}
+Enchantment
+"Whenever a creature you control deals combat damage to an opponent, you may draw a card."
+Confiscar
+{4}{U}{U}
+Enchantment — Aura
+Enchant permanent
+You control enchanted permanent.
+Amparo de la oscuridad
+{1}{B}
+Enchantment
+"As Cover of Darkness enters the battlefield, choose a creature type."
+Creatures of the chosen type have fear. (They can’t be blocked except by artifact creatures and/or black creatures.)
+Fatiga agobiante
+{1}{B}{B}
+Sorcery
+Target creature gets -2/-2 until end of turn.
+"Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Fatiga agobiante
+{1}{B}{B}
+Sorcery
+Target creature gets -2/-2 until end of turn.
+"Flashback—{1}{B}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
+Corona de ascensión
+{1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.
+Corona de vigor
+{1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.
+Corona de vigor
+{1}{G}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.
+Dolor aplastante
+{1}{R}
+Instant — Arcane
+Crushing Pain deals 6 damage to target creature that was dealt damage this turn.
+Ratas de la cripta
+{2}{B}
+Creature — Rat
+{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana on X.
+1/1
+Fragmentado de la cripta
+{1}{B}
+Creature — Sliver
+All Slivers have “{T}: Regenerate target Sliver.”
+1/1
+Fragmentado de la cripta
+{1}{B}
+Creature — Sliver
+All Slivers have “{T}: Regenerate target Sliver.”
+1/1
+Fragmentado de la cripta
+{1}{B}
+Creature — Sliver
+All Slivers have “{T}: Regenerate target Sliver.”
+1/1
+Baile de sombras
+{3}{B}{B}
+Sorcery — Arcane
+Creatures you control get +1/+0 and gain fear until end of turn. (They can’t be blocked except by artifact creatures and/or black creatures.)
+Lago hirviente de Dárigaaz
+Land — Lair
+"When Darigaaz’s Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner’s hand."
+"{T}: Add {B}, {R}, or {G}."
+Amuleto de Dárigaaz
+{B}{R}{G}
+Instant
+Choose one —
+• Return target creature card from your graveyard to your hand.
+• Darigaaz’s Charm deals 3 damage to any target.
+• Target creature gets +3/+3 until end of turn.
+Amuleto de Dárigaaz
+{B}{R}{G}
+Instant
+Choose one —
+• Return target creature card from your graveyard to your hand.
+• Darigaaz’s Charm deals 3 damage to any target.
+• Target creature gets +3/+3 until end of turn.
+Destierro sombrío
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Destierro sombrío
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Destierro sombrío
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Destierro sombrío
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Destierro sombrío
+{2}{B}
+Instant
+Destroy target nonblack creature. It can’t be regenerated.
+Muerte negada
+{X}{B}{B}
+Instant — Arcane
+Return X target creature cards from your graveyard to your hand.
+Muerte negada
+{X}{B}{B}
+Instant — Arcane
+Return X target creature cards from your graveyard to your hand.
+Ofrenda al Pozo de muerte
+{2}{B}{B}
+Enchantment
+"When Death Pit Offering enters the battlefield, sacrifice all creatures you control."
+Creatures you control get +2/+2.
+Redirigir
+{3}{U}
+Instant
+Change the target of target spell with a single target.
+Deshidratación
+{3}{U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature doesn’t untap during its controller’s untap step.
+Deshidratación
+{3}{U}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature doesn’t untap during its controller’s untap step.
+Hechizo de retención
+{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature’s activated abilities can’t be activated.
+{1}{W}: Attach Detainment Spell to target creature.
+Cólera devoradora
+{4}{R}
+Instant — Arcane
+"As an additional cost to cast this spell, you may sacrifice any number of Spirits."
+"Target creature gets +3/+0 until end of turn. For each Spirit sacrificed this way, that creature gets an additional +3/+0 until end of turn."
+Tutor diabólico
+{2}{B}{B}
+Sorcery
+Search your library for a card and put that card into your hand. Then shuffle your library.
+Mago del Gremio Dimir
+{U/B}{U/B}
+Creature — Human Wizard
+({U/B} can be paid with either {U} or {B}.)
+{3}{U}: Target player draws a card. Activate this ability only any time you could cast a sorcery.
+{3}{B}: Target player discards a card. Activate this ability only any time you could cast a sorcery.
+2/2
+Espía Dimir
+{U}{B}
+Creature — Spirit
+Dimir Infiltrator can’t be blocked.
+"Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+1/3
+Espía Dimir
+{U}{B}
+Creature — Spirit
+Dimir Infiltrator can’t be blocked.
+"Transmute {1}{U}{B} ({1}{U}{B}, Discard this card: Search your library for a card with the same converted mana cost as this card, reveal it, and put it into your hand. Then shuffle your library. Transmute only as a sorcery.)"
+1/3
+Canto fúnebre de pavor
+{2}{B}
+Sorcery
+All creatures gain fear until end of turn. (They can’t be blocked except by artifact creatures and/or black creatures.)
+"Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)"
+"When you cycle Dirge of Dread, you may have target creature gain fear until end of turn."
+Hombre rata impuro
+{3}{B}
+Creature — Human Rat Minion
+"{B}, Discard a card: Regenerate Dirty Wererat."
+"Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can’t block."
+2/3
+Hombre rata impuro
+{3}{B}
+Creature — Human Rat Minion
+"{B}, Discard a card: Regenerate Dirty Wererat."
+"Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can’t block."
+2/3
+Espectro del día del juicio
+{2}{U}{B}
+Creature — Specter
+Flying
+"When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner’s hand."
+"Whenever Doomsday Specter deals combat damage to a player, look at that player’s hand and choose a card from it. The player discards that card."
+2/3
+Campeona élfica
+{1}{G}{G}
+Creature — Elf
+Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)
+2/2
+Vanguardia élfica
+{1}{G}
+Creature — Elf Warrior
+"Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard."
+1/1
+Guerrero élfico
+{G}{G}
+Creature — Elf Warrior
+2/3
+Guerrero élfico
+{G}{G}
+Creature — Elf Warrior
+2/3
+Flamas absorbentes
+{R}
+Instant
+Engulfing Flames deals 1 damage to target creature. It can’t be regenerated this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+Baloth Enorme
+{6}{G}
+Creature — Beast
+7/7
+Baloth Enorme
+{6}{G}
+Creature — Beast
+7/7
+Ángel caído
+{3}{B}{B}
+Creature — Angel
+Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
+3/3
+Primogenito di Fangren
+{1}{G}{G}{G}
+Creature — Beast
+"Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature."
+4/2
+Cacciatore di Fangren
+{3}{G}{G}
+Creature — Beast
+Trample
+4/4
+Apripista Fangren
+{4}{G}{G}
+Creature — Beast
+"Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn."
+4/6
+Apripista Fangren
+{4}{G}{G}
+Creature — Beast
+"Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn."
+4/6
+Relámpago feral
+{3}{R}{R}{R}
+Sorcery
+Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+Relámpago feral
+{3}{R}{R}{R}
+Sorcery
+Create three 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step.
+Terreno Fertile
+{1}{G}
+Enchantment — Aura
+Enchant land
+"Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+Terreno Fertile
+{1}{G}
+Enchantment — Aura
+Enchant land
+"Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color."
+Imaginación fértil
+{2}{G}{G}
+Sorcery
+"Choose a card type. Target opponent reveals their hand. Create two 1/1 green Saproling creature tokens for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
+Imaginación fértil
+{2}{G}{G}
+Sorcery
+"Choose a card type. Target opponent reveals their hand. Create two 1/1 green Saproling creature tokens for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
+Trasgo purulento
+{B}
+Creature — Zombie Goblin
+"When Festering Goblin dies, target creature gets -1/-1 until end of turn."
+1/1
+Trasgo purulento
+{B}
+Creature — Zombie Goblin
+"When Festering Goblin dies, target creature gets -1/-1 until end of turn."
+1/1
+Trasgo purulento
+{B}
+Creature — Zombie Goblin
+"When Festering Goblin dies, target creature gets -1/-1 until end of turn."
+1/1
+Vuelo inspirado
+{3}{U}
+Enchantment — Aura
+Enchant creature
+"When Flight of Fancy enters the battlefield, draw two cards."
+Enchanted creature has flying.
+Errante di Mutaroccia
+{2}{R}
+Creature — Beast
+{R}: Flowstone Shambler gets +1/-1 until end of turn.
+2/2
+Errante di Mutaroccia
+{2}{R}
+Creature — Beast
+{R}: Flowstone Shambler gets +1/-1 until end of turn.
+2/2
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Bosque
+Basic Land — Forest
+({T}: Add {G}.)
+Foresta
+Basic Land — Forest
+({T}: Add {G}.)
+Equinauta errante
+{2}{W}
+Creature — Human Archer
+Flying
+"As long as Freewind Equenaut is enchanted, it has “{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature.”"
+2/2
+Equinauta errante
+{2}{W}
+Creature — Human Archer
+Flying
+"As long as Freewind Equenaut is enchanted, it has “{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature.”"
+2/2
+Equinauta errante
+{2}{W}
+Creature — Human Archer
+Flying
+"As long as Freewind Equenaut is enchanted, it has “{T}: Freewind Equenaut deals 2 damage to target attacking or blocking creature.”"
+2/2
+Trasgo frenético
+{R}
+Creature — Goblin Berserker
+"Whenever Frenzied Goblin attacks, you may pay {R}. If you do, target creature can’t block this turn."
+1/1
+Cría de escarcha
+{R}
+Creature — Spirit
+Sacrifice Frostling: It deals 1 damage to target creature.
+1/1
+Cría de escarcha
+{R}
+Creature — Spirit
+Sacrifice Frostling: It deals 1 damage to target creature.
+1/1
+Genju de las cascadas
+{U}
+Enchantment — Aura
+Enchant Island
+{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It’s still a land.
+"When enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand."
+Genju de los campos
+{W}
+Enchantment — Aura
+Enchant Plains
+"{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with “Whenever this creature deals damage, its controller gains that much life.” It’s still a land."
+"When enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand."
+Salvaje del clan Ghor
+{3}{G}{G}
+Creature — Centaur Berserker
+"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+2/3
+Salvaje del clan Ghor
+{3}{G}{G}
+Creature — Centaur Berserker
+"Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)"
+2/3
+Zombie glotón
+{4}{B}
+Creature — Zombie
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+3/3
+Carro trasgo
+{2}{R}
+Creature — Goblin Warrior
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+2/2
+Carro trasgo
+{2}{R}
+Creature — Goblin Warrior
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+2/2
+Carro trasgo
+{2}{R}
+Creature — Goblin Warrior
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+2/2
+Incendiario trasgo
+{3}{R}
+Creature — Goblin Berserker
+Haste
+Goblin Fire Fiend must be blocked if able.
+{R}: Goblin Fire Fiend gets +1/+0 until end of turn.
+1/1
+Golpeador trasgo
+{1}{R}
+Creature — Goblin Berserker
+"First strike, haste"
+1/1
+Mago del Gremio Golgari
+{B/G}{B/G}
+Creature — Elf Shaman
+"{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand."
+{4}{G}: Put a +1/+1 counter on target creature.
+2/2
+Mago del Gremio Golgari
+{B/G}{B/G}
+Creature — Elf Shaman
+"{4}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand."
+{4}{G}: Put a +1/+1 counter on target creature.
+2/2
+Sepulturero
+{3}{B}
+Creature — Zombie
+"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+2/2
+Sepulturero
+{3}{B}
+Creature — Zombie
+"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+2/2
+Sepulturero
+{3}{B}
+Creature — Zombie
+"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
+2/2
+Tormenta sepulcral
+{B}{B}{B}
+Enchantment
+"At the beginning of your upkeep, target opponent may exile a card from their graveyard. If that player doesn’t, you may draw a card."
+Lama del Biscazziere
+{3}
+Artifact — Equipment
+Flash
+"As Grifter’s Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature."
+Equipped creature gets +1/+1.
+Equip {1}
+Lama del Biscazziere
+{3}
+Artifact — Equipment
+Flash
+"As Grifter’s Blade enters the battlefield, choose a creature you control it could be attached to. If you do, it enters the battlefield attached to that creature."
+Equipped creature gets +1/+1.
+Equip {1}
+Groffskithur
+{5}{G}
+Creature — Beast
+"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
+3/3
+Groffskithur
+{5}{G}
+Creature — Beast
+"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
+3/3
+Groffskithur
+{5}{G}
+Creature — Beast
+"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
+3/3
+Groffskithur
+{5}{G}
+Creature — Beast
+"Whenever Groffskithur becomes blocked, you may return target card named Groffskithur from your graveyard to your hand."
+3/3
+Nodorog Gruul
+{4}{G}{G}
+Creature — Beast
+{R}: Gruul Nodorog gains menace until end of turn. (It can’t be blocked except by two or more creatures.)
+4/4
+Gruul pendenciero
+{3}{G}
+Creature — Human Berserker
+"When Gruul Scrapper enters the battlefield, if {R} was spent to cast it, it gains haste until end of turn."
+3/2
+Gruul pendenciero
+{3}{G}
+Creature — Human Berserker
+"When Gruul Scrapper enters the battlefield, if {R} was spent to cast it, it gains haste until end of turn."
+3/2
+Marca mágica del guardián
+{2}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+Creatures you control that are enchanted get +1/+1.
+Marca mágica del guardián
+{2}{W}
+Enchantment — Aura
+Flash
+Enchant creature
+Creatures you control that are enchanted get +1/+1.
+Koto de cuerdas de cabellos
+{6}
+Artifact
+Tap an untapped creature you control: Target player mills a card.
+La inconsciente
+{3}{G}
+Creature — Elf Avatar
+Trample
+Heedless One’s power and toughness are each equal to the number of Elves on the battlefield.
+*/*
+Excavador infernal
+{3}{B}{B}{B}
+Creature — Zombie Giant
+"{B}{B}{B}, {T}: Destroy target land. If that land was nonbasic, untap Helldozer."
+6/5
+Gnarr de manada
+{3}{G}
+Creature — Beast
+"Whenever another creature enters the battlefield under your control, Herd Gnarr gets +2/+2 until end of turn."
+2/2
+"Higure, el viento quieto"
+{3}{U}{U}
+Legendary Creature — Human Ninja
+"Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Higure, the Still Wind deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library."
+{2}: Target Ninja creature can’t be blocked this turn.
+3/4
+Obstaculizar
+{1}{U}{U}
+Instant
+"Counter target spell. If that spell is countered this way, put that card on the top or bottom of its owner’s library instead of into that player’s graveyard."
+Semilla del horizonte
+{4}{W}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, regenerate target creature."
+2/1
+Horror de horrores
+{3}{B}{B}
+Enchantment
+"Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+Wumpus Braccato
+{3}{G}
+Creature — Beast
+"When Hunted Wumpus enters the battlefield, each other player may put a creature card from their hand onto the battlefield."
+6/6
+Fragmentado cazador
+{1}{R}
+Creature — Sliver
+"All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)"
+1/1
+Fragmentado cazador
+{1}{R}
+Creature — Sliver
+"All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)"
+1/1
+Fragmentado cazador
+{1}{R}
+Creature — Sliver
+"All Sliver creatures have provoke. (Whenever a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)"
+1/1
+Aplastaullador indrik
+{4}{G}
+Creature — Beast
+"When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment."
+4/4
+Schiacciaurlatore Indrik
+{4}{G}
+Creature — Beast
+"When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment."
+4/4
+Schiacciaurlatore Indrik
+{4}{G}
+Creature — Beast
+"When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment."
+4/4
+Contrato Infernal
+{B}{B}{B}
+Sorcery
+"Draw four cards. You lose half your life, rounded up."
+Marca mágica del espía
+{2}{U}
+Enchantment — Aura
+Enchant creature
+Creatures you control that are enchanted get +1/+1 and can’t be blocked except by creatures with defender.
+Marca mágica del espía
+{2}{U}
+Enchantment — Aura
+Enchant creature
+Creatures you control that are enchanted get +1/+1 and can’t be blocked except by creatures with defender.
+Ferrospinato Infernal
+{5}{R}
+Creature — Hellion Beast
+Haste
+Iron-Barb Hellion can’t block.
+5/4
+Ferrospinato Infernal
+{5}{R}
+Creature — Hellion Beast
+Haste
+Iron-Barb Hellion can’t block.
+5/4
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Isla
+Basic Land — Island
+({T}: Add {U}.)
+Jedit Ojanen di Efrava
+{3}{G}{G}{G}
+Legendary Creature — Cat Warrior
+Forestwalk (This creature can’t be blocked as long as defending player controls a Forest.)
+"Whenever Jedit Ojanen of Efrava attacks or blocks, create a 2/2 green Cat Warrior creature token with forestwalk."
+5/5
+Dragoni di Jedit
+{5}{W}
+Creature — Cat Soldier
+Vigilance
+"When Jedit’s Dragoons enters the battlefield, you gain 4 life."
+2/5
+Cometavítrea azabache
+{4}{U}{U}
+Creature — Spirit
+Flying
+"Whenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability."
+4/4
+Guardabosque de la Orden del Enebro
+{3}{G}{W}
+Creature — Human Knight
+"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger."
+2/4
+"Kamahl, luchador del foso"
+{4}{R}{R}
+Legendary Creature — Human Barbarian
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"{T}: Kamahl, Pit Fighter deals 3 damage to any target."
+6/1
+Kami de los jardines del palacio
+{5}{W}
+Creature — Spirit
+"Flying, first strike"
+"Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)"
+3/2
+Kami de los jardines del palacio
+{5}{W}
+Creature — Spirit
+"Flying, first strike"
+"Soulshift 5 (When this creature dies, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)"
+3/2
+Ghiottone di Karplusan
+{R}
+Snow Creature — Wolverine Beast
+"Whenever Karplusan Wolverine becomes blocked, you may have it deal 1 damage to any target."
+1/1
+Banshee atormentada
+{2}{B}{B}
+Creature — Spirit
+Flying
+"When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn."
+2/2
+Manto keldon
+{1}{R}
+Enchantment — Aura
+Enchant creature
+{B}: Regenerate enchanted creature.
+{R}: Enchanted creature gets +1/+0 until end of turn.
+{G}: Enchanted creature gains trample until end of turn.
+Ira de Kírtar
+{4}{W}{W}
+Sorcery
+Destroy all creatures. They can’t be regenerated.
+"Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then create two 1/1 white Spirit creature tokens with flying. Creatures destroyed this way can’t be regenerated."
+Místico kitsune
+{3}{W}
+Creature — Fox Wizard
+"At the beginning of the end step, if Kitsune Mystic is enchanted by two or more Auras, flip it."
+2/3
+"Autumn-Tail, Kitsune Sage"
+Legendary Creature — Fox Wizard
+{1}: Attach target Aura attached to a creature to another creature.
+4/5
+Confini del Kodama
+{2}{G}
+Sorcery — Arcane
+"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
+Latrocinio
+{3}{B}{B}
+Enchantment
+"Whenever a creature you control deals combat damage to a player, that player discards a card."
+Musa nacida de la lava
+{3}{R}
+Creature — Spirit
+"At the beginning of each opponent’s upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to that player."
+3/3
+Bolas Leonid
+{1}
+Artifact — Equipment
+"Equipped creature has “{T}, Unattach Leonin Bola: Tap target creature.”"
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Domoguardia Leonid
+{1}{W}
+Creature — Cat Soldier
+"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance."
+1/3
+Domoguardia Leonid
+{1}{W}
+Creature — Cat Soldier
+"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance."
+1/3
+Domoguardia Leonid
+{1}{W}
+Creature — Cat Soldier
+"As long as Leonin Den-Guard is equipped, it gets +1/+1 and has vigilance."
+1/3
+Anziano Leonid
+{W}
+Creature — Cat Cleric
+"Whenever an artifact enters the battlefield, you may gain 1 life."
+1/1
+Shikari Leonid
+{1}{W}
+Creature — Cat Soldier
+You may activate equip abilities any time you could cast an instant.
+2/2
+Solcacielo Leonid
+{W}{W}
+Creature — Cat Knight
+Flying
+2/2
+Línea mística de los mansos
+{2}{W}{W}
+Enchantment
+"If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield."
+Creature tokens get +1/+1.
+Bobinas relampagueantes
+{3}
+Artifact
+"Whenever a nontoken creature you control dies, put a charge counter on Lightning Coils."
+"At the beginning of your upkeep, if Lightning Coils has five or more charge counters on it, remove all of them from it and create that many 3/1 red Elemental creature tokens with haste. Exile them at the beginning of the next end step."
+Schinieri dei Fulmini
+{2}
+Artifact — Equipment
+Equipped creature has haste and shroud. (It can’t be the target of spells or abilities.)
+Equip {0}
+Élite de Llanowar
+{G}
+Creature — Elf
+Kicker {8} (You may pay an additional {8} as you cast this spell.)
+Trample
+"If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it."
+1/1
+Élite de Llanowar
+{G}
+Creature — Elf
+Kicker {8} (You may pay an additional {8} as you cast this spell.)
+Trample
+"If Llanowar Elite was kicked, it enters the battlefield with five +1/+1 counters on it."
+1/1
+Señor de los muertos vivientes
+{1}{B}{B}
+Creature — Zombie
+Other Zombie creatures get +1/+1.
+"{1}{B}, {T}: Return target Zombie card from your graveyard to your hand."
+2/2
+Lovisa Ojosfríos
+{3}{R}{R}
+Legendary Creature — Human
+"Each creature that’s a Barbarian, a Warrior, or a Berserker gets +2/+2 and has haste."
+3/3
+Loxodón denodado
+{3}{W}{W}
+Creature — Elephant Soldier
+Vigilance
+{W}: Loxodon Stalwart gets +0/+1 until end of turn.
+3/3
+Ángel luminoso
+{4}{W}{W}{W}
+Creature — Angel
+Flying
+"At the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
+4/4
+Richiamo
+{1}{G}{G}
+Enchantment — Aura
+Enchant creature
+All creatures able to block enchanted creature do so.
+Richiamo
+{1}{G}{G}
+Enchantment — Aura
+Enchant creature
+All creatures able to block enchanted creature do so.
+Fragmentado de magma
+{3}{R}
+Creature — Sliver
+"All Slivers have “{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield.”"
+3/3
+Roemédulas
+{3}{B}{B}
+Legendary Creature — Rat Rogue
+All Rats have fear.
+"{T}, Sacrifice a Rat: Create X 1/1 black Rat creature tokens, where X is the number of Rats you control."
+2/3
+Cocodrilo del cenagal
+{2}{U}{B}
+Creature — Crocodile
+"When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner’s hand."
+"When Marsh Crocodile enters the battlefield, each player discards a card."
+4/4
+Mártir de la escarcha
+{U}
+Creature — Human Wizard
+"{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}."
+1/1
+Mártir de la escarcha
+{U}
+Creature — Human Wizard
+"{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}."
+1/1
+Tritones del Tridente Perlado
+{U}
+Creature — Merfolk
+1/1
+Tritones del Tridente Perlado
+{U}
+Creature — Merfolk
+1/1
+Orbe hipnótica
+{2}
+Artifact
+"Whenever a permanent becomes untapped, that permanent’s controller mills a card."
+Cuida pergaminos de Minamo
+{1}{U}
+Creature — Human Wizard
+Defender
+Your maximum hand size is increased by one.
+2/3
+Cuchillazo mental
+{1}{B}{B}
+Enchantment
+"{B}, Sacrifice a creature: Target opponent reveals their hand. You choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
+"Mirri, Gatta Guerriera"
+{1}{G}{G}
+Legendary Creature — Cat Warrior
+"First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it can’t be blocked as long as defending player controls a Forest, and attacking doesn’t cause this creature to tap.)"
+2/3
+Shinobi hojaniebla
+{2}{U}
+Creature — Human Ninja
+"Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner’s hand."
+1/1
+Lumaca della Forgia
+{3}{G}{G}
+Creature — Slug Beast
+"At the beginning of each player’s upkeep, that player sacrifices an artifact."
+4/6
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Montaña
+Basic Land — Mountain
+({T}: Add {R}.)
+Montagna
+Basic Land — Mountain
+({T}: Add {R}.)
+Branco Guerresco di Nacatl
+{3}{G}{G}{G}
+Creature — Cat Warrior
+Nacatl War-Pride must be blocked by exactly one creature if able.
+"Whenever Nacatl War-Pride attacks, create X tokens that are copies of Nacatl War-Pride and that are tapped and attacking, where X is the number of creatures defending player controls. Exile the tokens at the beginning of the next end step."
+3/3
+Caparazón nantuko
+{2}{B}
+Creature — Zombie Insect
+Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+2/2
+Caparazón nantuko
+{2}{B}
+Creature — Zombie Insect
+Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+2/2
+Caparazón nantuko
+{2}{B}
+Creature — Zombie Insect
+Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.
+2/2
+Naturalizar
+{1}{G}
+Instant
+Destroy target artifact or enchantment.
+Sed nigromántica
+{2}{B}{B}
+Enchantment — Aura
+Enchant creature
+"Whenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+Leehuesos nezumi
+{1}{B}
+Creature — Rat Shaman
+"{B}, Sacrifice a creature: Target player discards a card. Activate this ability only any time you could cast a sorcery."
+1/1
+Degollador nezumi
+{1}{B}
+Creature — Rat Warrior
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can’t block.
+2/1
+Degollador nezumi
+{1}{B}
+Creature — Rat Warrior
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+Nezumi Cutthroat can’t block.
+2/1
+Robatumbas nezumi
+{1}{B}
+Creature — Rat Rogue
+"{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
+2/1
+Nighteyes the Desecrator
+Legendary Creature — Rat Wizard
+{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+4/2
+Robatumbas nezumi
+{1}{B}
+Creature — Rat Rogue
+"{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
+2/1
+Ojos nocturnos el profanador
+Legendary Creature — Rat Wizard
+{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
+4/2
+Guardia de patrulla nocturna
+{2}{W}
+Creature — Human Soldier
+"First strike, vigilance"
+2/1
+Guardia de patrulla nocturna
+{2}{W}
+Creature — Human Soldier
+"First strike, vigilance"
+2/1
+Mago de guerra Escapanoche
+{2}{B}
+Creature — Zombie Wizard
+Kicker {2}{U} and/or {2}{R} (You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)
+"When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners’ hands."
+"When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land."
+2/2
+Nikko-Onna
+{2}{W}
+Creature — Spirit
+"When Nikko-Onna enters the battlefield, destroy target enchantment."
+"Whenever you cast a Spirit or Arcane spell, you may return Nikko-Onna to its owner’s hand."
+2/2
+Ninja de las horas tardías
+{3}{U}
+Creature — Human Ninja
+"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card."
+2/2
+Ninja de las horas tardías
+{3}{U}
+Creature — Human Ninja
+"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card."
+2/2
+Ninja de las horas tardías
+{3}{U}
+Creature — Human Ninja
+"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card."
+2/2
+Incursión nocturna
+{2}{B}{B}
+Instant
+Black creatures get +2/+0 until end of turn.
+Pastora magoanula
+{3}{G}
+Creature — Elf Shaman
+Tap four untapped creatures you control: Destroy target artifact or enchantment.
+2/4
+Pastora magoanula
+{3}{G}
+Creature — Elf Shaman
+Tap four untapped creatures you control: Destroy target artifact or enchantment.
+2/4
+Shinobi de la banda Okiba
+{3}{B}{B}
+Creature — Rat Ninja
+"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards."
+3/2
+Shinobi de la banda Okiba
+{3}{B}{B}
+Creature — Rat Ninja
+"Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards."
+3/2
+Una Dozzina di Occhi
+{5}{G}
+Sorcery
+Choose one —
+• Create a 5/5 green Beast creature token.
+• Create five 1/1 green Insect creature tokens.
+Entwine {G}{G}{G} (Choose both if you pay the entwine cost.)
+Abrumar
+{5}{G}{G}
+Sorcery
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Creatures you control get +3/+3 until end of turn.
+"Oyobi, la que parte los cielos"
+{6}{W}
+Legendary Creature — Spirit
+Flying
+"Whenever you cast a Spirit or Arcane spell, create a 3/3 white Spirit creature token with flying."
+3/6
+Pacifismo
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Pacifismo
+{1}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature can’t attack or block.
+Kami del dolor
+{2}{R}
+Creature — Spirit
+"{X}{R}, Sacrifice Pain Kami: It deals X damage to target creature."
+2/2
+Kami del dolor
+{2}{R}
+Creature — Spirit
+"{X}{R}, Sacrifice Pain Kami: It deals X damage to target creature."
+2/2
+Protector de los nezumi
+{5}{B}{B}
+Legendary Creature — Spirit
+Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+"Whenever a permanent is put into an opponent’s graveyard, that player loses 1 life."
+6/6
+Bandada fantasma
+{3}{W}{W}
+Creature — Bird Soldier Spirit
+Flying
+Phantom Flock enters the battlefield with three +1/+1 counters on it.
+"If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock."
+0/0
+Bandada fantasma
+{3}{W}{W}
+Creature — Bird Soldier Spirit
+Flying
+Phantom Flock enters the battlefield with three +1/+1 counters on it.
+"If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock."
+0/0
+Nómada fantasma
+{1}{W}
+Creature — Spirit Nomad
+Phantom Nomad enters the battlefield with two +1/+1 counters on it.
+"If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad."
+0/0
+Nómada fantasma
+{1}{W}
+Creature — Spirit Nomad
+Phantom Nomad enters the battlefield with two +1/+1 counters on it.
+"If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad."
+0/0
+Alas fantasmales
+{1}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has flying.
+Sacrifice Phantom Wings: Return enchanted creature to its owner’s hand.
+Rusalka infectada
+{B}
+Creature — Spirit
+"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
+1/1
+Rusalka infectada
+{B}
+Creature — Spirit
+"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
+1/1
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Pianura
+Basic Land — Plains
+({T}: Add {W}.)
+Llanura
+Basic Land — Plains
+({T}: Add {W}.)
+Plumas de la paz
+{1}{W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step.
+"Forecast — {W}{U}, Reveal Plumes of Peace from your hand: Tap target creature. (Activate this ability only during your upkeep and only once each turn.)"
+Plumas de la paz
+{1}{W}{U}
+Enchantment — Aura
+Enchant creature
+Enchanted creature doesn’t untap during its controller’s untap step.
+"Forecast — {W}{U}, Reveal Plumes of Peace from your hand: Tap target creature. (Activate this ability only during your upkeep and only once each turn.)"
+Assalto del Predatore
+{1}{G}
+Instant
+Target creature gets +3/+3 and gains trample until end of turn.
+Magofuerza primordial
+{2}{G}
+Creature — Elf Shaman
+"Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn."
+2/2
+Magofuerza primordial
+{2}{G}
+Creature — Elf Shaman
+"Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn."
+2/2
+Magofuerza primordial
+{2}{G}
+Creature — Elf Shaman
+"Whenever another creature enters the battlefield under your control, that creature gets +3/+3 until end of turn."
+2/2
+Impulso del Groviglio
+{1}{G}{G}
+Sorcery
+"Create a 3/3 green Beast creature token. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner’s hand."
+Titiritero
+{2}{U}
+Creature — Human Wizard
+"{U}, {T}: You may tap or untap target creature."
+1/2
+Titiritero
+{2}{U}
+Creature — Human Wizard
+"{U}, {T}: You may tap or untap target creature."
+1/2
+Piroclasma
+{1}{R}
+Sorcery
+Pyroclasm deals 2 damage to each creature.
+Fragmentado veloz
+{1}{G}
+Creature — Sliver
+Flash
+Any player may cast Sliver spells as though they had flash.
+1/1
+Fragmentado veloz
+{1}{G}
+Creature — Sliver
+Flash
+Any player may cast Sliver spells as though they had flash.
+1/1
+Fragmentado veloz
+{1}{G}
+Creature — Sliver
+Flash
+Any player may cast Sliver spells as though they had flash.
+1/1
+Trasgo furioso
+{R}
+Creature — Goblin Berserker
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+1/1
+Trasgo furioso
+{R}
+Creature — Goblin Berserker
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+1/1
+Trasgo furioso
+{R}
+Creature — Goblin Berserker
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+1/1
+"Raksha, Cucciolo d'Oro"
+{5}{W}{W}
+Legendary Creature — Cat Soldier
+Vigilance
+"As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike."
+3/4
+Crescita Inarrestabile
+{1}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Crescita Inarrestabile
+{1}{G}
+Sorcery
+Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Festín de ratas
+{X}{B}
+Sorcery
+Exile X target cards from a single graveyard.
+Festín de ratas
+{X}{B}
+Sorcery
+Exile X target cards from a single graveyard.
+Rhox
+{4}{G}{G}
+Creature — Rhino Beast
+You may have Rhox assign its combat damage as though it weren’t blocked.
+"{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
+5/5
+Reproductor Resaca
+{X}{4}
+Artifact
+"As Riptide Replicator enters the battlefield, choose a color and a creature type."
+Riptide Replicator enters the battlefield with X charge counters on it.
+"{4}, {T}: Create an X/X creature token of the chosen color and type, where X is the number of charge counters on Riptide Replicator."
+Fragmentado de raíces
+{3}{G}
+Creature — Sliver
+This spell can’t be countered.
+Sliver spells can’t be countered.
+2/2
+Fragmentado de raíces
+{3}{G}
+Creature — Sliver
+This spell can’t be countered.
+Sliver spells can’t be countered.
+2/2
+Búho sabio
+{1}{U}
+Creature — Bird
+Flying
+"When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order."
+1/1
+Búho sabio
+{1}{U}
+Creature — Bird
+Flying
+"When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order."
+1/1
+Folata Salmastra
+{3}{W}{W}
+Sorcery
+Destroy target nonwhite permanent.
+Folata Salmastra
+{3}{W}{W}
+Sorcery
+Destroy target nonwhite permanent.
+Guardián del lugar sagrado
+{1}{W}{W}
+Creature — Human Cleric
+"Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to any target this turn, prevent that damage."
+1/4
+Siembrarena
+{3}{W}
+Creature — Spirit
+Tap three untapped creatures you control: Tap target creature.
+1/3
+Siembrarena
+{3}{W}
+Creature — Spirit
+Tap three untapped creatures you control: Tap target creature.
+1/3
+Magistrado sanguinario
+{6}{B}{B}
+Creature — Avatar Praetor
+"{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature."
+7/5
+Ofensiva salvaje
+{1}{R}
+Sorcery
+Kicker {G} (You may pay an additional {G} as you cast this spell.)
+"Creatures you control gain first strike until end of turn. If this spell was kicked, they get +1/+1 until end of turn."
+Tálido salvaje
+{3}{G}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on Savage Thallid."
+Remove three spore counters from Savage Thallid: Create a 1/1 green Saproling creature token.
+Sacrifice a Saproling: Regenerate target Fungus.
+5/2
+Tálido salvaje
+{3}{G}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on Savage Thallid."
+Remove three spore counters from Savage Thallid: Create a 1/1 green Saproling creature token.
+Sacrifice a Saproling: Regenerate target Fungus.
+5/2
+Lacerador del clan Scab
+{R}{G}
+Creature — Human Berserker
+"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)"
+Trample
+1/1
+Lacerador del clan Scab
+{R}{G}
+Creature — Human Berserker
+"Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)"
+Trample
+1/1
+Esparcir las semillas
+{3}{G}{G}
+Instant
+Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature’s color.)
+Create three 1/1 green Saproling creature tokens.
+Chispa de semilla
+{3}{W}
+Instant
+"Destroy target artifact or enchantment. If {G} was spent to cast this spell, create two 1/1 green Saproling creature tokens."
+Buscador de la luz celeste
+{1}{G}
+Creature — Elf
+{T}: Untap target creature.
+2/1
+Buscador de la luz celeste
+{1}{G}
+Creature — Elf
+{T}: Untap target creature.
+2/1
+Tigre di Seht
+{2}{W}{W}
+Creature — Cat
+Flash (You may cast this spell any time you could cast an instant.)
+"When Seht’s Tiger enters the battlefield, you gain protection from the color of your choice until end of turn. (You can’t be targeted, dealt damage, or enchanted by anything of the chosen color.)"
+3/3
+Misionera selesnya
+{G}{W}
+Creature — Elf Shaman
+"{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token."
+1/2
+Misionera selesnya
+{G}{W}
+Creature — Elf Shaman
+"{1}, {T}, Tap an untapped creature you control: Create a 1/1 green Saproling creature token."
+1/2
+Mago del Gremio Selesnya
+{G/W}{G/W}
+Creature — Elf Wizard
+{3}{G}: Create a 1/1 green Saproling creature token.
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+2/2
+Mago del Gremio Selesnya
+{G/W}{G/W}
+Creature — Elf Wizard
+{3}{G}: Create a 1/1 green Saproling creature token.
+{3}{W}: Creatures you control get +1/+1 until end of turn.
+2/2
+Santuario di Selesnya
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+"When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{W}.
+Santuario di Selesnya
+Land
+Selesnya Sanctuary enters the battlefield tapped.
+"When Selesnya Sanctuary enters the battlefield, return a land you control to its owner’s hand."
+{T}: Add {G}{W}.
+Sigillo di Selesnya
+{2}
+Artifact
+"{1}, {T}: Add {G}{W}."
+Sigillo di Selesnya
+{2}
+Artifact
+"{1}, {T}: Add {G}{W}."
+Sigillo di Selesnya
+{2}
+Artifact
+"{1}, {T}: Add {G}{W}."
+Pelle di Serpente
+{2}{G}
+Enchantment — Aura
+Flash
+Enchant creature
+Enchanted creature gets +1/+1.
+{G}: Regenerate enchanted creature.
+Separar el alma
+{3}{B}{B}
+Sorcery
+Destroy target nonblack creature. It can’t be regenerated. You gain life equal to its toughness.
+Separar el alma
+{3}{B}{B}
+Sorcery
+Destroy target nonblack creature. It can’t be regenerated. You gain life equal to its toughness.
+Shinen del fuego de la furia
+{2}{R}
+Creature — Spirit
+Haste
+"Channel — {R}, Discard Shinen of Fury’s Fire: Target creature gains haste until end of turn."
+2/1
+Shinen del fuego de la furia
+{2}{R}
+Creature — Spirit
+Haste
+"Channel — {R}, Discard Shinen of Fury’s Fire: Target creature gains haste until end of turn."
+2/1
+Shinen del fuego de la furia
+{2}{R}
+Creature — Spirit
+Haste
+"Channel — {R}, Discard Shinen of Fury’s Fire: Target creature gains haste until end of turn."
+2/1
+Choque
+{R}
+Instant
+Shock deals 2 damage to any target.
+Choque
+{R}
+Instant
+Shock deals 2 damage to any target.
+Voluntad del golpeapecado
+{3}{W}
+Enchantment — Aura
+Enchant creature
+Enchanted creature has “{T}: This creature deals damage equal to its power to target attacking or blocking creature.”
+"Skarrg, los pozos de la furia"
+Land
+{T}: Add {C}.
+"{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn."
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Secuestracráneos
+{1}{B}
+Creature — Rat Ninja
+"Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player’s graveyard."
+2/1
+Cucciola di Solcacielo
+{2}{W}
+Creature — Cat Knight
+"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
+2/2
+Cucciola di Solcacielo
+{2}{W}
+Creature — Cat Knight
+"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
+2/2
+Cucciola di Solcacielo
+{2}{W}
+Creature — Cat Knight
+"As long as Skyhunter Cub is equipped, it gets +1/+1 and has flying."
+2/2
+Pattuglia di Solcacielo
+{2}{W}{W}
+Creature — Cat Knight
+"Flying, first strike (This creature can’t be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)"
+2/3
+Pattuglia di Solcacielo
+{2}{W}{W}
+Creature — Cat Knight
+"Flying, first strike (This creature can’t be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)"
+2/3
+Esploratrice Solcacielo
+{1}{W}{W}
+Creature — Cat Knight
+"Flying, double strike"
+1/1
+Esploratrice Solcacielo
+{1}{W}{W}
+Creature — Cat Knight
+"Flying, double strike"
+1/1
+Aprendiz de jinete celeste
+{4}{W}
+Creature — Human Soldier
+Skyrider Trainee has flying as long as it’s enchanted.
+3/3
+Aprendiz de jinete celeste
+{4}{W}
+Creature — Human Soldier
+Skyrider Trainee has flying as long as it’s enchanted.
+3/3
+Armatura di Wurm delle Scorie
+{1}
+Artifact — Equipment
+Equipped creature gets +0/+6.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Barremente soratami
+{3}{U}
+Creature — Moonfolk Wizard
+Flying
+"{2}, Return a land you control to its owner’s hand: Target player mills two cards."
+1/4
+Barremente soratami
+{3}{U}
+Creature — Moonfolk Wizard
+Flying
+"{2}, Return a land you control to its owner’s hand: Target player mills two cards."
+1/4
+Barremente soratami
+{3}{U}
+Creature — Moonfolk Wizard
+Flying
+"{2}, Return a land you control to its owner’s hand: Target player mills two cards."
+1/4
+Moldealluvia soratami
+{2}{U}
+Creature — Moonfolk Wizard
+Flying
+"{3}, Return a land you control to its owner’s hand: Target creature you control gains shroud until end of turn. (It can’t be the target of spells or abilities.)"
+2/1
+Moldealluvia soratami
+{2}{U}
+Creature — Moonfolk Wizard
+Flying
+"{3}, Return a land you control to its owner’s hand: Target creature you control gains shroud until end of turn. (It can’t be the target of spells or abilities.)"
+2/1
+Alma de magma
+{3}{R}{R}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature."
+2/2
+Alma de magma
+{3}{R}{R}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, Soul of Magma deals 1 damage to target creature."
+2/2
+Jurado comprometido
+{2}{W}
+Creature — Spirit
+Defender (This creature can’t attack.)
+"{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell."
+1/4
+Jurado comprometido
+{2}{W}
+Creature — Spirit
+Defender (This creature can’t attack.)
+"{1}{U}, Sacrifice Soulsworn Jury: Counter target creature spell."
+1/4
+Protectora de almas
+{W}
+Creature — Human Cleric
+"Whenever another creature enters the battlefield, you gain 1 life."
+1/1
+Protectora de almas
+{W}
+Creature — Human Cleric
+"Whenever another creature enters the battlefield, you gain 1 life."
+1/1
+Manto dello Spettro
+{2}
+Artifact — Equipment
+Equipped creature gets +1/+0.
+"Whenever equipped creature deals combat damage to a player, that player discards a card."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Fragmentado espectral
+{2}{B}
+Creature — Sliver Spirit
+All Sliver creatures have “{2}: This creature gets +1/+1 until end of turn.”
+2/2
+Fragmentado espectral
+{2}{B}
+Creature — Sliver Spirit
+All Sliver creatures have “{2}: This creature gets +1/+1 until end of turn.”
+2/2
+Malhechor cobarde
+{1}{B}
+Creature — Zombie Mercenary
+Spineless Thug can’t block.
+2/2
+Malhechor cobarde
+{1}{B}
+Creature — Zombie Mercenary
+Spineless Thug can’t block.
+2/2
+Malhechor cobarde
+{1}{B}
+Creature — Zombie Mercenary
+Spineless Thug can’t block.
+2/2
+Vínculo espiritual
+{W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"Whenever enchanted creature deals damage, you gain that much life."
+Vínculo espiritual
+{W}
+Enchantment — Aura
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+"Whenever enchanted creature deals damage, you gain that much life."
+Tálido siembraesporas
+{2}{G}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on each Fungus you control."
+Remove three spore counters from Sporesower Thallid: Create a 1/1 green Saproling creature token.
+4/4
+Germinar
+{G}
+Instant
+Create a 1/1 green Saproling creature token.
+Germinar
+{G}
+Instant
+Create a 1/1 green Saproling creature token.
+Venganza acechante
+{5}{R}{R}
+Creature — Avatar
+Haste
+"Whenever another creature you control dies, it deals damage equal to its power to target player or planeswalker."
+5/5
+Agitar la manada
+{4}{W}
+Instant
+Choose one —
+• Creatures you control get +2/+2 until end of turn.
+"• Until end of turn, creatures you control gain “Whenever this creature deals damage, you gain that much life.”"
+Entwine {1}{W} (Choose both if you pay the entwine cost.)
+Mago de guerra Escapatormenta
+{2}{U}
+Creature — Metathran Wizard
+Kicker {W} and/or {2}{B} (You may pay an additional {W} and/or {2}{B} as you cast this spell.)
+"When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life."
+"When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can’t be regenerated."
+2/2
+Fuerza numérica
+{1}{G}
+Instant
+"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures."
+Fuerza numérica
+{1}{G}
+Instant
+"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures."
+Fuerza numérica
+{1}{G}
+Instant
+"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of attacking creatures."
+Lucha por la cordura
+{2}{B}{B}
+Sorcery
+"Target opponent reveals their hand. That player exiles a card from it, then you exile a card from it. Repeat this process until all cards in that hand have been exiled. That player returns the cards they exiled this way to their hand and puts the rest into their graveyard."
+Oferta
+{X}{G}{W}
+Sorcery
+Create X 1/1 green Saproling creature tokens.
+Demanda
+{1}{W}{U}
+Sorcery
+"Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library."
+Oferta
+{X}{G}{W}
+Sorcery
+Create X 1/1 green Saproling creature tokens.
+Demanda
+{1}{W}{U}
+Sorcery
+"Search your library for a multicolored card, reveal it, and put it into your hand. Then shuffle your library."
+Suprimir
+{2}{B}
+Sorcery
+"Target player exiles all cards from their hand face down. At the beginning of the end step of that player’s next turn, that player returns those cards to their hand."
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Pantano
+Basic Land — Swamp
+({T}: Add {B}.)
+Aluvión de ratas
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1
+Aluvión de ratas
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1
+Aluvión de ratas
+{1}{B}
+Creature — Rat
+Swarm of Rats’s power is equal to the number of Rats you control.
+*/1
+Mensajera silvestre
+{3}{G}
+Creature — Elf
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+"When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
+2/2
+Mensajera silvestre
+{3}{G}
+Creature — Elf
+Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
+"When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
+2/2
+Armaiolo di Taj-Nar
+{3}{W}
+Creature — Cat Soldier
+"When Taj-Nar Swordsmith enters the battlefield, you may pay {X}. If you do, search your library for an Equipment card with converted mana cost X or less and put that card onto the battlefield. Then shuffle your library."
+2/3
+Lágrimas de ira
+{2}{R}{R}
+Instant
+Cast this spell only during the declare attackers step.
+"Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step."
+Distesa Terramorfica
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Distesa Terramorfica
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Distesa Terramorfica
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Distesa Terramorfica
+Land
+"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
+Terrarión
+{1}
+Artifact
+Terrarion enters the battlefield tapped.
+"{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors."
+"When Terrarion is put into a graveyard from the battlefield, draw a card."
+Terrarión
+{1}
+Artifact
+Terrarion enters the battlefield tapped.
+"{2}, {T}, Sacrifice Terrarion: Add two mana in any combination of colors."
+"When Terrarion is put into a graveyard from the battlefield, draw a card."
+Germinador tálido
+{2}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on Thallid Germinator."
+Remove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+2/2
+Germinador tálido
+{2}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on Thallid Germinator."
+Remove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+2/2
+Germinador tálido
+{2}{G}
+Creature — Fungus
+"At the beginning of your upkeep, put a spore counter on Thallid Germinator."
+Remove three spore counters from Thallid Germinator: Create a 1/1 green Saproling creature token.
+Sacrifice a Saproling: Target creature gets +1/+1 until end of turn.
+2/2
+Tálido morador de caparazón
+{1}{G}
+Creature — Fungus
+Defender
+"At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller."
+Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green Saproling creature token.
+0/5
+Tálido morador de caparazón
+{1}{G}
+Creature — Fungus
+Defender
+"At the beginning of your upkeep, put a spore counter on Thallid Shell-Dweller."
+Remove three spore counters from Thallid Shell-Dweller: Create a 1/1 green Saproling creature token.
+0/5
+Ermitaño thelonita
+{3}{G}
+Creature — Elf Shaman
+All Saprolings get +1/+1.
+Morph {3}{G}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"When Thelonite Hermit is turned face up, create four 1/1 green Saproling creature tokens."
+1/1
+Gólem thran
+{5}
+Artifact Creature — Golem
+"As long as Thran Golem is enchanted, it gets +2/+2 and has flying, first strike, and trample."
+3/3
+Amenazar
+{2}{R}
+Sorcery
+Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)
+Amenazar
+{2}{R}
+Sorcery
+Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)
+Tres sueños
+{4}{W}
+Sorcery
+"Search your library for up to three Aura cards with different names, reveal them, and put them into your hand. Then shuffle your library."
+Cortagargantas
+{4}{B}
+Creature — Rat Ninja
+"Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls."
+2/2
+Cortagargantas
+{4}{B}
+Creature — Rat Ninja
+"Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls."
+2/2
+Yegua del trueno
+{5}{R}
+Creature — Elemental Horse
+Haste (This creature can attack and {T} as soon as it comes under your control.)
+"When Thundermare enters the battlefield, tap all other creatures."
+5/5
+Elfo vigilabosques
+{2}{G}
+Creature — Elf
+"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+1/2
+Elfo vigilabosques
+{2}{G}
+Creature — Elf
+"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+1/2
+Tolsimir Sangrelobo
+{4}{G}{W}
+Legendary Creature — Elf Warrior
+Other green creatures you control get +1/+1.
+Other white creatures you control get +1/+1.
+"{T}: Create Voja, a legendary 2/2 green and white Wolf creature token."
+3/4
+Torre de los murmullos
+{4}
+Artifact
+"{8}, {T}: Target player mills eight cards."
+Fragmentado de toxinas
+{3}{B}
+Creature — Sliver
+"Whenever a Sliver deals combat damage to a creature, destroy that creature. It can’t be regenerated."
+3/3
+Explorador de las copas
+{G}
+Creature — Elf Scout
+Treetop Scout can’t be blocked except by creatures with flying.
+1/1
+Explorador de las copas
+{G}
+Creature — Elf Scout
+Treetop Scout can’t be blocked except by creatures with flying.
+1/1
+Arriero del crepúsculo
+{2}{W}
+Creature — Spirit
+"Whenever a creature token leaves the battlefield, put a +1/+1 counter on Twilight Drover."
+"{2}{W}, Remove a +1/+1 counter from Twilight Drover: Create two 1/1 white Spirit creature tokens with flying."
+1/1
+Furia inmortal
+{2}{R}
+Enchantment — Aura
+Enchant creature
+Enchanted creature gets +2/+2 and can’t block.
+"When Undying Rage is put into a graveyard from the battlefield, return Undying Rage to its owner’s hand."
+Emisaria de Urbog
+{2}{B}
+Creature — Human Wizard
+Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+"When Urborg Emissary enters the battlefield, if it was kicked, return target permanent to its owner’s hand."
+3/1
+Orsapino
+{3}{G}{G}
+Creature — Beast
+{G}: Target creature gets +1/+1 until end of turn.
+3/3
+Fundir al vacío
+{2}{U}
+Sorcery
+"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+Return target creature to its owner’s hand.
+Fundir al vacío
+{2}{U}
+Sorcery
+"Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)"
+Return target creature to its owner’s hand.
+Transponedor vedalken
+{5}{U}
+Creature — Vedalken Wizard
+"When Vedalken Dismisser enters the battlefield, put target creature on top of its owner’s library."
+2/2
+Transponedor vedalken
+{5}{U}
+Creature — Vedalken Wizard
+"When Vedalken Dismisser enters the battlefield, put target creature on top of its owner’s library."
+2/2
+Hipnotizador vedalken
+{3}{U}
+Creature — Vedalken Wizard
+"{U}, {T}: Target player mills two cards."
+1/4
+Hipnotizador vedalken
+{3}{U}
+Creature — Vedalken Wizard
+"{U}, {T}: Target player mills two cards."
+1/4
+Hipnotizador vedalken
+{3}{U}
+Creature — Vedalken Wizard
+"{U}, {T}: Target player mills two cards."
+1/4
+Hipnotizador vedalken
+{3}{U}
+Creature — Vedalken Wizard
+"{U}, {T}: Target player mills two cards."
+1/4
+Mente maestra vedalken
+{U}{U}
+Creature — Vedalken Wizard
+"{U}, {T}: Return target permanent you control to its owner’s hand."
+1/2
+Necrófago vespertino
+{2}{B}
+Creature — Zombie Druid
+"{T}, Pay 1 life: Add one mana of any color."
+1/1
+Explorador viridiano
+{3}{G}
+Creature — Elf Warrior Scout
+"{2}{G}, Sacrifice Viridian Scout: It deals 2 damage to target creature with flying."
+1/2
+Voz del bosque
+{3}{G}{G}
+Creature — Elf
+Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.
+2/2
+Martello Vulcanico
+{1}{R}
+Sorcery
+Volcanic Hammer deals 3 damage to any target.
+Martello Vulcanico
+{1}{R}
+Sorcery
+Volcanic Hammer deals 3 damage to any target.
+Martillo volcánico
+{1}{R}
+Sorcery
+Volcanic Hammer deals 3 damage to any target.
+Guanti Vulshok
+{2}
+Artifact — Equipment
+Equipped creature gets +4/+2 and doesn’t untap during its controller’s untap step.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)
+Hechicera vúlshok
+{1}{R}{R}
+Creature — Human Shaman
+Haste
+{T}: Vulshok Sorcerer deals 1 damage to any target.
+1/1
+Caminante de la ruta secreta
+{2}{U}
+Creature — Human Ninja
+"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Walker of Secret Ways deals combat damage to a player, look at that player’s hand."
+{1}{U}: Return target Ninja you control to its owner’s hand. Activate this ability only during your turn.
+1/2
+Caminante de la ruta secreta
+{2}{U}
+Creature — Human Ninja
+"Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)"
+"Whenever Walker of Secret Ways deals combat damage to a player, look at that player’s hand."
+{1}{U}: Return target Ninja you control to its owner’s hand. Activate this ability only during your turn.
+1/2
+Baku melena de cera
+{2}{W}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku."
+"{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures."
+2/2
+Baku melena de cera
+{2}{W}
+Creature — Spirit
+"Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku."
+"{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures."
+2/2
+Baratija del caminante
+{1}
+Artifact
+"{2}, {T}, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+Baratija del caminante
+{1}
+Artifact
+"{2}, {T}, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
+Bienhechora
+{1}{G}
+Creature — Elf
+{T}: You gain 1 life for each Elf on the battlefield.
+1/1
+Leone dalla Bianca Criniera
+{1}{W}
+Creature — Cat
+Flash (You may cast this spell any time you could cast an instant.)
+"When Whitemane Lion enters the battlefield, return a creature you control to its owner’s hand."
+2/2
+Canalizador de Wirewood
+{3}{G}
+Creature — Elf Druid
+"{T}: Add X mana of any one color, where X is the number of Elves on the battlefield."
+2/2
+Heraldo de Wirewood
+{1}{G}
+Creature — Elf
+"When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library."
+1/1
+Dominaenjambres de Wirewood
+{1}{G}
+Creature — Elf
+"Whenever another nontoken Elf enters the battlefield, you may create a 1/1 green Insect creature token."
+1/1
+Dominaenjambres de Wirewood
+{1}{G}
+Creature — Elf
+"Whenever another nontoken Elf enters the battlefield, you may create a 1/1 green Insect creature token."
+1/1
+Pabellón de Wirewood
+Land
+{T}: Add {C}.
+"{G}, {T}: Untap target Elf."
+Orgullo de Wirewood
+{G}
+Instant
+"Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Orgullo de Wirewood
+{G}
+Instant
+"Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Orgullo de Wirewood
+{G}
+Instant
+"Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
+Réplica del hechicero
+{3}
+Artifact Creature — Wizard
+Flying
+"{U}, Sacrifice Wizard Replica: Counter target spell unless its controller pays {2}."
+1/3
+Portadora de la miseria
+{4}{B}
+Creature — Zombie
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+"Whenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+2/3
+Portadora de la miseria
+{4}{B}
+Creature — Zombie
+Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
+"Whenever Woebearer deals combat damage to a player, you may return target creature card from your graveyard to your hand."
+2/3
+Boticario wojek
+{2}{W}{W}
+Creature — Human Cleric
+Radiance — {T}: Prevent the next 1 damage that would be dealt to target creature and each other creature that shares a color with it this turn.
+1/1
+Yuki-Onna
+{3}{R}
+Creature — Spirit
+"When Yuki-Onna enters the battlefield, destroy target artifact."
+"Whenever you cast a Spirit or Arcane spell, you may return Yuki-Onna to its owner’s hand."
+3/1
