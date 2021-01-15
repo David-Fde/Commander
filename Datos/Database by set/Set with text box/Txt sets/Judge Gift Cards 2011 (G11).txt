@@ -1,44 +1,9 @@
-Bitterblossom
-{1}{B}
-Tribal Enchantment — Faerie
-"At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying."
-Dark Confidant
-{1}{B}
-Creature — Human Wizard
-"At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost."
-2/1
-Doubling Season
-{4}{G}
-Enchantment
-"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
-"If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead."
-Entomb
-{B}
-Instant
-Search your library for a card and put that card into your graveyard. Then shuffle your library.
-Goblin Welder
-{R}
-Creature — Goblin Artificer
-"{T}: Choose target artifact a player controls and target artifact card in that player’s graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield."
-1/1
-Mana Crypt
-{0}
-Artifact
-"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you."
-{T}: Add {C}{C}.
-Sword of Fire and Ice
-{3}
-Artifact — Equipment
-Equipped creature gets +2/+2 and has protection from red and from blue.
-"Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card."
-Equip {2}
-Vendilion Clique
-{1}{U}{U}
-Legendary Creature — Faerie Wizard
-Flash
-Flying
-"When Vendilion Clique enters the battlefield, look at target player’s hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card."
-3/1
-Wolf
-Token Creature — Wolf
-2/2
+"('Bitterblossom', ['{1}{B}', 'Tribal Enchantment — Faerie', 'At the beginning of your upkeep, you lose 1 life and create a 1/1 black Faerie Rogue creature token with flying.'])"
+"('Dark Confidant', ['{1}{B}', 'Creature — Human Wizard', 'At the beginning of your upkeep, reveal the top card of your library and put that card into your hand. You lose life equal to its converted mana cost.', '2/1'])"
+"('Doubling Season', ['{4}{G}', 'Enchantment', 'If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.', 'If an effect would put one or more counters on a permanent you control, it puts twice that many of those counters on that permanent instead.'])"
+"('Entomb', ['{B}', 'Instant', 'Search your library for a card and put that card into your graveyard. Then shuffle your library.'])"
+"('Goblin Welder', ['{R}', 'Creature — Goblin Artificer', '{T}: Choose target artifact a player controls and target artifact card in that player’s graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.', '1/1'])"
+"('Mana Crypt', ['{0}', 'Artifact', 'At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.', '{T}: Add {C}{C}.'])"
+"('Sword of Fire and Ice', ['{3}', 'Artifact — Equipment', 'Equipped creature gets +2/+2 and has protection from red and from blue.', 'Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to any target and you draw a card.', 'Equip {2}'])"
+"('Vendilion Clique', ['{1}{U}{U}', 'Legendary Creature — Faerie Wizard', 'Flash', 'Flying', 'When Vendilion Clique enters the battlefield, look at target player’s hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of their library, then draws a card.', '3/1'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"

@@ -1,50 +1,11 @@
-Giant Growth
-{G}
-Instant
-Target creature gets +3/+3 until end of turn.
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Longbow Archer
-{W}{W}
-Creature — Human Soldier Archer
-First strike; reach (This creature can block creatures with flying.)
-2/2
-Mind Warp
-{X}{3}{B}
-Sorcery
-Look at target player’s hand and choose X cards from it. That player discards those cards.
-Prodigal Sorcerer
-{2}{U}
-Creature — Human Wizard
-{T}: Prodigal Sorcerer deals 1 damage to any target.
-1/1
-River Boa
-{1}{G}
-Creature — Snake
-Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
-{G}: Regenerate River Boa.
-2/1
-Shock
-{R}
-Instant
-Shock deals 2 damage to any target.
-Staunch Defenders
-{3}{W}{W}
-Creature — Human Soldier
-"When Staunch Defenders enters the battlefield, you gain 4 life."
-3/4
-Stone Rain
-{2}{R}
-Sorcery
-Destroy target land.
-Terror
-{1}{B}
-Instant
-"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
-Volcanic Geyser
-{X}{R}{R}
-Instant
-Volcanic Geyser deals X damage to any target.
+"('Giant Growth', ['{G}', 'Instant', 'Target creature gets +3/+3 until end of turn.'])"
+"('Llanowar Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Longbow Archer', ['{W}{W}', 'Creature — Human Soldier Archer', 'First strike; reach (This creature can block creatures with flying.)', '2/2'])"
+"('Mind Warp', ['{X}{3}{B}', 'Sorcery', 'Look at target player’s hand and choose X cards from it. That player discards those cards.'])"
+"('Prodigal Sorcerer', ['{2}{U}', 'Creature — Human Wizard', '{T}: Prodigal Sorcerer deals 1 damage to any target.', '1/1'])"
+"('River Boa', ['{1}{G}', 'Creature — Snake', 'Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)', '{G}: Regenerate River Boa.', '2/1'])"
+"('Shock', ['{R}', 'Instant', 'Shock deals 2 damage to any target.'])"
+"('Staunch Defenders', ['{3}{W}{W}', 'Creature — Human Soldier', 'When Staunch Defenders enters the battlefield, you gain 4 life.', '3/4'])"
+"('Stone Rain', ['{2}{R}', 'Sorcery', 'Destroy target land.'])"
+"('Terror', ['{1}{B}', 'Instant', 'Destroy target nonartifact, nonblack creature. It can’t be regenerated.'])"
+"('Volcanic Geyser', ['{X}{R}{R}', 'Instant', 'Volcanic Geyser deals X damage to any target.'])"

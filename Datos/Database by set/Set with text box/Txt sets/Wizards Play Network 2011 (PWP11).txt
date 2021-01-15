@@ -1,74 +1,14 @@
-Auramancer
-{2}{W}
-Creature — Human Wizard
-"When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand."
-2/2
-Bloodcrazed Neonate
-{1}{R}
-Creature — Vampire
-Bloodcrazed Neonate attacks each combat if able.
-"Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it."
-2/1
-Boneyard Wurm
-{1}{G}
-Creature — Wurm
-Boneyard Wurm’s power and toughness are each equal to the number of creature cards in your graveyard.
-*/*
-Circle of Flame
-{1}{R}
-Enchantment
-"Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature."
-Curse of the Bloody Tome
-{2}{U}
-Enchantment — Aura Curse
-Enchant player
-"At the beginning of enchanted player’s upkeep, that player mills two cards."
-Fling
-{1}{R}
-Instant
-"As an additional cost to cast this spell, sacrifice a creature."
-Fling deals damage equal to the sacrificed creature’s power to any target.
-Master's Call
-{2}{W}
-Instant
-Create two 1/1 colorless Myr artifact creature tokens.
-Maul Splicer
-{6}{G}
-Creature — Human Artificer
-"When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens."
-Golem creatures you control have trample.
-1/1
-Plague Myr
-{2}
-Artifact Creature — Myr
-Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
-{T}: Add {C}.
-1/1
-Shrine of Burning Rage
-{2}
-Artifact
-"At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage."
-"{3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target."
-Signal Pest
-{1}
-Artifact Creature — Pest
-"Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)"
-Signal Pest can’t be blocked except by creatures with flying or reach.
-0/1
-Sylvan Ranger
-{1}{G}
-Creature — Elf Scout
-"When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
-1/1
-Tormented Soul
-{B}
-Creature — Spirit
-Tormented Soul can’t block and can’t be blocked.
-1/1
-Vault Skirge
-{1}{B/P}
-Artifact Creature — Imp
-({B/P} can be paid with either {B} or 2 life.)
-Flying
-Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-1/1
+"('Auramancer', ['{2}{W}', 'Creature — Human Wizard', 'When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.', '2/2'])"
+"('Bloodcrazed Neonate', ['{1}{R}', 'Creature — Vampire', 'Bloodcrazed Neonate attacks each combat if able.', 'Whenever Bloodcrazed Neonate deals combat damage to a player, put a +1/+1 counter on it.', '2/1'])"
+"('Boneyard Wurm', ['{1}{G}', 'Creature — Wurm', 'Boneyard Wurm’s power and toughness are each equal to the number of creature cards in your graveyard.', '*/*'])"
+"('Circle of Flame', ['{1}{R}', 'Enchantment', 'Whenever a creature without flying attacks you or a planeswalker you control, Circle of Flame deals 1 damage to that creature.'])"
+"('Curse of the Bloody Tome', ['{2}{U}', 'Enchantment — Aura Curse', 'Enchant player', 'At the beginning of enchanted player’s upkeep, that player mills two cards.'])"
+"('Fling', ['{1}{R}', 'Instant', 'As an additional cost to cast this spell, sacrifice a creature.', 'Fling deals damage equal to the sacrificed creature’s power to any target.'])"
+"(""Master's Call"", ['{2}{W}', 'Instant', 'Create two 1/1 colorless Myr artifact creature tokens.'])"
+"('Maul Splicer', ['{6}{G}', 'Creature — Human Artificer', 'When Maul Splicer enters the battlefield, create two 3/3 colorless Golem artifact creature tokens.', 'Golem creatures you control have trample.', '1/1'])"
+"('Plague Myr', ['{2}', 'Artifact Creature — Myr', 'Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)', '{T}: Add {C}.', '1/1'])"
+"('Shrine of Burning Rage', ['{2}', 'Artifact', 'At the beginning of your upkeep or whenever you cast a red spell, put a charge counter on Shrine of Burning Rage.', '{3}, {T}, Sacrifice Shrine of Burning Rage: It deals damage equal to the number of charge counters on it to any target.'])"
+"('Signal Pest', ['{1}', 'Artifact Creature — Pest', 'Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)', 'Signal Pest can’t be blocked except by creatures with flying or reach.', '0/1'])"
+"('Sylvan Ranger', ['{1}{G}', 'Creature — Elf Scout', 'When Sylvan Ranger enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.', '1/1'])"
+"('Tormented Soul', ['{B}', 'Creature — Spirit', 'Tormented Soul can’t block and can’t be blocked.', '1/1'])"
+"('Vault Skirge', ['{1}{B/P}', 'Artifact Creature — Imp', '({B/P} can be paid with either {B} or 2 life.)', 'Flying', 'Lifelink (Damage dealt by this creature also causes you to gain that much life.)', '1/1'])"

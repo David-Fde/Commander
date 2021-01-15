@@ -1,66 +1,10 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-Demon
-Token Creature — Demon
-Flying
-5/5
-Homunculus
-Token Creature — Homunculus
-2/2
-Innistrad Checklist
-Card
-(You can mark this card to represent a double-faced card in your library or hand.)
-☐ Cloistered Youth {1}{W}
-☐ Thraben Sentry {3}{W}
-☐ Civilized Scholar {2}{U}
-☐ Delver of Secrets {U}
-☐ Ludevic’s Test Subject {1}{U}
-☐ Bloodline Keeper {2}{B}{B}
-☐ Screeching Bat {2}{B}
-☐ Hanweir Watchkeep {2}{R}
-☐ Instigator Gang {3}{R}
-☐ Kruin Outlaw {1}{R}{R}
-☐ Reckless Waif {R}
-☐ Tormented Pariah {3}{R}
-☐ Village Ironsmith {1}{R}
-☐ Daybreak Ranger {2}{G}
-☐ Garruk Relentless {3}{G}
-☐ Gatstaf Shepherd {1}{G}
-☐ Grizzled Outcasts {4}{G}
-☐ Mayor of Avabruck {1}{G}
-☐ Ulvenwald Mystics {2}{G}{G}
-☐ Villagers of Estwald {2}{G}
-Ooze
-Token Creature — Ooze
-This creature’s power and toughness are each equal to the number of slime counters on Gutter Grime.
-*/*
-Spider
-Token Creature — Spider
-Reach
-1/2
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Vampire
-Token Creature — Vampire
-Flying
-2/2
-Wolf
-Token Creature — Wolf
-Deathtouch
-1/1
-Wolf
-Token Creature — Wolf
-2/2
-Zombie
-Token Creature — Zombie
-2/2
-Zombie
-Token Creature — Zombie
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Demon', ['Token Creature — Demon', 'Flying', '5/5'])"
+"('Homunculus', ['Token Creature — Homunculus', '2/2'])"
+"('Innistrad Checklist', ['Card', '(You can mark this card to represent a double-faced card in your library or hand.)', '☐ Cloistered Youth {1}{W}', '☐ Thraben Sentry {3}{W}', '☐ Civilized Scholar {2}{U}', '☐ Delver of Secrets {U}', '☐ Ludevic’s Test Subject {1}{U}', '☐ Bloodline Keeper {2}{B}{B}', '☐ Screeching Bat {2}{B}', '☐ Hanweir Watchkeep {2}{R}', '☐ Instigator Gang {3}{R}', '☐ Kruin Outlaw {1}{R}{R}', '☐ Reckless Waif {R}', '☐ Tormented Pariah {3}{R}', '☐ Village Ironsmith {1}{R}', '☐ Daybreak Ranger {2}{G}', '☐ Garruk Relentless {3}{G}', '☐ Gatstaf Shepherd {1}{G}', '☐ Grizzled Outcasts {4}{G}', '☐ Mayor of Avabruck {1}{G}', '☐ Ulvenwald Mystics {2}{G}{G}', '☐ Villagers of Estwald {2}{G}'])"
+"('Ooze', ['Token Creature — Ooze', 'This creature’s power and toughness are each equal to the number of slime counters on Gutter Grime.', '*/*'])"
+"('Spider', ['Token Creature — Spider', 'Reach', '1/2'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Vampire', ['Token Creature — Vampire', 'Flying', '2/2'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

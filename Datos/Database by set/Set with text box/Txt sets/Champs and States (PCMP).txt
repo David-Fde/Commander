@@ -1,66 +1,12 @@
-Blood Knight
-{R}{R}
-Creature — Human Knight
-"First strike, protection from white"
-2/2
-Bramblewood Paragon
-{1}{G}
-Creature — Elf Warrior
-Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.
-Each creature you control with a +1/+1 counter on it has trample.
-2/2
-"Doran, the Siege Tower"
-{W}{B}{G}
-Legendary Creature — Treefolk Shaman
-Each creature assigns combat damage equal to its toughness rather than its power.
-0/5
-Electrolyze
-{1}{U}{R}
-Instant
-Electrolyze deals 2 damage divided as you choose among one or two targets.
-Draw a card.
-Groundbreaker
-{G}{G}{G}
-Creature — Elemental
-"Trample, haste"
-"At the beginning of the end step, sacrifice Groundbreaker."
-6/1
-Imperious Perfect
-{2}{G}
-Creature — Elf Warrior
-Other Elves you control get +1/+1.
-"{G}, {T}: Create a 1/1 green Elf Warrior creature token."
-2/2
-Mutavault
-Land
-{T}: Add {C}.
-{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It’s still a land.
-"Niv-Mizzet, the Firemind"
-{2}{U}{U}{R}{R}
-Legendary Creature — Dragon Wizard
-Flying
-"Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target."
-{T}: Draw a card.
-4/4
-Rakdos Guildmage
-{B/R}{B/R}
-Creature — Zombie Shaman
-({B/R} can be paid with either {B} or {R}.)
-"{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn."
-{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.
-2/2
-Serra Avenger
-{W}{W}
-Creature — Angel
-"You can’t cast this spell during your first, second, or third turns of the game."
-Flying
-Vigilance (Attacking doesn’t cause this creature to tap.)
-3/3
-Urza's Factory
-Land — Urza’s
-{T}: Add {C}.
-"{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token."
-Voidslime
-{G}{U}{U}
-Instant
-"Counter target spell, activated ability, or triggered ability. (Mana abilities can’t be targeted.)"
+"('Blood Knight', ['{R}{R}', 'Creature — Human Knight', 'First strike, protection from white', '2/2'])"
+"('Bramblewood Paragon', ['{1}{G}', 'Creature — Elf Warrior', 'Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.', 'Each creature you control with a +1/+1 counter on it has trample.', '2/2'])"
+"('Doran, the Siege Tower', ['{W}{B}{G}', 'Legendary Creature — Treefolk Shaman', 'Each creature assigns combat damage equal to its toughness rather than its power.', '0/5'])"
+"('Electrolyze', ['{1}{U}{R}', 'Instant', 'Electrolyze deals 2 damage divided as you choose among one or two targets.', 'Draw a card.'])"
+"('Groundbreaker', ['{G}{G}{G}', 'Creature — Elemental', 'Trample, haste', 'At the beginning of the end step, sacrifice Groundbreaker.', '6/1'])"
+"('Imperious Perfect', ['{2}{G}', 'Creature — Elf Warrior', 'Other Elves you control get +1/+1.', '{G}, {T}: Create a 1/1 green Elf Warrior creature token.', '2/2'])"
+"('Mutavault', ['Land', '{T}: Add {C}.', '{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It’s still a land.'])"
+"('Niv-Mizzet, the Firemind', ['{2}{U}{U}{R}{R}', 'Legendary Creature — Dragon Wizard', 'Flying', 'Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to any target.', '{T}: Draw a card.', '4/4'])"
+"('Rakdos Guildmage', ['{B/R}{B/R}', 'Creature — Zombie Shaman', '({B/R} can be paid with either {B} or {R}.)', '{3}{B}, Discard a card: Target creature gets -2/-2 until end of turn.', '{3}{R}: Create a 2/1 red Goblin creature token with haste. Exile it at the beginning of the next end step.', '2/2'])"
+"('Serra Avenger', ['{W}{W}', 'Creature — Angel', 'You can’t cast this spell during your first, second, or third turns of the game.', 'Flying', 'Vigilance (Attacking doesn’t cause this creature to tap.)', '3/3'])"
+"(""Urza's Factory"", ['Land — Urza’s', '{T}: Add {C}.', '{7}, {T}: Create a 2/2 colorless Assembly-Worker artifact creature token.'])"
+"('Voidslime', ['{G}{U}{U}', 'Instant', 'Counter target spell, activated ability, or triggered ability. (Mana abilities can’t be targeted.)'])"

@@ -1,32 +1,4 @@
-"Aminatou, the Fateshifter"
-{W}{U}{B}
-Legendary Planeswalker — Aminatou
-"+1: Draw a card, then put a card from your hand on top of your library."
-"−1: Exile another target permanent you own, then return it to the battlefield under your control."
-"−6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction."
-"Aminatou, the Fateshifter can be your commander."
-Loyalty: 3
-"Estrid, the Masked"
-{1}{G}{W}{U}
-Legendary Planeswalker — Estrid
-+2: Untap each enchanted permanent you control.
-−1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.
-"−7: Mill seven cards. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards."
-"Estrid, the Masked can be your commander."
-Loyalty: 3
-Lord Windgrace
-{2}{B}{R}{G}
-Legendary Planeswalker — Windgrace
-"+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card."
-−3: Return up to two target land cards from your graveyard to the battlefield.
-"−11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk."
-Lord Windgrace can be your commander.
-Loyalty: 5
-"Saheeli, the Gifted"
-{2}{U}{R}
-Legendary Planeswalker — Saheeli
-+1: Create a 1/1 colorless Servo artifact creature token.
-+1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.
-"−7: For each artifact you control, create a token that’s a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step."
-"Saheeli, the Gifted can be your commander."
-Loyalty: 4
+"('Aminatou, the Fateshifter', ['{W}{U}{B}', 'Legendary Planeswalker — Aminatou', '+1: Draw a card, then put a card from your hand on top of your library.', '−1: Exile another target permanent you own, then return it to the battlefield under your control.', '−6: Choose left or right. Each player gains control of all nonland permanents other than Aminatou, the Fateshifter controlled by the next player in the chosen direction.', 'Aminatou, the Fateshifter can be your commander.', 'Loyalty: 3'])"
+"('Estrid, the Masked', ['{1}{G}{W}{U}', 'Legendary Planeswalker — Estrid', '+2: Untap each enchanted permanent you control.', '−1: Create a white Aura enchantment token named Mask attached to another target permanent. The token has enchant permanent and totem armor.', '−7: Mill seven cards. Return all non-Aura enchantment cards from your graveyard to the battlefield, then do the same for Aura cards.', 'Estrid, the Masked can be your commander.', 'Loyalty: 3'])"
+"('Lord Windgrace', ['{2}{B}{R}{G}', 'Legendary Planeswalker — Windgrace', '+2: Discard a card, then draw a card. If a land card is discarded this way, draw an additional card.', '−3: Return up to two target land cards from your graveyard to the battlefield.', '−11: Destroy up to six target nonland permanents, then create six 2/2 green Cat Warrior creature tokens with forestwalk.', 'Lord Windgrace can be your commander.', 'Loyalty: 5'])"
+"('Saheeli, the Gifted', ['{2}{U}{R}', 'Legendary Planeswalker — Saheeli', '+1: Create a 1/1 colorless Servo artifact creature token.', '+1: The next spell you cast this turn costs {1} less to cast for each artifact you control as you cast it.', '−7: For each artifact you control, create a token that’s a copy of it. Those tokens gain haste. Exile those tokens at the beginning of the next end step.', 'Saheeli, the Gifted can be your commander.', 'Loyalty: 4'])"

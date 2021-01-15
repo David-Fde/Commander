@@ -1,33 +1,10 @@
-Beast
-Token Creature — Beast
-8/8
-Dragon
-Token Creature — Dragon
-Flying
-4/4
-Goblin
-Token Creature — Goblin
-1/1
-Homunculus
-Token Artifact Creature — Homunculus
-0/1
-Ooze
-Token Creature — Ooze
-*/*
-Saproling
-Token Creature — Saproling
-1/1
-Skeleton
-Token Creature — Skeleton
-{B}: Regenerate this creature.
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Thopter
-Token Artifact Creature — Thopter
-Flying
-1/1
-Zombie
-Token Creature — Zombie
-2/2
+"('Beast', ['Token Creature — Beast', '8/8'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '4/4'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Homunculus', ['Token Artifact Creature — Homunculus', '0/1'])"
+"('Ooze', ['Token Creature — Ooze', '*/*'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Skeleton', ['Token Creature — Skeleton', '{B}: Regenerate this creature.', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Thopter', ['Token Artifact Creature — Thopter', 'Flying', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

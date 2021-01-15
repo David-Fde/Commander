@@ -1,34 +1,6 @@
-"Dromoka, the Eternal"
-{3}{G}{W}
-Legendary Creature — Dragon
-Flying
-"Whenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-5/5
-Honored Hierarch
-{G}
-Creature — Human Druid
-"Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)"
-"As long as Honored Hierarch is renowned, it has vigilance and “{T}: Add one mana of any color.”"
-1/1
-Sandsteppe Citadel
-Land
-Sandsteppe Citadel enters the battlefield tapped.
-"{T}: Add {W}, {B}, or {G}."
-Seeker of the Way
-{1}{W}
-Creature — Human Warrior
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-"Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn."
-2/2
-Siege Rhino
-{1}{W}{B}{G}
-Creature — Rhino
-Trample
-"When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life."
-4/5
-Valorous Stance
-{1}{W}
-Instant
-Choose one —
-• Target creature gains indestructible until end of turn.
-• Destroy target creature with toughness 4 or greater.
+"('Dromoka, the Eternal', ['{3}{G}{W}', 'Legendary Creature — Dragon', 'Flying', 'Whenever a Dragon you control attacks, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)', '5/5'])"
+"('Honored Hierarch', ['{G}', 'Creature — Human Druid', 'Renown 1 (When this creature deals combat damage to a player, if it isn’t renowned, put a +1/+1 counter on it and it becomes renowned.)', 'As long as Honored Hierarch is renowned, it has vigilance and “{T}: Add one mana of any color.”', '1/1'])"
+"('Sandsteppe Citadel', ['Land', 'Sandsteppe Citadel enters the battlefield tapped.', '{T}: Add {W}, {B}, or {G}.'])"
+"('Seeker of the Way', ['{1}{W}', 'Creature — Human Warrior', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', 'Whenever you cast a noncreature spell, Seeker of the Way gains lifelink until end of turn.', '2/2'])"
+"('Siege Rhino', ['{1}{W}{B}{G}', 'Creature — Rhino', 'Trample', 'When Siege Rhino enters the battlefield, each opponent loses 3 life and you gain 3 life.', '4/5'])"
+"('Valorous Stance', ['{1}{W}', 'Instant', 'Choose one —', '• Target creature gains indestructible until end of turn.', '• Destroy target creature with toughness 4 or greater.'])"

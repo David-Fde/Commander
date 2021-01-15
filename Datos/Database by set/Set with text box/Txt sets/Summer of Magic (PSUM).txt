@@ -1,10 +1,2 @@
-Faerie Conclave
-Land
-Faerie Conclave enters the battlefield tapped.
-{T}: Add {U}.
-{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It’s still a land.
-Treetop Village
-Land
-Treetop Village enters the battlefield tapped.
-{T}: Add {G}.
-{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)
+"('Faerie Conclave', ['Land', 'Faerie Conclave enters the battlefield tapped.', '{T}: Add {U}.', '{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It’s still a land.'])"
+"('Treetop Village', ['Land', 'Treetop Village enters the battlefield tapped.', '{T}: Add {G}.', '{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)'])"

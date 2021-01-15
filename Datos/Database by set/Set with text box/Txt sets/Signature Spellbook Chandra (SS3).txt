@@ -1,45 +1,8 @@
-Cathartic Reunion
-{1}{R}
-Sorcery
-"As an additional cost to cast this spell, discard two cards."
-Draw three cards.
-"Chandra, Torch of Defiance"
-{2}{R}{R}
-Legendary Planeswalker — Chandra
-"+1: Exile the top card of your library. You may cast that card. If you don’t, Chandra, Torch of Defiance deals 2 damage to each opponent."
-+1: Add {R}{R}.
-"−3: Chandra, Torch of Defiance deals 4 damage to target creature."
-"−7: You get an emblem with “Whenever you cast a spell, this emblem deals 5 damage to any target.”"
-Loyalty: 4
-Fiery Confluence
-{2}{R}{R}
-Sorcery
-Choose three. You may choose the same mode more than once.
-• Fiery Confluence deals 1 damage to each creature.
-• Fiery Confluence deals 2 damage to each opponent.
-• Destroy target artifact.
-Past in Flames
-{3}{R}
-Sorcery
-Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.
-Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Pyromancer Ascension
-{1}{R}
-Enchantment
-"Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension."
-"Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy."
-Rite of Flame
-{R}
-Sorcery
-"Add {R}{R}, then add {R} for each card named Rite of Flame in each graveyard."
-Young Pyromancer
-{1}{R}
-Creature — Human Shaman
-"Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token."
-2/1
+"('Cathartic Reunion', ['{1}{R}', 'Sorcery', 'As an additional cost to cast this spell, discard two cards.', 'Draw three cards.'])"
+"('Chandra, Torch of Defiance', ['{2}{R}{R}', 'Legendary Planeswalker — Chandra', '+1: Exile the top card of your library. You may cast that card. If you don’t, Chandra, Torch of Defiance deals 2 damage to each opponent.', '+1: Add {R}{R}.', '−3: Chandra, Torch of Defiance deals 4 damage to target creature.', '−7: You get an emblem with “Whenever you cast a spell, this emblem deals 5 damage to any target.”', 'Loyalty: 4'])"
+"('Fiery Confluence', ['{2}{R}{R}', 'Sorcery', 'Choose three. You may choose the same mode more than once.', '• Fiery Confluence deals 1 damage to each creature.', '• Fiery Confluence deals 2 damage to each opponent.', '• Destroy target artifact.'])"
+"('Past in Flames', ['{3}{R}', 'Sorcery', 'Each instant and sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.', 'Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Pyroblast', ['{R}', 'Instant', 'Choose one —', '• Counter target spell if it’s blue.', '• Destroy target permanent if it’s blue.'])"
+"('Pyromancer Ascension', ['{1}{R}', 'Enchantment', 'Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.', 'Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.'])"
+"('Rite of Flame', ['{R}', 'Sorcery', 'Add {R}{R}, then add {R} for each card named Rite of Flame in each graveyard.'])"
+"('Young Pyromancer', ['{1}{R}', 'Creature — Human Shaman', 'Whenever you cast an instant or sorcery spell, create a 1/1 red Elemental creature token.', '2/1'])"

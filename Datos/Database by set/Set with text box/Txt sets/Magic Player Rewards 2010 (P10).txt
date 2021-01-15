@@ -1,40 +1,9 @@
-Bituminous Blast
-{3}{B}{R}
-Instant
-"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
-Bituminous Blast deals 4 damage to target creature.
-Burst Lightning
-{R}
-Instant
-Kicker {4} (You may pay an additional {4} as you cast this spell.)
-"Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead."
-Cancel
-{1}{U}{U}
-Instant
-Counter target spell.
-Celestial Purge
-{1}{W}
-Instant
-Exile target black or red permanent.
-Harrow
-{2}{G}
-Instant
-"As an additional cost to cast this spell, sacrifice a land."
-"Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library."
-Infest
-{1}{B}{B}
-Sorcery
-All creatures get -2/-2 until end of turn.
-Lightning Bolt
-{R}
-Instant
-Lightning Bolt deals 3 damage to any target.
-Sign in Blood
-{B}{B}
-Sorcery
-Target player draws two cards and loses 2 life.
-Volcanic Fallout
-{1}{R}{R}
-Instant
-This spell can’t be countered.
-Volcanic Fallout deals 2 damage to each creature and each player.
+"('Bituminous Blast', ['{3}{B}{R}', 'Instant', 'Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)', 'Bituminous Blast deals 4 damage to target creature.'])"
+"('Burst Lightning', ['{R}', 'Instant', 'Kicker {4} (You may pay an additional {4} as you cast this spell.)', 'Burst Lightning deals 2 damage to any target. If this spell was kicked, it deals 4 damage instead.'])"
+"('Cancel', ['{1}{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Celestial Purge', ['{1}{W}', 'Instant', 'Exile target black or red permanent.'])"
+"('Harrow', ['{2}{G}', 'Instant', 'As an additional cost to cast this spell, sacrifice a land.', 'Search your library for up to two basic land cards, put them onto the battlefield, then shuffle your library.'])"
+"('Infest', ['{1}{B}{B}', 'Sorcery', 'All creatures get -2/-2 until end of turn.'])"
+"('Lightning Bolt', ['{R}', 'Instant', 'Lightning Bolt deals 3 damage to any target.'])"
+"('Sign in Blood', ['{B}{B}', 'Sorcery', 'Target player draws two cards and loses 2 life.'])"
+"('Volcanic Fallout', ['{1}{R}{R}', 'Instant', 'This spell can’t be countered.', 'Volcanic Fallout deals 2 damage to each creature and each player.'])"

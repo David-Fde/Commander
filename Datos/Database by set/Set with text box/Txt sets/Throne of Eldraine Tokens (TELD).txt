@@ -1,68 +1,17 @@
-Bear
-Token Creature — Bear
-2/2
-Boar
-Token Creature — Boar
-"When this creature dies, create a Food token."
-1/1
-Dwarf
-Token Creature — Dwarf
-1/1
-Faerie
-Token Creature — Faerie
-Flying
-1/1
-Food
-Token Artifact — Food
-"{2}, {T}, Sacrifice this artifact: You gain 3 life."
-Food
-Token Artifact — Food
-"{2}, {T}, Sacrifice this artifact: You gain 3 life."
-Food
-Token Artifact — Food
-"{2}, {T}, Sacrifice this artifact: You gain 3 life."
-Food
-Token Artifact — Food
-"{2}, {T}, Sacrifice this artifact: You gain 3 life."
-"Garruk, Cursed Huntsman Emblem"
-Emblem
-Creatures you control get +3/+3 and have trample.
-Giant
-Token Creature — Giant
-7/7
-Goat
-Token Creature — Goat
-0/1
-Human
-Token Creature — Human
-1/1
-Human Cleric
-Token Creature — Human Cleric
-"Lifelink, haste"
-2/1
-Human Rogue
-Token Creature — Human Rogue
-Haste
-"When this creature enters the battlefield, it deals 1 damage to any target."
-1/2
-Human Warrior
-Token Creature — Human Warrior
-"Trample, haste"
-3/1
-Knight
-Token Creature — Knight
-Vigilance
-2/2
-Mouse
-Token Creature — Mouse
-1/1
-On an Adventure
-Card
-"After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile."
-Rat
-Token Creature — Rat
-1/1
-Wolf
-Token Creature — Wolf
-"When this creature dies, put a loyalty counter on each Garruk you control."
-2/2
+"('Bear', ['Token Creature — Bear', '2/2'])"
+"('Boar', ['Token Creature — Boar', 'When this creature dies, create a Food token.', '1/1'])"
+"('Dwarf', ['Token Creature — Dwarf', '1/1'])"
+"('Faerie', ['Token Creature — Faerie', 'Flying', '1/1'])"
+"('Food', ['Token Artifact — Food', '{2}, {T}, Sacrifice this artifact: You gain 3 life.'])"
+"('Garruk, Cursed Huntsman Emblem', ['Emblem', 'Creatures you control get +3/+3 and have trample.'])"
+"('Giant', ['Token Creature — Giant', '7/7'])"
+"('Goat', ['Token Creature — Goat', '0/1'])"
+"('Human', ['Token Creature — Human', '1/1'])"
+"('Human Cleric', ['Token Creature — Human Cleric', 'Lifelink, haste', '2/1'])"
+"('Human Rogue', ['Token Creature — Human Rogue', 'Haste', 'When this creature enters the battlefield, it deals 1 damage to any target.', '1/2'])"
+"('Human Warrior', ['Token Creature — Human Warrior', 'Trample, haste', '3/1'])"
+"('Knight', ['Token Creature — Knight', 'Vigilance', '2/2'])"
+"('Mouse', ['Token Creature — Mouse', '1/1'])"
+"('On an Adventure', ['Card', 'After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.'])"
+"('Rat', ['Token Creature — Rat', '1/1'])"
+"('Wolf', ['Token Creature — Wolf', 'When this creature dies, put a loyalty counter on each Garruk you control.', '2/2'])"

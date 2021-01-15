@@ -1,26 +1,4 @@
-"Arahbo, Roar of the World"
-{3}{G}{W}
-Legendary Creature — Cat Avatar
-"Eminence — At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn."
-"Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it gains trample and gets +X/+X until end of turn, where X is its power."
-5/5
-Edgar Markov
-{3}{R}{W}{B}
-Legendary Creature — Vampire Knight
-"Eminence — Whenever you cast another Vampire spell, if Edgar Markov is in the command zone or on the battlefield, create a 1/1 black Vampire creature token."
-"First strike, haste"
-"Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you control."
-4/4
-"Inalla, Archmage Ritualist"
-{2}{U}{B}{R}
-Legendary Creature — Human Wizard
-"Eminence — Whenever another nontoken Wizard enters the battlefield under your control, if Inalla, Archmage Ritualist is in the command zone or on the battlefield, you may pay {1}. If you do, create a token that’s a copy of that Wizard. The token gains haste. Exile it at the beginning of the next end step."
-Tap five untapped Wizards you control: Target player loses 7 life.
-4/5
-The Ur-Dragon
-{4}{W}{U}{B}{R}{G}
-Legendary Creature — Dragon Avatar
-"Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast."
-Flying
-"Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield."
-10/10
+"('Arahbo, Roar of the World', ['{3}{G}{W}', 'Legendary Creature — Cat Avatar', 'Eminence — At the beginning of combat on your turn, if Arahbo, Roar of the World is in the command zone or on the battlefield, another target Cat you control gets +3/+3 until end of turn.', 'Whenever another Cat you control attacks, you may pay {1}{G}{W}. If you do, it gains trample and gets +X/+X until end of turn, where X is its power.', '5/5'])"
+"('Edgar Markov', ['{3}{R}{W}{B}', 'Legendary Creature — Vampire Knight', 'Eminence — Whenever you cast another Vampire spell, if Edgar Markov is in the command zone or on the battlefield, create a 1/1 black Vampire creature token.', 'First strike, haste', 'Whenever Edgar Markov attacks, put a +1/+1 counter on each Vampire you control.', '4/4'])"
+"('Inalla, Archmage Ritualist', ['{2}{U}{B}{R}', 'Legendary Creature — Human Wizard', 'Eminence — Whenever another nontoken Wizard enters the battlefield under your control, if Inalla, Archmage Ritualist is in the command zone or on the battlefield, you may pay {1}. If you do, create a token that’s a copy of that Wizard. The token gains haste. Exile it at the beginning of the next end step.', 'Tap five untapped Wizards you control: Target player loses 7 life.', '4/5'])"
+"('The Ur-Dragon', ['{4}{W}{U}{B}{R}{G}', 'Legendary Creature — Dragon Avatar', 'Eminence — As long as The Ur-Dragon is in the command zone or on the battlefield, other Dragon spells you cast cost {1} less to cast.', 'Flying', 'Whenever one or more Dragons you control attack, draw that many cards, then you may put a permanent card from your hand onto the battlefield.', '10/10'])"

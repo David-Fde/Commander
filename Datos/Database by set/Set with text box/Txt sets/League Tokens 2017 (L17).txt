@@ -1,6 +1,1 @@
-Gremlin
-Token Creature — Gremlin
-2/2
-Energy Reserve
-Card
-(Place your energy counters in this area.)
+"('Gremlin', ['Token Creature — Gremlin', '2/2', 'Energy Reserve', 'Card', '(Place your energy counters in this area.)'])"

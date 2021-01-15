@@ -1,22 +1,6 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-Beast
-Token Creature — Beast
-3/3
-Myr
-Token Artifact Creature — Myr
-1/1
-Pentavite
-Token Artifact Creature — Pentavite
-Flying
-1/1
-Powder Keg
-{2}
-Artifact
-"At the beginning of your upkeep, you may put a fuse counter on Powder Keg."
-"{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg."
-Spirit
-Token Creature — Spirit
-1/1
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Beast', ['Token Creature — Beast', '3/3'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Pentavite', ['Token Artifact Creature — Pentavite', 'Flying', '1/1'])"
+"('Powder Keg', ['{2}', 'Artifact', 'At the beginning of your upkeep, you may put a fuse counter on Powder Keg.', '{T}, Sacrifice Powder Keg: Destroy each artifact and creature with converted mana cost equal to the number of fuse counters on Powder Keg.'])"
+"('Spirit', ['Token Creature — Spirit', '1/1'])"

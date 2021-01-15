@@ -1,13 +1,4 @@
-"Elspeth, Knight-Errant Emblem"
-Emblem — Elspeth
-"Artifacts, creatures, enchantments, and lands you control have indestructible."
-Myr
-Token Artifact Creature — Myr
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
+"('Elspeth, Knight-Errant Emblem', ['Emblem — Elspeth', 'Artifacts, creatures, enchantments, and lands you control have indestructible.'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"

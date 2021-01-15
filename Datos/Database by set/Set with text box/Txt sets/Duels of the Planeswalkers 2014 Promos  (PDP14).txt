@@ -1,15 +1,3 @@
-Bonescythe Sliver
-{3}{W}
-Creature — Sliver
-Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)
-2/2
-Ogre Battledriver
-{2}{R}{R}
-Creature — Ogre Warrior
-"Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)"
-3/3
-Scavenging Ooze
-{1}{G}
-Creature — Ooze
-"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life."
-2/2
+"('Bonescythe Sliver', ['{3}{W}', 'Creature — Sliver', 'Sliver creatures you control have double strike. (They deal both first-strike and regular combat damage.)', '2/2'])"
+"('Ogre Battledriver', ['{2}{R}{R}', 'Creature — Ogre Warrior', 'Whenever another creature enters the battlefield under your control, that creature gets +2/+0 and gains haste until end of turn. (It can attack and {T} this turn.)', '3/3'])"
+"('Scavenging Ooze', ['{1}{G}', 'Creature — Ooze', '{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.', '2/2'])"

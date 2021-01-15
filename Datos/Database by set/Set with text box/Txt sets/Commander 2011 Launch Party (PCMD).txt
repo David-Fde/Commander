@@ -1,31 +1,5 @@
-"Basandra, Battle Seraph"
-{3}{R}{W}
-Legendary Creature — Angel
-Flying
-Players can’t cast spells during combat.
-{R}: Target creature attacks this turn if able.
-4/4
-"Edric, Spymaster of Trest"
-{1}{G}{U}
-Legendary Creature — Elf Rogue
-"Whenever a creature deals combat damage to one of your opponents, its controller may draw a card."
-2/2
-"Nin, the Pain Artist"
-{U}{R}
-Legendary Creature — Vedalken Wizard
-"{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature’s controller draws X cards."
-1/1
-"Skullbriar, the Walking Grave"
-{B}{G}
-Legendary Creature — Zombie Elemental
-Haste
-"Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it."
-Counters remain on Skullbriar as it moves to any zone other than a player’s hand or library.
-1/1
-"Vish Kal, Blood Arbiter"
-{4}{W}{B}{B}
-Legendary Creature — Vampire
-"Flying, lifelink"
-"Sacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature’s power."
-Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.
-5/5
+"('Basandra, Battle Seraph', ['{3}{R}{W}', 'Legendary Creature — Angel', 'Flying', 'Players can’t cast spells during combat.', '{R}: Target creature attacks this turn if able.', '4/4'])"
+"('Edric, Spymaster of Trest', ['{1}{G}{U}', 'Legendary Creature — Elf Rogue', 'Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.', '2/2'])"
+"('Nin, the Pain Artist', ['{U}{R}', 'Legendary Creature — Vedalken Wizard', '{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature’s controller draws X cards.', '1/1'])"
+"('Skullbriar, the Walking Grave', ['{B}{G}', 'Legendary Creature — Zombie Elemental', 'Haste', 'Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it.', 'Counters remain on Skullbriar as it moves to any zone other than a player’s hand or library.', '1/1'])"
+"('Vish Kal, Blood Arbiter', ['{4}{W}{B}{B}', 'Legendary Creature — Vampire', 'Flying, lifelink', 'Sacrifice a creature: Put X +1/+1 counters on Vish Kal, Blood Arbiter, where X is the sacrificed creature’s power.', 'Remove all +1/+1 counters from Vish Kal: Target creature gets -1/-1 until end of turn for each +1/+1 counter removed this way.', '5/5'])"

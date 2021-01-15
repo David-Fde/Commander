@@ -1,19 +1,6 @@
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Path to Exile
-{W}
-Instant
-"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Path to Exile', ['{W}', 'Instant', 'Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

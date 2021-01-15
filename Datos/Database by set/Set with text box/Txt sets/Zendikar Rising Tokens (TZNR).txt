@@ -1,40 +1,12 @@
-Angel Warrior
-Token Creature — Angel Warrior
-Flying
-4/4
-Cat
-Token Creature — Cat
-1/1
-Cat Beast
-Token Creature — Cat Beast
-2/2
-Construct
-Token Artifact Creature — Construct
-1/1
-Copy
-Token
-(This token can be used to represent a token that’s a copy of a permanent.)
-Drake
-Token Creature — Drake
-Flying
-2/2
-Goblin Construct
-Token Artifact Creature — Goblin Construct
-This creature can’t block.
-"At the beginning of your upkeep, this creature deals 1 damage to you."
-0/1
-Hydra
-Token Creature — Hydra
-*/*
-Illusion
-Token Creature — Illusion
-*/*
-Insect
-Token Creature — Insect
-1/1
-Kor Warrior
-Token Creature — Kor Warrior
-1/1
-Plant
-Token Creature — Plant
-0/1
+"('Angel Warrior', ['Token Creature — Angel Warrior', 'Flying', '4/4'])"
+"('Cat', ['Token Creature — Cat', '1/1'])"
+"('Cat Beast', ['Token Creature — Cat Beast', '2/2'])"
+"('Construct', ['Token Artifact Creature — Construct', '1/1'])"
+"('Copy', ['Token', '(This token can be used to represent a token that’s a copy of a permanent.)'])"
+"('Drake', ['Token Creature — Drake', 'Flying', '2/2'])"
+"('Goblin Construct', ['Token Artifact Creature — Goblin Construct', 'This creature can’t block.', 'At the beginning of your upkeep, this creature deals 1 damage to you.', '0/1'])"
+"('Hydra', ['Token Creature — Hydra', '*/*'])"
+"('Illusion', ['Token Creature — Illusion', '*/*'])"
+"('Insect', ['Token Creature — Insect', '1/1'])"
+"('Kor Warrior', ['Token Creature — Kor Warrior', '1/1'])"
+"('Plant', ['Token Creature — Plant', '0/1'])"

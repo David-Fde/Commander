@@ -1,456 +1,65 @@
-Assembled Alphas
-{5}{R}
-Creature — Wolf
-"Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature’s controller."
-5/5
-Assembled Alphas
-{5}{R}
-Creature — Wolf
-"Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature’s controller."
-5/5
-Bedlam Reveler
-{6}{R}{R}
-Creature — Devil Horror
-This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-"When Bedlam Reveler enters the battlefield, discard your hand, then draw three cards."
-3/4
-Bloodhall Priest
-{2}{B}{R}
-Creature — Vampire Cleric
-"Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target."
-"Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-4/4
-"Brisela, Voice of Nightmares"
-Legendary Creature — Eldrazi Angel
-"Flying, first strike, vigilance, lifelink"
-Your opponents can’t cast spells with converted mana cost 3 or less.
-9/10
-"Bruna, the Fading Light"
-{5}{W}{W}
-Legendary Creature — Angel Horror
-"When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield."
-"Flying, vigilance"
-"(Melds with Gisela, the Broken Blade.)"
-5/7
-Coax from the Blind Eternities
-{2}{U}
-Sorcery
-You may reveal an Eldrazi card you own from outside the game or choose a face-up Eldrazi card you own in exile. Put that card into your hand.
-Collective Brutality
-{1}{B}
-Sorcery
-Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)
-Choose one or more —
-• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.
-• Target creature gets -2/-2 until end of turn.
-• Target opponent loses 2 life and you gain 2 life.
-Collective Defiance
-{1}{R}{R}
-Sorcery
-Escalate {1} (Pay this cost for each mode chosen beyond the first.)
-Choose one or more —
-"• Target player discards all the cards in their hand, then draws that many cards."
-• Collective Defiance deals 4 damage to target creature.
-• Collective Defiance deals 3 damage to target opponent or planeswalker.
-Collective Effort
-{1}{W}{W}
-Sorcery
-Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)
-Choose one or more —
-• Destroy target creature with power 4 or greater.
-• Destroy target enchantment.
-• Put a +1/+1 counter on each creature target player controls.
-Cryptbreaker
-{B}
-Creature — Zombie
-"{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token."
-Tap three untapped Zombies you control: You draw a card and you lose 1 life.
-1/1
-Dark Salvation
-{X}{X}{B}
-Sorcery
-"Target player creates X 2/2 black Zombie creature tokens, then up to one target creature gets -1/-1 until end of turn for each Zombie that player controls."
-Decimator of the Provinces
-{10}
-Creature — Eldrazi Boar
-Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)
-"When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn."
-"Trample, haste"
-7/7
-Deploy the Gatewatch
-{4}{W}{W}
-Sorcery
-Look at the top seven cards of your library. Put up to two planeswalker cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-Distended Mindbender
-{8}
-Creature — Eldrazi Insect
-Emerge {5}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)
-"When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards."
-5/5
-Docent of Perfection
-{3}{U}{U}
-Creature — Insect Horror
-Flying
-"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform Docent of Perfection."
-5/4
-Final Iteration
-Creature — Eldrazi Insect
-Flying
-Wizards you control get +2/+1 and have flying.
-"Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token."
-6/5
-Elder Deep-Fiend
-{8}
-Creature — Eldrazi Octopus
-Flash
-Emerge {5}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)
-"When you cast this spell, tap up to four target permanents."
-5/6
-Eldritch Evolution
-{1}{G}{G}
-Sorcery
-"As an additional cost to cast this spell, sacrifice a creature."
-"Search your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature’s converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution."
-Emrakul's Evangel
-{2}{G}
-Creature — Human Horror
-"{T}, Sacrifice Emrakul’s Evangel and any number of other non-Eldrazi creatures: Create a 3/2 colorless Eldrazi Horror creature token for each creature sacrificed this way."
-3/2
-"Emrakul, the Promised End"
-{13}
-Legendary Creature — Eldrazi
-This spell costs {1} less to cast for each card type among cards in your graveyard.
-"When you cast this spell, you gain control of target opponent during that player’s next turn. After that turn, that player takes an extra turn."
-"Flying, trample, protection from instants"
-13/13
-Eternal Scourge
-{3}
-Creature — Eldrazi Horror
-You may cast Eternal Scourge from exile.
-"When Eternal Scourge becomes the target of a spell or ability an opponent controls, exile Eternal Scourge."
-3/3
-Geier Reach Sanitarium
-Legendary Land
-{T}: Add {C}.
-"{2}, {T}: Each player draws a card, then discards a card."
-Gisa and Geralf
-{2}{U}{B}
-Legendary Creature — Human Wizard
-"When Gisa and Geralf enters the battlefield, mill four cards."
-"During each of your turns, you may cast a Zombie creature spell from your graveyard."
-4/4
-"Gisela, the Broken Blade"
-{2}{W}{W}
-Legendary Creature — Angel Horror
-"Flying, first strike, lifelink"
-"At the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares."
-4/3
-Grim Flayer
-{B}{G}
-Creature — Human Warrior
-Trample
-"Whenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order."
-Delirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.
-2/2
-Hanweir Battlements
-Land
-{T}: Add {C}.
-"{R}, {T}: Target creature gains haste until end of turn."
-"{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township."
-Hanweir Garrison
-{2}{R}
-Creature — Human Soldier
-"Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking."
-(Melds with Hanweir Battlements.)
-2/3
-"Hanweir, the Writhing Township"
-Legendary Creature — Eldrazi Ooze
-"Trample, haste"
-"Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking."
-7/4
-Harmless Offering
-{2}{R}
-Sorcery
-Target opponent gains control of target permanent you control.
-Heron's Grace Champion
-{2}{G}{W}
-Creature — Human Knight
-Flash
-Lifelink
-"When Heron’s Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn."
-3/3
-Heron's Grace Champion
-{2}{G}{W}
-Creature — Human Knight
-Flash
-Lifelink
-"When Heron’s Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn."
-3/3
-Identity Thief
-{2}{U}{U}
-Creature — Shapeshifter
-"Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner’s control at the beginning of the next end step."
-0/3
-Identity Thief
-{2}{U}{U}
-Creature — Shapeshifter
-"Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner’s control at the beginning of the next end step."
-0/3
-Impetuous Devils
-{2}{R}{R}
-Creature — Devil
-"Trample, haste"
-"When Impetuous Devils attacks, up to one target creature defending player controls blocks it this combat if able."
-"At the beginning of the end step, sacrifice Impetuous Devils."
-6/1
-Imprisoned in the Moon
-{2}{U}
-Enchantment — Aura
-"Enchant creature, land, or planeswalker"
-Enchanted permanent is a colorless land with “{T}: Add {C}” and loses all other card types and abilities.
-Imprisoned in the Moon
-{2}{U}
-Enchantment — Aura
-"Enchant creature, land, or planeswalker"
-Enchanted permanent is a colorless land with “{T}: Add {C}” and loses all other card types and abilities.
-"Ishkanah, Grafwidow"
-{4}{G}
-Legendary Creature — Spider
-Reach
-"Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach."
-{6}{B}: Target opponent loses 1 life for each Spider you control.
-3/5
-"Liliana, the Last Hope"
-{1}{B}{B}
-Legendary Planeswalker — Liliana
-+1: Up to one target creature gets -2/-1 until your next turn.
-"−2: Mill two cards, then you may return a creature card from your graveyard to your hand."
-"−7: You get an emblem with “At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.”"
-Loyalty: 3
-Lupine Prototype
-{2}
-Artifact Creature — Wolf Construct
-Lupine Prototype can’t attack or block unless a player has no cards in hand.
-5/5
-Mausoleum Wanderer
-{U}
-Creature — Spirit
-Flying
-"Whenever another Spirit enters the battlefield under your control, Mausoleum Wanderer gets +1/+1 until end of turn."
-"Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless its controller pays {X}, where X is Mausoleum Wanderer’s power."
-1/1
-Mind's Dilation
-{5}{U}{U}
-Enchantment
-"Whenever an opponent casts their first spell each turn, that player exiles the top card of their library. If it’s a nonland card, you may cast it without paying its mana cost."
-Mirrorwing Dragon
-{3}{R}{R}
-Creature — Dragon
-Flying
-"Whenever a player casts an instant or sorcery spell that targets only Mirrorwing Dragon, that player copies that spell for each other creature they control that the spell could target. Each copy targets a different one of those creatures."
-4/5
-Nahiri's Wrath
-{2}{R}
-Sorcery
-"As an additional cost to cast this spell, discard X cards."
-Nahiri’s Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers.
-Niblis of Frost
-{2}{U}{U}
-Creature — Spirit
-Flying
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-"Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step."
-3/3
-Niblis of Frost
-{2}{U}{U}
-Creature — Spirit
-Flying
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-"Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step."
-3/3
-Noosegraf Mob
-{4}{B}{B}
-Creature — Zombie
-Noosegraf Mob enters the battlefield with five +1/+1 counters on it.
-"Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token."
-0/0
-Noosegraf Mob
-{4}{B}{B}
-Creature — Zombie
-Noosegraf Mob enters the battlefield with five +1/+1 counters on it.
-"Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token."
-0/0
-Oath of Liliana
-{2}{B}
-Legendary Enchantment
-"When Oath of Liliana enters the battlefield, each opponent sacrifices a creature."
-"At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, create a 2/2 black Zombie creature token."
-Permeating Mass
-{G}
-Creature — Spirit
-"Whenever Permeating Mass deals combat damage to a creature, that creature becomes a copy of Permeating Mass."
-1/3
-Providence
-{5}{W}{W}
-Sorcery
-"You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, your life total becomes 26."
-Your life total becomes 26.
-Sanctifier of Souls
-{3}{W}
-Creature — Human Cleric
-"Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn."
-"{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying."
-2/3
-Sanctifier of Souls
-{3}{W}
-Creature — Human Cleric
-"Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn."
-"{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying."
-2/3
-Selfless Spirit
-{1}{W}
-Creature — Spirit Cleric
-Flying
-Sacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.
-2/1
-Sigarda's Aid
-{W}
-Enchantment
-You may cast Aura and Equipment spells as though they had flash.
-"Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control."
-Sigarda's Aid
-{W}
-Enchantment
-You may cast Aura and Equipment spells as though they had flash.
-"Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control."
-Soul Separator
-{3}
-Artifact
-"{5}, {T}, Sacrifice Soul Separator: Exile target creature card from your graveyard. Create a token that’s a copy of that card, except it’s 1/1, it’s a Spirit in addition to its other types, and it has flying. Create a black Zombie creature token with power equal to that card’s power and toughness equal to that card’s toughness."
-Spell Queller
-{1}{W}{U}
-Creature — Spirit
-Flash
-Flying
-"When Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less."
-"When Spell Queller leaves the battlefield, the exiled card’s owner may cast that card without paying its mana cost."
-2/3
-Spirit of the Hunt
-{1}{G}{G}
-Creature — Wolf Spirit
-Flash
-"When Spirit of the Hunt enters the battlefield, each other creature you control that’s a Wolf or a Werewolf gets +0/+3 until end of turn."
-3/3
-Splendid Reclamation
-{3}{G}
-Sorcery
-Return all land cards from your graveyard to the battlefield tapped.
-Splendid Reclamation
-{3}{G}
-Sorcery
-Return all land cards from your graveyard to the battlefield tapped.
-Stitcher's Graft
-{1}
-Artifact — Equipment
-Equipped creature gets +3/+3.
-"Whenever equipped creature attacks, it doesn’t untap during its controller’s next untap step."
-"Whenever Stitcher’s Graft becomes unattached from a permanent, sacrifice that permanent."
-Equip {2}
-Stromkirk Condemned
-{B}{B}
-Creature — Vampire Horror
-Discard a card: Vampires you control get +1/+1 until end of turn. Activate this ability only once each turn.
-2/2
-Stromkirk Occultist
-{2}{R}
-Creature — Vampire Horror
-Trample
-"Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card."
-"Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-3/2
-Summary Dismissal
-{2}{U}{U}
-Instant
-Exile all other spells and counter all abilities.
-"Tamiyo, Field Researcher"
-{1}{G}{W}{U}
-Legendary Planeswalker — Tamiyo
-"+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card."
-−2: Tap up to two target nonland permanents. They don’t untap during their controller’s next untap step.
-−7: Draw three cards. You get an emblem with “You may cast spells from your hand without paying their mana costs.”
-Loyalty: 4
-"Thalia, Heretic Cathar"
-{2}{W}
-Legendary Creature — Human Soldier
-First strike
-Creatures and nonbasic lands your opponents control enter the battlefield tapped.
-3/2
-"Thalia, Heretic Cathar"
-{2}{W}
-Legendary Creature — Human Soldier
-First strike
-Creatures and nonbasic lands your opponents control enter the battlefield tapped.
-3/2
-Thalia's Lancers
-{3}{W}{W}
-Creature — Human Knight
-First strike
-"When Thalia’s Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library."
-4/4
-Tree of Perdition
-{3}{B}
-Creature — Plant
-Defender
-{T}: Exchange target opponent’s life total with Tree of Perdition’s toughness.
-0/13
-Ulrich of the Krallenhorde
-{3}{R}{G}
-Legendary Creature — Human Werewolf
-"Whenever this creature enters the battlefield or transforms into Ulrich of the Krallenhorde, target creature gets +4/+4 until end of turn."
-"At the beginning of each upkeep, if no spells were cast last turn, transform Ulrich of the Krallenhorde."
-4/4
-"Ulrich, Uncontested Alpha"
-Legendary Creature — Werewolf
-"Whenever this creature transforms into Ulrich, Uncontested Alpha, you may have it fight target non-Werewolf creature you don’t control."
-"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulrich, Uncontested Alpha."
-6/6
-Ulvenwald Observer
-{4}{G}{G}
-Creature — Treefolk
-"Whenever a creature you control with toughness 4 or greater dies, draw a card."
-6/6
-Ulvenwald Observer
-{4}{G}{G}
-Creature — Treefolk
-"Whenever a creature you control with toughness 4 or greater dies, draw a card."
-6/6
-Unsubstantiate
-{1}{U}
-Instant
-Return target spell or creature to its owner’s hand.
-Voldaren Pariah
-{3}{B}{B}
-Creature — Vampire Horror
-Flying
-Sacrifice three other creatures: Transform Voldaren Pariah.
-"Madness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-3/3
-Abolisher of Bloodlines
-Creature — Eldrazi Vampire
-Flying
-"When this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures."
-6/5
-Wharf Infiltrator
-{1}{U}
-Creature — Human Horror
-Skulk (This creature can’t be blocked by creatures with greater power.)
-"Whenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card."
-"Whenever you discard a creature card, you may pay {2}. If you do, create a 3/2 colorless Eldrazi Horror creature token."
-1/1
-Zombie
-Token Creature — Zombie
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Assembled Alphas', ['{5}{R}', 'Creature — Wolf', 'Whenever Assembled Alphas blocks or becomes blocked by a creature, Assembled Alphas deals 3 damage to that creature and 3 damage to that creature’s controller.', '5/5'])"
+"('Bedlam Reveler', ['{6}{R}{R}', 'Creature — Devil Horror', 'This spell costs {1} less to cast for each instant and sorcery card in your graveyard.', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', 'When Bedlam Reveler enters the battlefield, discard your hand, then draw three cards.', '3/4'])"
+"('Bloodhall Priest', ['{2}{B}{R}', 'Creature — Vampire Cleric', 'Whenever Bloodhall Priest enters the battlefield or attacks, if you have no cards in hand, Bloodhall Priest deals 2 damage to any target.', 'Madness {1}{B}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '4/4'])"
+"('Brisela, Voice of Nightmares', ['Legendary Creature — Eldrazi Angel', 'Flying, first strike, vigilance, lifelink', 'Your opponents can’t cast spells with converted mana cost 3 or less.', '9/10'])"
+"('Bruna, the Fading Light', ['{5}{W}{W}', 'Legendary Creature — Angel Horror', 'When you cast this spell, you may return target Angel or Human creature card from your graveyard to the battlefield.', 'Flying, vigilance', '(Melds with Gisela, the Broken Blade.)', '5/7'])"
+"('Coax from the Blind Eternities', ['{2}{U}', 'Sorcery', 'You may reveal an Eldrazi card you own from outside the game or choose a face-up Eldrazi card you own in exile. Put that card into your hand.'])"
+"('Collective Brutality', ['{1}{B}', 'Sorcery', 'Escalate—Discard a card. (Pay this cost for each mode chosen beyond the first.)', 'Choose one or more —', '• Target opponent reveals their hand. You choose an instant or sorcery card from it. That player discards that card.', '• Target creature gets -2/-2 until end of turn.', '• Target opponent loses 2 life and you gain 2 life.'])"
+"('Collective Defiance', ['{1}{R}{R}', 'Sorcery', 'Escalate {1} (Pay this cost for each mode chosen beyond the first.)', 'Choose one or more —', '• Target player discards all the cards in their hand, then draws that many cards.', '• Collective Defiance deals 4 damage to target creature.', '• Collective Defiance deals 3 damage to target opponent or planeswalker.'])"
+"('Collective Effort', ['{1}{W}{W}', 'Sorcery', 'Escalate—Tap an untapped creature you control. (Pay this cost for each mode chosen beyond the first.)', 'Choose one or more —', '• Destroy target creature with power 4 or greater.', '• Destroy target enchantment.', '• Put a +1/+1 counter on each creature target player controls.'])"
+"('Cryptbreaker', ['{B}', 'Creature — Zombie', '{1}{B}, {T}, Discard a card: Create a 2/2 black Zombie creature token.', 'Tap three untapped Zombies you control: You draw a card and you lose 1 life.', '1/1'])"
+"('Dark Salvation', ['{X}{X}{B}', 'Sorcery', 'Target player creates X 2/2 black Zombie creature tokens, then up to one target creature gets -1/-1 until end of turn for each Zombie that player controls.'])"
+"('Decimator of the Provinces', ['{10}', 'Creature — Eldrazi Boar', 'Emerge {6}{G}{G}{G} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)', 'When you cast this spell, creatures you control get +2/+2 and gain trample until end of turn.', 'Trample, haste', '7/7'])"
+"('Deploy the Gatewatch', ['{4}{W}{W}', 'Sorcery', 'Look at the top seven cards of your library. Put up to two planeswalker cards from among them onto the battlefield. Put the rest on the bottom of your library in a random order.'])"
+"('Distended Mindbender', ['{8}', 'Creature — Eldrazi Insect', 'Emerge {5}{B}{B} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)', 'When you cast this spell, target opponent reveals their hand. You choose from it a nonland card with converted mana cost 3 or less and a card with converted mana cost 4 or greater. That player discards those cards.', '5/5'])"
+"('Docent of Perfection', ['{3}{U}{U}', 'Creature — Insect Horror', 'Flying', 'Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token. Then if you control three or more Wizards, transform Docent of Perfection.', '5/4', 'Final Iteration', 'Creature — Eldrazi Insect', 'Flying', 'Wizards you control get +2/+1 and have flying.', 'Whenever you cast an instant or sorcery spell, create a 1/1 blue Human Wizard creature token.', '6/5'])"
+"('Elder Deep-Fiend', ['{8}', 'Creature — Eldrazi Octopus', 'Flash', 'Emerge {5}{U}{U} (You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s converted mana cost.)', 'When you cast this spell, tap up to four target permanents.', '5/6'])"
+"('Eldritch Evolution', ['{1}{G}{G}', 'Sorcery', 'As an additional cost to cast this spell, sacrifice a creature.', 'Search your library for a creature card with converted mana cost X or less, where X is 2 plus the sacrificed creature’s converted mana cost. Put that card onto the battlefield, then shuffle your library. Exile Eldritch Evolution.'])"
+"(""Emrakul's Evangel"", ['{2}{G}', 'Creature — Human Horror', '{T}, Sacrifice Emrakul’s Evangel and any number of other non-Eldrazi creatures: Create a 3/2 colorless Eldrazi Horror creature token for each creature sacrificed this way.', '3/2'])"
+"('Emrakul, the Promised End', ['{13}', 'Legendary Creature — Eldrazi', 'This spell costs {1} less to cast for each card type among cards in your graveyard.', 'When you cast this spell, you gain control of target opponent during that player’s next turn. After that turn, that player takes an extra turn.', 'Flying, trample, protection from instants', '13/13'])"
+"('Eternal Scourge', ['{3}', 'Creature — Eldrazi Horror', 'You may cast Eternal Scourge from exile.', 'When Eternal Scourge becomes the target of a spell or ability an opponent controls, exile Eternal Scourge.', '3/3'])"
+"('Geier Reach Sanitarium', ['Legendary Land', '{T}: Add {C}.', '{2}, {T}: Each player draws a card, then discards a card.'])"
+"('Gisa and Geralf', ['{2}{U}{B}', 'Legendary Creature — Human Wizard', 'When Gisa and Geralf enters the battlefield, mill four cards.', 'During each of your turns, you may cast a Zombie creature spell from your graveyard.', '4/4'])"
+"('Gisela, the Broken Blade', ['{2}{W}{W}', 'Legendary Creature — Angel Horror', 'Flying, first strike, lifelink', 'At the beginning of your end step, if you both own and control Gisela, the Broken Blade and a creature named Bruna, the Fading Light, exile them, then meld them into Brisela, Voice of Nightmares.', '4/3'])"
+"('Grim Flayer', ['{B}{G}', 'Creature — Human Warrior', 'Trample', 'Whenever Grim Flayer deals combat damage to a player, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.', 'Delirium — Grim Flayer gets +2/+2 as long as there are four or more card types among cards in your graveyard.', '2/2'])"
+"('Hanweir Battlements', ['Land', '{T}: Add {C}.', '{R}, {T}: Target creature gains haste until end of turn.', '{3}{R}{R}, {T}: If you both own and control Hanweir Battlements and a creature named Hanweir Garrison, exile them, then meld them into Hanweir, the Writhing Township.'])"
+"('Hanweir Garrison', ['{2}{R}', 'Creature — Human Soldier', 'Whenever Hanweir Garrison attacks, create two 1/1 red Human creature tokens that are tapped and attacking.', '(Melds with Hanweir Battlements.)', '2/3'])"
+"('Hanweir, the Writhing Township', ['Legendary Creature — Eldrazi Ooze', 'Trample, haste', 'Whenever Hanweir, the Writhing Township attacks, create two 3/2 colorless Eldrazi Horror creature tokens that are tapped and attacking.', '7/4'])"
+"('Harmless Offering', ['{2}{R}', 'Sorcery', 'Target opponent gains control of target permanent you control.'])"
+"(""Heron's Grace Champion"", ['{2}{G}{W}', 'Creature — Human Knight', 'Flash', 'Lifelink', 'When Heron’s Grace Champion enters the battlefield, other Humans you control get +1/+1 and gain lifelink until end of turn.', '3/3'])"
+"('Identity Thief', ['{2}{U}{U}', 'Creature — Shapeshifter', 'Whenever Identity Thief attacks, you may exile another target nontoken creature. If you do, Identity Thief becomes a copy of that creature until end of turn. Return the exiled card to the battlefield under its owner’s control at the beginning of the next end step.', '0/3'])"
+"('Impetuous Devils', ['{2}{R}{R}', 'Creature — Devil', 'Trample, haste', 'When Impetuous Devils attacks, up to one target creature defending player controls blocks it this combat if able.', 'At the beginning of the end step, sacrifice Impetuous Devils.', '6/1'])"
+"('Imprisoned in the Moon', ['{2}{U}', 'Enchantment — Aura', 'Enchant creature, land, or planeswalker', 'Enchanted permanent is a colorless land with “{T}: Add {C}” and loses all other card types and abilities.'])"
+"('Ishkanah, Grafwidow', ['{4}{G}', 'Legendary Creature — Spider', 'Reach', 'Delirium — When Ishkanah, Grafwidow enters the battlefield, if there are four or more card types among cards in your graveyard, create three 1/2 green Spider creature tokens with reach.', '{6}{B}: Target opponent loses 1 life for each Spider you control.', '3/5'])"
+"('Liliana, the Last Hope', ['{1}{B}{B}', 'Legendary Planeswalker — Liliana', '+1: Up to one target creature gets -2/-1 until your next turn.', '−2: Mill two cards, then you may return a creature card from your graveyard to your hand.', '−7: You get an emblem with “At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.”', 'Loyalty: 3'])"
+"('Lupine Prototype', ['{2}', 'Artifact Creature — Wolf Construct', 'Lupine Prototype can’t attack or block unless a player has no cards in hand.', '5/5'])"
+"('Mausoleum Wanderer', ['{U}', 'Creature — Spirit', 'Flying', 'Whenever another Spirit enters the battlefield under your control, Mausoleum Wanderer gets +1/+1 until end of turn.', 'Sacrifice Mausoleum Wanderer: Counter target instant or sorcery spell unless its controller pays {X}, where X is Mausoleum Wanderer’s power.', '1/1'])"
+"(""Mind's Dilation"", ['{5}{U}{U}', 'Enchantment', 'Whenever an opponent casts their first spell each turn, that player exiles the top card of their library. If it’s a nonland card, you may cast it without paying its mana cost.'])"
+"('Mirrorwing Dragon', ['{3}{R}{R}', 'Creature — Dragon', 'Flying', 'Whenever a player casts an instant or sorcery spell that targets only Mirrorwing Dragon, that player copies that spell for each other creature they control that the spell could target. Each copy targets a different one of those creatures.', '4/5'])"
+"(""Nahiri's Wrath"", ['{2}{R}', 'Sorcery', 'As an additional cost to cast this spell, discard X cards.', 'Nahiri’s Wrath deals damage equal to the total converted mana cost of the discarded cards to each of up to X target creatures and/or planeswalkers.'])"
+"('Niblis of Frost', ['{2}{U}{U}', 'Creature — Spirit', 'Flying', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', 'Whenever you cast an instant or sorcery spell, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step.', '3/3'])"
+"('Noosegraf Mob', ['{4}{B}{B}', 'Creature — Zombie', 'Noosegraf Mob enters the battlefield with five +1/+1 counters on it.', 'Whenever a player casts a spell, remove a +1/+1 counter from Noosegraf Mob. If you do, create a 2/2 black Zombie creature token.', '0/0'])"
+"('Oath of Liliana', ['{2}{B}', 'Legendary Enchantment', 'When Oath of Liliana enters the battlefield, each opponent sacrifices a creature.', 'At the beginning of each end step, if a planeswalker entered the battlefield under your control this turn, create a 2/2 black Zombie creature token.'])"
+"('Permeating Mass', ['{G}', 'Creature — Spirit', 'Whenever Permeating Mass deals combat damage to a creature, that creature becomes a copy of Permeating Mass.', '1/3'])"
+"('Providence', ['{5}{W}{W}', 'Sorcery', 'You may reveal this card from your opening hand. If you do, at the beginning of the first upkeep, your life total becomes 26.', 'Your life total becomes 26.'])"
+"('Sanctifier of Souls', ['{3}{W}', 'Creature — Human Cleric', 'Whenever another creature enters the battlefield under your control, Sanctifier of Souls gets +1/+1 until end of turn.', '{2}{W}, Exile a creature card from your graveyard: Create a 1/1 white Spirit creature token with flying.', '2/3'])"
+"('Selfless Spirit', ['{1}{W}', 'Creature — Spirit Cleric', 'Flying', 'Sacrifice Selfless Spirit: Creatures you control gain indestructible until end of turn.', '2/1'])"
+"(""Sigarda's Aid"", ['{W}', 'Enchantment', 'You may cast Aura and Equipment spells as though they had flash.', 'Whenever an Equipment enters the battlefield under your control, you may attach it to target creature you control.'])"
+"('Soul Separator', ['{3}', 'Artifact', '{5}, {T}, Sacrifice Soul Separator: Exile target creature card from your graveyard. Create a token that’s a copy of that card, except it’s 1/1, it’s a Spirit in addition to its other types, and it has flying. Create a black Zombie creature token with power equal to that card’s power and toughness equal to that card’s toughness.'])"
+"('Spell Queller', ['{1}{W}{U}', 'Creature — Spirit', 'Flash', 'Flying', 'When Spell Queller enters the battlefield, exile target spell with converted mana cost 4 or less.', 'When Spell Queller leaves the battlefield, the exiled card’s owner may cast that card without paying its mana cost.', '2/3'])"
+"('Spirit of the Hunt', ['{1}{G}{G}', 'Creature — Wolf Spirit', 'Flash', 'When Spirit of the Hunt enters the battlefield, each other creature you control that’s a Wolf or a Werewolf gets +0/+3 until end of turn.', '3/3'])"
+"('Splendid Reclamation', ['{3}{G}', 'Sorcery', 'Return all land cards from your graveyard to the battlefield tapped.'])"
+"(""Stitcher's Graft"", ['{1}', 'Artifact — Equipment', 'Equipped creature gets +3/+3.', 'Whenever equipped creature attacks, it doesn’t untap during its controller’s next untap step.', 'Whenever Stitcher’s Graft becomes unattached from a permanent, sacrifice that permanent.', 'Equip {2}'])"
+"('Stromkirk Condemned', ['{B}{B}', 'Creature — Vampire Horror', 'Discard a card: Vampires you control get +1/+1 until end of turn. Activate this ability only once each turn.', '2/2'])"
+"('Stromkirk Occultist', ['{2}{R}', 'Creature — Vampire Horror', 'Trample', 'Whenever Stromkirk Occultist deals combat damage to a player, exile the top card of your library. Until end of turn, you may play that card.', 'Madness {1}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '3/2'])"
+"('Summary Dismissal', ['{2}{U}{U}', 'Instant', 'Exile all other spells and counter all abilities.'])"
+"('Tamiyo, Field Researcher', ['{1}{G}{W}{U}', 'Legendary Planeswalker — Tamiyo', '+1: Choose up to two target creatures. Until your next turn, whenever either of those creatures deals combat damage, you draw a card.', '−2: Tap up to two target nonland permanents. They don’t untap during their controller’s next untap step.', '−7: Draw three cards. You get an emblem with “You may cast spells from your hand without paying their mana costs.”', 'Loyalty: 4'])"
+"('Thalia, Heretic Cathar', ['{2}{W}', 'Legendary Creature — Human Soldier', 'First strike', 'Creatures and nonbasic lands your opponents control enter the battlefield tapped.', '3/2'])"
+"(""Thalia's Lancers"", ['{3}{W}{W}', 'Creature — Human Knight', 'First strike', 'When Thalia’s Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library.', '4/4'])"
+"('Tree of Perdition', ['{3}{B}', 'Creature — Plant', 'Defender', '{T}: Exchange target opponent’s life total with Tree of Perdition’s toughness.', '0/13'])"
+"('Ulrich of the Krallenhorde', ['{3}{R}{G}', 'Legendary Creature — Human Werewolf', 'Whenever this creature enters the battlefield or transforms into Ulrich of the Krallenhorde, target creature gets +4/+4 until end of turn.', 'At the beginning of each upkeep, if no spells were cast last turn, transform Ulrich of the Krallenhorde.', '4/4', 'Ulrich, Uncontested Alpha', 'Legendary Creature — Werewolf', 'Whenever this creature transforms into Ulrich, Uncontested Alpha, you may have it fight target non-Werewolf creature you don’t control.', 'At the beginning of each upkeep, if a player cast two or more spells last turn, transform Ulrich, Uncontested Alpha.', '6/6'])"
+"('Ulvenwald Observer', ['{4}{G}{G}', 'Creature — Treefolk', 'Whenever a creature you control with toughness 4 or greater dies, draw a card.', '6/6'])"
+"('Unsubstantiate', ['{1}{U}', 'Instant', 'Return target spell or creature to its owner’s hand.'])"
+"('Voldaren Pariah', ['{3}{B}{B}', 'Creature — Vampire Horror', 'Flying', 'Sacrifice three other creatures: Transform Voldaren Pariah.', 'Madness {B}{B}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '3/3', 'Abolisher of Bloodlines', 'Creature — Eldrazi Vampire', 'Flying', 'When this creature transforms into Abolisher of Bloodlines, target opponent sacrifices three creatures.', '6/5'])"
+"('Wharf Infiltrator', ['{1}{U}', 'Creature — Human Horror', 'Skulk (This creature can’t be blocked by creatures with greater power.)', 'Whenever Wharf Infiltrator deals combat damage to a player, you may draw a card. If you do, discard a card.', 'Whenever you discard a creature card, you may pay {2}. If you do, create a 3/2 colorless Eldrazi Horror creature token.', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2', 'Zombie', 'Token Creature — Zombie', '2/2'])"

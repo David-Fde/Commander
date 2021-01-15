@@ -1,7 +1,1 @@
-Earl of Squirrel
-{4}{G}{G}
-Creature — Squirrel Noble Advisor
-Squirrellink (Damage dealt by this creature also causes you to create that many 1/1 green Squirrel creature tokens.)
-Creature tokens you control are Squirrels in addition to their other creature types.
-Other Squirrels you control get +1/+1.
-4/4
+"('Earl of Squirrel', ['{4}{G}{G}', 'Creature — Squirrel Noble Advisor', 'Squirrellink (Damage dealt by this creature also causes you to create that many 1/1 green Squirrel creature tokens.)', 'Creature tokens you control are Squirrels in addition to their other creature types.', 'Other Squirrels you control get +1/+1.', '4/4'])"

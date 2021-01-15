@@ -1,7 +1,2 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-Elemental
-Token Creature — Elemental
-3/1
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Elemental', ['Token Creature — Elemental', '3/1'])"

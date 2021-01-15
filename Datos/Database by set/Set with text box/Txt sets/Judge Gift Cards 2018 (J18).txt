@@ -1,36 +1,8 @@
-Commander's Sphere
-{3}
-Artifact
-{T}: Add one mana of any color in your commander’s color identity.
-Sacrifice Commander’s Sphere: Draw a card.
-Food Chain
-{2}{G}
-Enchantment
-"Exile a creature you control: Add X mana of any one color, where X is 1 plus the exiled creature’s converted mana cost. Spend this mana only to cast creature spells."
-Lord of Atlantis
-{U}{U}
-Creature — Merfolk
-Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)
-2/2
-Merchant Scroll
-{1}{U}
-Sorcery
-"Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library."
-"Nin, the Pain Artist"
-{U}{R}
-Legendary Creature — Vedalken Wizard
-"{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature’s controller draws X cards."
-1/1
-Rhystic Study
-{2}{U}
-Enchantment
-"Whenever an opponent casts a spell, you may draw a card unless that player pays {1}."
-Teferi's Protection
-{2}{W}
-Instant
-"Until your next turn, your life total can’t change and you gain protection from everything. All permanents you control phase out. (While they’re phased out, they’re treated as though they don’t exist. They phase in before you untap during your untap step.)"
-Exile Teferi’s Protection.
-Vampiric Tutor
-{B}
-Instant
-"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
+"(""Commander's Sphere"", ['{3}', 'Artifact', '{T}: Add one mana of any color in your commander’s color identity.', 'Sacrifice Commander’s Sphere: Draw a card.'])"
+"('Food Chain', ['{2}{G}', 'Enchantment', 'Exile a creature you control: Add X mana of any one color, where X is 1 plus the exiled creature’s converted mana cost. Spend this mana only to cast creature spells.'])"
+"('Lord of Atlantis', ['{U}{U}', 'Creature — Merfolk', 'Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)', '2/2'])"
+"('Merchant Scroll', ['{1}{U}', 'Sorcery', 'Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.'])"
+"('Nin, the Pain Artist', ['{U}{R}', 'Legendary Creature — Vedalken Wizard', '{X}{U}{R}, {T}: Nin, the Pain Artist deals X damage to target creature. That creature’s controller draws X cards.', '1/1'])"
+"('Rhystic Study', ['{2}{U}', 'Enchantment', 'Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.'])"
+"(""Teferi's Protection"", ['{2}{W}', 'Instant', 'Until your next turn, your life total can’t change and you gain protection from everything. All permanents you control phase out. (While they’re phased out, they’re treated as though they don’t exist. They phase in before you untap during your untap step.)', 'Exile Teferi’s Protection.'])"
+"('Vampiric Tutor', ['{B}', 'Instant', 'Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.'])"

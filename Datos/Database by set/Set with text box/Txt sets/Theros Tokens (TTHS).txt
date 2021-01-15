@@ -1,35 +1,9 @@
-Bird
-Token Creature — Bird
-Flying
-2/2
-Boar
-Token Creature — Boar
-2/2
-Cleric
-Token Enchantment Creature — Cleric
-2/1
-Elemental
-Token Creature — Elemental
-1/0
-"Elspeth, Sun's Champion Emblem"
-Emblem — Elspeth
-Creatures you control get +2/+2 and have flying.
-Golem
-Token Enchantment Artifact Creature — Golem
-3/3
-Harpy
-Token Creature — Harpy
-Flying
-1/1
-Satyr
-Token Creature — Satyr
-2/2
-Soldier
-Token Creature — Soldier
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Soldier
-Token Creature — Soldier
-1/1
+"('Bird', ['Token Creature — Bird', 'Flying', '2/2'])"
+"('Boar', ['Token Creature — Boar', '2/2'])"
+"('Cleric', ['Token Enchantment Creature — Cleric', '2/1'])"
+"('Elemental', ['Token Creature — Elemental', '1/0'])"
+"(""Elspeth, Sun's Champion Emblem"", ['Emblem — Elspeth', 'Creatures you control get +2/+2 and have flying.'])"
+"('Golem', ['Token Enchantment Artifact Creature — Golem', '3/3'])"
+"('Harpy', ['Token Creature — Harpy', 'Flying', '1/1'])"
+"('Satyr', ['Token Creature — Satyr', '2/2'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"

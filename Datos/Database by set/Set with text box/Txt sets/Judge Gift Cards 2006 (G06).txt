@@ -1,22 +1,4 @@
-Exalted Angel
-{4}{W}{W}
-Creature — Angel
-Flying
-"Whenever Exalted Angel deals damage, you gain that much life."
-Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-4/5
-Grim Lavamancer
-{R}
-Creature — Human Wizard
-"{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target."
-1/1
-Meddling Mage
-{W}{U}
-Creature — Human Wizard
-"As Meddling Mage enters the battlefield, choose a nonland card name."
-Spells with the chosen name can’t be cast.
-2/2
-Pernicious Deed
-{1}{B}{G}
-Enchantment
-"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less."
+"('Exalted Angel', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'Whenever Exalted Angel deals damage, you gain that much life.', 'Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '4/5'])"
+"('Grim Lavamancer', ['{R}', 'Creature — Human Wizard', '{R}, {T}, Exile two cards from your graveyard: Grim Lavamancer deals 2 damage to any target.', '1/1'])"
+"('Meddling Mage', ['{W}{U}', 'Creature — Human Wizard', 'As Meddling Mage enters the battlefield, choose a nonland card name.', 'Spells with the chosen name can’t be cast.', '2/2'])"
+"('Pernicious Deed', ['{1}{B}{G}', 'Enchantment', '{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.'])"

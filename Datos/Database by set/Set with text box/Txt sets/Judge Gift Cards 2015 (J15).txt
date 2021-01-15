@@ -1,36 +1,8 @@
-Damnation
-{2}{B}{B}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Dualcaster Mage
-{1}{R}{R}
-Creature — Human Wizard
-Flash
-"When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy."
-2/2
-Feldon of the Third Path
-{1}{R}{R}
-Legendary Creature — Human Artificer
-"{2}{R}, {T}: Create a token that’s a copy of target creature card in your graveyard, except it’s an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step."
-2/3
-Ravages of War
-{3}{W}
-Sorcery
-Destroy all lands.
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Shardless Agent
-{1}{G}{U}
-Artifact Creature — Human Rogue
-"Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)"
-2/2
-Temporal Manipulation
-{3}{U}{U}
-Sorcery
-Take an extra turn after this one.
-Wasteland
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
+"('Damnation', ['{2}{B}{B}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"
+"('Dualcaster Mage', ['{1}{R}{R}', 'Creature — Human Wizard', 'Flash', 'When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.', '2/2'])"
+"('Feldon of the Third Path', ['{1}{R}{R}', 'Legendary Creature — Human Artificer', '{2}{R}, {T}: Create a token that’s a copy of target creature card in your graveyard, except it’s an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.', '2/3'])"
+"('Ravages of War', ['{3}{W}', 'Sorcery', 'Destroy all lands.'])"
+"('Rishadan Port', ['Land', '{T}: Add {C}.', '{1}, {T}: Tap target land.'])"
+"('Shardless Agent', ['{1}{G}{U}', 'Artifact Creature — Human Rogue', 'Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom of your library in a random order.)', '2/2'])"
+"('Temporal Manipulation', ['{3}{U}{U}', 'Sorcery', 'Take an extra turn after this one.'])"
+"('Wasteland', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Wasteland: Destroy target nonbasic land.'])"

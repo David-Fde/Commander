@@ -1,24 +1,5 @@
-Demonic Tutor
-{1}{B}
-Sorcery
-"Search your library for a card, put that card into your hand, then shuffle your library."
-Goblin Piledriver
-{1}{R}
-Creature — Goblin Warrior
-"Protection from blue (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything blue.)"
-"Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
-1/2
-Living Wish
-{1}{G}
-Sorcery
-You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.
-Mind's Desire
-{4}{U}{U}
-Sorcery
-"Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)"
-"Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
-Orim's Chant
-{W}
-Instant
-Kicker {W} (You may pay an additional {W} as you cast this spell.)
-"Target player can’t cast spells this turn. If this spell was kicked, creatures can’t attack this turn."
+"('Demonic Tutor', ['{1}{B}', 'Sorcery', 'Search your library for a card, put that card into your hand, then shuffle your library.'])"
+"('Goblin Piledriver', ['{1}{R}', 'Creature — Goblin Warrior', 'Protection from blue (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything blue.)', 'Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.', '1/2'])"
+"('Living Wish', ['{1}{G}', 'Sorcery', 'You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.'])"
+"(""Mind's Desire"", ['{4}{U}{U}', 'Sorcery', 'Shuffle your library. Then exile the top card of your library. Until end of turn, you may play that card without paying its mana cost. (If it has X in its mana cost, X is 0.)', 'Storm (When you cast this spell, copy it for each spell cast before it this turn.)'])"
+"(""Orim's Chant"", ['{W}', 'Instant', 'Kicker {W} (You may pay an additional {W} as you cast this spell.)', 'Target player can’t cast spells this turn. If this spell was kicked, creatures can’t attack this turn.'])"

@@ -1,273 +1,54 @@
-Aggravated Assault
-{2}{R}
-Enchantment
-"{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery."
-Armageddon
-{3}{W}
-Sorcery
-Destroy all lands.
-Attrition
-{1}{B}{B}
-Enchantment
-"{B}, Sacrifice a creature: Destroy target nonblack creature."
-Austere Command
-{4}{W}{W}
-Sorcery
-Choose two —
-• Destroy all artifacts.
-• Destroy all enchantments.
-• Destroy all creatures with converted mana cost 3 or less.
-• Destroy all creatures with converted mana cost 4 or greater.
-Avatar of Woe
-{6}{B}{B}
-Creature — Avatar
-"If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast."
-Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
-{T}: Destroy target creature. It can’t be regenerated.
-6/5
-Aven Mindcensor
-{2}{W}
-Creature — Bird Wizard
-Flash
-Flying
-"If an opponent would search a library, that player searches the top four cards of that library instead."
-2/1
-Blood Moon
-{2}{R}
-Enchantment
-Nonbasic lands are Mountains.
-Boil
-{3}{R}
-Instant
-Destroy all Islands.
-Bontu the Glorified
-{2}{B}
-Legendary Creature — God
-"Menace, indestructible"
-Bontu the Glorified can’t attack or block unless a creature died under your control this turn.
-"{1}{B}, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life."
-4/6
-Capsize
-{1}{U}{U}
-Instant
-"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Return target permanent to its owner’s hand.
-Chain Lightning
-{R}
-Sorcery
-"Chain Lightning deals 3 damage to any target. Then that player or that permanent’s controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy."
-Choke
-{2}{G}
-Enchantment
-Islands don’t untap during their controllers’ untap steps.
-Consecrated Sphinx
-{4}{U}{U}
-Creature — Sphinx
-Flying
-"Whenever an opponent draws a card, you may draw two cards."
-4/6
-Containment Priest
-{1}{W}
-Creature — Human Cleric
-Flash
-"If a nontoken creature would enter the battlefield and it wasn’t cast, exile it instead."
-2/2
-Counterbalance
-{U}{U}
-Enchantment
-"Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card."
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Cryptic Command
-{1}{U}{U}{U}
-Instant
-Choose two —
-• Counter target spell.
-• Return target permanent to its owner’s hand.
-• Tap all creatures your opponents control.
-• Draw a card.
-Damnation
-{2}{B}{B}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Dark Ritual
-{B}
-Instant
-Add {B}{B}{B}.
-Daze
-{1}{U}
-Instant
-You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.
-Counter target spell unless its controller pays {1}.
-Desolation Angel
-{3}{B}{B}
-Creature — Angel
-Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)
-Flying
-"When Desolation Angel enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead."
-5/4
-Diabolic Edict
-{1}{B}
-Instant
-Target player sacrifices a creature.
-Diabolic Intent
-{1}{B}
-Sorcery
-"As an additional cost to cast this spell, sacrifice a creature."
-Search your library for a card and put that card into your hand. Then shuffle your library.
-Divert
-{U}
-Instant
-Change the target of target spell with a single target unless that spell’s controller pays {2}.
-Doomsday
-{B}{B}{B}
-Sorcery
-"Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up."
-Entomb
-{B}
-Instant
-Search your library for a card and put that card into your graveyard. Then shuffle your library.
-Forbid
-{1}{U}{U}
-Instant
-"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Counter target spell.
-Force of Will
-{3}{U}{U}
-Instant
-You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
-Counter target spell.
-Hazoret the Fervent
-{3}{R}
-Legendary Creature — God
-"Indestructible, haste"
-Hazoret the Fervent can’t attack or block unless you have one or fewer cards in hand.
-"{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent."
-5/4
-Kefnet the Mindful
-{2}{U}
-Legendary Creature — God
-"Flying, indestructible"
-Kefnet the Mindful can’t attack or block unless you have seven or more cards in hand.
-"{3}{U}: Draw a card, then you may return a land you control to its owner’s hand."
-5/5
-Lord of Extinction
-{3}{B}{G}
-Creature — Elemental
-Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.
-*/*
-Loyal Retainers
-{2}{W}
-Creature — Human Advisor
-"Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared."
-1/1
-Maelstrom Pulse
-{1}{B}{G}
-Sorcery
-Destroy target nonland permanent and all other permanents with the same name as that permanent.
-Mind Twist
-{X}{B}
-Sorcery
-Target player discards X cards at random.
-No Mercy
-{2}{B}{B}
-Enchantment
-"Whenever a creature deals damage to you, destroy it."
-Oketra the True
-{3}{W}
-Legendary Creature — God
-"Double strike, indestructible"
-Oketra the True can’t attack or block unless you control at least three other creatures.
-{3}{W}: Create a 1/1 white Warrior creature token with vigilance.
-3/6
-Omniscience
-{7}{U}{U}{U}
-Enchantment
-You may cast spells from your hand without paying their mana costs.
-Opposition
-{2}{U}{U}
-Enchantment
-"Tap an untapped creature you control: Tap target artifact, creature, or land."
-Pact of Negation
-{0}
-Instant
-Counter target spell.
-"At the beginning of your next upkeep, pay {3}{U}{U}. If you don’t, you lose the game."
-Rhonas the Indomitable
-{2}{G}
-Legendary Creature — God
-"Deathtouch, indestructible"
-Rhonas the Indomitable can’t attack or block unless you control another creature with power 4 or greater.
-{2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.
-5/5
-Shatterstorm
-{2}{R}{R}
-Sorcery
-Destroy all artifacts. They can’t be regenerated.
-Slaughter Pact
-{0}
-Instant
-Destroy target nonblack creature.
-"At the beginning of your next upkeep, pay {2}{B}. If you don’t, you lose the game."
-Spell Pierce
-{U}
-Instant
-Counter target noncreature spell unless its controller pays {2}.
-Stifle
-{U}
-Instant
-Counter target activated or triggered ability. (Mana abilities can’t be targeted.)
-Sunder
-{3}{U}{U}
-Instant
-Return all lands to their owners’ hands.
-The Locust God
-{4}{U}{R}
-Legendary Creature — God
-Flying
-"Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste."
-"{2}{U}{R}: Draw a card, then discard a card."
-"When The Locust God dies, return it to its owner’s hand at the beginning of the next end step."
-4/4
-The Scarab God
-{3}{U}{B}
-Legendary Creature — God
-"At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control."
-"{2}{U}{B}: Exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie."
-"When The Scarab God dies, return it to its owner’s hand at the beginning of the next end step."
-5/5
-The Scorpion God
-{3}{B}{R}
-Legendary Creature — God
-"Whenever a creature with a -1/-1 counter on it dies, draw a card."
-{1}{B}{R}: Put a -1/-1 counter on another target creature.
-"When The Scorpion God dies, return it to its owner’s hand at the beginning of the next end step."
-6/5
-Thoughtseize
-{B}
-Sorcery
-Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
-Threads of Disloyalty
-{1}{U}{U}
-Enchantment — Aura
-Enchant creature with converted mana cost 2 or less
-You control enchanted creature.
-Through the Breach
-{4}{R}
-Instant — Arcane
-You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.
-"Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)"
-Vindicate
-{1}{W}{B}
-Sorcery
-Destroy target permanent.
-Worship
-{3}{W}
-Enchantment
-"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
-Wrath of God
-{2}{W}{W}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
+"('Aggravated Assault', ['{2}{R}', 'Enchantment', '{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.'])"
+"('Armageddon', ['{3}{W}', 'Sorcery', 'Destroy all lands.'])"
+"('Attrition', ['{1}{B}{B}', 'Enchantment', '{B}, Sacrifice a creature: Destroy target nonblack creature.'])"
+"('Austere Command', ['{4}{W}{W}', 'Sorcery', 'Choose two —', '• Destroy all artifacts.', '• Destroy all enchantments.', '• Destroy all creatures with converted mana cost 3 or less.', '• Destroy all creatures with converted mana cost 4 or greater.'])"
+"('Avatar of Woe', ['{6}{B}{B}', 'Creature — Avatar', 'If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.', 'Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)', '{T}: Destroy target creature. It can’t be regenerated.', '6/5'])"
+"('Aven Mindcensor', ['{2}{W}', 'Creature — Bird Wizard', 'Flash', 'Flying', 'If an opponent would search a library, that player searches the top four cards of that library instead.', '2/1'])"
+"('Blood Moon', ['{2}{R}', 'Enchantment', 'Nonbasic lands are Mountains.'])"
+"('Boil', ['{3}{R}', 'Instant', 'Destroy all Islands.'])"
+"('Bontu the Glorified', ['{2}{B}', 'Legendary Creature — God', 'Menace, indestructible', 'Bontu the Glorified can’t attack or block unless a creature died under your control this turn.', '{1}{B}, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life.', '4/6'])"
+"('Capsize', ['{1}{U}{U}', 'Instant', 'Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Return target permanent to its owner’s hand.'])"
+"('Chain Lightning', ['{R}', 'Sorcery', 'Chain Lightning deals 3 damage to any target. Then that player or that permanent’s controller may pay {R}{R}. If the player does, they may copy this spell and may choose a new target for that copy.'])"
+"('Choke', ['{2}{G}', 'Enchantment', 'Islands don’t untap during their controllers’ untap steps.'])"
+"('Consecrated Sphinx', ['{4}{U}{U}', 'Creature — Sphinx', 'Flying', 'Whenever an opponent draws a card, you may draw two cards.', '4/6'])"
+"('Containment Priest', ['{1}{W}', 'Creature — Human Cleric', 'Flash', 'If a nontoken creature would enter the battlefield and it wasn’t cast, exile it instead.', '2/2'])"
+"('Counterbalance', ['{U}{U}', 'Enchantment', 'Whenever an opponent casts a spell, you may reveal the top card of your library. If you do, counter that spell if it has the same converted mana cost as the revealed card.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Cryptic Command', ['{1}{U}{U}{U}', 'Instant', 'Choose two —', '• Counter target spell.', '• Return target permanent to its owner’s hand.', '• Tap all creatures your opponents control.', '• Draw a card.'])"
+"('Damnation', ['{2}{B}{B}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"
+"('Dark Ritual', ['{B}', 'Instant', 'Add {B}{B}{B}.'])"
+"('Daze', ['{1}{U}', 'Instant', 'You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.', 'Counter target spell unless its controller pays {1}.'])"
+"('Desolation Angel', ['{3}{B}{B}', 'Creature — Angel', 'Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)', 'Flying', 'When Desolation Angel enters the battlefield, destroy all lands you control. If it was kicked, destroy all lands instead.', '5/4'])"
+"('Diabolic Edict', ['{1}{B}', 'Instant', 'Target player sacrifices a creature.'])"
+"('Diabolic Intent', ['{1}{B}', 'Sorcery', 'As an additional cost to cast this spell, sacrifice a creature.', 'Search your library for a card and put that card into your hand. Then shuffle your library.'])"
+"('Divert', ['{U}', 'Instant', 'Change the target of target spell with a single target unless that spell’s controller pays {2}.'])"
+"('Doomsday', ['{B}{B}{B}', 'Sorcery', 'Search your library and graveyard for five cards and exile the rest. Put the chosen cards on top of your library in any order. You lose half your life, rounded up.'])"
+"('Entomb', ['{B}', 'Instant', 'Search your library for a card and put that card into your graveyard. Then shuffle your library.'])"
+"('Forbid', ['{1}{U}{U}', 'Instant', 'Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Counter target spell.'])"
+"('Force of Will', ['{3}{U}{U}', 'Instant', 'You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.', 'Counter target spell.'])"
+"('Hazoret the Fervent', ['{3}{R}', 'Legendary Creature — God', 'Indestructible, haste', 'Hazoret the Fervent can’t attack or block unless you have one or fewer cards in hand.', '{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.', '5/4'])"
+"('Kefnet the Mindful', ['{2}{U}', 'Legendary Creature — God', 'Flying, indestructible', 'Kefnet the Mindful can’t attack or block unless you have seven or more cards in hand.', '{3}{U}: Draw a card, then you may return a land you control to its owner’s hand.', '5/5'])"
+"('Lord of Extinction', ['{3}{B}{G}', 'Creature — Elemental', 'Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.', '*/*'])"
+"('Loyal Retainers', ['{2}{W}', 'Creature — Human Advisor', 'Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.', '1/1'])"
+"('Maelstrom Pulse', ['{1}{B}{G}', 'Sorcery', 'Destroy target nonland permanent and all other permanents with the same name as that permanent.'])"
+"('Mind Twist', ['{X}{B}', 'Sorcery', 'Target player discards X cards at random.'])"
+"('No Mercy', ['{2}{B}{B}', 'Enchantment', 'Whenever a creature deals damage to you, destroy it.'])"
+"('Oketra the True', ['{3}{W}', 'Legendary Creature — God', 'Double strike, indestructible', 'Oketra the True can’t attack or block unless you control at least three other creatures.', '{3}{W}: Create a 1/1 white Warrior creature token with vigilance.', '3/6'])"
+"('Omniscience', ['{7}{U}{U}{U}', 'Enchantment', 'You may cast spells from your hand without paying their mana costs.'])"
+"('Opposition', ['{2}{U}{U}', 'Enchantment', 'Tap an untapped creature you control: Tap target artifact, creature, or land.'])"
+"('Pact of Negation', ['{0}', 'Instant', 'Counter target spell.', 'At the beginning of your next upkeep, pay {3}{U}{U}. If you don’t, you lose the game.'])"
+"('Rhonas the Indomitable', ['{2}{G}', 'Legendary Creature — God', 'Deathtouch, indestructible', 'Rhonas the Indomitable can’t attack or block unless you control another creature with power 4 or greater.', '{2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.', '5/5'])"
+"('Shatterstorm', ['{2}{R}{R}', 'Sorcery', 'Destroy all artifacts. They can’t be regenerated.'])"
+"('Slaughter Pact', ['{0}', 'Instant', 'Destroy target nonblack creature.', 'At the beginning of your next upkeep, pay {2}{B}. If you don’t, you lose the game.'])"
+"('Spell Pierce', ['{U}', 'Instant', 'Counter target noncreature spell unless its controller pays {2}.'])"
+"('Stifle', ['{U}', 'Instant', 'Counter target activated or triggered ability. (Mana abilities can’t be targeted.)'])"
+"('Sunder', ['{3}{U}{U}', 'Instant', 'Return all lands to their owners’ hands.'])"
+"('The Locust God', ['{4}{U}{R}', 'Legendary Creature — God', 'Flying', 'Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.', '{2}{U}{R}: Draw a card, then discard a card.', 'When The Locust God dies, return it to its owner’s hand at the beginning of the next end step.', '4/4'])"
+"('The Scarab God', ['{3}{U}{B}', 'Legendary Creature — God', 'At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.', '{2}{U}{B}: Exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie.', 'When The Scarab God dies, return it to its owner’s hand at the beginning of the next end step.', '5/5'])"
+"('The Scorpion God', ['{3}{B}{R}', 'Legendary Creature — God', 'Whenever a creature with a -1/-1 counter on it dies, draw a card.', '{1}{B}{R}: Put a -1/-1 counter on another target creature.', 'When The Scorpion God dies, return it to its owner’s hand at the beginning of the next end step.', '6/5'])"
+"('Thoughtseize', ['{B}', 'Sorcery', 'Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.'])"
+"('Threads of Disloyalty', ['{1}{U}{U}', 'Enchantment — Aura', 'Enchant creature with converted mana cost 2 or less', 'You control enchanted creature.'])"
+"('Through the Breach', ['{4}{R}', 'Instant — Arcane', 'You may put a creature card from your hand onto the battlefield. That creature gains haste. Sacrifice that creature at the beginning of the next end step.', 'Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card’s effects to that spell.)'])"
+"('Vindicate', ['{1}{W}{B}', 'Sorcery', 'Destroy target permanent.'])"
+"('Worship', ['{3}{W}', 'Enchantment', 'If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.'])"
+"('Wrath of God', ['{2}{W}{W}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"

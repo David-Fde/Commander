@@ -1,24 +1,7 @@
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Fireball
-{X}{R}
-Sorcery
-This spell costs {1} more to cast for each target beyond the first.
-"Fireball deals X damage divided evenly, rounded down, among any number of targets."
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
+"('Disenchant', ['{1}{W}', 'Instant', 'Destroy target artifact or enchantment.'])"
+"('Fireball', ['{X}{R}', 'Sorcery', 'This spell costs {1} more to cast for each target beyond the first.', 'Fireball deals X damage divided evenly, rounded down, among any number of targets.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

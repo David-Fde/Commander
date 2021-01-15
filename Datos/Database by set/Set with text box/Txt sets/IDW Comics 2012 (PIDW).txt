@@ -1,41 +1,9 @@
-Arrest
-{2}{W}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature can’t attack or block, and its activated abilities can’t be activated."
-Breath of Malfegor
-{3}{B}{R}
-Instant
-Breath of Malfegor deals 5 damage to each opponent.
-Consume Spirit
-{X}{1}{B}
-Sorcery
-Spend only black mana on X.
-Consume Spirit deals X damage to any target and you gain X life.
-Electrolyze
-{1}{U}{R}
-Instant
-Electrolyze deals 2 damage divided as you choose among one or two targets.
-Draw a card.
-Faithless Looting
-{R}
-Sorcery
-"Draw two cards, then discard two cards."
-Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Feast of Blood
-{1}{B}
-Sorcery
-Cast this spell only if you control two or more Vampires.
-Destroy target creature. You gain 4 life.
-Standstill
-{1}{U}
-Enchantment
-"When a player casts a spell, sacrifice Standstill. If you do, each of that player’s opponents draws three cards."
-Treasure Hunt
-{1}{U}
-Sorcery
-"Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand."
-Turnabout
-{2}{U}{U}
-Instant
-"Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls."
+"('Arrest', ['{2}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature can’t attack or block, and its activated abilities can’t be activated.'])"
+"('Breath of Malfegor', ['{3}{B}{R}', 'Instant', 'Breath of Malfegor deals 5 damage to each opponent.'])"
+"('Consume Spirit', ['{X}{1}{B}', 'Sorcery', 'Spend only black mana on X.', 'Consume Spirit deals X damage to any target and you gain X life.'])"
+"('Electrolyze', ['{1}{U}{R}', 'Instant', 'Electrolyze deals 2 damage divided as you choose among one or two targets.', 'Draw a card.'])"
+"('Faithless Looting', ['{R}', 'Sorcery', 'Draw two cards, then discard two cards.', 'Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Feast of Blood', ['{1}{B}', 'Sorcery', 'Cast this spell only if you control two or more Vampires.', 'Destroy target creature. You gain 4 life.'])"
+"('Standstill', ['{1}{U}', 'Enchantment', 'When a player casts a spell, sacrifice Standstill. If you do, each of that player’s opponents draws three cards.'])"
+"('Treasure Hunt', ['{1}{U}', 'Sorcery', 'Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.'])"
+"('Turnabout', ['{2}{U}{U}', 'Instant', 'Choose artifact, creature, or land. Tap all untapped permanents of the chosen type target player controls, or untap all tapped permanents of that type that player controls.'])"

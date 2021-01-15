@@ -1,24 +1,5 @@
-Cunning Wish
-{2}{U}
-Instant
-You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.
-Decree of Justice
-{X}{X}{2}{W}{W}
-Sorcery
-Create X 4/4 white Angel creature tokens with flying.
-"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)"
-"When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
-Ravenous Baloth
-{2}{G}{G}
-Creature — Beast
-Sacrifice a Beast: You gain 4 life.
-4/4
-Vindicate
-{1}{W}{B}
-Sorcery
-Destroy target permanent.
-Yawgmoth's Will
-{2}{B}
-Sorcery
-"Until end of turn, you may play lands and cast spells from your graveyard."
-"If a card would be put into your graveyard from anywhere this turn, exile that card instead."
+"('Cunning Wish', ['{2}{U}', 'Instant', 'You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.'])"
+"('Decree of Justice', ['{X}{X}{2}{W}{W}', 'Sorcery', 'Create X 4/4 white Angel creature tokens with flying.', 'Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)', 'When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.'])"
+"('Ravenous Baloth', ['{2}{G}{G}', 'Creature — Beast', 'Sacrifice a Beast: You gain 4 life.', '4/4'])"
+"('Vindicate', ['{1}{W}{B}', 'Sorcery', 'Destroy target permanent.'])"
+"(""Yawgmoth's Will"", ['{2}{B}', 'Sorcery', 'Until end of turn, you may play lands and cast spells from your graveyard.', 'If a card would be put into your graveyard from anywhere this turn, exile that card instead.'])"

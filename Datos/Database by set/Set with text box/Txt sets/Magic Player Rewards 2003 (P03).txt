@@ -1,26 +1,7 @@
-Bear
-Token Creature — Bear
-2/2
-Demon
-Token Creature — Demon
-Flying
-*/*
-Goblin
-Token Creature — Goblin
-1/1
-Insect
-Token Creature — Insect
-1/1
-Rukh
-Token Creature — Rukh
-Flying
-4/4
-Sliver
-Token Creature — Sliver
-1/1
-Voidmage Prodigy
-{U}{U}
-Creature — Human Wizard
-"{U}{U}, Sacrifice a Wizard: Counter target spell."
-Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-2/1
+"('Bear', ['Token Creature — Bear', '2/2'])"
+"('Demon', ['Token Creature — Demon', 'Flying', '*/*'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Insect', ['Token Creature — Insect', '1/1'])"
+"('Rukh', ['Token Creature — Rukh', 'Flying', '4/4'])"
+"('Sliver', ['Token Creature — Sliver', '1/1'])"
+"('Voidmage Prodigy', ['{U}{U}', 'Creature — Human Wizard', '{U}{U}, Sacrifice a Wizard: Counter target spell.', 'Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '2/1'])"

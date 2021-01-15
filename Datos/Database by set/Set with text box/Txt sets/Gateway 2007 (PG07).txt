@@ -1,46 +1,9 @@
-Boomerang
-{U}{U}
-Instant
-Return target permanent to its owner’s hand.
-Calciderm
-{2}{W}{W}
-Creature — Beast
-Shroud (This creature can’t be the target of spells or abilities.)
-"Vanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)"
-5/5
-Dauntless Dourbark
-{3}{G}
-Creature — Treefolk Warrior
-Dauntless Dourbark’s power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.
-Dauntless Dourbark has trample as long as you control another Treefolk.
-*/*
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Mind Stone
-{2}
-Artifact
-{T}: Add {C}.
-"{1}, {T}, Sacrifice Mind Stone: Draw a card."
-Mogg Fanatic
-{R}
-Creature — Goblin
-Sacrifice Mogg Fanatic: It deals 1 damage to any target.
-1/1
-Reckless Wurm
-{3}{R}{R}
-Creature — Wurm
-Trample
-"Madness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-4/4
-Yixlid Jailer
-{1}{B}
-Creature — Zombie Wizard
-Cards in graveyards lose all abilities.
-2/1
-Zoetic Cavern
-Land
-{T}: Add {C}.
-Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+"('Boomerang', ['{U}{U}', 'Instant', 'Return target permanent to its owner’s hand.'])"
+"('Calciderm', ['{2}{W}{W}', 'Creature — Beast', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Vanishing 4 (This creature enters the battlefield with four time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)', '5/5'])"
+"('Dauntless Dourbark', ['{3}{G}', 'Creature — Treefolk Warrior', 'Dauntless Dourbark’s power and toughness are each equal to the number of Forests you control plus the number of Treefolk you control.', 'Dauntless Dourbark has trample as long as you control another Treefolk.', '*/*'])"
+"('Llanowar Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Mind Stone', ['{2}', 'Artifact', '{T}: Add {C}.', '{1}, {T}, Sacrifice Mind Stone: Draw a card.'])"
+"('Mogg Fanatic', ['{R}', 'Creature — Goblin', 'Sacrifice Mogg Fanatic: It deals 1 damage to any target.', '1/1'])"
+"('Reckless Wurm', ['{3}{R}{R}', 'Creature — Wurm', 'Trample', 'Madness {2}{R} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '4/4'])"
+"('Yixlid Jailer', ['{1}{B}', 'Creature — Zombie Wizard', 'Cards in graveyards lose all abilities.', '2/1'])"
+"('Zoetic Cavern', ['Land', '{T}: Add {C}.', 'Morph {2} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)'])"

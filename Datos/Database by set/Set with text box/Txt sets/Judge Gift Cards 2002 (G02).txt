@@ -1,11 +1,2 @@
-Hammer of Bogardan
-{1}{R}{R}
-Sorcery
-Hammer of Bogardan deals 3 damage to any target.
-{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
-Tradewind Rider
-{3}{U}
-Creature — Spirit
-Flying
-"{T}, Tap two untapped creatures you control: Return target permanent to its owner’s hand."
-1/4
+"('Hammer of Bogardan', ['{1}{R}{R}', 'Sorcery', 'Hammer of Bogardan deals 3 damage to any target.', '{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.'])"
+"('Tradewind Rider', ['{3}{U}', 'Creature — Spirit', 'Flying', '{T}, Tap two untapped creatures you control: Return target permanent to its owner’s hand.', '1/4'])"

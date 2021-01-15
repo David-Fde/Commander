@@ -1,49 +1,14 @@
-Elemental
-Token Creature — Elemental
-"Trample, haste"
-*/1
-Goat
-Token Creature — Goat
-0/1
-Gold
-Token Artifact — Gold
-Sacrifice this artifact: Add one mana of any color.
-Human Soldier
-Token Creature — Human Soldier
-1/1
-Kraken
-Token Creature — Kraken
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-8/8
-Nightmare
-Token Creature — Nightmare
-"Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library."
-2/3
-Pegasus
-Token Creature — Pegasus
-Flying
-2/2
-Reflection
-Token Creature — Reflection
-3/2
-Satyr
-Token Creature — Satyr
-This creature can’t block.
-1/1
-Spider
-Token Creature — Spider
-Reach
-1/2
-Tentacle
-Token Creature — Tentacle
-1/1
-Wall
-Token Artifact Creature — Wall
-Defender
-0/4
-Wolf
-Token Creature — Wolf
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Elemental', ['Token Creature — Elemental', 'Trample, haste', '*/1'])"
+"('Goat', ['Token Creature — Goat', '0/1'])"
+"('Gold', ['Token Artifact — Gold', 'Sacrifice this artifact: Add one mana of any color.'])"
+"('Human Soldier', ['Token Creature — Human Soldier', '1/1'])"
+"('Kraken', ['Token Creature — Kraken', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '8/8'])"
+"('Nightmare', ['Token Creature — Nightmare', 'Whenever this creature attacks or blocks, each opponent exiles the top two cards of their library.', '2/3'])"
+"('Pegasus', ['Token Creature — Pegasus', 'Flying', '2/2'])"
+"('Reflection', ['Token Creature — Reflection', '3/2'])"
+"('Satyr', ['Token Creature — Satyr', 'This creature can’t block.', '1/1'])"
+"('Spider', ['Token Creature — Spider', 'Reach', '1/2'])"
+"('Tentacle', ['Token Creature — Tentacle', '1/1'])"
+"('Wall', ['Token Artifact Creature — Wall', 'Defender', '0/4'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

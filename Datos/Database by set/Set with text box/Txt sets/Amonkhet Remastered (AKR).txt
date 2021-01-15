@@ -1,1826 +1,309 @@
-Abandoned Sarcophagus
-{3}
-Artifact
-You may cast spells that have a cycling ability from your graveyard.
-"If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn’t cycled, exile it instead."
-Abrade
-{1}{R}
-Instant
-Choose one —
-• Abrade deals 3 damage to target creature.
-• Destroy target artifact.
-Aerial Guide
-{2}{U}
-Creature — Drake
-Flying
-"Whenever Aerial Guide attacks, another target attacking creature gains flying until end of turn."
-2/2
-Ahn-Crop Champion
-{2}{G}{W}
-Creature — Human Warrior
-"You may exert Ahn-Crop Champion as it attacks. When you do, untap all other creatures you control. (An exerted creature won’t untap during your next untap step.)"
-4/4
-Ahn-Crop Crasher
-{2}{R}
-Creature — Minotaur Warrior
-Haste
-"You may exert Ahn-Crop Crasher as it attacks. When you do, target creature can’t block this turn. (An exerted creature won’t untap during your next untap step.)"
-3/2
-Ancient Crab
-{1}{U}{U}
-Creature — Crab
-1/5
-Angel of Sanctions
-{3}{W}{W}
-Creature — Angel
-Flying
-"When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield."
-"Embalm {5}{W} ({5}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Angel with no mana cost. Embalm only as a sorcery.)"
-3/4
-Anger of the Gods
-{1}{R}{R}
-Sorcery
-"Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead."
-Anointed Procession
-{3}{W}
-Enchantment
-"If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead."
-Anointer Priest
-{1}{W}
-Creature — Human Cleric
-"Whenever a creature token enters the battlefield under your control, you gain 1 life."
-"Embalm {3}{W} ({3}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
-1/3
-Appeal
-{G}
-Sorcery
-"Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control."
-Authority
-{1}{W}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Tap up to two target creatures your opponents control. Creatures you control gain vigilance until end of turn.
-Approach of the Second Sun
-{6}{W}
-Sorcery
-"If this spell was cast from your hand and you’ve cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner’s library seventh from the top and you gain 7 life."
-Archfiend of Ifnir
-{3}{B}{B}
-Creature — Demon
-Flying
-"Whenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control."
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-5/4
-As Foretold
-{2}{U}
-Enchantment
-"At the beginning of your upkeep, put a time counter on As Foretold."
-"Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold."
-Aven Initiate
-{3}{U}
-Creature — Bird Warrior
-Flying
-"Embalm {6}{U} ({6}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
-3/2
-Aven Mindcensor
-{2}{W}
-Creature — Bird Wizard
-Flash
-Flying
-"If an opponent would search a library, that player searches the top four cards of that library instead."
-2/1
-Aven of Enduring Hope
-{4}{W}
-Creature — Bird Cleric
-Flying
-"When Aven of Enduring Hope enters the battlefield, you gain 3 life."
-3/3
-Aven Wind Guide
-{2}{W}{U}
-Creature — Bird Warrior
-"Flying, vigilance"
-Creature tokens you control have flying and vigilance.
-"Embalm {4}{W}{U} ({4}{W}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)"
-2/3
-Baleful Ammit
-{2}{B}
-Creature — Crocodile Demon
-Lifelink
-"When Baleful Ammit enters the battlefield, put a -1/-1 counter on target creature you control."
-4/3
-Battlefield Scavenger
-{1}{R}
-Creature — Jackal Rogue
-You may exert Battlefield Scavenger as it attacks. (It won’t untap during your next untap step.)
-"Whenever you exert a creature, you may discard a card. If you do, draw a card."
-2/2
-Beneath the Sands
-{2}{G}
-Sorcery
-"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Binding Mummy
-{1}{W}
-Creature — Zombie
-"Whenever another Zombie enters the battlefield under your control, you may tap target artifact or creature."
-2/2
-Bitterbow Sharpshooters
-{4}{G}
-Creature — Jackal Archer
-"Vigilance, reach"
-4/4
-Blighted Bat
-{2}{B}
-Creature — Zombie Bat
-Flying
-{1}: Blighted Bat gains haste until end of turn.
-2/1
-Bloodlust Inciter
-{R}
-Creature — Human Warrior
-{T}: Target creature gains haste until end of turn.
-1/1
-Blur of Blades
-{1}{R}
-Instant
-Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature’s controller.
-Bone Picker
-{3}{B}
-Creature — Bird
-This spell costs {3} less to cast if a creature died this turn.
-"Flying, deathtouch"
-3/2
-Bontu's Last Reckoning
-{1}{B}{B}
-Sorcery
-Destroy all creatures. Lands you control don’t untap during your next untap step.
-Bontu's Monument
-{3}
-Legendary Artifact
-Black creature spells you cast cost {1} less to cast.
-"Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life."
-Bontu the Glorified
-{2}{B}
-Legendary Creature — God
-"Menace, indestructible"
-Bontu the Glorified can’t attack or block unless a creature died under your control this turn.
-"{1}{B}, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life."
-4/6
-Brute Strength
-{1}{R}
-Instant
-Target creature gets +3/+1 and gains trample until end of turn.
-Burning-Fist Minotaur
-{1}{R}
-Creature — Minotaur Wizard
-First strike
-"{1}{R}, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn."
-2/1
-By Force
-{X}{R}
-Sorcery
-Destroy X target artifacts.
-Canyon Slough
-Land — Swamp Mountain
-({T}: Add {B} or {R}.)
-Canyon Slough enters the battlefield tapped.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Cartouche of Ambition
-{2}{B}
-Enchantment — Aura Cartouche
-Enchant creature you control
-"When Cartouche of Ambition enters the battlefield, you may put a -1/-1 counter on target creature."
-Enchanted creature gets +1/+1 and has lifelink.
-Cartouche of Knowledge
-{1}{U}
-Enchantment — Aura Cartouche
-Enchant creature you control
-"When Cartouche of Knowledge enters the battlefield, draw a card."
-Enchanted creature gets +1/+1 and has flying.
-Cartouche of Solidarity
-{W}
-Enchantment — Aura Cartouche
-Enchant creature you control
-"When Cartouche of Solidarity enters the battlefield, create a 1/1 white Warrior creature token with vigilance."
-Enchanted creature gets +1/+1 and has first strike.
-Cartouche of Strength
-{2}{G}
-Enchantment — Aura Cartouche
-Enchant creature you control
-"When Cartouche of Strength enters the battlefield, you may have enchanted creature fight target creature an opponent controls. (Each deals damage equal to its power to the other.)"
-Enchanted creature gets +1/+1 and has trample.
-Cartouche of Zeal
-{R}
-Enchantment — Aura Cartouche
-Enchant creature you control
-"When Cartouche of Zeal enters the battlefield, target creature can’t block this turn."
-Enchanted creature gets +1/+1 and has haste.
-Cascading Cataracts
-Land
-Indestructible
-{T}: Add {C}.
-"{5}, {T}: Add five mana in any combination of colors."
-Cast Out
-{3}{W}
-Enchantment
-Flash
-"When Cast Out enters the battlefield, exile target nonland permanent an opponent controls until Cast Out leaves the battlefield."
-"Cycling {W} ({W}, Discard this card: Draw a card.)"
-Censor
-{1}{U}
-Instant
-Counter target spell unless its controller pays {1}.
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-Champion of Rhonas
-{3}{G}
-Creature — Jackal Warrior
-"You may exert Champion of Rhonas as it attacks. When you do, you may put a creature card from your hand onto the battlefield. (An exerted creature won’t untap during your next untap step.)"
-3/3
-Champion of Wits
-{2}{U}
-Creature — Naga Wizard
-"When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards."
-"Eternalize {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)"
-2/1
-"Chandra, Pyromaster"
-{2}{R}{R}
-Legendary Planeswalker — Chandra
-"+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker’s controller controls. That creature can’t block this turn."
-0: Exile the top card of your library. You may play it this turn.
-−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.
-Loyalty: 4
-Chandra's Defeat
-{R}
-Instant
-"Chandra’s Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card."
-Claim
-{B}
-Sorcery
-Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
-Fame
-{1}{R}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Target creature gets +2/+0 and gains haste until end of turn.
-Collected Company
-{3}{G}
-Instant
-Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.
-Combat Celebrant
-{2}{R}
-Creature — Human Warrior
-"If Combat Celebrant hasn’t been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won’t untap during your next untap step.)"
-4/1
-Commit
-{3}{U}
-Instant
-Put target spell or nonland permanent into its owner’s library second from the top.
-Memory
-{4}{U}{U}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Each player shuffles their hand and graveyard into their library, then draws seven cards."
-Compelling Argument
-{1}{U}
-Sorcery
-Target player mills five cards.
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-Compulsory Rest
-{1}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature can’t attack or block.
-"Enchanted creature has “{2}, Sacrifice this creature: You gain 2 life.”"
-Consign
-{1}{U}
-Instant
-Return target nonland permanent to its owner’s hand.
-Oblivion
-{4}{B}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Target opponent discards two cards.
-Countervailing Winds
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Crash Through
-{R}
-Sorcery
-Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it’s attacking.)
-Draw a card.
-Crested Sunmare
-{3}{W}{W}
-Creature — Horse
-Other Horses you control have indestructible.
-"At the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token."
-5/5
-Crocodile of the Crossing
-{3}{G}
-Creature — Crocodile
-Haste
-"When Crocodile of the Crossing enters the battlefield, put a -1/-1 counter on target creature you control."
-5/4
-Cruel Reality
-{5}{B}{B}
-Enchantment — Aura Curse
-Enchant player
-"At the beginning of enchanted player’s upkeep, that player sacrifices a creature or planeswalker. If the player can’t, they lose 5 life."
-Cryptic Serpent
-{5}{U}{U}
-Creature — Serpent
-This spell costs {1} less to cast for each instant and sorcery card in your graveyard.
-6/5
-Crypt of the Eternals
-Land
-"When Crypt of the Eternals enters the battlefield, you gain 1 life."
-{T}: Add {C}.
-"{1}, {T}: Add {U}, {B}, or {R}."
-Curator of Mysteries
-{2}{U}{U}
-Creature — Sphinx
-Flying
-"Whenever you cycle or discard another card, scry 1."
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-4/4
-Cut
-{1}{R}
-Sorcery
-Cut deals 4 damage to target creature.
-Ribbons
-{X}{B}{B}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Each opponent loses X life.
-Dauntless Aven
-{2}{W}
-Creature — Bird Warrior
-Flying
-"Whenever Dauntless Aven attacks, untap target creature you control."
-2/1
-Deem Worthy
-{4}{R}
-Instant
-Deem Worthy deals 7 damage to target creature.
-"Cycling {3}{R} ({3}{R}, Discard this card: Draw a card.)"
-"When you cycle Deem Worthy, you may have it deal 2 damage to target creature."
-Defiant Greatmaw
-{2}{G}
-Creature — Hippo
-"When Defiant Greatmaw enters the battlefield, put two -1/-1 counters on target creature you control."
-"Whenever you put one or more -1/-1 counters on Defiant Greatmaw, remove a -1/-1 counter from another target creature you control."
-4/5
-Demonic Pact
-{2}{B}{B}
-Enchantment
-"At the beginning of your upkeep, choose one that hasn’t been chosen —"
-• Demonic Pact deals 4 damage to any target and you gain 4 life.
-• Target opponent discards two cards.
-• Draw two cards.
-• You lose the game.
-Desert Cerodon
-{5}{R}
-Creature — Beast
-"Cycling {R} ({R}, Discard this card: Draw a card.)"
-6/4
-Desert of the Fervent
-Land — Desert
-Desert of the Fervent enters the battlefield tapped.
-{T}: Add {R}.
-"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)"
-Desert of the Glorified
-Land — Desert
-Desert of the Glorified enters the battlefield tapped.
-{T}: Add {B}.
-"Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)"
-Desert of the Indomitable
-Land — Desert
-Desert of the Indomitable enters the battlefield tapped.
-{T}: Add {G}.
-"Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)"
-Desert of the Mindful
-Land — Desert
-Desert of the Mindful enters the battlefield tapped.
-{T}: Add {U}.
-"Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)"
-Desert of the True
-Land — Desert
-Desert of the True enters the battlefield tapped.
-{T}: Add {W}.
-"Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)"
-Desert's Hold
-{2}{W}
-Enchantment — Aura
-Enchant creature
-"When Desert’s Hold enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you gain 3 life."
-"Enchanted creature can’t attack or block, and its activated abilities can’t be activated."
-Destined
-{1}{B}
-Instant
-Target creature gets +1/+0 and gains indestructible until end of turn.
-Lead
-{3}{G}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-All creatures able to block target creature this turn do so.
-Disposal Mummy
-{2}{W}
-Creature — Zombie Jackal
-"When Disposal Mummy enters the battlefield, exile target card from an opponent’s graveyard."
-2/3
-Dispossess
-{2}{B}
-Sorcery
-"Choose an artifact card name. Search target opponent’s graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles their library."
-Dissenter's Deliverance
-{1}{G}
-Instant
-Destroy target artifact.
-"Cycling {G} ({G}, Discard this card: Draw a card.)"
-Djeru's Resolve
-{W}
-Instant
-Untap target creature. Prevent all damage that would be dealt to it this turn.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Doomed Dissenter
-{1}{B}
-Creature — Human
-"When Doomed Dissenter dies, create a 2/2 black Zombie creature token."
-1/1
-Doomfall
-{2}{B}
-Sorcery
-Choose one —
-• Target opponent exiles a creature they control.
-• Target opponent reveals their hand. You choose a nonland card from it. Exile that card.
-Drake Haven
-{2}{U}
-Enchantment
-"Whenever you cycle or discard a card, you may pay {1}. If you do, create a 2/2 blue Drake creature token with flying."
-Dread Wanderer
-{B}
-Creature — Zombie Jackal
-Dread Wanderer enters the battlefield tapped.
-{2}{B}: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.
-2/1
-Driven
-{1}{G}
-Sorcery
-"Until end of turn, creatures you control gain trample and “Whenever this creature deals combat damage to a player, draw a card.”"
-Despair
-{1}{B}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Until end of turn, creatures you control gain menace and “Whenever this creature deals combat damage to a player, that player discards a card.”"
-Dune Beetle
-{1}{B}
-Creature — Insect
-1/4
-Dusk
-{2}{W}{W}
-Sorcery
-Destroy all creatures with power 3 or greater.
-Dawn
-{3}{W}{W}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Return all creature cards with power 2 or less from your graveyard to your hand.
-Earthshaker Khenra
-{1}{R}
-Creature — Jackal Warrior
-Haste
-"When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra’s power can’t block this turn."
-"Eternalize {4}{R}{R} ({4}{R}{R}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)"
-2/1
-Edifice of Authority
-{3}
-Artifact
-"{1}, {T}: Target creature can’t attack this turn. Put a brick counter on Edifice of Authority."
-"{1}, {T}: Until your next turn, target creature can’t attack or block and its activated abilities can’t be activated. Activate this ability only if there are three or more brick counters on Edifice of Authority."
-Enigma Drake
-{1}{U}{R}
-Creature — Drake
-Flying
-Enigma Drake’s power is equal to the number of instant and sorcery cards in your graveyard.
-*/4
-Essence Scatter
-{1}{U}
-Instant
-Counter target creature spell.
-Eternal of Harsh Truths
-{2}{U}
-Creature — Zombie Cleric
-"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)"
-"Whenever Eternal of Harsh Truths attacks and isn’t blocked, draw a card."
-1/3
-Evolving Wilds
-Land
-"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-Exemplar of Strength
-{1}{G}
-Creature — Human Warrior
-"When Exemplar of Strength enters the battlefield, put three -1/-1 counters on target creature you control."
-"Whenever Exemplar of Strength attacks, remove a -1/-1 counter from it. If you do, you gain 1 life."
-4/4
-Failure
-{1}{U}
-Instant
-Return target spell to its owner’s hand.
-Comply
-{W}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Choose a card name. Until your next turn, your opponents can’t cast spells with the chosen name."
-Fan Bearer
-{W}
-Creature — Zombie
-"{2}, {T}: Tap target creature."
-1/2
-Farm
-{2}{W}
-Instant
-Destroy target attacking or blocking creature.
-Market
-{2}{U}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Draw two cards, then discard two cards."
-Feral Prowler
-{1}{G}
-Creature — Cat
-"When Feral Prowler dies, draw a card."
-1/3
-Fervent Paincaster
-{2}{R}
-Creature — Human Wizard
-{T}: Fervent Paincaster deals 1 damage to target player or planeswalker.
-"{T}, Exert Fervent Paincaster: It deals 1 damage to target creature. (An exerted creature won’t untap during your next untap step.)"
-3/1
-Festering Mummy
-{B}
-Creature — Zombie
-"When Festering Mummy dies, you may put a -1/-1 counter on target creature."
-1/1
-Fetid Pools
-Land — Island Swamp
-({T}: Add {U} or {B}.)
-Fetid Pools enters the battlefield tapped.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Final Reward
-{4}{B}
-Instant
-Exile target creature.
-Firebrand Archer
-{1}{R}
-Creature — Human Archer
-"Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent."
-2/1
-Floodwaters
-{4}{U}{U}
-Sorcery
-Return up to two target creatures to their owners’ hands.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forsake the Worldly
-{2}{W}
-Instant
-Exile target artifact or enchantment.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Gate to the Afterlife
-{3}
-Artifact
-"Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card."
-"{2}, {T}, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh’s Gift and put it onto the battlefield. If you search your library this way, shuffle it. Activate this ability only if there are six or more creature cards in your graveyard."
-Gideon of the Trials
-{1}{W}{W}
-Legendary Planeswalker — Gideon
-"+1: Until your next turn, prevent all damage target permanent would deal."
-"0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that’s still a planeswalker. Prevent all damage that would be dealt to him this turn."
-"0: You get an emblem with “As long as you control a Gideon planeswalker, you can’t lose the game and your opponents can’t win the game.”"
-Loyalty: 3
-Gideon's Intervention
-{2}{W}{W}
-Enchantment
-"As Gideon’s Intervention enters the battlefield, choose a card name."
-Your opponents can’t cast spells with the chosen name.
-Prevent all damage that would be dealt to you and permanents you control by sources with the chosen name.
-Gilded Cerodon
-{4}{R}
-Creature — Beast
-"Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can’t block this turn."
-4/4
-Glorious End
-{2}{R}
-Instant
-"End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)"
-"At the beginning of your next end step, you lose the game."
-Glory-Bound Initiate
-{1}{W}
-Creature — Human Warrior
-"You may exert Glory-Bound Initiate as it attacks. When you do, it gets +1/+3 and gains lifelink until end of turn. (An exerted creature won’t untap during your next untap step.)"
-3/1
-Glorybringer
-{3}{R}{R}
-Creature — Dragon
-"Flying, haste"
-"You may exert Glorybringer as it attacks. When you do, it deals 4 damage to target non-Dragon creature an opponent controls. (An exerted creature won’t untap during your next untap step.)"
-4/4
-God-Pharaoh's Gift
-{7}
-Artifact
-"At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of that card, except it’s a 4/4 black Zombie. It gains haste until end of turn."
-Gravedigger
-{3}{B}
-Creature — Zombie
-"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
-2/2
-Greater Sandwurm
-{5}{G}{G}
-Creature — Wurm
-Greater Sandwurm can’t be blocked by creatures with power 2 or less.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-7/7
-Grind
-{1}{B}
-Sorcery
-Put a -1/-1 counter on each of up to two target creatures.
-Dust
-{3}{W}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Exile any number of target creatures that have -1/-1 counters on them.
-Gust Walker
-{1}{W}
-Creature — Human Wizard
-"You may exert Gust Walker as it attacks. When you do, it gets +1/+1 and gains flying until end of turn. (An exerted creature won’t untap during your next untap step.)"
-2/2
-"Hapatra, Vizier of Poisons"
-{B}{G}
-Legendary Creature — Human Cleric
-"Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may put a -1/-1 counter on target creature."
-"Whenever you put one or more -1/-1 counters on a creature, create a 1/1 green Snake creature token with deathtouch."
-2/2
-Harsh Mentor
-{1}{R}
-Creature — Human Cleric
-"Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn’t a mana ability, Harsh Mentor deals 2 damage to that player."
-2/2
-Hashep Oasis
-Land — Desert
-{T}: Add {C}.
-"{T}, Pay 1 life: Add {G}."
-"{1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery."
-Haze of Pollen
-{1}{G}
-Instant
-Prevent all combat damage that would be dealt this turn.
-"Cycling {3} ({3}, Discard this card: Draw a card.)"
-Hazoret's Monument
-{3}
-Legendary Artifact
-Red creature spells you cast cost {1} less to cast.
-"Whenever you cast a creature spell, you may discard a card. If you do, draw a card."
-Hazoret the Fervent
-{3}{R}
-Legendary Creature — God
-"Indestructible, haste"
-Hazoret the Fervent can’t attack or block unless you have one or fewer cards in hand.
-"{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent."
-5/4
-Heaven
-{X}{G}
-Instant
-Heaven deals X damage to each creature with flying.
-Earth
-{X}{R}{R}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Earth deals X damage to each creature without flying.
-Hekma Sentinels
-{2}{U}
-Creature — Human Cleric
-"Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end of turn."
-2/3
-Hieroglyphic Illumination
-{3}{U}
-Instant
-Draw two cards.
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-Hollow One
-{5}
-Artifact Creature — Golem
-This spell costs {2} less to cast for each card you’ve cycled or discarded this turn.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-4/4
-Honored Crop-Captain
-{R}{W}
-Creature — Human Warrior
-"Whenever Honored Crop-Captain attacks, other attacking creatures get +1/+0 until end of turn."
-3/2
-Hooded Brawler
-{2}{G}
-Creature — Naga Warrior
-"You may exert Hooded Brawler as it attacks. When you do, it gets +2/+2 until end of turn. (An exerted creature won’t untap during your next untap step.)"
-3/2
-Hope Tender
-{1}{G}
-Creature — Human Druid
-"{1}, {T}: Untap target land."
-"{1}, {T}, Exert Hope Tender: Untap two target lands. (An exerted creature won’t untap during your next untap step.)"
-2/2
-Hornet Queen
-{4}{G}{G}{G}
-Creature — Insect
-Flying
-Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-"When Hornet Queen enters the battlefield, create four 1/1 green Insect creature tokens with flying and deathtouch."
-2/2
-Horror of the Broken Lands
-{4}{B}
-Creature — Horror
-"Whenever you cycle or discard another card, Horror of the Broken Lands gets +2/+1 until end of turn."
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-4/4
-Hour of Devastation
-{3}{R}{R}
-Sorcery
-All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.
-Hour of Promise
-{4}{G}
-Sorcery
-"Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens."
-Hour of Revelation
-{3}{W}{W}{W}
-Sorcery
-This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.
-Destroy all nonland permanents.
-Ifnir Deadlands
-Land — Desert
-{T}: Add {C}.
-"{T}, Pay 1 life: Add {B}."
-"{2}{B}{B}, {T}, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery."
-Imminent Doom
-{2}{R}
-Enchantment
-Imminent Doom enters the battlefield with a doom counter on it.
-"Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom."
-Impeccable Timing
-{1}{W}
-Instant
-Impeccable Timing deals 3 damage to target attacking or blocking creature.
-Initiate's Companion
-{1}{G}
-Creature — Cat
-"Whenever Initiate’s Companion deals combat damage to a player, untap target creature or land."
-3/1
-In Oketra's Name
-{1}{W}
-Instant
-Zombies you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn.
-Insult
-{2}{R}
-Sorcery
-"Damage can’t be prevented this turn. If a source you control would deal damage this turn, it deals double that damage instead."
-Injury
-{2}{R}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Injury deals 2 damage to target creature and 2 damage to target player or planeswalker.
-Ipnu Rivulet
-Land — Desert
-{T}: Add {C}.
-"{T}, Pay 1 life: Add {U}."
-"{1}{U}, {T}, Sacrifice a Desert: Target player mills four cards."
-Irrigated Farmland
-Land — Plains Island
-({T}: Add {W} or {U}.)
-Irrigated Farmland enters the battlefield tapped.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-"Jace, Unraveler of Secrets"
-{3}{U}{U}
-Legendary Planeswalker — Jace
-"+1: Scry 1, then draw a card."
-−2: Return target creature to its owner’s hand.
-"−8: You get an emblem with “Whenever an opponent casts their first spell each turn, counter that spell.”"
-Loyalty: 5
-Kefnet's Monument
-{3}
-Legendary Artifact
-Blue creature spells you cast cost {1} less to cast.
-"Whenever you cast a creature spell, target creature an opponent controls doesn’t untap during its controller’s next untap step."
-Kefnet the Mindful
-{2}{U}
-Legendary Creature — God
-"Flying, indestructible"
-Kefnet the Mindful can’t attack or block unless you have seven or more cards in hand.
-"{3}{U}: Draw a card, then you may return a land you control to its owner’s hand."
-5/5
-Khenra Charioteer
-{1}{R}{G}
-Creature — Jackal Warrior
-Trample
-Other creatures you control have trample.
-3/3
-Khenra Eternal
-{1}{B}
-Creature — Zombie Jackal Warrior
-"Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)"
-2/2
-Khenra Scrapper
-{2}{R}
-Creature — Jackal Warrior
-Menace
-"You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 until end of turn. (An exerted creature won’t untap during your next untap step.)"
-2/3
-Labyrinth Guardian
-{1}{U}
-Creature — Illusion Warrior
-"When Labyrinth Guardian becomes the target of a spell, sacrifice it."
-"Embalm {3}{U} ({3}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)"
-2/3
-Lay Claim
-{5}{U}{U}
-Enchantment — Aura
-Enchant permanent
-You control enchanted permanent.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Leave
-{1}{W}
-Instant
-Return any number of target permanents you own to your hand.
-Chance
-{3}{R}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Discard any number of cards, then draw that many cards."
-Lethal Sting
-{2}{B}
-Sorcery
-"As an additional cost to cast this spell, put a -1/-1 counter on a creature you control."
-Destroy target creature.
-Life Goes On
-{G}
-Instant
-"You gain 4 life. If a creature died this turn, you gain 8 life instead."
-"Liliana, Death's Majesty"
-{3}{B}{B}
-Legendary Planeswalker — Liliana
-+1: Create a 2/2 black Zombie creature token. Mill two cards.
-−3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.
-−7: Destroy all non-Zombie creatures.
-Loyalty: 5
-Liliana's Defeat
-{B}
-Sorcery
-"Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life."
-Liliana's Mastery
-{3}{B}{B}
-Enchantment
-Zombies you control get +1/+1.
-"When Liliana’s Mastery enters the battlefield, create two 2/2 black Zombie creature tokens."
-Lord of Extinction
-{3}{B}{G}
-Creature — Elemental
-Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.
-*/*
-Lord of the Accursed
-{2}{B}
-Creature — Zombie
-Other Zombies you control get +1/+1.
-"{1}{B}, {T}: All Zombies gain menace until end of turn."
-2/3
-Magmaroth
-{3}{R}
-Creature — Elemental
-"At the beginning of your upkeep, put a -1/-1 counter on Magmaroth."
-"Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth."
-5/5
-Magma Spray
-{R}
-Instant
-"Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead."
-Majestic Myriarch
-{4}{G}
-Creature — Chimera
-Majestic Myriarch’s power and toughness are each equal to twice the number of creatures you control.
-"At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance."
-*/*
-Manglehorn
-{2}{G}
-Creature — Beast
-"When Manglehorn enters the battlefield, you may destroy target artifact."
-Artifacts your opponents control enter the battlefield tapped.
-2/2
-Marauding Boneslasher
-{2}{B}
-Creature — Zombie Minotaur
-Marauding Boneslasher can’t block unless you control another Zombie.
-3/3
-Merciless Javelineer
-{2}{B}{R}
-Creature — Minotaur Warrior
-"{2}, Discard a card: Put a -1/-1 counter on target creature. That creature can’t block this turn."
-4/2
-Miasmic Mummy
-{1}{B}
-Creature — Zombie Jackal
-"When Miasmic Mummy enters the battlefield, each player discards a card."
-2/2
-Mighty Leap
-{1}{W}
-Instant
-Target creature gets +2/+2 and gains flying until end of turn.
-Mirage Mirror
-{3}
-Artifact
-"{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn."
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mouth
-{2}{G}
-Sorcery
-Create a 3/3 green Hippo creature token.
-Feed
-{3}{G}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Draw a card for each creature you control with power 3 or greater.
-Naga Oracle
-{3}{U}
-Creature — Naga Cleric
-"When Naga Oracle enters the battlefield, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order."
-2/4
-Naga Vitalist
-{1}{G}
-Creature — Naga Druid
-{T}: Add one mana of any type that a land you control could produce.
-1/2
-Nef-Crop Entangler
-{1}{R}
-Creature — Human Warrior
-Trample
-"You may exert Nef-Crop Entangler as it attacks. When you do, it gets +1/+2 until end of turn. (An exerted creature won’t untap during your next untap step.)"
-2/1
-"Neheb, the Eternal"
-{3}{R}{R}
-Legendary Creature — Zombie Minotaur Warrior
-"Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)"
-"At the beginning of your postcombat main phase, add {R} for each 1 life your opponents have lost this turn."
-4/6
-"Neheb, the Worthy"
-{1}{B}{R}
-Legendary Creature — Minotaur Warrior
-First strike
-Other Minotaurs you control have first strike.
-"As long as you have one or fewer cards in hand, Minotaurs you control get +2/+0."
-"Whenever Neheb, the Worthy deals combat damage to a player, each player discards a card."
-2/2
-Nest of Scarabs
-{2}{B}
-Enchantment
-"Whenever you put one or more -1/-1 counters on a creature, create that many 1/1 black Insect creature tokens."
-Never
-{1}{B}{B}
-Sorcery
-Destroy target creature or planeswalker.
-Return
-{3}{B}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Exile target card from a graveyard. Create a 2/2 black Zombie creature token.
-New Perspectives
-{5}{U}
-Enchantment
-"When New Perspectives enters the battlefield, draw three cards."
-"As long as you have seven or more cards in hand, you may pay {0} rather than pay cycling costs."
-"Nicol Bolas, God-Pharaoh"
-{4}{U}{B}{R}
-Legendary Planeswalker — Bolas
-"+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost."
-+1: Each opponent exiles two cards from their hand.
-"−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls."
-−12: Exile each nonland permanent your opponents control.
-Loyalty: 7
-Nimble-Blade Khenra
-{1}{R}
-Creature — Jackal Warrior
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-1/3
-Nimble Obstructionist
-{2}{U}
-Creature — Bird Wizard
-Flash
-Flying
-"Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)"
-"When you cycle Nimble Obstructionist, counter target activated or triggered ability you don’t control."
-3/1
-"Nissa, Steward of Elements"
-{X}{G}{U}
-Legendary Planeswalker — Nissa
-+2: Scry 2.
-"0: Look at the top card of your library. If it’s a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield."
-−6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They’re still lands.
-Loyalty: X
-Oashra Cultivator
-{G}
-Creature — Human Druid
-"{2}{G}, {T}, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-0/3
-Oasis Ritualist
-{3}{G}
-Creature — Naga Druid
-{T}: Add one mana of any color.
-"{T}, Exert Oasis Ritualist: Add two mana of any one color. (An exerted creature won’t untap during your next untap step.)"
-2/4
-Obelisk Spider
-{1}{B}{G}
-Creature — Spider
-Reach
-"Whenever Obelisk Spider deals combat damage to a creature, put a -1/-1 counter on that creature."
-"Whenever you put one or more -1/-1 counters on a creature, each opponent loses 1 life and you gain 1 life."
-1/4
-Oketra's Attendant
-{3}{W}{W}
-Creature — Bird Soldier
-Flying
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-"Embalm {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)"
-3/3
-Oketra's Avenger
-{1}{W}
-Creature — Human Warrior
-"You may exert Oketra’s Avenger as it attacks. When you do, prevent all combat damage that would be dealt to it this turn. (An exerted creature won’t untap during your next untap step.)"
-3/1
-Oketra's Monument
-{3}
-Legendary Artifact
-White creature spells you cast cost {1} less to cast.
-"Whenever you cast a creature spell, create a 1/1 white Warrior creature token with vigilance."
-Oketra the True
-{3}{W}
-Legendary Creature — God
-"Double strike, indestructible"
-Oketra the True can’t attack or block unless you control at least three other creatures.
-{3}{W}: Create a 1/1 white Warrior creature token with vigilance.
-3/6
-Ominous Sphinx
-{3}{U}{U}
-Creature — Sphinx
-Flying
-"Whenever you cycle or discard a card, target creature an opponent controls gets -2/-0 until end of turn."
-4/4
-Onward
-{2}{R}
-Instant
-"Target creature gets +X/+0 until end of turn, where X is its power."
-Victory
-{2}{W}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Target creature gains double strike until end of turn.
-Open Fire
-{2}{R}
-Instant
-Open Fire deals 3 damage to any target.
-Ornery Kudu
-{2}{G}
-Creature — Antelope
-"When Ornery Kudu enters the battlefield, put a -1/-1 counter on target creature you control."
-3/4
-Overwhelming Splendor
-{6}{W}{W}
-Enchantment — Aura Curse
-Enchant player
-Creatures enchanted player controls lose all abilities and have base power and toughness 1/1.
-Enchanted player can’t activate abilities that aren’t mana abilities or loyalty abilities.
-Pact of Negation
-{0}
-Instant
-Counter target spell.
-"At the beginning of your next upkeep, pay {3}{U}{U}. If you don’t, you lose the game."
-Pathmaker Initiate
-{1}{R}
-Creature — Human Wizard
-{T}: Target creature with power 2 or less can’t be blocked this turn.
-2/1
-Perilous Vault
-{4}
-Artifact
-"{5}, {T}, Exile Perilous Vault: Exile all nonland permanents."
-Pitiless Vizier
-{3}{B}
-Creature — Minotaur Cleric
-"Whenever you cycle or discard a card, Pitiless Vizier gains indestructible until end of turn. (Damage and effects that say “destroy” don’t destroy it. If its toughness is 0 or less, it’s still put into its owner’s graveyard.)"
-4/2
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Pouncing Cheetah
-{2}{G}
-Creature — Cat
-Flash
-3/2
-Prepare
-{1}{W}
-Instant
-Untap target creature. It gets +2/+2 and gains lifelink until end of turn.
-Fight
-{3}{G}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Target creature you control fights target creature an opponent controls.
-Pride Sovereign
-{2}{G}
-Creature — Cat
-Pride Sovereign gets +1/+1 for each other Cat you control.
-"{W}, {T}, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won’t untap during your next untap step.)"
-2/2
-Protection of the Hekma
-{4}{W}
-Enchantment
-"If a source an opponent controls would deal damage to you, prevent 1 of that damage."
-Prowling Serpopard
-{1}{G}{G}
-Creature — Cat Snake
-This spell can’t be countered.
-Creature spells you control can’t be countered.
-4/3
-Pull from Tomorrow
-{X}{U}{U}
-Instant
-"Draw X cards, then discard a card."
-Puncturing Blow
-{2}{R}{R}
-Sorcery
-"Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead."
-Pursue Glory
-{3}{R}
-Instant
-Attacking creatures get +2/+0 until end of turn.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Quarry Hauler
-{3}{G}
-Creature — Camel
-"When Quarry Hauler enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it."
-4/3
-Rags
-{2}{B}{B}
-Sorcery
-All creatures get -2/-2 until end of turn.
-Riches
-{5}{U}{U}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Each opponent chooses a creature they control. You gain control of those creatures.
-Ramunap Excavator
-{2}{G}
-Creature — Naga Cleric
-You may play lands from your graveyard.
-2/3
-Ramunap Ruins
-Land — Desert
-{T}: Add {C}.
-"{T}, Pay 1 life: Add {R}."
-"{2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent."
-"Razaketh, the Foulblooded"
-{5}{B}{B}{B}
-Legendary Creature — Demon
-"Flying, trample"
-"Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library."
-8/8
-Reason
-{U}
-Sorcery
-Scry 3.
-Believe
-{4}{G}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"Look at the top card of your library. You may put it onto the battlefield if it’s a creature card. If you don’t, put it into your hand."
-Reduce
-{2}{U}
-Instant
-Counter target spell unless its controller pays {3}.
-Rubble
-{2}{R}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Up to three target lands don’t untap during their controller’s next untap step.
-Refuse
-{3}{R}
-Instant
-Refuse deals damage to target spell’s controller equal to that spell’s converted mana cost.
-Cooperate
-{2}{U}
-Instant
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Copy target instant or sorcery spell. You may choose new targets for the copy.
-Regal Caracal
-{3}{W}{W}
-Creature — Cat
-Other Cats you control get +1/+1 and have lifelink.
-"When Regal Caracal enters the battlefield, create two 1/1 white Cat creature tokens with lifelink."
-3/3
-Renewed Faith
-{2}{W}
-Instant
-You gain 6 life.
-"Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)"
-"When you cycle Renewed Faith, you may gain 2 life."
-Resilient Khenra
-{1}{G}
-Creature — Jackal Wizard
-"When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra’s power."
-"Eternalize {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)"
-2/2
-Rest in Peace
-{1}{W}
-Enchantment
-"When Rest in Peace enters the battlefield, exile all cards from all graveyards."
-"If a card or token would be put into a graveyard from anywhere, exile it instead."
-Rhonas's Monument
-{3}
-Legendary Artifact
-Green creature spells you cast cost {1} less to cast.
-"Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn."
-Rhonas's Stalwart
-{1}{G}
-Creature — Human Warrior
-"You may exert Rhonas’s Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can’t be blocked by creatures with power 2 or less this turn. (An exerted creature won’t untap during your next untap step.)"
-2/2
-Rhonas the Indomitable
-{2}{G}
-Legendary Creature — God
-"Deathtouch, indestructible"
-Rhonas the Indomitable can’t attack or block unless you control another creature with power 4 or greater.
-{2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.
-5/5
-Riddleform
-{1}{U}
-Enchantment
-"Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn."
-{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
-River Hoopoe
-{G}{U}
-Creature — Bird
-Flying
-{3}{G}{U}: You gain 2 life and draw a card.
-1/3
-Ruthless Sniper
-{B}
-Creature — Human Archer
-"Whenever you cycle or discard a card, you may pay {1}. If you do, put a -1/-1 counter on target creature."
-1/2
-Sacred Cat
-{W}
-Creature — Cat
-Lifelink
-"Embalm {W} ({W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Cat with no mana cost. Embalm only as a sorcery.)"
-1/1
-"Samut, the Tested"
-{2}{R}{G}
-Legendary Planeswalker — Samut
-+1: Up to one target creature gains double strike until end of turn.
-"−2: Samut, the Tested deals 2 damage divided as you choose among one or two targets."
-"−7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library."
-Loyalty: 4
-"Samut, Voice of Dissent"
-{3}{R}{G}
-Legendary Creature — Human Warrior
-Flash
-"Double strike, vigilance, haste"
-Other creatures you control have haste.
-"{W}, {T}: Untap another target creature."
-3/4
-Sand Strangler
-{3}{R}
-Creature — Beast
-"When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature."
-3/3
-Sandwurm Convergence
-{6}{G}{G}
-Enchantment
-Creatures with flying can’t attack you or planeswalkers you control.
-"At the beginning of your end step, create a 5/5 green Wurm creature token."
-Scarab Feast
-{B}
-Instant
-Exile up to three target cards from a single graveyard.
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-Scattered Groves
-Land — Forest Plains
-({T}: Add {G} or {W}.)
-Scattered Groves enters the battlefield tapped.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Scavenger Grounds
-Land — Desert
-{T}: Add {C}.
-"{2}, {T}, Sacrifice a Desert: Exile all cards from all graveyards."
-Seeker of Insight
-{1}{U}
-Creature — Human Wizard
-"{T}: Draw a card, then discard a card. Activate this ability only if you’ve cast a noncreature spell this turn."
-1/3
-Seer of the Last Tomorrow
-{2}{U}
-Creature — Naga Cleric
-"{U}, {T}, Discard a card: Target player mills three cards."
-1/4
-Shadow of the Grave
-{1}{B}
-Instant
-Return to your hand all cards in your graveyard that you cycled or discarded this turn.
-Shadowstorm Vizier
-{U}{B}
-Creature — Human Cleric
-Flying
-"Whenever you cycle or discard a card, Shadowstorm Vizier gets +1/+1 until end of turn."
-1/3
-Shatterstorm
-{2}{R}{R}
-Sorcery
-Destroy all artifacts. They can’t be regenerated.
-Shed Weakness
-{G}
-Instant
-Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter from it.
-Shefet Dunes
-Land — Desert
-{T}: Add {C}.
-"{T}, Pay 1 life: Add {W}."
-"{2}{W}{W}, {T}, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery."
-Shefet Monitor
-{5}{G}
-Creature — Lizard
-"Cycling {3}{G} ({3}{G}, Discard this card: Draw a card.)"
-"When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)"
-6/5
-Sheltered Thicket
-Land — Mountain Forest
-({T}: Add {R} or {G}.)
-Sheltered Thicket enters the battlefield tapped.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Shimmerscale Drake
-{4}{U}
-Creature — Drake
-Flying
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-3/4
-Sidewinder Naga
-{2}{G}
-Creature — Naga Warrior
-"As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample."
-3/2
-Sifter Wurm
-{5}{G}{G}
-Creature — Wurm
-Trample
-"When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card’s converted mana cost."
-7/7
-Sixth Sense
-{G}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature has “Whenever this creature deals combat damage to a player, you may draw a card.”"
-Slither Blade
-{U}
-Creature — Naga Rogue
-Slither Blade can’t be blocked.
-1/2
-Solemnity
-{2}{W}
-Enchantment
-Players can’t get counters.
-"Counters can’t be put on artifacts, creatures, enchantments, or lands."
-Solitary Camel
-{2}{W}
-Creature — Camel
-Solitary Camel has lifelink as long as you control a Desert or there is a Desert card in your graveyard. (Damage dealt by this creature also causes you to gain that much life.)
-3/2
-Soul-Scar Mage
-{R}
-Creature — Human Wizard
-Prowess
-"If a source you control would deal noncombat damage to a creature an opponent controls, put that many -1/-1 counters on that creature instead."
-1/2
-Soulstinger
-{3}{B}
-Creature — Scorpion Demon
-"When Soulstinger enters the battlefield, put two -1/-1 counters on target creature you control."
-"When Soulstinger dies, you may put a -1/-1 counter on target creature for each -1/-1 counter on Soulstinger."
-4/5
-Spellweaver Eternal
-{1}{U}
-Creature — Zombie Naga Wizard
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-"Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)"
-2/1
-Sphinx's Revelation
-{X}{W}{U}{U}
-Instant
-You gain X life and draw X cards.
-Splendid Agony
-{2}{B}
-Instant
-Distribute two -1/-1 counters among one or two target creatures.
-Spring
-{2}{G}
-Sorcery
-"Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-Mind
-{4}{U}{U}
-Instant
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Draw two cards.
-Start
-{2}{W}
-Instant
-Create two 1/1 white Warrior creature tokens with vigilance.
-Finish
-{2}{B}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-"As an additional cost to cast Finish, sacrifice a creature."
-Destroy target creature.
-Steward of Solidarity
-{1}{W}
-Creature — Human Warrior
-"{T}, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won’t untap during your next untap step.)"
-2/2
-Stinging Shot
-{G}
-Instant
-Put three -1/-1 counters on target creature with flying.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Strategic Planning
-{1}{U}
-Sorcery
-Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
-Striped Riverwinder
-{6}{U}
-Creature — Serpent
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-5/5
-Struggle
-{2}{R}
-Instant
-Struggle deals damage to target creature equal to the number of lands you control.
-Survive
-{1}{G}
-Sorcery
-Aftermath (Cast this spell only from your graveyard. Then exile it.)
-Each player shuffles their graveyard into their library.
-Sunscorched Desert
-Land — Desert
-"When Sunscorched Desert enters the battlefield, it deals 1 damage to target player or planeswalker."
-{T}: Add {C}.
-Sunscourge Champion
-{2}{W}
-Creature — Human Wizard
-"When Sunscourge Champion enters the battlefield, you gain life equal to its power."
-"Eternalize—{2}{W}{W}, Discard a card. ({2}{W}{W}, Discard a card, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)"
-2/3
-Sunset Pyramid
-{2}
-Artifact
-Sunset Pyramid enters the battlefield with three brick counters on it.
-"{2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card."
-"{2}, {T}: Scry 1."
-Supernatural Stamina
-{B}
-Instant
-"Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”"
-Supply Caravan
-{4}{W}
-Creature — Camel
-"When Supply Caravan enters the battlefield, if you control a tapped creature, create a 1/1 white Warrior creature token with vigilance."
-3/5
-Supreme Will
-{2}{U}
-Instant
-Choose one —
-• Counter target spell unless its controller pays {3}.
-• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Sweltering Suns
-{1}{R}{R}
-Sorcery
-Sweltering Suns deals 3 damage to each creature.
-"Cycling {3} ({3}, Discard this card: Draw a card.)"
-Synchronized Strike
-{2}{G}
-Instant
-Untap up to two target creatures. They each get +2/+2 until end of turn.
-Tah-Crop Elite
-{3}{W}
-Creature — Bird Warrior
-Flying
-"You may exert Tah-Crop Elite as it attacks. When you do, creatures you control get +1/+1 until end of turn. (An exerted creature won’t untap during your next untap step.)"
-2/2
-"Temmet, Vizier of Naktamun"
-{W}{U}
-Legendary Creature — Human Cleric
-"At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can’t be blocked this turn."
-"Embalm {3}{W}{U} ({3}{W}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)"
-2/2
-The Locust God
-{4}{U}{R}
-Legendary Creature — God
-Flying
-"Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste."
-"{2}{U}{R}: Draw a card, then discard a card."
-"When The Locust God dies, return it to its owner’s hand at the beginning of the next end step."
-4/4
-The Scarab God
-{3}{U}{B}
-Legendary Creature — God
-"At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control."
-"{2}{U}{B}: Exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie."
-"When The Scarab God dies, return it to its owner’s hand at the beginning of the next end step."
-5/5
-The Scorpion God
-{3}{B}{R}
-Legendary Creature — God
-"Whenever a creature with a -1/-1 counter on it dies, draw a card."
-{1}{B}{R}: Put a -1/-1 counter on another target creature.
-"When The Scorpion God dies, return it to its owner’s hand at the beginning of the next end step."
-6/5
-Thorned Moloch
-{2}{R}
-Creature — Lizard
-"Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)"
-Thorned Moloch has first strike as long as it’s attacking.
-2/2
-Those Who Serve
-{2}{W}
-Creature — Zombie
-2/4
-Thoughtseize
-{B}
-Sorcery
-Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.
-Thresher Lizard
-{2}{R}
-Creature — Lizard
-Thresher Lizard gets +1/+2 as long as you have one or fewer cards in hand.
-3/2
-Throne of the God-Pharaoh
-{2}
-Legendary Artifact
-"At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control."
-Tormenting Voice
-{1}{R}
-Sorcery
-"As an additional cost to cast this spell, discard a card."
-Draw two cards.
-Torment of Hailfire
-{X}{B}{B}
-Sorcery
-Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.
-Trespasser's Curse
-{1}{B}
-Enchantment — Aura Curse
-Enchant player
-"Whenever a creature enters the battlefield under enchanted player’s control, that player loses 1 life and you gain 1 life."
-Trial of Ambition
-{1}{B}
-Enchantment
-"When Trial of Ambition enters the battlefield, target opponent sacrifices a creature."
-"When a Cartouche enters the battlefield under your control, return Trial of Ambition to its owner’s hand."
-Trial of Knowledge
-{3}{U}
-Enchantment
-"When Trial of Knowledge enters the battlefield, draw three cards, then discard a card."
-"When a Cartouche enters the battlefield under your control, return Trial of Knowledge to its owner’s hand."
-Trial of Solidarity
-{2}{W}
-Enchantment
-"When Trial of Solidarity enters the battlefield, creatures you control get +2/+1 and gain vigilance until end of turn."
-"When a Cartouche enters the battlefield under your control, return Trial of Solidarity to its owner’s hand."
-Trial of Strength
-{2}{G}
-Enchantment
-"When Trial of Strength enters the battlefield, create a 4/2 green Beast creature token."
-"When a Cartouche enters the battlefield under your control, return Trial of Strength to its owner’s hand."
-Trial of Zeal
-{2}{R}
-Enchantment
-"When Trial of Zeal enters the battlefield, it deals 3 damage to any target."
-"When a Cartouche enters the battlefield under your control, return Trial of Zeal to its owner’s hand."
-Unburden
-{1}{B}{B}
-Sorcery
-Target player discards two cards.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Unconventional Tactics
-{2}{W}
-Sorcery
-Target creature gets +3/+3 and gains flying until end of turn.
-"Whenever a Zombie enters the battlefield under your control, you may pay {W}. If you do, return Unconventional Tactics from your graveyard to your hand."
-"Unesh, Criosphinx Sovereign"
-{4}{U}{U}
-Legendary Creature — Sphinx
-Flying
-Sphinx spells you cast cost {2} less to cast.
-"Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard."
-4/4
-Unquenchable Thirst
-{1}{U}
-Enchantment — Aura
-Enchant creature
-"When Unquenchable Thirst enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, tap enchanted creature."
-Enchanted creature doesn’t untap during its controller’s untap step.
-Vile Manifestation
-{1}{B}
-Creature — Horror
-Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-0/4
-Vizier of Deferment
-{2}{W}
-Creature — Human Cleric
-Flash
-"When Vizier of Deferment enters the battlefield, you may exile target creature if it attacked or blocked this turn. Return that card to the battlefield under its owner’s control at the beginning of the next end step."
-2/2
-Vizier of Many Faces
-{2}{U}{U}
-Creature — Shapeshifter Cleric
-"You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except if Vizier of Many Faces was embalmed, the token has no mana cost, it’s white, and it’s a Zombie in addition to its other types."
-Embalm {3}{U}{U}
-0/0
-Vizier of Remedies
-{1}{W}
-Creature — Human Cleric
-"If one or more -1/-1 counters would be put on a creature you control, that many -1/-1 counters minus one are put on it instead."
-2/1
-Vizier of the Anointed
-{3}{U}
-Creature — Human Cleric
-"When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle your library."
-"Whenever you activate an eternalize or embalm ability, draw a card."
-2/4
-Vizier of the Menagerie
-{3}{G}
-Creature — Naga Cleric
-You may look at the top card of your library any time.
-You may cast creature spells from the top of your library.
-You may spend mana as though it were mana of any type to cast creature spells.
-3/4
-Vizier of Tumbling Sands
-{2}{U}
-Creature — Human Cleric
-{T}: Untap another target permanent.
-"Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)"
-"When you cycle Vizier of Tumbling Sands, untap target permanent."
-1/3
-Wall of Forgotten Pharaohs
-{2}
-Artifact Creature — Wall
-Defender
-{T}: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.
-0/4
-Wander in Death
-{2}{B}
-Sorcery
-Return up to two target creature cards from your graveyard to your hand.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Wasp of the Bitter End
-{1}{B}
-Creature — Insect Horror
-Flying
-"Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature."
-2/1
-Wasteland Scorpion
-{2}{B}
-Creature — Scorpion
-Deathtouch
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-2/2
-Watchers of the Dead
-{2}
-Artifact Creature — Cat
-Exile Watchers of the Dead: Each opponent chooses two cards in their graveyard and exiles the rest.
-2/2
-Watchful Naga
-{2}{G}
-Creature — Naga Wizard
-"You may exert Watchful Naga as it attacks. When you do, draw a card. (An exerted creature won’t untap during your next untap step.)"
-2/2
-Wayward Servant
-{W}{B}
-Creature — Zombie
-"Whenever another Zombie enters the battlefield under your control, each opponent loses 1 life and you gain 1 life."
-2/2
-Winds of Rebuke
-{1}{U}
-Instant
-Return target nonland permanent to its owner’s hand. Each player mills two cards.
-Wrath of God
-{2}{W}{W}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Zealot of the God-Pharaoh
-{3}{R}
-Creature — Minotaur Archer
-{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.
-4/3
+"('Abandoned Sarcophagus', ['{3}', 'Artifact', 'You may cast spells that have a cycling ability from your graveyard.', 'If a card that has a cycling ability would be put into your graveyard from anywhere and it wasn’t cycled, exile it instead.'])"
+"('Abrade', ['{1}{R}', 'Instant', 'Choose one —', '• Abrade deals 3 damage to target creature.', '• Destroy target artifact.'])"
+"('Aerial Guide', ['{2}{U}', 'Creature — Drake', 'Flying', 'Whenever Aerial Guide attacks, another target attacking creature gains flying until end of turn.', '2/2'])"
+"('Ahn-Crop Champion', ['{2}{G}{W}', 'Creature — Human Warrior', 'You may exert Ahn-Crop Champion as it attacks. When you do, untap all other creatures you control. (An exerted creature won’t untap during your next untap step.)', '4/4'])"
+"('Ahn-Crop Crasher', ['{2}{R}', 'Creature — Minotaur Warrior', 'Haste', 'You may exert Ahn-Crop Crasher as it attacks. When you do, target creature can’t block this turn. (An exerted creature won’t untap during your next untap step.)', '3/2'])"
+"('Ancient Crab', ['{1}{U}{U}', 'Creature — Crab', '1/5'])"
+"('Angel of Sanctions', ['{3}{W}{W}', 'Creature — Angel', 'Flying', 'When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.', 'Embalm {5}{W} ({5}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Angel with no mana cost. Embalm only as a sorcery.)', '3/4'])"
+"('Anger of the Gods', ['{1}{R}{R}', 'Sorcery', 'Anger of the Gods deals 3 damage to each creature. If a creature dealt damage this way would die this turn, exile it instead.'])"
+"('Anointed Procession', ['{3}{W}', 'Enchantment', 'If an effect would create one or more tokens under your control, it creates twice that many of those tokens instead.'])"
+"('Anointer Priest', ['{1}{W}', 'Creature — Human Cleric', 'Whenever a creature token enters the battlefield under your control, you gain 1 life.', 'Embalm {3}{W} ({3}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)', '1/3'])"
+"('Appeal', ['{G}', 'Sorcery', 'Until end of turn, target creature gains trample and gets +X/+X, where X is the number of creatures you control.', 'Authority', '{1}{W}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Tap up to two target creatures your opponents control. Creatures you control gain vigilance until end of turn.'])"
+"('Approach of the Second Sun', ['{6}{W}', 'Sorcery', 'If this spell was cast from your hand and you’ve cast another spell named Approach of the Second Sun this game, you win the game. Otherwise, put Approach of the Second Sun into its owner’s library seventh from the top and you gain 7 life.'])"
+"('Archfiend of Ifnir', ['{3}{B}{B}', 'Creature — Demon', 'Flying', 'Whenever you cycle or discard another card, put a -1/-1 counter on each creature your opponents control.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '5/4'])"
+"('As Foretold', ['{2}{U}', 'Enchantment', 'At the beginning of your upkeep, put a time counter on As Foretold.', 'Once each turn, you may pay {0} rather than pay the mana cost for a spell you cast with converted mana cost X or less, where X is the number of time counters on As Foretold.'])"
+"('Aven Initiate', ['{3}{U}', 'Creature — Bird Warrior', 'Flying', 'Embalm {6}{U} ({6}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)', '3/2'])"
+"('Aven Mindcensor', ['{2}{W}', 'Creature — Bird Wizard', 'Flash', 'Flying', 'If an opponent would search a library, that player searches the top four cards of that library instead.', '2/1'])"
+"('Aven of Enduring Hope', ['{4}{W}', 'Creature — Bird Cleric', 'Flying', 'When Aven of Enduring Hope enters the battlefield, you gain 3 life.', '3/3'])"
+"('Aven Wind Guide', ['{2}{W}{U}', 'Creature — Bird Warrior', 'Flying, vigilance', 'Creature tokens you control have flying and vigilance.', 'Embalm {4}{W}{U} ({4}{W}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Warrior with no mana cost. Embalm only as a sorcery.)', '2/3'])"
+"('Baleful Ammit', ['{2}{B}', 'Creature — Crocodile Demon', 'Lifelink', 'When Baleful Ammit enters the battlefield, put a -1/-1 counter on target creature you control.', '4/3'])"
+"('Battlefield Scavenger', ['{1}{R}', 'Creature — Jackal Rogue', 'You may exert Battlefield Scavenger as it attacks. (It won’t untap during your next untap step.)', 'Whenever you exert a creature, you may discard a card. If you do, draw a card.', '2/2'])"
+"('Beneath the Sands', ['{2}{G}', 'Sorcery', 'Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Binding Mummy', ['{1}{W}', 'Creature — Zombie', 'Whenever another Zombie enters the battlefield under your control, you may tap target artifact or creature.', '2/2'])"
+"('Bitterbow Sharpshooters', ['{4}{G}', 'Creature — Jackal Archer', 'Vigilance, reach', '4/4'])"
+"('Blighted Bat', ['{2}{B}', 'Creature — Zombie Bat', 'Flying', '{1}: Blighted Bat gains haste until end of turn.', '2/1'])"
+"('Bloodlust Inciter', ['{R}', 'Creature — Human Warrior', '{T}: Target creature gains haste until end of turn.', '1/1'])"
+"('Blur of Blades', ['{1}{R}', 'Instant', 'Put a -1/-1 counter on target creature. Blur of Blades deals 2 damage to that creature’s controller.'])"
+"('Bone Picker', ['{3}{B}', 'Creature — Bird', 'This spell costs {3} less to cast if a creature died this turn.', 'Flying, deathtouch', '3/2'])"
+"(""Bontu's Last Reckoning"", ['{1}{B}{B}', 'Sorcery', 'Destroy all creatures. Lands you control don’t untap during your next untap step.'])"
+"(""Bontu's Monument"", ['{3}', 'Legendary Artifact', 'Black creature spells you cast cost {1} less to cast.', 'Whenever you cast a creature spell, each opponent loses 1 life and you gain 1 life.'])"
+"('Bontu the Glorified', ['{2}{B}', 'Legendary Creature — God', 'Menace, indestructible', 'Bontu the Glorified can’t attack or block unless a creature died under your control this turn.', '{1}{B}, Sacrifice another creature: Scry 1. Each opponent loses 1 life and you gain 1 life.', '4/6'])"
+"('Brute Strength', ['{1}{R}', 'Instant', 'Target creature gets +3/+1 and gains trample until end of turn.'])"
+"('Burning-Fist Minotaur', ['{1}{R}', 'Creature — Minotaur Wizard', 'First strike', '{1}{R}, Discard a card: Burning-Fist Minotaur gets +2/+0 until end of turn.', '2/1'])"
+"('By Force', ['{X}{R}', 'Sorcery', 'Destroy X target artifacts.'])"
+"('Canyon Slough', ['Land — Swamp Mountain', '({T}: Add {B} or {R}.)', 'Canyon Slough enters the battlefield tapped.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Cartouche of Ambition', ['{2}{B}', 'Enchantment — Aura Cartouche', 'Enchant creature you control', 'When Cartouche of Ambition enters the battlefield, you may put a -1/-1 counter on target creature.', 'Enchanted creature gets +1/+1 and has lifelink.'])"
+"('Cartouche of Knowledge', ['{1}{U}', 'Enchantment — Aura Cartouche', 'Enchant creature you control', 'When Cartouche of Knowledge enters the battlefield, draw a card.', 'Enchanted creature gets +1/+1 and has flying.'])"
+"('Cartouche of Solidarity', ['{W}', 'Enchantment — Aura Cartouche', 'Enchant creature you control', 'When Cartouche of Solidarity enters the battlefield, create a 1/1 white Warrior creature token with vigilance.', 'Enchanted creature gets +1/+1 and has first strike.'])"
+"('Cartouche of Strength', ['{2}{G}', 'Enchantment — Aura Cartouche', 'Enchant creature you control', 'When Cartouche of Strength enters the battlefield, you may have enchanted creature fight target creature an opponent controls. (Each deals damage equal to its power to the other.)', 'Enchanted creature gets +1/+1 and has trample.'])"
+"('Cartouche of Zeal', ['{R}', 'Enchantment — Aura Cartouche', 'Enchant creature you control', 'When Cartouche of Zeal enters the battlefield, target creature can’t block this turn.', 'Enchanted creature gets +1/+1 and has haste.'])"
+"('Cascading Cataracts', ['Land', 'Indestructible', '{T}: Add {C}.', '{5}, {T}: Add five mana in any combination of colors.'])"
+"('Cast Out', ['{3}{W}', 'Enchantment', 'Flash', 'When Cast Out enters the battlefield, exile target nonland permanent an opponent controls until Cast Out leaves the battlefield.', 'Cycling {W} ({W}, Discard this card: Draw a card.)'])"
+"('Censor', ['{1}{U}', 'Instant', 'Counter target spell unless its controller pays {1}.', 'Cycling {U} ({U}, Discard this card: Draw a card.)'])"
+"('Champion of Rhonas', ['{3}{G}', 'Creature — Jackal Warrior', 'You may exert Champion of Rhonas as it attacks. When you do, you may put a creature card from your hand onto the battlefield. (An exerted creature won’t untap during your next untap step.)', '3/3'])"
+"('Champion of Wits', ['{2}{U}', 'Creature — Naga Wizard', 'When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.', 'Eternalize {5}{U}{U} ({5}{U}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Naga Wizard with no mana cost. Eternalize only as a sorcery.)', '2/1'])"
+"('Chandra, Pyromaster', ['{2}{R}{R}', 'Legendary Planeswalker — Chandra', '+1: Chandra, Pyromaster deals 1 damage to target player or planeswalker and 1 damage to up to one target creature that player or that planeswalker’s controller controls. That creature can’t block this turn.', '0: Exile the top card of your library. You may play it this turn.', '−7: Exile the top ten cards of your library. Choose an instant or sorcery card exiled this way and copy it three times. You may cast the copies without paying their mana costs.', 'Loyalty: 4'])"
+"(""Chandra's Defeat"", ['{R}', 'Instant', 'Chandra’s Defeat deals 5 damage to target red creature or red planeswalker. If that permanent is a Chandra planeswalker, you may discard a card. If you do, draw a card.'])"
+"('Claim', ['{B}', 'Sorcery', 'Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.', 'Fame', '{1}{R}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Target creature gets +2/+0 and gains haste until end of turn.'])"
+"('Collected Company', ['{3}{G}', 'Instant', 'Look at the top six cards of your library. Put up to two creature cards with converted mana cost 3 or less from among them onto the battlefield. Put the rest on the bottom of your library in any order.'])"
+"('Combat Celebrant', ['{2}{R}', 'Creature — Human Warrior', 'If Combat Celebrant hasn’t been exerted this turn, you may exert it as it attacks. When you do, untap all other creatures you control and after this phase, there is an additional combat phase. (An exerted creature won’t untap during your next untap step.)', '4/1'])"
+"('Commit', ['{3}{U}', 'Instant', 'Put target spell or nonland permanent into its owner’s library second from the top.', 'Memory', '{4}{U}{U}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Each player shuffles their hand and graveyard into their library, then draws seven cards.'])"
+"('Compelling Argument', ['{1}{U}', 'Sorcery', 'Target player mills five cards.', 'Cycling {U} ({U}, Discard this card: Draw a card.)'])"
+"('Compulsory Rest', ['{1}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature can’t attack or block.', 'Enchanted creature has “{2}, Sacrifice this creature: You gain 2 life.”'])"
+"('Consign', ['{1}{U}', 'Instant', 'Return target nonland permanent to its owner’s hand.', 'Oblivion', '{4}{B}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Target opponent discards two cards.'])"
+"('Countervailing Winds', ['{2}{U}', 'Instant', 'Counter target spell unless its controller pays {1} for each card in your graveyard.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Crash Through', ['{R}', 'Sorcery', 'Creatures you control gain trample until end of turn. (A creature with trample can deal excess combat damage to the player or planeswalker it’s attacking.)', 'Draw a card.'])"
+"('Crested Sunmare', ['{3}{W}{W}', 'Creature — Horse', 'Other Horses you control have indestructible.', 'At the beginning of each end step, if you gained life this turn, create a 5/5 white Horse creature token.', '5/5'])"
+"('Crocodile of the Crossing', ['{3}{G}', 'Creature — Crocodile', 'Haste', 'When Crocodile of the Crossing enters the battlefield, put a -1/-1 counter on target creature you control.', '5/4'])"
+"('Cruel Reality', ['{5}{B}{B}', 'Enchantment — Aura Curse', 'Enchant player', 'At the beginning of enchanted player’s upkeep, that player sacrifices a creature or planeswalker. If the player can’t, they lose 5 life.'])"
+"('Cryptic Serpent', ['{5}{U}{U}', 'Creature — Serpent', 'This spell costs {1} less to cast for each instant and sorcery card in your graveyard.', '6/5'])"
+"('Crypt of the Eternals', ['Land', 'When Crypt of the Eternals enters the battlefield, you gain 1 life.', '{T}: Add {C}.', '{1}, {T}: Add {U}, {B}, or {R}.'])"
+"('Curator of Mysteries', ['{2}{U}{U}', 'Creature — Sphinx', 'Flying', 'Whenever you cycle or discard another card, scry 1.', 'Cycling {U} ({U}, Discard this card: Draw a card.)', '4/4'])"
+"('Cut', ['{1}{R}', 'Sorcery', 'Cut deals 4 damage to target creature.', 'Ribbons', '{X}{B}{B}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Each opponent loses X life.'])"
+"('Dauntless Aven', ['{2}{W}', 'Creature — Bird Warrior', 'Flying', 'Whenever Dauntless Aven attacks, untap target creature you control.', '2/1'])"
+"('Deem Worthy', ['{4}{R}', 'Instant', 'Deem Worthy deals 7 damage to target creature.', 'Cycling {3}{R} ({3}{R}, Discard this card: Draw a card.)', 'When you cycle Deem Worthy, you may have it deal 2 damage to target creature.'])"
+"('Defiant Greatmaw', ['{2}{G}', 'Creature — Hippo', 'When Defiant Greatmaw enters the battlefield, put two -1/-1 counters on target creature you control.', 'Whenever you put one or more -1/-1 counters on Defiant Greatmaw, remove a -1/-1 counter from another target creature you control.', '4/5'])"
+"('Demonic Pact', ['{2}{B}{B}', 'Enchantment', 'At the beginning of your upkeep, choose one that hasn’t been chosen —', '• Demonic Pact deals 4 damage to any target and you gain 4 life.', '• Target opponent discards two cards.', '• Draw two cards.', '• You lose the game.'])"
+"('Desert Cerodon', ['{5}{R}', 'Creature — Beast', 'Cycling {R} ({R}, Discard this card: Draw a card.)', '6/4'])"
+"('Desert of the Fervent', ['Land — Desert', 'Desert of the Fervent enters the battlefield tapped.', '{T}: Add {R}.', 'Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)'])"
+"('Desert of the Glorified', ['Land — Desert', 'Desert of the Glorified enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)'])"
+"('Desert of the Indomitable', ['Land — Desert', 'Desert of the Indomitable enters the battlefield tapped.', '{T}: Add {G}.', 'Cycling {1}{G} ({1}{G}, Discard this card: Draw a card.)'])"
+"('Desert of the Mindful', ['Land — Desert', 'Desert of the Mindful enters the battlefield tapped.', '{T}: Add {U}.', 'Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)'])"
+"('Desert of the True', ['Land — Desert', 'Desert of the True enters the battlefield tapped.', '{T}: Add {W}.', 'Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)'])"
+"(""Desert's Hold"", ['{2}{W}', 'Enchantment — Aura', 'Enchant creature', 'When Desert’s Hold enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you gain 3 life.', 'Enchanted creature can’t attack or block, and its activated abilities can’t be activated.'])"
+"('Destined', ['{1}{B}', 'Instant', 'Target creature gets +1/+0 and gains indestructible until end of turn.', 'Lead', '{3}{G}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'All creatures able to block target creature this turn do so.'])"
+"('Disposal Mummy', ['{2}{W}', 'Creature — Zombie Jackal', 'When Disposal Mummy enters the battlefield, exile target card from an opponent’s graveyard.', '2/3'])"
+"('Dispossess', ['{2}{B}', 'Sorcery', 'Choose an artifact card name. Search target opponent’s graveyard, hand, and library for any number of cards with the chosen name and exile them. Then that player shuffles their library.'])"
+"(""Dissenter's Deliverance"", ['{1}{G}', 'Instant', 'Destroy target artifact.', 'Cycling {G} ({G}, Discard this card: Draw a card.)'])"
+"(""Djeru's Resolve"", ['{W}', 'Instant', 'Untap target creature. Prevent all damage that would be dealt to it this turn.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Doomed Dissenter', ['{1}{B}', 'Creature — Human', 'When Doomed Dissenter dies, create a 2/2 black Zombie creature token.', '1/1'])"
+"('Doomfall', ['{2}{B}', 'Sorcery', 'Choose one —', '• Target opponent exiles a creature they control.', '• Target opponent reveals their hand. You choose a nonland card from it. Exile that card.'])"
+"('Drake Haven', ['{2}{U}', 'Enchantment', 'Whenever you cycle or discard a card, you may pay {1}. If you do, create a 2/2 blue Drake creature token with flying.'])"
+"('Dread Wanderer', ['{B}', 'Creature — Zombie Jackal', 'Dread Wanderer enters the battlefield tapped.', '{2}{B}: Return Dread Wanderer from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery and only if you have one or fewer cards in hand.', '2/1'])"
+"('Driven', ['{1}{G}', 'Sorcery', 'Until end of turn, creatures you control gain trample and “Whenever this creature deals combat damage to a player, draw a card.”', 'Despair', '{1}{B}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Until end of turn, creatures you control gain menace and “Whenever this creature deals combat damage to a player, that player discards a card.”'])"
+"('Dune Beetle', ['{1}{B}', 'Creature — Insect', '1/4'])"
+"('Dusk', ['{2}{W}{W}', 'Sorcery', 'Destroy all creatures with power 3 or greater.', 'Dawn', '{3}{W}{W}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Return all creature cards with power 2 or less from your graveyard to your hand.'])"
+"('Earthshaker Khenra', ['{1}{R}', 'Creature — Jackal Warrior', 'Haste', 'When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra’s power can’t block this turn.', 'Eternalize {4}{R}{R} ({4}{R}{R}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Warrior with no mana cost. Eternalize only as a sorcery.)', '2/1'])"
+"('Edifice of Authority', ['{3}', 'Artifact', '{1}, {T}: Target creature can’t attack this turn. Put a brick counter on Edifice of Authority.', '{1}, {T}: Until your next turn, target creature can’t attack or block and its activated abilities can’t be activated. Activate this ability only if there are three or more brick counters on Edifice of Authority.'])"
+"('Enigma Drake', ['{1}{U}{R}', 'Creature — Drake', 'Flying', 'Enigma Drake’s power is equal to the number of instant and sorcery cards in your graveyard.', '*/4'])"
+"('Essence Scatter', ['{1}{U}', 'Instant', 'Counter target creature spell.'])"
+"('Eternal of Harsh Truths', ['{2}{U}', 'Creature — Zombie Cleric', 'Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)', 'Whenever Eternal of Harsh Truths attacks and isn’t blocked, draw a card.', '1/3'])"
+"('Evolving Wilds', ['Land', '{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.'])"
+"('Exemplar of Strength', ['{1}{G}', 'Creature — Human Warrior', 'When Exemplar of Strength enters the battlefield, put three -1/-1 counters on target creature you control.', 'Whenever Exemplar of Strength attacks, remove a -1/-1 counter from it. If you do, you gain 1 life.', '4/4'])"
+"('Failure', ['{1}{U}', 'Instant', 'Return target spell to its owner’s hand.', 'Comply', '{W}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Choose a card name. Until your next turn, your opponents can’t cast spells with the chosen name.'])"
+"('Fan Bearer', ['{W}', 'Creature — Zombie', '{2}, {T}: Tap target creature.', '1/2'])"
+"('Farm', ['{2}{W}', 'Instant', 'Destroy target attacking or blocking creature.', 'Market', '{2}{U}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Draw two cards, then discard two cards.'])"
+"('Feral Prowler', ['{1}{G}', 'Creature — Cat', 'When Feral Prowler dies, draw a card.', '1/3'])"
+"('Fervent Paincaster', ['{2}{R}', 'Creature — Human Wizard', '{T}: Fervent Paincaster deals 1 damage to target player or planeswalker.', '{T}, Exert Fervent Paincaster: It deals 1 damage to target creature. (An exerted creature won’t untap during your next untap step.)', '3/1'])"
+"('Festering Mummy', ['{B}', 'Creature — Zombie', 'When Festering Mummy dies, you may put a -1/-1 counter on target creature.', '1/1'])"
+"('Fetid Pools', ['Land — Island Swamp', '({T}: Add {U} or {B}.)', 'Fetid Pools enters the battlefield tapped.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Final Reward', ['{4}{B}', 'Instant', 'Exile target creature.'])"
+"('Firebrand Archer', ['{1}{R}', 'Creature — Human Archer', 'Whenever you cast a noncreature spell, Firebrand Archer deals 1 damage to each opponent.', '2/1'])"
+"('Floodwaters', ['{4}{U}{U}', 'Sorcery', 'Return up to two target creatures to their owners’ hands.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Forsake the Worldly', ['{2}{W}', 'Instant', 'Exile target artifact or enchantment.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Gate to the Afterlife', ['{3}', 'Artifact', 'Whenever a nontoken creature you control dies, you gain 1 life. Then you may draw a card. If you do, discard a card.', '{2}, {T}, Sacrifice Gate to the Afterlife: Search your graveyard, hand, and/or library for a card named God-Pharaoh’s Gift and put it onto the battlefield. If you search your library this way, shuffle it. Activate this ability only if there are six or more creature cards in your graveyard.'])"
+"('Gideon of the Trials', ['{1}{W}{W}', 'Legendary Planeswalker — Gideon', '+1: Until your next turn, prevent all damage target permanent would deal.', '0: Until end of turn, Gideon of the Trials becomes a 4/4 Human Soldier creature with indestructible that’s still a planeswalker. Prevent all damage that would be dealt to him this turn.', '0: You get an emblem with “As long as you control a Gideon planeswalker, you can’t lose the game and your opponents can’t win the game.”', 'Loyalty: 3'])"
+"(""Gideon's Intervention"", ['{2}{W}{W}', 'Enchantment', 'As Gideon’s Intervention enters the battlefield, choose a card name.', 'Your opponents can’t cast spells with the chosen name.', 'Prevent all damage that would be dealt to you and permanents you control by sources with the chosen name.'])"
+"('Gilded Cerodon', ['{4}{R}', 'Creature — Beast', 'Whenever Gilded Cerodon attacks, if you control a Desert or there is a Desert card in your graveyard, target creature can’t block this turn.', '4/4'])"
+"('Glorious End', ['{2}{R}', 'Instant', 'End the turn. (Exile all spells and abilities from the stack, including this card. The player whose turn it is discards down to their maximum hand size. Damage wears off, and “this turn” and “until end of turn” effects end.)', 'At the beginning of your next end step, you lose the game.'])"
+"('Glory-Bound Initiate', ['{1}{W}', 'Creature — Human Warrior', 'You may exert Glory-Bound Initiate as it attacks. When you do, it gets +1/+3 and gains lifelink until end of turn. (An exerted creature won’t untap during your next untap step.)', '3/1'])"
+"('Glorybringer', ['{3}{R}{R}', 'Creature — Dragon', 'Flying, haste', 'You may exert Glorybringer as it attacks. When you do, it deals 4 damage to target non-Dragon creature an opponent controls. (An exerted creature won’t untap during your next untap step.)', '4/4'])"
+"(""God-Pharaoh's Gift"", ['{7}', 'Artifact', 'At the beginning of combat on your turn, you may exile a creature card from your graveyard. If you do, create a token that’s a copy of that card, except it’s a 4/4 black Zombie. It gains haste until end of turn.'])"
+"('Gravedigger', ['{3}{B}', 'Creature — Zombie', 'When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.', '2/2'])"
+"('Greater Sandwurm', ['{5}{G}{G}', 'Creature — Wurm', 'Greater Sandwurm can’t be blocked by creatures with power 2 or less.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '7/7'])"
+"('Grind', ['{1}{B}', 'Sorcery', 'Put a -1/-1 counter on each of up to two target creatures.', 'Dust', '{3}{W}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Exile any number of target creatures that have -1/-1 counters on them.'])"
+"('Gust Walker', ['{1}{W}', 'Creature — Human Wizard', 'You may exert Gust Walker as it attacks. When you do, it gets +1/+1 and gains flying until end of turn. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Hapatra, Vizier of Poisons', ['{B}{G}', 'Legendary Creature — Human Cleric', 'Whenever Hapatra, Vizier of Poisons deals combat damage to a player, you may put a -1/-1 counter on target creature.', 'Whenever you put one or more -1/-1 counters on a creature, create a 1/1 green Snake creature token with deathtouch.', '2/2'])"
+"('Harsh Mentor', ['{1}{R}', 'Creature — Human Cleric', 'Whenever an opponent activates an ability of an artifact, creature, or land on the battlefield, if it isn’t a mana ability, Harsh Mentor deals 2 damage to that player.', '2/2'])"
+"('Hashep Oasis', ['Land — Desert', '{T}: Add {C}.', '{T}, Pay 1 life: Add {G}.', '{1}{G}{G}, {T}, Sacrifice a Desert: Target creature gets +3/+3 until end of turn. Activate this ability only any time you could cast a sorcery.'])"
+"('Haze of Pollen', ['{1}{G}', 'Instant', 'Prevent all combat damage that would be dealt this turn.', 'Cycling {3} ({3}, Discard this card: Draw a card.)'])"
+"(""Hazoret's Monument"", ['{3}', 'Legendary Artifact', 'Red creature spells you cast cost {1} less to cast.', 'Whenever you cast a creature spell, you may discard a card. If you do, draw a card.'])"
+"('Hazoret the Fervent', ['{3}{R}', 'Legendary Creature — God', 'Indestructible, haste', 'Hazoret the Fervent can’t attack or block unless you have one or fewer cards in hand.', '{2}{R}, Discard a card: Hazoret deals 2 damage to each opponent.', '5/4'])"
+"('Heaven', ['{X}{G}', 'Instant', 'Heaven deals X damage to each creature with flying.', 'Earth', '{X}{R}{R}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Earth deals X damage to each creature without flying.'])"
+"('Hekma Sentinels', ['{2}{U}', 'Creature — Human Cleric', 'Whenever you cycle or discard a card, Hekma Sentinels gets +1/+1 until end of turn.', '2/3'])"
+"('Hieroglyphic Illumination', ['{3}{U}', 'Instant', 'Draw two cards.', 'Cycling {U} ({U}, Discard this card: Draw a card.)'])"
+"('Hollow One', ['{5}', 'Artifact Creature — Golem', 'This spell costs {2} less to cast for each card you’ve cycled or discarded this turn.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '4/4'])"
+"('Honored Crop-Captain', ['{R}{W}', 'Creature — Human Warrior', 'Whenever Honored Crop-Captain attacks, other attacking creatures get +1/+0 until end of turn.', '3/2'])"
+"('Hooded Brawler', ['{2}{G}', 'Creature — Naga Warrior', 'You may exert Hooded Brawler as it attacks. When you do, it gets +2/+2 until end of turn. (An exerted creature won’t untap during your next untap step.)', '3/2'])"
+"('Hope Tender', ['{1}{G}', 'Creature — Human Druid', '{1}, {T}: Untap target land.', '{1}, {T}, Exert Hope Tender: Untap two target lands. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Hornet Queen', ['{4}{G}{G}{G}', 'Creature — Insect', 'Flying', 'Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)', 'When Hornet Queen enters the battlefield, create four 1/1 green Insect creature tokens with flying and deathtouch.', '2/2'])"
+"('Horror of the Broken Lands', ['{4}{B}', 'Creature — Horror', 'Whenever you cycle or discard another card, Horror of the Broken Lands gets +2/+1 until end of turn.', 'Cycling {B} ({B}, Discard this card: Draw a card.)', '4/4'])"
+"('Hour of Devastation', ['{3}{R}{R}', 'Sorcery', 'All creatures lose indestructible until end of turn. Hour of Devastation deals 5 damage to each creature and each non-Bolas planeswalker.'])"
+"('Hour of Promise', ['{4}{G}', 'Sorcery', 'Search your library for up to two land cards, put them onto the battlefield tapped, then shuffle your library. Then if you control three or more Deserts, create two 2/2 black Zombie creature tokens.'])"
+"('Hour of Revelation', ['{3}{W}{W}{W}', 'Sorcery', 'This spell costs {3} less to cast if there are ten or more nonland permanents on the battlefield.', 'Destroy all nonland permanents.'])"
+"('Ifnir Deadlands', ['Land — Desert', '{T}: Add {C}.', '{T}, Pay 1 life: Add {B}.', '{2}{B}{B}, {T}, Sacrifice a Desert: Put two -1/-1 counters on target creature an opponent controls. Activate this ability only any time you could cast a sorcery.'])"
+"('Imminent Doom', ['{2}{R}', 'Enchantment', 'Imminent Doom enters the battlefield with a doom counter on it.', 'Whenever you cast a spell with converted mana cost equal to the number of doom counters on Imminent Doom, Imminent Doom deals that much damage to any target. Then put a doom counter on Imminent Doom.'])"
+"('Impeccable Timing', ['{1}{W}', 'Instant', 'Impeccable Timing deals 3 damage to target attacking or blocking creature.'])"
+"(""Initiate's Companion"", ['{1}{G}', 'Creature — Cat', 'Whenever Initiate’s Companion deals combat damage to a player, untap target creature or land.', '3/1'])"
+"(""In Oketra's Name"", ['{1}{W}', 'Instant', 'Zombies you control get +2/+1 until end of turn. Other creatures you control get +1/+1 until end of turn.'])"
+"('Insult', ['{2}{R}', 'Sorcery', 'Damage can’t be prevented this turn. If a source you control would deal damage this turn, it deals double that damage instead.', 'Injury', '{2}{R}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Injury deals 2 damage to target creature and 2 damage to target player or planeswalker.'])"
+"('Ipnu Rivulet', ['Land — Desert', '{T}: Add {C}.', '{T}, Pay 1 life: Add {U}.', '{1}{U}, {T}, Sacrifice a Desert: Target player mills four cards.'])"
+"('Irrigated Farmland', ['Land — Plains Island', '({T}: Add {W} or {U}.)', 'Irrigated Farmland enters the battlefield tapped.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jace, Unraveler of Secrets', ['{3}{U}{U}', 'Legendary Planeswalker — Jace', '+1: Scry 1, then draw a card.', '−2: Return target creature to its owner’s hand.', '−8: You get an emblem with “Whenever an opponent casts their first spell each turn, counter that spell.”', 'Loyalty: 5'])"
+"(""Kefnet's Monument"", ['{3}', 'Legendary Artifact', 'Blue creature spells you cast cost {1} less to cast.', 'Whenever you cast a creature spell, target creature an opponent controls doesn’t untap during its controller’s next untap step.'])"
+"('Kefnet the Mindful', ['{2}{U}', 'Legendary Creature — God', 'Flying, indestructible', 'Kefnet the Mindful can’t attack or block unless you have seven or more cards in hand.', '{3}{U}: Draw a card, then you may return a land you control to its owner’s hand.', '5/5'])"
+"('Khenra Charioteer', ['{1}{R}{G}', 'Creature — Jackal Warrior', 'Trample', 'Other creatures you control have trample.', '3/3'])"
+"('Khenra Eternal', ['{1}{B}', 'Creature — Zombie Jackal Warrior', 'Afflict 1 (Whenever this creature becomes blocked, defending player loses 1 life.)', '2/2'])"
+"('Khenra Scrapper', ['{2}{R}', 'Creature — Jackal Warrior', 'Menace', 'You may exert Khenra Scrapper as it attacks. When you do, it gets +2/+0 until end of turn. (An exerted creature won’t untap during your next untap step.)', '2/3'])"
+"('Labyrinth Guardian', ['{1}{U}', 'Creature — Illusion Warrior', 'When Labyrinth Guardian becomes the target of a spell, sacrifice it.', 'Embalm {3}{U} ({3}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Illusion Warrior with no mana cost. Embalm only as a sorcery.)', '2/3'])"
+"('Lay Claim', ['{5}{U}{U}', 'Enchantment — Aura', 'Enchant permanent', 'You control enchanted permanent.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Leave', ['{1}{W}', 'Instant', 'Return any number of target permanents you own to your hand.', 'Chance', '{3}{R}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Discard any number of cards, then draw that many cards.'])"
+"('Lethal Sting', ['{2}{B}', 'Sorcery', 'As an additional cost to cast this spell, put a -1/-1 counter on a creature you control.', 'Destroy target creature.'])"
+"('Life Goes On', ['{G}', 'Instant', 'You gain 4 life. If a creature died this turn, you gain 8 life instead.'])"
+"(""Liliana, Death's Majesty"", ['{3}{B}{B}', 'Legendary Planeswalker — Liliana', '+1: Create a 2/2 black Zombie creature token. Mill two cards.', '−3: Return target creature card from your graveyard to the battlefield. That creature is a black Zombie in addition to its other colors and types.', '−7: Destroy all non-Zombie creatures.', 'Loyalty: 5'])"
+"(""Liliana's Defeat"", ['{B}', 'Sorcery', 'Destroy target black creature or black planeswalker. If that permanent was a Liliana planeswalker, her controller loses 3 life.'])"
+"(""Liliana's Mastery"", ['{3}{B}{B}', 'Enchantment', 'Zombies you control get +1/+1.', 'When Liliana’s Mastery enters the battlefield, create two 2/2 black Zombie creature tokens.'])"
+"('Lord of Extinction', ['{3}{B}{G}', 'Creature — Elemental', 'Lord of Extinction’s power and toughness are each equal to the number of cards in all graveyards.', '*/*'])"
+"('Lord of the Accursed', ['{2}{B}', 'Creature — Zombie', 'Other Zombies you control get +1/+1.', '{1}{B}, {T}: All Zombies gain menace until end of turn.', '2/3'])"
+"('Magmaroth', ['{3}{R}', 'Creature — Elemental', 'At the beginning of your upkeep, put a -1/-1 counter on Magmaroth.', 'Whenever you cast a noncreature spell, remove a -1/-1 counter from Magmaroth.', '5/5'])"
+"('Magma Spray', ['{R}', 'Instant', 'Magma Spray deals 2 damage to target creature. If that creature would die this turn, exile it instead.'])"
+"('Majestic Myriarch', ['{4}{G}', 'Creature — Chimera', 'Majestic Myriarch’s power and toughness are each equal to twice the number of creatures you control.', 'At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.', '*/*'])"
+"('Manglehorn', ['{2}{G}', 'Creature — Beast', 'When Manglehorn enters the battlefield, you may destroy target artifact.', 'Artifacts your opponents control enter the battlefield tapped.', '2/2'])"
+"('Marauding Boneslasher', ['{2}{B}', 'Creature — Zombie Minotaur', 'Marauding Boneslasher can’t block unless you control another Zombie.', '3/3'])"
+"('Merciless Javelineer', ['{2}{B}{R}', 'Creature — Minotaur Warrior', '{2}, Discard a card: Put a -1/-1 counter on target creature. That creature can’t block this turn.', '4/2'])"
+"('Miasmic Mummy', ['{1}{B}', 'Creature — Zombie Jackal', 'When Miasmic Mummy enters the battlefield, each player discards a card.', '2/2'])"
+"('Mighty Leap', ['{1}{W}', 'Instant', 'Target creature gets +2/+2 and gains flying until end of turn.'])"
+"('Mirage Mirror', ['{3}', 'Artifact', '{2}: Mirage Mirror becomes a copy of target artifact, creature, enchantment, or land until end of turn.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Mouth', ['{2}{G}', 'Sorcery', 'Create a 3/3 green Hippo creature token.', 'Feed', '{3}{G}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Draw a card for each creature you control with power 3 or greater.'])"
+"('Naga Oracle', ['{3}{U}', 'Creature — Naga Cleric', 'When Naga Oracle enters the battlefield, look at the top three cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.', '2/4'])"
+"('Naga Vitalist', ['{1}{G}', 'Creature — Naga Druid', '{T}: Add one mana of any type that a land you control could produce.', '1/2'])"
+"('Nef-Crop Entangler', ['{1}{R}', 'Creature — Human Warrior', 'Trample', 'You may exert Nef-Crop Entangler as it attacks. When you do, it gets +1/+2 until end of turn. (An exerted creature won’t untap during your next untap step.)', '2/1'])"
+"('Neheb, the Eternal', ['{3}{R}{R}', 'Legendary Creature — Zombie Minotaur Warrior', 'Afflict 3 (Whenever this creature becomes blocked, defending player loses 3 life.)', 'At the beginning of your postcombat main phase, add {R} for each 1 life your opponents have lost this turn.', '4/6'])"
+"('Neheb, the Worthy', ['{1}{B}{R}', 'Legendary Creature — Minotaur Warrior', 'First strike', 'Other Minotaurs you control have first strike.', 'As long as you have one or fewer cards in hand, Minotaurs you control get +2/+0.', 'Whenever Neheb, the Worthy deals combat damage to a player, each player discards a card.', '2/2'])"
+"('Nest of Scarabs', ['{2}{B}', 'Enchantment', 'Whenever you put one or more -1/-1 counters on a creature, create that many 1/1 black Insect creature tokens.'])"
+"('Never', ['{1}{B}{B}', 'Sorcery', 'Destroy target creature or planeswalker.', 'Return', '{3}{B}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Exile target card from a graveyard. Create a 2/2 black Zombie creature token.'])"
+"('New Perspectives', ['{5}{U}', 'Enchantment', 'When New Perspectives enters the battlefield, draw three cards.', 'As long as you have seven or more cards in hand, you may pay {0} rather than pay cycling costs.'])"
+"('Nicol Bolas, God-Pharaoh', ['{4}{U}{B}{R}', 'Legendary Planeswalker — Bolas', '+2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.', '+1: Each opponent exiles two cards from their hand.', '−4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.', '−12: Exile each nonland permanent your opponents control.', 'Loyalty: 7'])"
+"('Nimble-Blade Khenra', ['{1}{R}', 'Creature — Jackal Warrior', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', '1/3'])"
+"('Nimble Obstructionist', ['{2}{U}', 'Creature — Bird Wizard', 'Flash', 'Flying', 'Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)', 'When you cycle Nimble Obstructionist, counter target activated or triggered ability you don’t control.', '3/1'])"
+"('Nissa, Steward of Elements', ['{X}{G}{U}', 'Legendary Planeswalker — Nissa', '+2: Scry 2.', '0: Look at the top card of your library. If it’s a land card or a creature card with converted mana cost less than or equal to the number of loyalty counters on Nissa, Steward of Elements, you may put that card onto the battlefield.', '−6: Untap up to two target lands you control. They become 5/5 Elemental creatures with flying and haste until end of turn. They’re still lands.', 'Loyalty: X'])"
+"('Oashra Cultivator', ['{G}', 'Creature — Human Druid', '{2}{G}, {T}, Sacrifice Oashra Cultivator: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.', '0/3'])"
+"('Oasis Ritualist', ['{3}{G}', 'Creature — Naga Druid', '{T}: Add one mana of any color.', '{T}, Exert Oasis Ritualist: Add two mana of any one color. (An exerted creature won’t untap during your next untap step.)', '2/4'])"
+"('Obelisk Spider', ['{1}{B}{G}', 'Creature — Spider', 'Reach', 'Whenever Obelisk Spider deals combat damage to a creature, put a -1/-1 counter on that creature.', 'Whenever you put one or more -1/-1 counters on a creature, each opponent loses 1 life and you gain 1 life.', '1/4'])"
+"(""Oketra's Attendant"", ['{3}{W}{W}', 'Creature — Bird Soldier', 'Flying', 'Cycling {2} ({2}, Discard this card: Draw a card.)', 'Embalm {3}{W}{W} ({3}{W}{W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Bird Soldier with no mana cost. Embalm only as a sorcery.)', '3/3'])"
+"(""Oketra's Avenger"", ['{1}{W}', 'Creature — Human Warrior', 'You may exert Oketra’s Avenger as it attacks. When you do, prevent all combat damage that would be dealt to it this turn. (An exerted creature won’t untap during your next untap step.)', '3/1'])"
+"(""Oketra's Monument"", ['{3}', 'Legendary Artifact', 'White creature spells you cast cost {1} less to cast.', 'Whenever you cast a creature spell, create a 1/1 white Warrior creature token with vigilance.'])"
+"('Oketra the True', ['{3}{W}', 'Legendary Creature — God', 'Double strike, indestructible', 'Oketra the True can’t attack or block unless you control at least three other creatures.', '{3}{W}: Create a 1/1 white Warrior creature token with vigilance.', '3/6'])"
+"('Ominous Sphinx', ['{3}{U}{U}', 'Creature — Sphinx', 'Flying', 'Whenever you cycle or discard a card, target creature an opponent controls gets -2/-0 until end of turn.', '4/4'])"
+"('Onward', ['{2}{R}', 'Instant', 'Target creature gets +X/+0 until end of turn, where X is its power.', 'Victory', '{2}{W}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Target creature gains double strike until end of turn.'])"
+"('Open Fire', ['{2}{R}', 'Instant', 'Open Fire deals 3 damage to any target.'])"
+"('Ornery Kudu', ['{2}{G}', 'Creature — Antelope', 'When Ornery Kudu enters the battlefield, put a -1/-1 counter on target creature you control.', '3/4'])"
+"('Overwhelming Splendor', ['{6}{W}{W}', 'Enchantment — Aura Curse', 'Enchant player', 'Creatures enchanted player controls lose all abilities and have base power and toughness 1/1.', 'Enchanted player can’t activate abilities that aren’t mana abilities or loyalty abilities.'])"
+"('Pact of Negation', ['{0}', 'Instant', 'Counter target spell.', 'At the beginning of your next upkeep, pay {3}{U}{U}. If you don’t, you lose the game.'])"
+"('Pathmaker Initiate', ['{1}{R}', 'Creature — Human Wizard', '{T}: Target creature with power 2 or less can’t be blocked this turn.', '2/1'])"
+"('Perilous Vault', ['{4}', 'Artifact', '{5}, {T}, Exile Perilous Vault: Exile all nonland permanents.'])"
+"('Pitiless Vizier', ['{3}{B}', 'Creature — Minotaur Cleric', 'Whenever you cycle or discard a card, Pitiless Vizier gains indestructible until end of turn. (Damage and effects that say “destroy” don’t destroy it. If its toughness is 0 or less, it’s still put into its owner’s graveyard.)', '4/2'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Pouncing Cheetah', ['{2}{G}', 'Creature — Cat', 'Flash', '3/2'])"
+"('Prepare', ['{1}{W}', 'Instant', 'Untap target creature. It gets +2/+2 and gains lifelink until end of turn.', 'Fight', '{3}{G}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Target creature you control fights target creature an opponent controls.'])"
+"('Pride Sovereign', ['{2}{G}', 'Creature — Cat', 'Pride Sovereign gets +1/+1 for each other Cat you control.', '{W}, {T}, Exert Pride Sovereign: Create two 1/1 white Cat creature tokens with lifelink. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Protection of the Hekma', ['{4}{W}', 'Enchantment', 'If a source an opponent controls would deal damage to you, prevent 1 of that damage.'])"
+"('Prowling Serpopard', ['{1}{G}{G}', 'Creature — Cat Snake', 'This spell can’t be countered.', 'Creature spells you control can’t be countered.', '4/3'])"
+"('Pull from Tomorrow', ['{X}{U}{U}', 'Instant', 'Draw X cards, then discard a card.'])"
+"('Puncturing Blow', ['{2}{R}{R}', 'Sorcery', 'Puncturing Blow deals 5 damage to target creature. If that creature would die this turn, exile it instead.'])"
+"('Pursue Glory', ['{3}{R}', 'Instant', 'Attacking creatures get +2/+0 until end of turn.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Quarry Hauler', ['{3}{G}', 'Creature — Camel', 'When Quarry Hauler enters the battlefield, for each kind of counter on target permanent, put another counter of that kind on it or remove one from it.', '4/3'])"
+"('Rags', ['{2}{B}{B}', 'Sorcery', 'All creatures get -2/-2 until end of turn.', 'Riches', '{5}{U}{U}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Each opponent chooses a creature they control. You gain control of those creatures.'])"
+"('Ramunap Excavator', ['{2}{G}', 'Creature — Naga Cleric', 'You may play lands from your graveyard.', '2/3'])"
+"('Ramunap Ruins', ['Land — Desert', '{T}: Add {C}.', '{T}, Pay 1 life: Add {R}.', '{2}{R}{R}, {T}, Sacrifice a Desert: Ramunap Ruins deals 2 damage to each opponent.'])"
+"('Razaketh, the Foulblooded', ['{5}{B}{B}{B}', 'Legendary Creature — Demon', 'Flying, trample', 'Pay 2 life, Sacrifice another creature: Search your library for a card and put that card into your hand. Then shuffle your library.', '8/8'])"
+"('Reason', ['{U}', 'Sorcery', 'Scry 3.', 'Believe', '{4}{G}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Look at the top card of your library. You may put it onto the battlefield if it’s a creature card. If you don’t, put it into your hand.'])"
+"('Reduce', ['{2}{U}', 'Instant', 'Counter target spell unless its controller pays {3}.', 'Rubble', '{2}{R}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Up to three target lands don’t untap during their controller’s next untap step.'])"
+"('Refuse', ['{3}{R}', 'Instant', 'Refuse deals damage to target spell’s controller equal to that spell’s converted mana cost.', 'Cooperate', '{2}{U}', 'Instant', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Copy target instant or sorcery spell. You may choose new targets for the copy.'])"
+"('Regal Caracal', ['{3}{W}{W}', 'Creature — Cat', 'Other Cats you control get +1/+1 and have lifelink.', 'When Regal Caracal enters the battlefield, create two 1/1 white Cat creature tokens with lifelink.', '3/3'])"
+"('Renewed Faith', ['{2}{W}', 'Instant', 'You gain 6 life.', 'Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)', 'When you cycle Renewed Faith, you may gain 2 life.'])"
+"('Resilient Khenra', ['{1}{G}', 'Creature — Jackal Wizard', 'When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra’s power.', 'Eternalize {4}{G}{G} ({4}{G}{G}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Jackal Wizard with no mana cost. Eternalize only as a sorcery.)', '2/2'])"
+"('Rest in Peace', ['{1}{W}', 'Enchantment', 'When Rest in Peace enters the battlefield, exile all cards from all graveyards.', 'If a card or token would be put into a graveyard from anywhere, exile it instead.'])"
+"(""Rhonas's Monument"", ['{3}', 'Legendary Artifact', 'Green creature spells you cast cost {1} less to cast.', 'Whenever you cast a creature spell, target creature you control gets +2/+2 and gains trample until end of turn.'])"
+"(""Rhonas's Stalwart"", ['{1}{G}', 'Creature — Human Warrior', 'You may exert Rhonas’s Stalwart as it attacks. When you do, it gets +1/+1 until end of turn and can’t be blocked by creatures with power 2 or less this turn. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Rhonas the Indomitable', ['{2}{G}', 'Legendary Creature — God', 'Deathtouch, indestructible', 'Rhonas the Indomitable can’t attack or block unless you control another creature with power 4 or greater.', '{2}{G}: Another target creature gets +2/+0 and gains trample until end of turn.', '5/5'])"
+"('Riddleform', ['{1}{U}', 'Enchantment', 'Whenever you cast a noncreature spell, you may have Riddleform become a 3/3 Sphinx creature with flying in addition to its other types until end of turn.', '{2}{U}: Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)'])"
+"('River Hoopoe', ['{G}{U}', 'Creature — Bird', 'Flying', '{3}{G}{U}: You gain 2 life and draw a card.', '1/3'])"
+"('Ruthless Sniper', ['{B}', 'Creature — Human Archer', 'Whenever you cycle or discard a card, you may pay {1}. If you do, put a -1/-1 counter on target creature.', '1/2'])"
+"('Sacred Cat', ['{W}', 'Creature — Cat', 'Lifelink', 'Embalm {W} ({W}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Cat with no mana cost. Embalm only as a sorcery.)', '1/1'])"
+"('Samut, the Tested', ['{2}{R}{G}', 'Legendary Planeswalker — Samut', '+1: Up to one target creature gains double strike until end of turn.', '−2: Samut, the Tested deals 2 damage divided as you choose among one or two targets.', '−7: Search your library for up to two creature and/or planeswalker cards, put them onto the battlefield, then shuffle your library.', 'Loyalty: 4'])"
+"('Samut, Voice of Dissent', ['{3}{R}{G}', 'Legendary Creature — Human Warrior', 'Flash', 'Double strike, vigilance, haste', 'Other creatures you control have haste.', '{W}, {T}: Untap another target creature.', '3/4'])"
+"('Sand Strangler', ['{3}{R}', 'Creature — Beast', 'When Sand Strangler enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, you may have Sand Strangler deal 3 damage to target creature.', '3/3'])"
+"('Sandwurm Convergence', ['{6}{G}{G}', 'Enchantment', 'Creatures with flying can’t attack you or planeswalkers you control.', 'At the beginning of your end step, create a 5/5 green Wurm creature token.'])"
+"('Scarab Feast', ['{B}', 'Instant', 'Exile up to three target cards from a single graveyard.', 'Cycling {B} ({B}, Discard this card: Draw a card.)'])"
+"('Scattered Groves', ['Land — Forest Plains', '({T}: Add {G} or {W}.)', 'Scattered Groves enters the battlefield tapped.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Scavenger Grounds', ['Land — Desert', '{T}: Add {C}.', '{2}, {T}, Sacrifice a Desert: Exile all cards from all graveyards.'])"
+"('Seeker of Insight', ['{1}{U}', 'Creature — Human Wizard', '{T}: Draw a card, then discard a card. Activate this ability only if you’ve cast a noncreature spell this turn.', '1/3'])"
+"('Seer of the Last Tomorrow', ['{2}{U}', 'Creature — Naga Cleric', '{U}, {T}, Discard a card: Target player mills three cards.', '1/4'])"
+"('Shadow of the Grave', ['{1}{B}', 'Instant', 'Return to your hand all cards in your graveyard that you cycled or discarded this turn.'])"
+"('Shadowstorm Vizier', ['{U}{B}', 'Creature — Human Cleric', 'Flying', 'Whenever you cycle or discard a card, Shadowstorm Vizier gets +1/+1 until end of turn.', '1/3'])"
+"('Shatterstorm', ['{2}{R}{R}', 'Sorcery', 'Destroy all artifacts. They can’t be regenerated.'])"
+"('Shed Weakness', ['{G}', 'Instant', 'Target creature gets +2/+2 until end of turn. You may remove a -1/-1 counter from it.'])"
+"('Shefet Dunes', ['Land — Desert', '{T}: Add {C}.', '{T}, Pay 1 life: Add {W}.', '{2}{W}{W}, {T}, Sacrifice a Desert: Creatures you control get +1/+1 until end of turn. Activate this ability only any time you could cast a sorcery.'])"
+"('Shefet Monitor', ['{5}{G}', 'Creature — Lizard', 'Cycling {3}{G} ({3}{G}, Discard this card: Draw a card.)', 'When you cycle Shefet Monitor, you may search your library for a basic land card or a Desert card, put it onto the battlefield, then shuffle your library. (Do this before you draw.)', '6/5'])"
+"('Sheltered Thicket', ['Land — Mountain Forest', '({T}: Add {R} or {G}.)', 'Sheltered Thicket enters the battlefield tapped.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Shimmerscale Drake', ['{4}{U}', 'Creature — Drake', 'Flying', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '3/4'])"
+"('Sidewinder Naga', ['{2}{G}', 'Creature — Naga Warrior', 'As long as you control a Desert or there is a Desert card in your graveyard, Sidewinder Naga gets +1/+0 and has trample.', '3/2'])"
+"('Sifter Wurm', ['{5}{G}{G}', 'Creature — Wurm', 'Trample', 'When Sifter Wurm enters the battlefield, scry 3, then reveal the top card of your library. You gain life equal to that card’s converted mana cost.', '7/7'])"
+"('Sixth Sense', ['{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature has “Whenever this creature deals combat damage to a player, you may draw a card.”'])"
+"('Slither Blade', ['{U}', 'Creature — Naga Rogue', 'Slither Blade can’t be blocked.', '1/2'])"
+"('Solemnity', ['{2}{W}', 'Enchantment', 'Players can’t get counters.', 'Counters can’t be put on artifacts, creatures, enchantments, or lands.'])"
+"('Solitary Camel', ['{2}{W}', 'Creature — Camel', 'Solitary Camel has lifelink as long as you control a Desert or there is a Desert card in your graveyard. (Damage dealt by this creature also causes you to gain that much life.)', '3/2'])"
+"('Soul-Scar Mage', ['{R}', 'Creature — Human Wizard', 'Prowess', 'If a source you control would deal noncombat damage to a creature an opponent controls, put that many -1/-1 counters on that creature instead.', '1/2'])"
+"('Soulstinger', ['{3}{B}', 'Creature — Scorpion Demon', 'When Soulstinger enters the battlefield, put two -1/-1 counters on target creature you control.', 'When Soulstinger dies, you may put a -1/-1 counter on target creature for each -1/-1 counter on Soulstinger.', '4/5'])"
+"('Spellweaver Eternal', ['{1}{U}', 'Creature — Zombie Naga Wizard', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', 'Afflict 2 (Whenever this creature becomes blocked, defending player loses 2 life.)', '2/1'])"
+"(""Sphinx's Revelation"", ['{X}{W}{U}{U}', 'Instant', 'You gain X life and draw X cards.'])"
+"('Splendid Agony', ['{2}{B}', 'Instant', 'Distribute two -1/-1 counters among one or two target creatures.'])"
+"('Spring', ['{2}{G}', 'Sorcery', 'Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.', 'Mind', '{4}{U}{U}', 'Instant', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Draw two cards.'])"
+"('Start', ['{2}{W}', 'Instant', 'Create two 1/1 white Warrior creature tokens with vigilance.', 'Finish', '{2}{B}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'As an additional cost to cast Finish, sacrifice a creature.', 'Destroy target creature.'])"
+"('Steward of Solidarity', ['{1}{W}', 'Creature — Human Warrior', '{T}, Exert Steward of Solidarity: Create a 1/1 white Warrior creature token with vigilance. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Stinging Shot', ['{G}', 'Instant', 'Put three -1/-1 counters on target creature with flying.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Strategic Planning', ['{1}{U}', 'Sorcery', 'Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.'])"
+"('Striped Riverwinder', ['{6}{U}', 'Creature — Serpent', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', 'Cycling {U} ({U}, Discard this card: Draw a card.)', '5/5'])"
+"('Struggle', ['{2}{R}', 'Instant', 'Struggle deals damage to target creature equal to the number of lands you control.', 'Survive', '{1}{G}', 'Sorcery', 'Aftermath (Cast this spell only from your graveyard. Then exile it.)', 'Each player shuffles their graveyard into their library.'])"
+"('Sunscorched Desert', ['Land — Desert', 'When Sunscorched Desert enters the battlefield, it deals 1 damage to target player or planeswalker.', '{T}: Add {C}.'])"
+"('Sunscourge Champion', ['{2}{W}', 'Creature — Human Wizard', 'When Sunscourge Champion enters the battlefield, you gain life equal to its power.', 'Eternalize—{2}{W}{W}, Discard a card. ({2}{W}{W}, Discard a card, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a 4/4 black Zombie Human Wizard with no mana cost. Eternalize only as a sorcery.)', '2/3'])"
+"('Sunset Pyramid', ['{2}', 'Artifact', 'Sunset Pyramid enters the battlefield with three brick counters on it.', '{2}, {T}, Remove a brick counter from Sunset Pyramid: Draw a card.', '{2}, {T}: Scry 1.'])"
+"('Supernatural Stamina', ['{B}', 'Instant', 'Until end of turn, target creature gets +2/+0 and gains “When this creature dies, return it to the battlefield tapped under its owner’s control.”'])"
+"('Supply Caravan', ['{4}{W}', 'Creature — Camel', 'When Supply Caravan enters the battlefield, if you control a tapped creature, create a 1/1 white Warrior creature token with vigilance.', '3/5'])"
+"('Supreme Will', ['{2}{U}', 'Instant', 'Choose one —', '• Counter target spell unless its controller pays {3}.', '• Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Sweltering Suns', ['{1}{R}{R}', 'Sorcery', 'Sweltering Suns deals 3 damage to each creature.', 'Cycling {3} ({3}, Discard this card: Draw a card.)'])"
+"('Synchronized Strike', ['{2}{G}', 'Instant', 'Untap up to two target creatures. They each get +2/+2 until end of turn.'])"
+"('Tah-Crop Elite', ['{3}{W}', 'Creature — Bird Warrior', 'Flying', 'You may exert Tah-Crop Elite as it attacks. When you do, creatures you control get +1/+1 until end of turn. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Temmet, Vizier of Naktamun', ['{W}{U}', 'Legendary Creature — Human Cleric', 'At the beginning of combat on your turn, target creature token you control gets +1/+1 until end of turn and can’t be blocked this turn.', 'Embalm {3}{W}{U} ({3}{W}{U}, Exile this card from your graveyard: Create a token that’s a copy of it, except it’s a white Zombie Human Cleric with no mana cost. Embalm only as a sorcery.)', '2/2'])"
+"('The Locust God', ['{4}{U}{R}', 'Legendary Creature — God', 'Flying', 'Whenever you draw a card, create a 1/1 blue and red Insect creature token with flying and haste.', '{2}{U}{R}: Draw a card, then discard a card.', 'When The Locust God dies, return it to its owner’s hand at the beginning of the next end step.', '4/4'])"
+"('The Scarab God', ['{3}{U}{B}', 'Legendary Creature — God', 'At the beginning of your upkeep, each opponent loses X life and you scry X, where X is the number of Zombies you control.', '{2}{U}{B}: Exile target creature card from a graveyard. Create a token that’s a copy of it, except it’s a 4/4 black Zombie.', 'When The Scarab God dies, return it to its owner’s hand at the beginning of the next end step.', '5/5'])"
+"('The Scorpion God', ['{3}{B}{R}', 'Legendary Creature — God', 'Whenever a creature with a -1/-1 counter on it dies, draw a card.', '{1}{B}{R}: Put a -1/-1 counter on another target creature.', 'When The Scorpion God dies, return it to its owner’s hand at the beginning of the next end step.', '6/5'])"
+"('Thorned Moloch', ['{2}{R}', 'Creature — Lizard', 'Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)', 'Thorned Moloch has first strike as long as it’s attacking.', '2/2'])"
+"('Those Who Serve', ['{2}{W}', 'Creature — Zombie', '2/4'])"
+"('Thoughtseize', ['{B}', 'Sorcery', 'Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life.'])"
+"('Thresher Lizard', ['{2}{R}', 'Creature — Lizard', 'Thresher Lizard gets +1/+2 as long as you have one or fewer cards in hand.', '3/2'])"
+"('Throne of the God-Pharaoh', ['{2}', 'Legendary Artifact', 'At the beginning of your end step, each opponent loses life equal to the number of tapped creatures you control.'])"
+"('Tormenting Voice', ['{1}{R}', 'Sorcery', 'As an additional cost to cast this spell, discard a card.', 'Draw two cards.'])"
+"('Torment of Hailfire', ['{X}{B}{B}', 'Sorcery', 'Repeat the following process X times. Each opponent loses 3 life unless that player sacrifices a nonland permanent or discards a card.'])"
+"(""Trespasser's Curse"", ['{1}{B}', 'Enchantment — Aura Curse', 'Enchant player', 'Whenever a creature enters the battlefield under enchanted player’s control, that player loses 1 life and you gain 1 life.'])"
+"('Trial of Ambition', ['{1}{B}', 'Enchantment', 'When Trial of Ambition enters the battlefield, target opponent sacrifices a creature.', 'When a Cartouche enters the battlefield under your control, return Trial of Ambition to its owner’s hand.'])"
+"('Trial of Knowledge', ['{3}{U}', 'Enchantment', 'When Trial of Knowledge enters the battlefield, draw three cards, then discard a card.', 'When a Cartouche enters the battlefield under your control, return Trial of Knowledge to its owner’s hand.'])"
+"('Trial of Solidarity', ['{2}{W}', 'Enchantment', 'When Trial of Solidarity enters the battlefield, creatures you control get +2/+1 and gain vigilance until end of turn.', 'When a Cartouche enters the battlefield under your control, return Trial of Solidarity to its owner’s hand.'])"
+"('Trial of Strength', ['{2}{G}', 'Enchantment', 'When Trial of Strength enters the battlefield, create a 4/2 green Beast creature token.', 'When a Cartouche enters the battlefield under your control, return Trial of Strength to its owner’s hand.'])"
+"('Trial of Zeal', ['{2}{R}', 'Enchantment', 'When Trial of Zeal enters the battlefield, it deals 3 damage to any target.', 'When a Cartouche enters the battlefield under your control, return Trial of Zeal to its owner’s hand.'])"
+"('Unburden', ['{1}{B}{B}', 'Sorcery', 'Target player discards two cards.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Unconventional Tactics', ['{2}{W}', 'Sorcery', 'Target creature gets +3/+3 and gains flying until end of turn.', 'Whenever a Zombie enters the battlefield under your control, you may pay {W}. If you do, return Unconventional Tactics from your graveyard to your hand.'])"
+"('Unesh, Criosphinx Sovereign', ['{4}{U}{U}', 'Legendary Creature — Sphinx', 'Flying', 'Sphinx spells you cast cost {2} less to cast.', 'Whenever Unesh, Criosphinx Sovereign or another Sphinx enters the battlefield under your control, reveal the top four cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.', '4/4'])"
+"('Unquenchable Thirst', ['{1}{U}', 'Enchantment — Aura', 'Enchant creature', 'When Unquenchable Thirst enters the battlefield, if you control a Desert or there is a Desert card in your graveyard, tap enchanted creature.', 'Enchanted creature doesn’t untap during its controller’s untap step.'])"
+"('Vile Manifestation', ['{1}{B}', 'Creature — Horror', 'Vile Manifestation gets +1/+0 for each card with cycling in your graveyard.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '0/4'])"
+"('Vizier of Deferment', ['{2}{W}', 'Creature — Human Cleric', 'Flash', 'When Vizier of Deferment enters the battlefield, you may exile target creature if it attacked or blocked this turn. Return that card to the battlefield under its owner’s control at the beginning of the next end step.', '2/2'])"
+"('Vizier of Many Faces', ['{2}{U}{U}', 'Creature — Shapeshifter Cleric', 'You may have Vizier of Many Faces enter the battlefield as a copy of any creature on the battlefield, except if Vizier of Many Faces was embalmed, the token has no mana cost, it’s white, and it’s a Zombie in addition to its other types.', 'Embalm {3}{U}{U}', '0/0'])"
+"('Vizier of Remedies', ['{1}{W}', 'Creature — Human Cleric', 'If one or more -1/-1 counters would be put on a creature you control, that many -1/-1 counters minus one are put on it instead.', '2/1'])"
+"('Vizier of the Anointed', ['{3}{U}', 'Creature — Human Cleric', 'When Vizier of the Anointed enters the battlefield, you may search your library for a creature card with eternalize or embalm, put that card into your graveyard, then shuffle your library.', 'Whenever you activate an eternalize or embalm ability, draw a card.', '2/4'])"
+"('Vizier of the Menagerie', ['{3}{G}', 'Creature — Naga Cleric', 'You may look at the top card of your library any time.', 'You may cast creature spells from the top of your library.', 'You may spend mana as though it were mana of any type to cast creature spells.', '3/4'])"
+"('Vizier of Tumbling Sands', ['{2}{U}', 'Creature — Human Cleric', '{T}: Untap another target permanent.', 'Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)', 'When you cycle Vizier of Tumbling Sands, untap target permanent.', '1/3'])"
+"('Wall of Forgotten Pharaohs', ['{2}', 'Artifact Creature — Wall', 'Defender', '{T}: Wall of Forgotten Pharaohs deals 1 damage to target player or planeswalker. Activate this ability only if you control a Desert or there is a Desert card in your graveyard.', '0/4'])"
+"('Wander in Death', ['{2}{B}', 'Sorcery', 'Return up to two target creature cards from your graveyard to your hand.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Wasp of the Bitter End', ['{1}{B}', 'Creature — Insect Horror', 'Flying', 'Whenever you cast a Bolas planeswalker spell, you may sacrifice Wasp of the Bitter End. If you do, destroy target creature.', '2/1'])"
+"('Wasteland Scorpion', ['{2}{B}', 'Creature — Scorpion', 'Deathtouch', 'Cycling {2} ({2}, Discard this card: Draw a card.)', '2/2'])"
+"('Watchers of the Dead', ['{2}', 'Artifact Creature — Cat', 'Exile Watchers of the Dead: Each opponent chooses two cards in their graveyard and exiles the rest.', '2/2'])"
+"('Watchful Naga', ['{2}{G}', 'Creature — Naga Wizard', 'You may exert Watchful Naga as it attacks. When you do, draw a card. (An exerted creature won’t untap during your next untap step.)', '2/2'])"
+"('Wayward Servant', ['{W}{B}', 'Creature — Zombie', 'Whenever another Zombie enters the battlefield under your control, each opponent loses 1 life and you gain 1 life.', '2/2'])"
+"('Winds of Rebuke', ['{1}{U}', 'Instant', 'Return target nonland permanent to its owner’s hand. Each player mills two cards.'])"
+"('Wrath of God', ['{2}{W}{W}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"
+"('Zealot of the God-Pharaoh', ['{3}{R}', 'Creature — Minotaur Archer', '{4}{R}: Zealot of the God-Pharaoh deals 2 damage to target opponent or planeswalker.', '4/3'])"

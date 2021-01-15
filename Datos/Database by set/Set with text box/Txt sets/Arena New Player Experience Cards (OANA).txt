@@ -1,65 +1,14 @@
-Angelic Reward
-{3}{W}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +3/+3 and has flying.
-Confront the Assault
-{4}{W}
-Instant
-Cast this spell only if a creature is attacking you.
-Create three 1/1 white Spirit creature tokens with flying.
-Feral Roar
-{1}{G}
-Sorcery
-Target creature gets +4/+4 until end of turn.
-Inspiring Commander
-{4}{W}{W}
-Creature — Human Soldier
-"Whenever another creature with power 2 or less enters the battlefield under your control, you gain 1 life and draw a card."
-1/4
-Knight's Pledge
-{1}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +2/+2.
-Raging Goblin
-{R}
-Creature — Goblin Berserker
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-1/1
-River's Favor
-{U}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +1/+1.
-Sanctuary Cat
-{W}
-Creature — Cat
-1/2
-Serra Angel
-{3}{W}{W}
-Creature — Angel
-"Flying, vigilance"
-4/4
-Shrine Keeper
-{W}{W}
-Creature — Human Cleric
-2/2
-Spiritual Guardian
-{3}{W}{W}
-Creature — Spirit
-"When Spiritual Guardian enters the battlefield, you gain 4 life."
-3/4
-Tactical Advantage
-{W}
-Instant
-Target blocking or blocked creature you control gets +2/+2 until end of turn.
-Treetop Warden
-{1}{G}
-Creature — Elf Warrior
-2/2
-Zephyr Gull
-{U}
-Creature — Bird
-Flying
-1/1
+"('Angelic Reward', ['{3}{W}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +3/+3 and has flying.'])"
+"('Confront the Assault', ['{4}{W}', 'Instant', 'Cast this spell only if a creature is attacking you.', 'Create three 1/1 white Spirit creature tokens with flying.'])"
+"('Feral Roar', ['{1}{G}', 'Sorcery', 'Target creature gets +4/+4 until end of turn.'])"
+"('Inspiring Commander', ['{4}{W}{W}', 'Creature — Human Soldier', 'Whenever another creature with power 2 or less enters the battlefield under your control, you gain 1 life and draw a card.', '1/4'])"
+"(""Knight's Pledge"", ['{1}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+2.'])"
+"('Raging Goblin', ['{R}', 'Creature — Goblin Berserker', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', '1/1'])"
+"(""River's Favor"", ['{U}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +1/+1.'])"
+"('Sanctuary Cat', ['{W}', 'Creature — Cat', '1/2'])"
+"('Serra Angel', ['{3}{W}{W}', 'Creature — Angel', 'Flying, vigilance', '4/4'])"
+"('Shrine Keeper', ['{W}{W}', 'Creature — Human Cleric', '2/2'])"
+"('Spiritual Guardian', ['{3}{W}{W}', 'Creature — Spirit', 'When Spiritual Guardian enters the battlefield, you gain 4 life.', '3/4'])"
+"('Tactical Advantage', ['{W}', 'Instant', 'Target blocking or blocked creature you control gets +2/+2 until end of turn.'])"
+"('Treetop Warden', ['{1}{G}', 'Creature — Elf Warrior', '2/2'])"
+"('Zephyr Gull', ['{U}', 'Creature — Bird', 'Flying', '1/1'])"

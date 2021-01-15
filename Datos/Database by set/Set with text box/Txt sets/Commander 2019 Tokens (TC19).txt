@@ -1,105 +1,26 @@
-Angel of Sanctions
-Token Creature — Zombie Angel
-Flying
-"When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield."
-3/4
-Assassin
-Token Creature — Assassin
-"Whenever this creature deals combat damage to a player, that player loses the game."
-1/1
-Beast
-Token Creature — Beast
-3/3
-Beast
-Token Creature — Beast
-4/4
-Bird
-Token Creature — Bird
-Flying
-3/3
-Bird
-Token Creature — Bird
-Flying
-3/4
-Centaur
-Token Creature — Centaur
-3/3
-Dragon
-Token Creature — Dragon
-Flying
-5/5
-Drake
-Token Creature — Drake
-Flying
-2/2
-Egg
-Token Creature — Egg
-Defender
-0/1
-Eldrazi
-Token Creature — Eldrazi
-10/10
-Gargoyle
-Token Artifact Creature — Gargoyle
-Flying
-3/4
-Heart-Piercer Manticore
-Token Creature — Zombie Manticore
-"When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature’s power to any target."
-4/3
-Horror
-Token Artifact Creature — Horror
-*/*
-Human
-Token Creature — Human
-1/1
-Manifest
-Creature
-(You can cover a face-down manifested creature with this reminder card.
-A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)
-2/2
-Morph
-Creature
-(You can cover a face-down creature with this reminder card.
-A card with morph can be turned face up any time for its morph cost.)
-2/2
-Ob Nixilis Reignited Emblem
-Emblem — Nixilis
-"Whenever a player draws a card, you lose 2 life."
-Pegasus
-Token Creature — Pegasus
-Flying
-1/1
-Plant
-Token Creature — Plant
-1/1
-Rhino
-Token Creature — Rhino
-Trample
-4/4
-Saproling
-Token Creature — Saproling
-1/1
-Sculpture
-Token Artifact Creature — Sculpture
-This creature’s power and toughness are each equal to the number of Sculptures you control.
-*/*
-Snake
-Token Creature — Snake
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
-Wurm
-Token Creature — Wurm
-6/6
-Zombie
-Token Creature — Zombie
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Angel of Sanctions', ['Token Creature — Zombie Angel', 'Flying', 'When Angel of Sanctions enters the battlefield, you may exile target nonland permanent an opponent controls until Angel of Sanctions leaves the battlefield.', '3/4'])"
+"('Assassin', ['Token Creature — Assassin', 'Whenever this creature deals combat damage to a player, that player loses the game.', '1/1'])"
+"('Beast', ['Token Creature — Beast', '4/4'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '3/4'])"
+"('Centaur', ['Token Creature — Centaur', '3/3'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '5/5'])"
+"('Drake', ['Token Creature — Drake', 'Flying', '2/2'])"
+"('Egg', ['Token Creature — Egg', 'Defender', '0/1'])"
+"('Eldrazi', ['Token Creature — Eldrazi', '10/10'])"
+"('Gargoyle', ['Token Artifact Creature — Gargoyle', 'Flying', '3/4'])"
+"('Heart-Piercer Manticore', ['Token Creature — Zombie Manticore', 'When Heart-Piercer Manticore enters the battlefield, you may sacrifice another creature. When you do, Heart-Piercer Manticore deals damage equal to that creature’s power to any target.', '4/3'])"
+"('Horror', ['Token Artifact Creature — Horror', '*/*'])"
+"('Human', ['Token Creature — Human', '1/1'])"
+"('Manifest', ['Creature', '(You can cover a face-down manifested creature with this reminder card.', 'A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)', '2/2'])"
+"('Morph', ['Creature', '(You can cover a face-down creature with this reminder card.', 'A card with morph can be turned face up any time for its morph cost.)', '2/2'])"
+"('Ob Nixilis Reignited Emblem', ['Emblem — Nixilis', 'Whenever a player draws a card, you lose 2 life.'])"
+"('Pegasus', ['Token Creature — Pegasus', 'Flying', '1/1'])"
+"('Plant', ['Token Creature — Plant', '1/1'])"
+"('Rhino', ['Token Creature — Rhino', 'Trample', '4/4'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Sculpture', ['Token Artifact Creature — Sculpture', 'This creature’s power and toughness are each equal to the number of Sculptures you control.', '*/*'])"
+"('Snake', ['Token Creature — Snake', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Treasure', ['Token Artifact — Treasure', '{T}, Sacrifice this artifact: Add one mana of any color.'])"
+"('Wurm', ['Token Creature — Wurm', '6/6'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

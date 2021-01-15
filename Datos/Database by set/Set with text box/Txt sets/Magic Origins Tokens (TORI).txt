@@ -1,55 +1,14 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-"Ashaya, the Awoken World"
-Token Legendary Creature — Elemental
-4/4
-"Chandra, Roaring Flame Emblem"
-Emblem — Chandra
-"At the beginning of your upkeep, this emblem deals 3 damage to you."
-Demon
-Token Creature — Demon
-Flying
-5/5
-Elemental
-Token Creature — Elemental
-2/2
-Elf Warrior
-Token Creature — Elf Warrior
-1/1
-Goblin
-Token Creature — Goblin
-1/1
-"Jace, Telepath Unbound Emblem"
-Emblem — Jace
-"Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard."
-Knight
-Token Creature — Knight
-Vigilance
-2/2
-"Liliana, Defiant Necromancer Emblem"
-Emblem — Liliana
-"Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step."
-Magic Origins Checklist
-Card
-(You can mark this card to represent a double-faced Planeswalker card in your library or hand.)
-"☐ Kytheon, Hero of Akros {W}"
-"☐ Jace, Vryn’s Prodigy {1}{U}"
-"☐ Liliana, Heretical Healer {1}{B}{B}"
-"☐ Chandra, Fire of Kaladesh {1}{R}{R}"
-"☐ Nissa, Vastwood Seer {2}{G}"
-Soldier
-Token Creature — Soldier
-1/1
-Thopter
-Token Artifact Creature — Thopter
-Flying
-1/1
-Thopter
-Token Artifact Creature — Thopter
-Flying
-1/1
-Zombie
-Token Creature — Zombie
-2/2
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Ashaya, the Awoken World', ['Token Legendary Creature — Elemental', '4/4'])"
+"('Chandra, Roaring Flame Emblem', ['Emblem — Chandra', 'At the beginning of your upkeep, this emblem deals 3 damage to you.'])"
+"('Demon', ['Token Creature — Demon', 'Flying', '5/5'])"
+"('Elemental', ['Token Creature — Elemental', '2/2'])"
+"('Elf Warrior', ['Token Creature — Elf Warrior', '1/1'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Jace, Telepath Unbound Emblem', ['Emblem — Jace', 'Whenever you cast a spell, target opponent puts the top five cards of their library into their graveyard.'])"
+"('Knight', ['Token Creature — Knight', 'Vigilance', '2/2'])"
+"('Liliana, Defiant Necromancer Emblem', ['Emblem — Liliana', 'Whenever a creature dies, return it to the battlefield under your control at the beginning of the next end step.'])"
+"('Magic Origins Checklist', ['Card', '(You can mark this card to represent a double-faced Planeswalker card in your library or hand.)', '☐ Kytheon, Hero of Akros {W}', '☐ Jace, Vryn’s Prodigy {1}{U}', '☐ Liliana, Heretical Healer {1}{B}{B}', '☐ Chandra, Fire of Kaladesh {1}{R}{R}', '☐ Nissa, Vastwood Seer {2}{G}'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Thopter', ['Token Artifact Creature — Thopter', 'Flying', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

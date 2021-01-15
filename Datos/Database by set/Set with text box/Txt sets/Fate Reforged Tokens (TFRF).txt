@@ -1,16 +1,4 @@
-Manifest
-Creature
-(You can cover a face-down manifested creature with this reminder card.
-A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)
-2/2
-Monk
-Token Creature — Monk
-Prowess
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Warrior
-Token Creature — Warrior
-2/1
+"('Manifest', ['Creature', '(You can cover a face-down manifested creature with this reminder card.', 'A manifested creature card can be turned face up any time for its mana cost. A face-down card can also be turned face up for its morph cost.)', '2/2'])"
+"('Monk', ['Token Creature — Monk', 'Prowess', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Warrior', ['Token Creature — Warrior', '2/1'])"

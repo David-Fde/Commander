@@ -1,44 +1,9 @@
-"Avacyn, Angel of Hope"
-{5}{W}{W}{W}
-Legendary Creature — Angel
-"Flying, vigilance, indestructible"
-Other permanents you control have indestructible.
-8/8
-Capture of Jingzhou
-{3}{U}{U}
-Sorcery
-Take an extra turn after this one.
-"Doran, the Siege Tower"
-{W}{B}{G}
-Legendary Creature — Treefolk Shaman
-Each creature assigns combat damage equal to its toughness rather than its power.
-0/5
-Gaddock Teeg
-{G}{W}
-Legendary Creature — Kithkin Advisor
-Noncreature spells with converted mana cost 4 or greater can’t be cast.
-Noncreature spells with {X} in their mana costs can’t be cast.
-2/2
-Homeward Path
-Land
-{T}: Add {C}.
-{T}: Each player gains control of all creatures they own.
-Pendelhaven
-Legendary Land
-{T}: Add {G}.
-{T}: Target 1/1 creature gets +1/+2 until end of turn.
-Prismatic Geoscope
-{5}
-Artifact
-Prismatic Geoscope enters the battlefield tapped.
-"Domain — {T}: Add X mana in any combination of colors, where X is the number of basic land types among lands you control."
-Rules Lawyer
-{3}{W}{W}
-Artifact Creature — Cyborg Advisor
-"State-based actions don’t apply to you or other permanents you control. (You don’t lose the game due to having 0 or less life or drawing from an empty library. Your creatures aren’t destroyed due to damage or deathtouch and aren’t put into a graveyard due to having 0 or less toughness. Your planeswalkers aren’t put into a graveyard if they have 0 loyalty. You don’t put a legendary permanent into a graveyard if you control two with the same name. Counters aren’t removed from your permanents due to game rules. Permanents you control attached or combined illegally remain on the battlefield. For complete rules and regulations, see rule 704.)"
-1/1
-Spellskite
-{2}
-Artifact Creature — Horror
-{U/P}: Change a target of target spell or ability to Spellskite. ({U/P} can be paid with either {U} or 2 life.)
-0/4
+"('Avacyn, Angel of Hope', ['{5}{W}{W}{W}', 'Legendary Creature — Angel', 'Flying, vigilance, indestructible', 'Other permanents you control have indestructible.', '8/8'])"
+"('Capture of Jingzhou', ['{3}{U}{U}', 'Sorcery', 'Take an extra turn after this one.'])"
+"('Doran, the Siege Tower', ['{W}{B}{G}', 'Legendary Creature — Treefolk Shaman', 'Each creature assigns combat damage equal to its toughness rather than its power.', '0/5'])"
+"('Gaddock Teeg', ['{G}{W}', 'Legendary Creature — Kithkin Advisor', 'Noncreature spells with converted mana cost 4 or greater can’t be cast.', 'Noncreature spells with {X} in their mana costs can’t be cast.', '2/2'])"
+"('Homeward Path', ['Land', '{T}: Add {C}.', '{T}: Each player gains control of all creatures they own.'])"
+"('Pendelhaven', ['Legendary Land', '{T}: Add {G}.', '{T}: Target 1/1 creature gets +1/+2 until end of turn.'])"
+"('Prismatic Geoscope', ['{5}', 'Artifact', 'Prismatic Geoscope enters the battlefield tapped.', 'Domain — {T}: Add X mana in any combination of colors, where X is the number of basic land types among lands you control.'])"
+"('Rules Lawyer', ['{3}{W}{W}', 'Artifact Creature — Cyborg Advisor', 'State-based actions don’t apply to you or other permanents you control. (You don’t lose the game due to having 0 or less life or drawing from an empty library. Your creatures aren’t destroyed due to damage or deathtouch and aren’t put into a graveyard due to having 0 or less toughness. Your planeswalkers aren’t put into a graveyard if they have 0 loyalty. You don’t put a legendary permanent into a graveyard if you control two with the same name. Counters aren’t removed from your permanents due to game rules. Permanents you control attached or combined illegally remain on the battlefield. For complete rules and regulations, see rule 704.)', '1/1'])"
+"('Spellskite', ['{2}', 'Artifact Creature — Horror', '{U/P}: Change a target of target spell or ability to Spellskite. ({U/P} can be paid with either {U} or 2 life.)', '0/4'])"

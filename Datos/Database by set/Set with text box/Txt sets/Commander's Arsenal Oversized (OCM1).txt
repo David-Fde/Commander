@@ -1,59 +1,10 @@
-"Azusa, Lost but Seeking"
-{2}{G}
-Legendary Creature — Human Monk
-You may play two additional lands on each of your turns.
-1/2
-Brion Stoutarm
-{2}{R}{W}
-Legendary Creature — Giant Warrior
-Lifelink
-"{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to target player or planeswalker."
-4/4
-"Glissa, the Traitor"
-{B}{G}{G}
-Legendary Creature — Zombie Elf
-"First strike, deathtouch"
-"Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand."
-3/3
-"Godo, Bandit Warlord"
-{5}{R}
-Legendary Creature — Human Barbarian
-"When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library."
-"Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase."
-3/3
-"Grimgrin, Corpse-Born"
-{3}{U}{B}
-Legendary Creature — Zombie Warrior
-"Grimgrin, Corpse-Born enters the battlefield tapped and doesn’t untap during your untap step."
-Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.
-"Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin."
-5/5
-"Karn, Silver Golem"
-{5}
-Legendary Artifact Creature — Golem
-"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn."
-{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
-4/4
-"Karrthus, Tyrant of Jund"
-{4}{B}{R}{G}
-Legendary Creature — Dragon
-"Flying, haste"
-"When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons."
-Other Dragon creatures you control have haste.
-7/7
-Mayael the Anima
-{R}{G}{W}
-Legendary Creature — Elf Shaman
-"{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order."
-2/3
-Sliver Queen
-{W}{U}{B}{R}{G}
-Legendary Creature — Sliver
-{2}: Create a 1/1 colorless Sliver creature token.
-7/7
-Zur the Enchanter
-{1}{W}{U}{B}
-Legendary Creature — Human Wizard
-Flying
-"Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library."
-1/4
+"('Azusa, Lost but Seeking', ['{2}{G}', 'Legendary Creature — Human Monk', 'You may play two additional lands on each of your turns.', '1/2'])"
+"('Brion Stoutarm', ['{2}{R}{W}', 'Legendary Creature — Giant Warrior', 'Lifelink', '{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to target player or planeswalker.', '4/4'])"
+"('Glissa, the Traitor', ['{B}{G}{G}', 'Legendary Creature — Zombie Elf', 'First strike, deathtouch', 'Whenever a creature an opponent controls dies, you may return target artifact card from your graveyard to your hand.', '3/3'])"
+"('Godo, Bandit Warlord', ['{5}{R}', 'Legendary Creature — Human Barbarian', 'When Godo, Bandit Warlord enters the battlefield, you may search your library for an Equipment card and put it onto the battlefield. If you do, shuffle your library.', 'Whenever Godo attacks for the first time each turn, untap it and all Samurai you control. After this phase, there is an additional combat phase.', '3/3'])"
+"('Grimgrin, Corpse-Born', ['{3}{U}{B}', 'Legendary Creature — Zombie Warrior', 'Grimgrin, Corpse-Born enters the battlefield tapped and doesn’t untap during your untap step.', 'Sacrifice another creature: Untap Grimgrin and put a +1/+1 counter on it.', 'Whenever Grimgrin attacks, destroy target creature defending player controls, then put a +1/+1 counter on Grimgrin.', '5/5'])"
+"('Karn, Silver Golem', ['{5}', 'Legendary Artifact Creature — Golem', 'Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.', '{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.', '4/4'])"
+"('Karrthus, Tyrant of Jund', ['{4}{B}{R}{G}', 'Legendary Creature — Dragon', 'Flying, haste', 'When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.', 'Other Dragon creatures you control have haste.', '7/7'])"
+"('Mayael the Anima', ['{R}{G}{W}', 'Legendary Creature — Elf Shaman', '{3}{R}{G}{W}, {T}: Look at the top five cards of your library. You may put a creature card with power 5 or greater from among them onto the battlefield. Put the rest on the bottom of your library in any order.', '2/3'])"
+"('Sliver Queen', ['{W}{U}{B}{R}{G}', 'Legendary Creature — Sliver', '{2}: Create a 1/1 colorless Sliver creature token.', '7/7'])"
+"('Zur the Enchanter', ['{1}{W}{U}{B}', 'Legendary Creature — Human Wizard', 'Flying', 'Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.', '1/4'])"

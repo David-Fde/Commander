@@ -1,320 +1,57 @@
-Aethersnipe
-{5}{U}
-Creature — Elemental
-"When Aethersnipe enters the battlefield, return target nonland permanent to its owner’s hand."
-"Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-4/4
-Air Elemental
-{3}{U}{U}
-Creature — Elemental
-Flying
-4/4
-Ancestral Vision
-Sorcery
-"Suspend 4—{U} (Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)"
-Target player draws three cards.
-Bottle Gnomes
-{3}
-Artifact Creature — Gnome
-Sacrifice Bottle Gnomes: You gain 3 life.
-1/3
-Brine Elemental
-{4}{U}{U}
-Creature — Elemental
-Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Brine Elemental is turned face up, each opponent skips their next untap step."
-5/4
-Chandra Nalaar
-{3}{R}{R}
-Legendary Planeswalker — Chandra
-+1: Chandra Nalaar deals 1 damage to target player or planeswalker.
-−X: Chandra Nalaar deals X damage to target creature.
-−8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker’s controller controls.
-Loyalty: 6
-Chartooth Cougar
-{5}{R}
-Creature — Cat Beast
-{R}: Chartooth Cougar gets +1/+0 until end of turn.
-"Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)"
-4/4
-Condescend
-{X}{U}
-Instant
-"Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)"
-Cone of Flame
-{3}{R}{R}
-Sorcery
-"Cone of Flame deals 1 damage to any target, 2 damage to another target, and 3 damage to a third target."
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Daze
-{1}{U}
-Instant
-You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.
-Counter target spell unless its controller pays {1}.
-Demonfire
-{X}{R}
-Sorcery
-"Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead."
-"Hellbent — If you have no cards in hand, this spell can’t be countered and the damage can’t be prevented."
-Errant Ephemeron
-{6}{U}
-Creature — Illusion
-Flying
-"Suspend 4—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
-4/4
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Fathom Seer
-{1}{U}
-Creature — Illusion
-Morph—Return two Islands you control to their owner’s hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Fathom Seer is turned face up, draw two cards."
-1/3
-Fireball
-{X}{R}
-Sorcery
-This spell costs {1} more to cast for each target beyond the first.
-"Fireball deals X damage divided evenly, rounded down, among any number of targets."
-Fireblast
-{4}{R}{R}
-Instant
-You may sacrifice two Mountains rather than pay this spell’s mana cost.
-Fireblast deals 4 damage to any target.
-Firebolt
-{R}
-Sorcery
-Firebolt deals 2 damage to any target.
-Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Fireslinger
-{1}{R}
-Creature — Human Wizard
-{T}: Fireslinger deals 1 damage to any target and 1 damage to you.
-1/1
-Flame Javelin
-{2/R}{2/R}{2/R}
-Instant
-({2/R} can be paid with any two mana or with {R}. This card’s converted mana cost is 6.)
-Flame Javelin deals 4 damage to any target.
-Flamekin Brawler
-{R}
-Creature — Elemental Warrior
-{R}: Flamekin Brawler gets +1/+0 until end of turn.
-0/2
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Flamewave Invoker
-{2}{R}
-Creature — Goblin Mutant
-{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.
-2/2
-Fledgling Mawcor
-{3}{U}
-Creature — Beast
-Flying
-{T}: Fledgling Mawcor deals 1 damage to any target.
-Morph {U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-2/2
-Furnace Whelp
-{2}{R}{R}
-Creature — Dragon
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-{R}: Furnace Whelp gets +1/+0 until end of turn.
-2/2
-Guile
-{3}{U}{U}{U}
-Creature — Elemental Incarnation
-Guile can’t be blocked except by three or more creatures.
-"If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost."
-"When Guile is put into a graveyard from anywhere, shuffle it into its owner’s library."
-6/6
-Gush
-{4}{U}
-Instant
-You may return two Islands you control to their owner’s hand rather than pay this spell’s mana cost.
-Draw two cards.
-Hostility
-{3}{R}{R}{R}
-Creature — Elemental Incarnation
-Haste
-"If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way."
-"When Hostility is put into a graveyard from anywhere, shuffle it into its owner’s library."
-6/6
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Ingot Chewer
-{4}{R}
-Creature — Elemental
-"When Ingot Chewer enters the battlefield, destroy target artifact."
-"Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-3/3
-Inner-Flame Acolyte
-{1}{R}{R}
-Creature — Elemental Shaman
-"When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn."
-"Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-2/2
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jace Beleren
-{1}{U}{U}
-Legendary Planeswalker — Jace
-+2: Each player draws a card.
-−1: Target player draws a card.
-−10: Target player mills twenty cards.
-Loyalty: 3
-Keldon Megaliths
-Land
-Keldon Megaliths enters the battlefield tapped.
-{T}: Add {R}.
-"Hellbent — {1}{R}, {T}: Keldon Megaliths deals 1 damage to any target. Activate this ability only if you have no cards in hand."
-Magma Jet
-{1}{R}
-Instant
-Magma Jet deals 2 damage to any target. Scry 2.
-Man-o'-War
-{2}{U}
-Creature — Jellyfish
-"When Man-o’-War enters the battlefield, return target creature to its owner’s hand."
-2/2
-Martyr of Frost
-{U}
-Creature — Human Wizard
-"{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}."
-1/1
-Mind Stone
-{2}
-Artifact
-{T}: Add {C}.
-"{1}, {T}, Sacrifice Mind Stone: Draw a card."
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mulldrifter
-{4}{U}
-Creature — Elemental
-Flying
-"When Mulldrifter enters the battlefield, draw two cards."
-"Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-2/2
-Ophidian
-{2}{U}
-Creature — Snake
-"Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn."
-1/3
-Oxidda Golem
-{6}
-Artifact Creature — Golem
-Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)
-Haste
-3/2
-Pyre Charger
-{R}{R}
-Creature — Elemental Warrior
-Haste
-{R}: Pyre Charger gets +1/+0 until end of turn.
-1/1
-Quicksilver Dragon
-{4}{U}{U}
-Creature — Dragon
-Flying
-"{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell’s target to another creature."
-Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-5/5
-Rakdos Pit Dragon
-{2}{R}{R}
-Creature — Dragon
-{R}{R}: Rakdos Pit Dragon gains flying until end of turn.
-{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.
-Hellbent — Rakdos Pit Dragon has double strike as long as you have no cards in hand.
-3/3
-Repulse
-{2}{U}
-Instant
-Return target creature to its owner’s hand.
-Draw a card.
-Riftwing Cloudskate
-{3}{U}{U}
-Creature — Illusion
-Flying
-"When Riftwing Cloudskate enters the battlefield, return target permanent to its owner’s hand."
-"Suspend 3—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)"
-2/2
-Seal of Fire
-{R}
-Enchantment
-Sacrifice Seal of Fire: It deals 2 damage to any target.
-Slith Firewalker
-{R}{R}
-Creature — Slith
-Haste
-"Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it."
-1/1
-Soulbright Flamekin
-{1}{R}
-Creature — Elemental Shaman
-"{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R}."
-2/1
-Spire Golem
-{6}
-Artifact Creature — Golem
-Affinity for Islands (This spell costs {1} less to cast for each Island you control.)
-Flying
-2/4
-Terrain Generator
-Land
-{T}: Add {C}.
-"{2}, {T}: You may put a basic land card from your hand onto the battlefield tapped."
-Voidmage Apprentice
-{1}{U}
-Creature — Human Wizard
-Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Voidmage Apprentice is turned face up, counter target spell."
-1/1
-Wall of Deceit
-{1}{U}
-Creature — Wall
-Defender (This creature can’t attack.)
-{3}: Turn Wall of Deceit face down.
-Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-0/5
-Waterspout Djinn
-{2}{U}{U}
-Creature — Djinn
-Flying
-"At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner’s hand."
-4/4
-Willbender
-{1}{U}
-Creature — Human Wizard
-Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Willbender is turned face up, change the target of target spell or ability with a single target."
-1/2
+"('Albino Troll', ['{1}{G}', 'Creature — Troll', 'Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)', '{1}{G}: Regenerate Albino Troll.', '3/3'])"
+"('Bad Moon', ['{1}{B}', 'Enchantment', 'Black creatures get +1/+1.'])"
+"('Basking Rootwalla', ['{G}', 'Creature — Lizard', '{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.', 'Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '1/1'])"
+"('Beast Attack', ['{2}{G}{G}{G}', 'Instant', 'Create a 4/4 green Beast creature token.', 'Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Blastoderm', ['{2}{G}{G}', 'Creature — Beast', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', '5/5'])"
+"('Corrupt', ['{5}{B}', 'Sorcery', 'Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.'])"
+"('Deathgreeter', ['{B}', 'Creature — Human Shaman', 'Whenever another creature dies, you may gain 1 life.', '1/1'])"
+"('Drudge Skeletons', ['{1}{B}', 'Creature — Skeleton', '{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/1'])"
+"('Elephant Guide', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +3/+3.', 'When enchanted creature dies, create a 3/3 green Elephant creature token.'])"
+"('Enslave', ['{4}{B}{B}', 'Enchantment — Aura', 'Enchant creature', 'You control enchanted creature.', 'At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.'])"
+"('Faerie Macabre', ['{1}{B}{B}', 'Creature — Faerie Rogue', 'Flying', 'Discard Faerie Macabre: Exile up to two target cards from graveyards.', '2/2'])"
+"('Fleshbag Marauder', ['{2}{B}', 'Creature — Zombie Warrior', 'When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.', '3/1'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Garruk Wildspeaker', ['{2}{G}{G}', 'Legendary Planeswalker — Garruk', '+1: Untap two target lands.', '−1: Create a 3/3 green Beast creature token.', '−4: Creatures you control get +3/+3 and gain trample until end of turn.', 'Loyalty: 3'])"
+"('Genju of the Cedars', ['{G}', 'Enchantment — Aura', 'Enchant Forest', '{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It’s still a land.', 'When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.'])"
+"('Genju of the Fens', ['{B}', 'Enchantment — Aura', 'Enchant Swamp', '{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with “{B}: This creature gets +1/+1 until end of turn.” It’s still a land.', 'When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.'])"
+"('Ghost-Lit Stalker', ['{B}', 'Creature — Spirit', '{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.', 'Channel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.', '1/1'])"
+"('Giant Growth', ['{G}', 'Instant', 'Target creature gets +3/+3 until end of turn.'])"
+"('Harmonize', ['{2}{G}{G}', 'Sorcery', 'Draw three cards.'])"
+"('Hideous End', ['{1}{B}{B}', 'Instant', 'Destroy target nonblack creature. Its controller loses 2 life.'])"
+"('Howling Banshee', ['{2}{B}{B}', 'Creature — Spirit', 'Flying', 'When Howling Banshee enters the battlefield, each player loses 3 life.', '3/3'])"
+"('Ichor Slick', ['{2}{B}', 'Sorcery', 'Target creature gets -3/-3 until end of turn.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', 'Madness {3}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)'])"
+"('Indrik Stomphowler', ['{4}{G}', 'Creature — Beast', 'When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.', '4/4'])"
+"('Invigorate', ['{2}{G}', 'Instant', 'If you control a Forest, rather than pay this spell’s mana cost, you may have an opponent gain 3 life.', 'Target creature gets +4/+4 until end of turn.'])"
+"('Keening Banshee', ['{2}{B}{B}', 'Creature — Spirit', 'Flying', 'When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.', '2/2'])"
+"('Krosan Tusker', ['{5}{G}{G}', 'Creature — Boar Beast', 'Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)', 'When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)', '6/5'])"
+"('Lignify', ['{1}{G}', 'Tribal Enchantment — Treefolk Aura', 'Enchant creature', 'Enchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.'])"
+"('Liliana Vess', ['{3}{B}{B}', 'Legendary Planeswalker — Liliana', '+1: Target player discards a card.', '−2: Search your library for a card, then shuffle your library and put that card on top of it.', '−8: Put all creature cards from all graveyards onto the battlefield under your control.', 'Loyalty: 5'])"
+"('Mutilate', ['{2}{B}{B}', 'Sorcery', 'All creatures get -1/-1 until end of turn for each Swamp you control.'])"
+"(""Nature's Lore"", ['{1}{G}', 'Sorcery', 'Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.'])"
+"('Overrun', ['{2}{G}{G}{G}', 'Sorcery', 'Creatures you control get +3/+3 and gain trample until end of turn.'])"
+"('Phyrexian Rager', ['{2}{B}', 'Creature — Horror', 'When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.', '2/2'])"
+"('Plated Slagwurm', ['{4}{G}{G}{G}', 'Creature — Wurm', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '8/8'])"
+"('Polluted Mire', ['Land', 'Polluted Mire enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Rancor', ['{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+0 and has trample.', 'When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand.'])"
+"('Ravenous Baloth', ['{2}{G}{G}', 'Creature — Beast', 'Sacrifice a Beast: You gain 4 life.', '4/4'])"
+"('Ravenous Rats', ['{1}{B}', 'Creature — Rat', 'When Ravenous Rats enters the battlefield, target opponent discards a card.', '1/1'])"
+"('Rise from the Grave', ['{4}{B}', 'Sorcery', 'Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.'])"
+"('Rude Awakening', ['{4}{G}', 'Sorcery', 'Choose one —', '• Untap all lands you control.', '• Until end of turn, lands you control become 2/2 creatures that are still lands.', 'Entwine {2}{G} (Choose both if you pay the entwine cost.)'])"
+"('Serrated Arrows', ['{4}', 'Artifact', 'Serrated Arrows enters the battlefield with three arrowhead counters on it.', 'At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.', '{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.'])"
+"('Sign in Blood', ['{B}{B}', 'Sorcery', 'Target player draws two cards and loses 2 life.'])"
+"('Skeletal Vampire', ['{4}{B}{B}', 'Creature — Vampire Skeleton', 'Flying', 'When Skeletal Vampire enters the battlefield, create two 1/1 black Bat creature tokens with flying.', '{3}{B}{B}, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.', 'Sacrifice a Bat: Regenerate Skeletal Vampire.', '3/3'])"
+"('Slippery Karst', ['Land', 'Slippery Karst enters the battlefield tapped.', '{T}: Add {G}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Snuff Out', ['{3}{B}', 'Instant', 'If you control a Swamp, you may pay 4 life rather than pay this spell’s mana cost.', 'Destroy target nonblack creature. It can’t be regenerated.'])"
+"('Stampeding Wildebeests', ['{2}{G}{G}', 'Creature — Antelope Beast', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', 'At the beginning of your upkeep, return a green creature you control to its owner’s hand.', '5/4'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Tendrils of Corruption', ['{3}{B}', 'Instant', 'Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.'])"
+"('Treetop Village', ['Land', 'Treetop Village enters the battlefield tapped.', '{T}: Add {G}.', '{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)'])"
+"('Twisted Abomination', ['{5}{B}', 'Creature — Zombie Mutant', '{B}: Regenerate Twisted Abomination.', 'Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)', '5/3'])"
+"('Urborg Syphon-Mage', ['{2}{B}', 'Creature — Human Spellshaper', '{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.', '2/2'])"
+"('Vampire Bats', ['{B}', 'Creature — Bat', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.', '0/1'])"
+"('Vicious Hunger', ['{B}{B}', 'Sorcery', 'Vicious Hunger deals 2 damage to target creature and you gain 2 life.'])"
+"('Vine Trellis', ['{1}{G}', 'Creature — Plant Wall', 'Defender (This creature can’t attack.)', '{T}: Add {G}.', '0/4'])"
+"('Wall of Bone', ['{2}{B}', 'Creature — Skeleton Wall', 'Defender (This creature can’t attack.)', '{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/4'])"
+"('Wild Mongrel', ['{1}{G}', 'Creature — Dog', 'Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.', '2/2'])"
+"('Windstorm', ['{X}{G}', 'Instant', 'Windstorm deals X damage to each creature with flying.'])"
+"('Wirewood Savage', ['{2}{G}', 'Creature — Elf', 'Whenever a Beast enters the battlefield, you may draw a card.', '2/2'])"

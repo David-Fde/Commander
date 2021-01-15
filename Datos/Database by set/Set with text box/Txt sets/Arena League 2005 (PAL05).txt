@@ -1,31 +1,8 @@
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Genju of the Spires
-{R}
-Enchantment — Aura
-Enchant Mountain
-{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It’s still a land.
-"When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand."
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Okina Nightwatch
-{4}{G}
-Creature — Human Monk
-"As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3."
-4/3
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Skyknight Legionnaire
-{1}{R}{W}
-Creature — Human Knight
-"Flying, haste"
-2/2
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Genju of the Spires', ['{R}', 'Enchantment — Aura', 'Enchant Mountain', '{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It’s still a land.', 'When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Okina Nightwatch', ['{4}{G}', 'Creature — Human Monk', 'As long as you have more cards in hand than each opponent, Okina Nightwatch gets +3/+3.', '4/3'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Skyknight Legionnaire', ['{1}{R}{W}', 'Creature — Human Knight', 'Flying, haste', '2/2'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

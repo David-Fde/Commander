@@ -1,39 +1,8 @@
-Hellspark Elemental
-{1}{R}
-Creature — Elemental
-"Trample, haste"
-"At the beginning of the end step, sacrifice Hellspark Elemental."
-Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
-3/1
-Kor Duelist
-{W}
-Creature — Kor Soldier
-"As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)"
-1/1
-Marisi's Twinclaws
-{2}{R/W}{G}
-Creature — Cat Warrior
-Double strike
-2/4
-Mind Control
-{3}{U}{U}
-Enchantment — Aura
-Enchant creature
-You control enchanted creature.
-Path to Exile
-{W}
-Instant
-"Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library."
-Rise from the Grave
-{4}{B}
-Sorcery
-Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
-Slave of Bolas
-{3}{U/R}{B}
-Sorcery
-Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.
-Vampire Nighthawk
-{1}{B}{B}
-Creature — Vampire Shaman
-"Flying, deathtouch, lifelink"
-2/3
+"('Hellspark Elemental', ['{1}{R}', 'Creature — Elemental', 'Trample, haste', 'At the beginning of the end step, sacrifice Hellspark Elemental.', 'Unearth {1}{R} ({1}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)', '3/1'])"
+"('Kor Duelist', ['{W}', 'Creature — Kor Soldier', 'As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)', '1/1'])"
+"(""Marisi's Twinclaws"", ['{2}{R/W}{G}', 'Creature — Cat Warrior', 'Double strike', '2/4'])"
+"('Mind Control', ['{3}{U}{U}', 'Enchantment — Aura', 'Enchant creature', 'You control enchanted creature.'])"
+"('Path to Exile', ['{W}', 'Instant', 'Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle their library.'])"
+"('Rise from the Grave', ['{4}{B}', 'Sorcery', 'Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.'])"
+"('Slave of Bolas', ['{3}{U/R}{B}', 'Sorcery', 'Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.'])"
+"('Vampire Nighthawk', ['{1}{B}{B}', 'Creature — Vampire Shaman', 'Flying, deathtouch, lifelink', '2/3'])"

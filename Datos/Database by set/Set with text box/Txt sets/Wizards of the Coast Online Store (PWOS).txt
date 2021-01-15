@@ -1,5 +1,1 @@
-Serra Angel
-{3}{W}{W}
-Creature — Angel
-"Flying, vigilance"
-4/4
+"('Serra Angel', ['{3}{W}{W}', 'Creature — Angel', 'Flying, vigilance', '4/4'])"

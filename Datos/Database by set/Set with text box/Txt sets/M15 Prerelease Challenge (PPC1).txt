@@ -1,10 +1,2 @@
-Garruk the Slayer
-Legendary Planeswalker — Garruk
-0: Put a 2/2 green Wolf creature token onto the battlefield.
-+4: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.
-−10: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature’s toughness.
-−25: Destroy all creatures Garruk the Slayer doesn’t control.
-Loyalty: 20
-Wolf
-Token Creature — Wolf
-2/2
+"('Garruk the Slayer', ['Legendary Planeswalker — Garruk', '0: Put a 2/2 green Wolf creature token onto the battlefield.', '+4: Target Wolf creature gets +1/+0 and gains deathtouch until end of turn.', '−10: Destroy target creature. Put loyalty counters on Garruk the Slayer equal to that creature’s toughness.', '−25: Destroy all creatures Garruk the Slayer doesn’t control.', 'Loyalty: 20'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"

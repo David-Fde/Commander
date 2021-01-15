@@ -1,20 +1,5 @@
-Canopy Vista
-Land — Forest Plains
-({T}: Add {G} or {W}.)
-Canopy Vista enters the battlefield tapped unless you control two or more basic lands.
-Cinder Glade
-Land — Mountain Forest
-({T}: Add {R} or {G}.)
-Cinder Glade enters the battlefield tapped unless you control two or more basic lands.
-Prairie Stream
-Land — Plains Island
-({T}: Add {W} or {U}.)
-Prairie Stream enters the battlefield tapped unless you control two or more basic lands.
-Smoldering Marsh
-Land — Swamp Mountain
-({T}: Add {B} or {R}.)
-Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.
-Sunken Hollow
-Land — Island Swamp
-({T}: Add {U} or {B}.)
-Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.
+"('Canopy Vista', ['Land — Forest Plains', '({T}: Add {G} or {W}.)', 'Canopy Vista enters the battlefield tapped unless you control two or more basic lands.'])"
+"('Cinder Glade', ['Land — Mountain Forest', '({T}: Add {R} or {G}.)', 'Cinder Glade enters the battlefield tapped unless you control two or more basic lands.'])"
+"('Prairie Stream', ['Land — Plains Island', '({T}: Add {W} or {U}.)', 'Prairie Stream enters the battlefield tapped unless you control two or more basic lands.'])"
+"('Smoldering Marsh', ['Land — Swamp Mountain', '({T}: Add {B} or {R}.)', 'Smoldering Marsh enters the battlefield tapped unless you control two or more basic lands.'])"
+"('Sunken Hollow', ['Land — Island Swamp', '({T}: Add {U} or {B}.)', 'Sunken Hollow enters the battlefield tapped unless you control two or more basic lands.'])"

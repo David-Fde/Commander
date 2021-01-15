@@ -1,20 +1,3 @@
-City's Blessing
-Card
-Elemental
-Token Creature — Elemental
-"At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn."
-0/1
-Illusion
-Token Creature — Illusion
-"When this creature becomes the target of a spell, sacrifice it."
-2/2
-Saproling
-Token Creature — Saproling
-1/1
-Merfolk
-Token Creature — Merfolk
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-1/1
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
+"(""City's Blessing"", ['Card', 'Elemental', 'Token Creature — Elemental', 'At the beginning of your upkeep, sacrifice this creature and return target card named Rekindling Phoenix from your graveyard to the battlefield. It gains haste until end of turn.', '0/1'])"
+"('Illusion', ['Token Creature — Illusion', 'When this creature becomes the target of a spell, sacrifice it.', '2/2', 'Saproling', 'Token Creature — Saproling', '1/1'])"
+"('Merfolk', ['Token Creature — Merfolk', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '1/1', 'Treasure', 'Token Artifact — Treasure', '{T}, Sacrifice this artifact: Add one mana of any color.'])"

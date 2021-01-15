@@ -1,6 +1,1 @@
-Reya Dawnbringer
-{6}{W}{W}{W}
-Legendary Creature — Angel
-Flying
-"At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
-4/6
+"('Reya Dawnbringer', ['{6}{W}{W}{W}', 'Legendary Creature — Angel', 'Flying', 'At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.', '4/6'])"

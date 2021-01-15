@@ -1,30 +1,9 @@
-Construct
-Token Artifact Creature — Construct
-Defender
-1/1
-Dack Fayden Emblem
-Emblem — Dack
-"Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
-Demon
-Token Creature — Demon
-Flying
-*/*
-Elephant
-Token Creature — Elephant
-3/3
-Ogre
-Token Creature — Ogre
-4/4
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Squirrel
-Token Creature — Squirrel
-1/1
-Wolf
-Token Creature — Wolf
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Construct', ['Token Artifact Creature — Construct', 'Defender', '1/1'])"
+"('Dack Fayden Emblem', ['Emblem — Dack', 'Whenever you cast a spell that targets one or more permanents, gain control of those permanents.'])"
+"('Demon', ['Token Creature — Demon', 'Flying', '*/*'])"
+"('Elephant', ['Token Creature — Elephant', '3/3'])"
+"('Ogre', ['Token Creature — Ogre', '4/4'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Squirrel', ['Token Creature — Squirrel', '1/1'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

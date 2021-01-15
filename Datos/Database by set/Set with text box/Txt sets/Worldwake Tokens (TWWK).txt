@@ -1,20 +1,6 @@
-Construct
-Token Artifact Creature — Construct
-Trample
-6/12
-Dragon
-Token Creature — Dragon
-Flying
-5/5
-Elephant
-Token Creature — Elephant
-3/3
-Ogre
-Token Creature — Ogre
-3/3
-Plant
-Token Creature — Plant
-0/1
-Soldier Ally
-Token Creature — Soldier Ally
-1/1
+"('Construct', ['Token Artifact Creature — Construct', 'Trample', '6/12'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '5/5'])"
+"('Elephant', ['Token Creature — Elephant', '3/3'])"
+"('Ogre', ['Token Creature — Ogre', '3/3'])"
+"('Plant', ['Token Creature — Plant', '0/1'])"
+"('Soldier Ally', ['Token Creature — Soldier Ally', '1/1'])"

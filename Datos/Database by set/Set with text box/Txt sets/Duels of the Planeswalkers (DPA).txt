@@ -1,511 +1,101 @@
-Abyssal Specter
-{2}{B}{B}
-Creature — Specter
-Flying
-"Whenever Abyssal Specter deals damage to a player, that player discards a card."
-2/3
-Act of Treason
-{2}{R}
-Sorcery
-Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)
-Air Elemental
-{3}{U}{U}
-Creature — Elemental
-Flying
-4/4
-Ascendant Evincar
-{4}{B}{B}
-Legendary Creature — Vampire Noble
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-Other black creatures get +1/+1.
-Nonblack creatures get -1/-1.
-3/3
-Banefire
-{X}{R}
-Sorcery
-Banefire deals X damage to any target.
-"If X is 5 or more, this spell can’t be countered and the damage can’t be prevented."
-Blanchwood Armor
-{2}{G}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +1/+1 for each Forest you control.
-Blaze
-{X}{R}
-Sorcery
-Blaze deals X damage to any target.
-Bloodmark Mentor
-{1}{R}
-Creature — Goblin Warrior
-Red creatures you control have first strike.
-1/1
-Boomerang
-{U}{U}
-Instant
-Return target permanent to its owner’s hand.
-Cancel
-{1}{U}{U}
-Instant
-Counter target spell.
-Cinder Pyromancer
-{2}{R}
-Creature — Elemental Shaman
-{T}: Cinder Pyromancer deals 1 damage to target player or planeswalker.
-"Whenever you cast a red spell, you may untap Cinder Pyromancer."
-0/1
-Civic Wayfinder
-{2}{G}
-Creature — Elf Druid Warrior
-"When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library."
-2/2
-Cloud Sprite
-{U}
-Creature — Faerie
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-Cloud Sprite can block only creatures with flying.
-1/1
-Coat of Arms
-{5}
-Artifact
-"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)"
-Consume Spirit
-{X}{1}{B}
-Sorcery
-Spend only black mana on X.
-Consume Spirit deals X damage to any target and you gain X life.
-Counterbore
-{3}{U}{U}
-Instant
-"Counter target spell. Search its controller’s graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library."
-Crowd of Cinders
-{3}{B}
-Creature — Elemental
-Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
-Crowd of Cinders’s power and toughness are each equal to the number of black permanents you control.
-*/*
-Deluge
-{2}{U}
-Instant
-Tap all creatures without flying.
-Demon's Horn
-{2}
-Artifact
-"Whenever a player casts a black spell, you may gain 1 life."
-Denizen of the Deep
-{6}{U}{U}
-Creature — Serpent
-"When Denizen of the Deep enters the battlefield, return each other creature you control to its owner’s hand."
-11/11
-Dragon's Claw
-{2}
-Artifact
-"Whenever a player casts a red spell, you may gain 1 life."
-Drove of Elves
-{3}{G}
-Creature — Elf
-Hexproof
-Drove of Elves’s power and toughness are each equal to the number of green permanents you control.
-*/*
-Drudge Skeletons
-{1}{B}
-Creature — Skeleton
-"{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
-1/1
-Duskdale Wurm
-{5}{G}{G}
-Creature — Wurm
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-7/7
-Dusk Imp
-{2}{B}
-Creature — Imp
-Flying
-2/1
-Earth Elemental
-{3}{R}{R}
-Creature — Elemental
-4/5
-Elven Riders
-{3}{G}{G}
-Creature — Elf
-Elven Riders can’t be blocked except by Walls and/or creatures with flying.
-3/3
-Elvish Champion
-{1}{G}{G}
-Creature — Elf
-Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)
-2/2
-Elvish Eulogist
-{G}
-Creature — Elf Shaman
-Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
-1/1
-Elvish Promenade
-{3}{G}
-Tribal Sorcery — Elf
-Create a 1/1 green Elf Warrior creature token for each Elf you control.
-Elvish Visionary
-{1}{G}
-Creature — Elf Shaman
-"When Elvish Visionary enters the battlefield, draw a card."
-1/1
-Elvish Warrior
-{G}{G}
-Creature — Elf Warrior
-2/3
-Enrage
-{X}{R}
-Instant
-Target creature gets +X/+0 until end of turn.
-Essence Drain
-{4}{B}
-Sorcery
-Essence Drain deals 3 damage to any target and you gain 3 life.
-Essence Scatter
-{1}{U}
-Instant
-Counter target creature spell.
-Evacuation
-{3}{U}{U}
-Instant
-Return all creatures to their owners’ hands.
-Eyeblight's Ending
-{2}{B}
-Tribal Instant — Elf
-Destroy target non-Elf creature.
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Furnace of Rath
-{1}{R}{R}{R}
-Enchantment
-"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-Gaea's Herald
-{1}{G}
-Creature — Elf
-Creature spells can’t be countered.
-1/1
-Giant Growth
-{G}
-Instant
-Target creature gets +3/+3 until end of turn.
-Giant Spider
-{3}{G}
-Creature — Spider
-Reach (This creature can block creatures with flying.)
-2/4
-Goblin Piker
-{1}{R}
-Creature — Goblin Warrior
-2/1
-Goblin Sky Raider
-{2}{R}
-Creature — Goblin Warrior
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-1/2
-Greenweaver Druid
-{2}{G}
-Creature — Elf Druid
-{T}: Add {G}{G}.
-1/1
-Hill Giant
-{3}{R}
-Creature — Giant
-3/3
-Howl of the Night Pack
-{6}{G}
-Sorcery
-Create a 2/2 green Wolf creature token for each Forest you control.
-Immaculate Magistrate
-{3}{G}
-Creature — Elf Shaman
-{T}: Put a +1/+1 counter on target creature for each Elf you control.
-2/2
-Imperious Perfect
-{2}{G}
-Creature — Elf Warrior
-Other Elves you control get +1/+1.
-"{G}, {T}: Create a 1/1 green Elf Warrior creature token."
-2/2
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jagged-Scar Archers
-{1}{G}{G}
-Creature — Elf Archer
-Jagged-Scar Archers’s power and toughness are each equal to the number of Elves you control.
-{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.
-*/*
-"Kamahl, Pit Fighter"
-{4}{R}{R}
-Legendary Creature — Human Barbarian
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-"{T}: Kamahl, Pit Fighter deals 3 damage to any target."
-6/1
-Kraken's Eye
-{2}
-Artifact
-"Whenever a player casts a blue spell, you may gain 1 life."
-Lightning Elemental
-{3}{R}
-Creature — Elemental
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-4/1
-Loxodon Warhammer
-{3}
-Artifact — Equipment
-Equipped creature gets +3/+0 and has trample and lifelink.
-Equip {3}
-Lys Alana Huntmaster
-{2}{G}{G}
-Creature — Elf Warrior
-"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
-3/3
-Mahamoti Djinn
-{4}{U}{U}
-Creature — Djinn
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-5/6
-Megrim
-{2}{B}
-Enchantment
-"Whenever an opponent discards a card, Megrim deals 2 damage to that player."
-Mind Control
-{3}{U}{U}
-Enchantment — Aura
-Enchant creature
-You control enchanted creature.
-Mind Rot
-{2}{B}
-Sorcery
-Target player discards two cards.
-Mind Shatter
-{X}{B}{B}
-Sorcery
-Target player discards X cards at random.
-Mind Spring
-{X}{U}{U}
-Sorcery
-Draw X cards.
-"Molimo, Maro-Sorcerer"
-{4}{G}{G}{G}
-Legendary Creature — Elemental
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-"Molimo, Maro-Sorcerer’s power and toughness are each equal to the number of lands you control."
-*/*
-Moonglove Winnower
-{3}{B}
-Creature — Elf Rogue
-Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-2/3
-Mortivore
-{2}{B}{B}
-Creature — Lhurgoyf
-Mortivore’s power and toughness are each equal to the number of creature cards in all graveyards.
-{B}: Regenerate Mortivore.
-*/*
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Naturalize
-{1}{G}
-Instant
-Destroy target artifact or enchantment.
-Natural Spring
-{3}{G}{G}
-Sorcery
-Target player gains 8 life.
-Nature's Spiral
-{1}{G}
-Sorcery
-Return target permanent card from your graveyard to your hand.
-Negate
-{1}{U}
-Instant
-Counter target noncreature spell.
-Overrun
-{2}{G}{G}{G}
-Sorcery
-Creatures you control get +3/+3 and gain trample until end of turn.
-Phantom Warrior
-{1}{U}{U}
-Creature — Illusion Warrior
-Phantom Warrior can’t be blocked.
-2/2
-Prodigal Pyromancer
-{2}{R}
-Creature — Human Wizard
-{T}: Prodigal Pyromancer deals 1 damage to any target.
-1/1
-Rage Reflection
-{4}{R}{R}
-Enchantment
-Creatures you control have double strike.
-Rampant Growth
-{1}{G}
-Sorcery
-Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
-Ravenous Rats
-{1}{B}
-Creature — Rat
-"When Ravenous Rats enters the battlefield, target opponent discards a card."
-1/1
-River Boa
-{1}{G}
-Creature — Snake
-Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
-{G}: Regenerate River Boa.
-2/1
-Roughshod Mentor
-{5}{G}
-Creature — Giant Warrior
-Green creatures you control have trample.
-5/4
-Runeclaw Bear
-{1}{G}
-Creature — Bear
-2/2
-Sengir Vampire
-{3}{B}{B}
-Creature — Vampire
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-"Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire."
-4/4
-Severed Legion
-{1}{B}{B}
-Creature — Zombie
-Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
-2/2
-Shivan Dragon
-{4}{R}{R}
-Creature — Dragon
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-{R}: Shivan Dragon gets +1/+0 until end of turn.
-5/5
-Shock
-{R}
-Instant
-Shock deals 2 damage to any target.
-Snapping Drake
-{3}{U}
-Creature — Drake
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-3/2
-Spined Wurm
-{4}{G}
-Creature — Wurm
-5/4
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Talara's Battalion
-{1}{G}
-Creature — Elf Warrior
-Cast this spell only if you’ve cast another green spell this turn.
-Trample
-4/3
-Terror
-{1}{B}
-Instant
-"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
-The Rack
-{1}
-Artifact
-"As The Rack enters the battlefield, choose an opponent."
-"At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand."
-Thieving Magpie
-{2}{U}{U}
-Creature — Bird
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-"Whenever Thieving Magpie deals damage to an opponent, draw a card."
-1/3
-Trained Armodon
-{1}{G}{G}
-Creature — Elephant
-3/3
-Troll Ascetic
-{1}{G}{G}
-Creature — Troll Shaman
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-{1}{G}: Regenerate Troll Ascetic.
-3/2
-Underworld Dreams
-{B}{B}{B}
-Enchantment
-"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
-Unholy Strength
-{B}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +2/+1.
-Unsummon
-{U}
-Instant
-Return target creature to its owner’s hand.
-Verdant Force
-{5}{G}{G}{G}
-Creature — Elemental
-"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
-7/7
-Vigor
-{3}{G}{G}{G}
-Creature — Elemental Incarnation
-Trample
-"If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way."
-"When Vigor is put into a graveyard from anywhere, shuffle it into its owner’s library."
-6/6
-Wall of Spears
-{3}
-Artifact Creature — Wall
-Defender (This creature can’t attack.)
-First strike
-2/3
-Wall of Wood
-{G}
-Creature — Wall
-Defender (This creature can’t attack.)
-0/3
-Wurm's Tooth
-{2}
-Artifact
-"Whenever a player casts a green spell, you may gain 1 life."
+"('Abyssal Specter', ['{2}{B}{B}', 'Creature — Specter', 'Flying', 'Whenever Abyssal Specter deals damage to a player, that player discards a card.', '2/3'])"
+"('Act of Treason', ['{2}{R}', 'Sorcery', 'Gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn. (It can attack and {T} this turn.)'])"
+"('Air Elemental', ['{3}{U}{U}', 'Creature — Elemental', 'Flying', '4/4'])"
+"('Ascendant Evincar', ['{4}{B}{B}', 'Legendary Creature — Vampire Noble', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', 'Other black creatures get +1/+1.', 'Nonblack creatures get -1/-1.', '3/3'])"
+"('Banefire', ['{X}{R}', 'Sorcery', 'Banefire deals X damage to any target.', 'If X is 5 or more, this spell can’t be countered and the damage can’t be prevented.'])"
+"('Blanchwood Armor', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +1/+1 for each Forest you control.'])"
+"('Blaze', ['{X}{R}', 'Sorcery', 'Blaze deals X damage to any target.'])"
+"('Bloodmark Mentor', ['{1}{R}', 'Creature — Goblin Warrior', 'Red creatures you control have first strike.', '1/1'])"
+"('Boomerang', ['{U}{U}', 'Instant', 'Return target permanent to its owner’s hand.'])"
+"('Cancel', ['{1}{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Cinder Pyromancer', ['{2}{R}', 'Creature — Elemental Shaman', '{T}: Cinder Pyromancer deals 1 damage to target player or planeswalker.', 'Whenever you cast a red spell, you may untap Cinder Pyromancer.', '0/1'])"
+"('Civic Wayfinder', ['{2}{G}', 'Creature — Elf Druid Warrior', 'When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.', '2/2'])"
+"('Cloud Sprite', ['{U}', 'Creature — Faerie', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', 'Cloud Sprite can block only creatures with flying.', '1/1'])"
+"('Coat of Arms', ['{5}', 'Artifact', 'Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)'])"
+"('Consume Spirit', ['{X}{1}{B}', 'Sorcery', 'Spend only black mana on X.', 'Consume Spirit deals X damage to any target and you gain X life.'])"
+"('Counterbore', ['{3}{U}{U}', 'Instant', 'Counter target spell. Search its controller’s graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles their library.'])"
+"('Crowd of Cinders', ['{3}{B}', 'Creature — Elemental', 'Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)', 'Crowd of Cinders’s power and toughness are each equal to the number of black permanents you control.', '*/*'])"
+"('Deluge', ['{2}{U}', 'Instant', 'Tap all creatures without flying.'])"
+"(""Demon's Horn"", ['{2}', 'Artifact', 'Whenever a player casts a black spell, you may gain 1 life.'])"
+"('Denizen of the Deep', ['{6}{U}{U}', 'Creature — Serpent', 'When Denizen of the Deep enters the battlefield, return each other creature you control to its owner’s hand.', '11/11'])"
+"(""Dragon's Claw"", ['{2}', 'Artifact', 'Whenever a player casts a red spell, you may gain 1 life.'])"
+"('Drove of Elves', ['{3}{G}', 'Creature — Elf', 'Hexproof', 'Drove of Elves’s power and toughness are each equal to the number of green permanents you control.', '*/*'])"
+"('Drudge Skeletons', ['{1}{B}', 'Creature — Skeleton', '{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/1'])"
+"('Duskdale Wurm', ['{5}{G}{G}', 'Creature — Wurm', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', '7/7'])"
+"('Dusk Imp', ['{2}{B}', 'Creature — Imp', 'Flying', '2/1'])"
+"('Earth Elemental', ['{3}{R}{R}', 'Creature — Elemental', '4/5'])"
+"('Elven Riders', ['{3}{G}{G}', 'Creature — Elf', 'Elven Riders can’t be blocked except by Walls and/or creatures with flying.', '3/3'])"
+"('Elvish Champion', ['{1}{G}{G}', 'Creature — Elf', 'Other Elf creatures get +1/+1 and have forestwalk. (They can’t be blocked as long as defending player controls a Forest.)', '2/2'])"
+"('Elvish Eulogist', ['{G}', 'Creature — Elf Shaman', 'Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.', '1/1'])"
+"('Elvish Promenade', ['{3}{G}', 'Tribal Sorcery — Elf', 'Create a 1/1 green Elf Warrior creature token for each Elf you control.'])"
+"('Elvish Visionary', ['{1}{G}', 'Creature — Elf Shaman', 'When Elvish Visionary enters the battlefield, draw a card.', '1/1'])"
+"('Elvish Warrior', ['{G}{G}', 'Creature — Elf Warrior', '2/3'])"
+"('Enrage', ['{X}{R}', 'Instant', 'Target creature gets +X/+0 until end of turn.'])"
+"('Essence Drain', ['{4}{B}', 'Sorcery', 'Essence Drain deals 3 damage to any target and you gain 3 life.'])"
+"('Essence Scatter', ['{1}{U}', 'Instant', 'Counter target creature spell.'])"
+"('Evacuation', ['{3}{U}{U}', 'Instant', 'Return all creatures to their owners’ hands.'])"
+"(""Eyeblight's Ending"", ['{2}{B}', 'Tribal Instant — Elf', 'Destroy target non-Elf creature.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Furnace of Rath', ['{1}{R}{R}{R}', 'Enchantment', 'If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.'])"
+"(""Gaea's Herald"", ['{1}{G}', 'Creature — Elf', 'Creature spells can’t be countered.', '1/1'])"
+"('Giant Growth', ['{G}', 'Instant', 'Target creature gets +3/+3 until end of turn.'])"
+"('Giant Spider', ['{3}{G}', 'Creature — Spider', 'Reach (This creature can block creatures with flying.)', '2/4'])"
+"('Goblin Piker', ['{1}{R}', 'Creature — Goblin Warrior', '2/1'])"
+"('Goblin Sky Raider', ['{2}{R}', 'Creature — Goblin Warrior', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '1/2'])"
+"('Greenweaver Druid', ['{2}{G}', 'Creature — Elf Druid', '{T}: Add {G}{G}.', '1/1'])"
+"('Hill Giant', ['{3}{R}', 'Creature — Giant', '3/3'])"
+"('Howl of the Night Pack', ['{6}{G}', 'Sorcery', 'Create a 2/2 green Wolf creature token for each Forest you control.'])"
+"('Immaculate Magistrate', ['{3}{G}', 'Creature — Elf Shaman', '{T}: Put a +1/+1 counter on target creature for each Elf you control.', '2/2'])"
+"('Imperious Perfect', ['{2}{G}', 'Creature — Elf Warrior', 'Other Elves you control get +1/+1.', '{G}, {T}: Create a 1/1 green Elf Warrior creature token.', '2/2'])"
+"('Incinerate', ['{1}{R}', 'Instant', 'Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jagged-Scar Archers', ['{1}{G}{G}', 'Creature — Elf Archer', 'Jagged-Scar Archers’s power and toughness are each equal to the number of Elves you control.', '{T}: Jagged-Scar Archers deals damage equal to its power to target creature with flying.', '*/*'])"
+"('Kamahl, Pit Fighter', ['{4}{R}{R}', 'Legendary Creature — Human Barbarian', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', '{T}: Kamahl, Pit Fighter deals 3 damage to any target.', '6/1'])"
+"(""Kraken's Eye"", ['{2}', 'Artifact', 'Whenever a player casts a blue spell, you may gain 1 life.'])"
+"('Lightning Elemental', ['{3}{R}', 'Creature — Elemental', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', '4/1'])"
+"('Loxodon Warhammer', ['{3}', 'Artifact — Equipment', 'Equipped creature gets +3/+0 and has trample and lifelink.', 'Equip {3}'])"
+"('Lys Alana Huntmaster', ['{2}{G}{G}', 'Creature — Elf Warrior', 'Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token.', '3/3'])"
+"('Mahamoti Djinn', ['{4}{U}{U}', 'Creature — Djinn', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '5/6'])"
+"('Megrim', ['{2}{B}', 'Enchantment', 'Whenever an opponent discards a card, Megrim deals 2 damage to that player.'])"
+"('Mind Control', ['{3}{U}{U}', 'Enchantment — Aura', 'Enchant creature', 'You control enchanted creature.'])"
+"('Mind Rot', ['{2}{B}', 'Sorcery', 'Target player discards two cards.'])"
+"('Mind Shatter', ['{X}{B}{B}', 'Sorcery', 'Target player discards X cards at random.'])"
+"('Mind Spring', ['{X}{U}{U}', 'Sorcery', 'Draw X cards.'])"
+"('Molimo, Maro-Sorcerer', ['{4}{G}{G}{G}', 'Legendary Creature — Elemental', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', 'Molimo, Maro-Sorcerer’s power and toughness are each equal to the number of lands you control.', '*/*'])"
+"('Moonglove Winnower', ['{3}{B}', 'Creature — Elf Rogue', 'Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)', '2/3'])"
+"('Mortivore', ['{2}{B}{B}', 'Creature — Lhurgoyf', 'Mortivore’s power and toughness are each equal to the number of creature cards in all graveyards.', '{B}: Regenerate Mortivore.', '*/*'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Naturalize', ['{1}{G}', 'Instant', 'Destroy target artifact or enchantment.'])"
+"('Natural Spring', ['{3}{G}{G}', 'Sorcery', 'Target player gains 8 life.'])"
+"(""Nature's Spiral"", ['{1}{G}', 'Sorcery', 'Return target permanent card from your graveyard to your hand.'])"
+"('Negate', ['{1}{U}', 'Instant', 'Counter target noncreature spell.'])"
+"('Overrun', ['{2}{G}{G}{G}', 'Sorcery', 'Creatures you control get +3/+3 and gain trample until end of turn.'])"
+"('Phantom Warrior', ['{1}{U}{U}', 'Creature — Illusion Warrior', 'Phantom Warrior can’t be blocked.', '2/2'])"
+"('Prodigal Pyromancer', ['{2}{R}', 'Creature — Human Wizard', '{T}: Prodigal Pyromancer deals 1 damage to any target.', '1/1'])"
+"('Rage Reflection', ['{4}{R}{R}', 'Enchantment', 'Creatures you control have double strike.'])"
+"('Rampant Growth', ['{1}{G}', 'Sorcery', 'Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.'])"
+"('Ravenous Rats', ['{1}{B}', 'Creature — Rat', 'When Ravenous Rats enters the battlefield, target opponent discards a card.', '1/1'])"
+"('River Boa', ['{1}{G}', 'Creature — Snake', 'Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)', '{G}: Regenerate River Boa.', '2/1'])"
+"('Roughshod Mentor', ['{5}{G}', 'Creature — Giant Warrior', 'Green creatures you control have trample.', '5/4'])"
+"('Runeclaw Bear', ['{1}{G}', 'Creature — Bear', '2/2'])"
+"('Sengir Vampire', ['{3}{B}{B}', 'Creature — Vampire', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', 'Whenever a creature dealt damage by Sengir Vampire this turn dies, put a +1/+1 counter on Sengir Vampire.', '4/4'])"
+"('Severed Legion', ['{1}{B}{B}', 'Creature — Zombie', 'Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)', '2/2'])"
+"('Shivan Dragon', ['{4}{R}{R}', 'Creature — Dragon', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '{R}: Shivan Dragon gets +1/+0 until end of turn.', '5/5'])"
+"('Shock', ['{R}', 'Instant', 'Shock deals 2 damage to any target.'])"
+"('Snapping Drake', ['{3}{U}', 'Creature — Drake', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '3/2'])"
+"('Spined Wurm', ['{4}{G}', 'Creature — Wurm', '5/4'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"(""Talara's Battalion"", ['{1}{G}', 'Creature — Elf Warrior', 'Cast this spell only if you’ve cast another green spell this turn.', 'Trample', '4/3'])"
+"('Terror', ['{1}{B}', 'Instant', 'Destroy target nonartifact, nonblack creature. It can’t be regenerated.'])"
+"('The Rack', ['{1}', 'Artifact', 'As The Rack enters the battlefield, choose an opponent.', 'At the beginning of the chosen player’s upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in their hand.'])"
+"('Thieving Magpie', ['{2}{U}{U}', 'Creature — Bird', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', 'Whenever Thieving Magpie deals damage to an opponent, draw a card.', '1/3'])"
+"('Trained Armodon', ['{1}{G}{G}', 'Creature — Elephant', '3/3'])"
+"('Troll Ascetic', ['{1}{G}{G}', 'Creature — Troll Shaman', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '{1}{G}: Regenerate Troll Ascetic.', '3/2'])"
+"('Underworld Dreams', ['{B}{B}{B}', 'Enchantment', 'Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.'])"
+"('Unholy Strength', ['{B}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+1.'])"
+"('Unsummon', ['{U}', 'Instant', 'Return target creature to its owner’s hand.'])"
+"('Verdant Force', ['{5}{G}{G}{G}', 'Creature — Elemental', 'At the beginning of each upkeep, create a 1/1 green Saproling creature token.', '7/7'])"
+"('Vigor', ['{3}{G}{G}{G}', 'Creature — Elemental Incarnation', 'Trample', 'If damage would be dealt to another creature you control, prevent that damage. Put a +1/+1 counter on that creature for each 1 damage prevented this way.', 'When Vigor is put into a graveyard from anywhere, shuffle it into its owner’s library.', '6/6'])"
+"('Wall of Spears', ['{3}', 'Artifact Creature — Wall', 'Defender (This creature can’t attack.)', 'First strike', '2/3'])"
+"('Wall of Wood', ['{G}', 'Creature — Wall', 'Defender (This creature can’t attack.)', '0/3'])"
+"(""Wurm's Tooth"", ['{2}', 'Artifact', 'Whenever a player casts a green spell, you may gain 1 life.'])"

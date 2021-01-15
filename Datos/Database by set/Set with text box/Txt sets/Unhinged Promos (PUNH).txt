@@ -1,4 +1,1 @@
-Ass Whuppin'
-{1}{W}{B}
-Sorcery
-Destroy target silver-bordered permanent in any game you can see from your seat.
+"(""Ass Whuppin'"", ['{1}{W}{B}', 'Sorcery', 'Destroy target silver-bordered permanent in any game you can see from your seat.'])"

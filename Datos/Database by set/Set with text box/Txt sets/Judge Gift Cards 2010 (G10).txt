@@ -1,40 +1,8 @@
-Land Tax
-{W}
-Enchantment
-"At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library."
-Morphling
-{3}{U}{U}
-Creature — Shapeshifter
-{U}: Untap Morphling.
-{U}: Morphling gains flying until end of turn.
-{U}: Morphling gains shroud until end of turn. (It can’t be the target of spells or abilities.)
-{1}: Morphling gets +1/-1 until end of turn.
-{1}: Morphling gets -1/+1 until end of turn.
-3/3
-Natural Order
-{2}{G}{G}
-Sorcery
-"As an additional cost to cast this spell, sacrifice a green creature."
-Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.
-Phyrexian Dreadnought
-{1}
-Artifact Creature — Dreadnought
-Trample
-"When Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater."
-12/12
-Sinkhole
-{B}{B}
-Sorcery
-Destroy target land.
-Thawing Glaciers
-Land
-Thawing Glaciers enters the battlefield tapped.
-"{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner’s hand at the beginning of the next cleanup step."
-Wasteland
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
-Wheel of Fortune
-{2}{R}
-Sorcery
-"Each player discards their hand, then draws seven cards."
+"('Land Tax', ['{W}', 'Enchantment', 'At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, put them into your hand, then shuffle your library.'])"
+"('Morphling', ['{3}{U}{U}', 'Creature — Shapeshifter', '{U}: Untap Morphling.', '{U}: Morphling gains flying until end of turn.', '{U}: Morphling gains shroud until end of turn. (It can’t be the target of spells or abilities.)', '{1}: Morphling gets +1/-1 until end of turn.', '{1}: Morphling gets -1/+1 until end of turn.', '3/3'])"
+"('Natural Order', ['{2}{G}{G}', 'Sorcery', 'As an additional cost to cast this spell, sacrifice a green creature.', 'Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.'])"
+"('Phyrexian Dreadnought', ['{1}', 'Artifact Creature — Dreadnought', 'Trample', 'When Phyrexian Dreadnought enters the battlefield, sacrifice it unless you sacrifice any number of creatures with total power 12 or greater.', '12/12'])"
+"('Sinkhole', ['{B}{B}', 'Sorcery', 'Destroy target land.'])"
+"('Thawing Glaciers', ['Land', 'Thawing Glaciers enters the battlefield tapped.', '{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner’s hand at the beginning of the next cleanup step.'])"
+"('Wasteland', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Wasteland: Destroy target nonbasic land.'])"
+"('Wheel of Fortune', ['{2}{R}', 'Sorcery', 'Each player discards their hand, then draws seven cards.'])"

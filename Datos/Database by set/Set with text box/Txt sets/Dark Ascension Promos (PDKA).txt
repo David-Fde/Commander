@@ -1,36 +1,5 @@
-Gravecrawler
-{B}
-Creature — Zombie
-Gravecrawler can’t block.
-You may cast Gravecrawler from your graveyard as long as you control a Zombie.
-2/1
-Mondronen Shaman
-{3}{R}
-Creature — Human Shaman Werewolf
-"At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman."
-3/2
-Tovolar's Magehunter
-Creature — Werewolf
-"Whenever an opponent casts a spell, Tovolar’s Magehunter deals 2 damage to that player."
-"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar’s Magehunter."
-5/5
-Ravenous Demon
-{3}{B}{B}
-Creature — Demon
-Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.
-4/4
-Archdemon of Greed
-Creature — Demon
-"Flying, trample"
-"At the beginning of your upkeep, sacrifice a Human. If you can’t, tap Archdemon of Greed and it deals 9 damage to you."
-9/9
-Strangleroot Geist
-{G}{G}
-Creature — Spirit
-Haste
-"Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)"
-2/1
-Zombie Apocalypse
-{3}{B}{B}{B}
-Sorcery
-"Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans."
+"('Gravecrawler', ['{B}', 'Creature — Zombie', 'Gravecrawler can’t block.', 'You may cast Gravecrawler from your graveyard as long as you control a Zombie.', '2/1'])"
+"('Mondronen Shaman', ['{3}{R}', 'Creature — Human Shaman Werewolf', 'At the beginning of each upkeep, if no spells were cast last turn, transform Mondronen Shaman.', '3/2', ""Tovolar's Magehunter"", 'Creature — Werewolf', 'Whenever an opponent casts a spell, Tovolar’s Magehunter deals 2 damage to that player.', 'At the beginning of each upkeep, if a player cast two or more spells last turn, transform Tovolar’s Magehunter.', '5/5'])"
+"('Ravenous Demon', ['{3}{B}{B}', 'Creature — Demon', 'Sacrifice a Human: Transform Ravenous Demon. Activate this ability only any time you could cast a sorcery.', '4/4', 'Archdemon of Greed', 'Creature — Demon', 'Flying, trample', 'At the beginning of your upkeep, sacrifice a Human. If you can’t, tap Archdemon of Greed and it deals 9 damage to you.', '9/9'])"
+"('Strangleroot Geist', ['{G}{G}', 'Creature — Spirit', 'Haste', 'Undying (When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner’s control with a +1/+1 counter on it.)', '2/1'])"
+"('Zombie Apocalypse', ['{3}{B}{B}{B}', 'Sorcery', 'Return all Zombie creature cards from your graveyard to the battlefield tapped, then destroy all Humans.'])"

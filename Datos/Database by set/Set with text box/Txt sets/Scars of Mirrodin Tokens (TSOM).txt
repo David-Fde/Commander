@@ -1,33 +1,9 @@
-Cat
-Token Creature — Cat
-2/2
-Goblin
-Token Creature — Goblin
-1/1
-Golem
-Token Artifact Creature — Golem
-3/3
-Insect
-Token Creature — Insect
-Infect
-1/1
-Myr
-Token Artifact Creature — Myr
-1/1
-Poison Counter
-Card
-(A player with ten or more poison counters loses the game.)
-Soldier
-Token Creature — Soldier
-1/1
-Wolf
-Token Creature — Wolf
-2/2
-Wurm
-Token Artifact Creature — Wurm
-Deathtouch
-3/3
-Wurm
-Token Artifact Creature — Wurm
-Lifelink
-3/3
+"('Cat', ['Token Creature — Cat', '2/2'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Golem', ['Token Artifact Creature — Golem', '3/3'])"
+"('Insect', ['Token Creature — Insect', 'Infect', '1/1'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Poison Counter', ['Card', '(A player with ten or more poison counters loses the game.)'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
+"('Wurm', ['Token Artifact Creature — Wurm', 'Lifelink', '3/3'])"

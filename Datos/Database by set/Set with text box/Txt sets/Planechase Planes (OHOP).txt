@@ -1,166 +1,40 @@
-Academy at Tolaria West
-Plane — Dominaria
-"At the beginning of your end step, if you have no cards in hand, draw seven cards."
-"Whenever you roll {CHAOS}, discard your hand."
-Agyrem
-Plane — Ravnica
-"Whenever a white creature dies, return it to the battlefield under its owner’s control at the beginning of the next end step."
-"Whenever a nonwhite creature dies, return it to its owner’s hand at the beginning of the next end step."
-"Whenever you roll {CHAOS}, creatures can’t attack you until a player planeswalks."
-Bant
-Plane — Alara
-"All creatures have exalted. (Whenever a creature attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents its controller controls.)"
-"Whenever you roll {CHAOS}, put a divinity counter on target green, white, or blue creature. That creature has indestructible for as long as it has a divinity counter on it."
-Cliffside Market
-Plane — Mercadia
-"When you planeswalk to Cliffside Market or at the beginning of your upkeep, you may exchange life totals with target player."
-"Whenever you roll {CHAOS}, exchange control of two target permanents that share a card type."
-Eloren Wilds
-Plane — Shandalar
-"Whenever a player taps a permanent for mana, that player adds one mana of any type that permanent produced."
-"Whenever you roll {CHAOS}, target player can’t cast spells until a player planeswalks."
-Feeding Grounds
-Plane — Muraganda
-Red spells cost {1} less to cast.
-Green spells cost {1} less to cast.
-"Whenever you roll {CHAOS}, put X +1/+1 counters on target creature, where X is that creature’s converted mana cost."
-Fields of Summer
-Plane — Moag
-"Whenever a player casts a spell, that player may gain 2 life."
-"Whenever you roll {CHAOS}, you may gain 10 life."
-Glimmervoid Basin
-Plane — Mirrodin
-"Whenever a player casts an instant or sorcery spell with a single target, that player copies that spell for each other spell, permanent, card not on the battlefield, and/or player the spell could target. Each copy targets a different one of them."
-"Whenever you roll {CHAOS}, choose target creature. Each player except that creature’s controller creates a token that’s a copy of that creature."
-Goldmeadow
-Plane — Lorwyn
-"Whenever a land enters the battlefield, that land’s controller creates three 0/1 white Goat creature tokens."
-"Whenever you roll {CHAOS}, create a 0/1 white Goat creature token."
-Grixis
-Plane — Alara
-"Blue, black, and/or red creature cards in your graveyard have unearth. The unearth cost is equal to the card’s mana cost. (Pay the card’s mana cost: Return it to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)"
-"Whenever you roll {CHAOS}, put target creature card from a graveyard onto the battlefield under your control."
-Immersturm
-Plane — Valla
-"Whenever a creature enters the battlefield, that creature’s controller may have it deal damage equal to its power to any target of their choice."
-"Whenever you roll {CHAOS}, exile target creature, then return it to the battlefield under its owner’s control."
-Isle of Vesuva
-Plane — Dominaria
-"Whenever a nontoken creature enters the battlefield, its controller creates a token that’s a copy of that creature."
-"Whenever you roll {CHAOS}, destroy target creature and all other creatures with the same name as that creature."
-Izzet Steam Maze
-Plane — Ravnica
-"Whenever a player casts an instant or sorcery spell, that player copies it. The player may choose new targets for the copy."
-"Whenever you roll {CHAOS}, instant and sorcery spells you cast this turn cost {3} less to cast."
-Krosa
-Plane — Dominaria
-All creatures get +2/+2.
-"Whenever you roll {CHAOS}, you may add {W}{U}{B}{R}{G}."
-Lethe Lake
-Plane — Arkhos
-"At the beginning of your upkeep, mill ten cards."
-"Whenever you roll {CHAOS}, target player mills ten cards."
-Llanowar
-Plane — Dominaria
-All creatures have “{T}: Add {G}{G}.”
-"Whenever you roll {CHAOS}, untap all creatures you control."
-Minamo
-Plane — Kamigawa
-"Whenever a player casts a spell, that player may draw a card."
-"Whenever you roll {CHAOS}, each player may return a blue card from their graveyard to their hand."
-Murasa
-Plane — Zendikar
-"Whenever a nontoken creature enters the battlefield, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
-"Whenever you roll {CHAOS}, target land becomes a 4/4 creature that’s still a land."
-Naar Isle
-Plane — Wildfire
-"At the beginning of your upkeep, put a flame counter on Naar Isle, then Naar Isle deals damage to you equal to the number of flame counters on it."
-"Whenever you roll {CHAOS}, Naar Isle deals 3 damage to target player or planeswalker."
-Naya
-Plane — Alara
-You may play any number of lands on each of your turns.
-"Whenever you roll {CHAOS}, target red, green, or white creature you control gets +1/+1 until end of turn for each land you control."
-Otaria
-Plane — Dominaria
-Instant and sorcery cards in graveyards have flashback. The flashback cost is equal to the card’s mana cost. (Its owner may cast the card from their graveyard for its mana cost. Then they exile it.)
-"Whenever you roll {CHAOS}, take an extra turn after this one."
-Panopticon
-Plane — Mirrodin
-"When you planeswalk to Panopticon, draw a card."
-"At the beginning of your draw step, draw an additional card."
-"Whenever you roll {CHAOS}, draw a card."
-Pools of Becoming
-Plane — Bolas’s Meditation Realm
-"At the beginning of your end step, put the cards in your hand on the bottom of your library in any order, then draw that many cards."
-"Whenever you roll {CHAOS}, reveal the top three cards of your planar deck. Each of the revealed cards’ {CHAOS} abilities triggers. Then put the revealed cards on the bottom of your planar deck in any order."
-Raven's Run
-Plane — Shadowmoor
-All creatures have wither. (They deal damage to creatures in the form of -1/-1 counters.)
-"Whenever you roll {CHAOS}, put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature."
-Sanctum of Serra
-Plane — Serra’s Realm
-"When you planeswalk away from Sanctum of Serra, destroy all nonland permanents."
-"Whenever you roll {CHAOS}, you may have your life total become 20."
-Sea of Sand
-Plane — Rabiah
-Players reveal each card they draw.
-"Whenever a player draws a land card, that player gains 3 life."
-"Whenever a player draws a nonland card, that player loses 3 life."
-"Whenever you roll {CHAOS}, put target permanent on top of its owner’s library."
-Shiv
-Plane — Dominaria
-All creatures have “{R}: This creature gets +1/+0 until end of turn.”
-"Whenever you roll {CHAOS}, create a 5/5 red Dragon creature token with flying."
-Skybreen
-Plane — Kaldheim
-Players play with the top card of their libraries revealed.
-Spells that share a card type with the top card of a library can’t be cast.
-"Whenever you roll {CHAOS}, target player loses life equal to the number of cards in their hand."
-Sokenzan
-Plane — Kamigawa
-All creatures get +1/+1 and have haste.
-"Whenever you roll {CHAOS}, untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase."
-Stronghold Furnace
-Plane — Rath
-"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-"Whenever you roll {CHAOS}, Stronghold Furnace deals 1 damage to any target."
-The Aether Flues
-Plane — Iquatana
-"When you planeswalk to The Aether Flues or at the beginning of your upkeep, you may sacrifice a creature. If you do, reveal cards from the top of your library until you reveal a creature card, put that card onto the battlefield, then shuffle all other cards revealed this way into your library."
-"Whenever you roll {CHAOS}, you may put a creature card from your hand onto the battlefield."
-The Dark Barony
-Plane — Ulgrotha
-"Whenever a nonblack card is put into a player’s graveyard from anywhere, that player loses 1 life."
-"Whenever you roll {CHAOS}, each opponent discards a card."
-The Eon Fog
-Plane — Equilor
-Players skip their untap steps.
-"Whenever you roll {CHAOS}, untap all permanents you control."
-The Fourth Sphere
-Plane — Phyrexia
-"At the beginning of your upkeep, sacrifice a nonblack creature."
-"Whenever you roll {CHAOS}, create a 2/2 black Zombie creature token."
-The Great Forest
-Plane — Lorwyn
-Each creature assigns combat damage equal to its toughness rather than its power.
-"Whenever you roll {CHAOS}, creatures you control get +0/+2 and gain trample until end of turn."
-The Hippodrome
-Plane — Segovia
-All creatures get -5/-0.
-"Whenever you roll {CHAOS}, you may destroy target creature if its power is 0 or less."
-The Maelstrom
-Plane — Alara
-"When you planeswalk to The Maelstrom or at the beginning of your upkeep, you may reveal the top card of your library. If it’s a permanent card, you may put it onto the battlefield. If you revealed a card but didn’t put it onto the battlefield, put it on the bottom of your library."
-"Whenever you roll {CHAOS}, return target permanent card from your graveyard to the battlefield."
-Turri Island
-Plane — Ir
-Creature spells cost {2} less to cast.
-"Whenever you roll {CHAOS}, reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard."
-Undercity Reaches
-Plane — Ravnica
-"Whenever a creature deals combat damage to a player, its controller may draw a card."
-"Whenever you roll {CHAOS}, you have no maximum hand size for the rest of the game."
-Velis Vel
-Plane — Lorwyn
-"Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Elemental Shamans and an Elemental Spirit are on the battlefield, each gets +2/+2.)"
-"Whenever you roll {CHAOS}, target creature gains all creature types until end of turn."
+"('Academy at Tolaria West', ['Plane — Dominaria', 'At the beginning of your end step, if you have no cards in hand, draw seven cards.', 'Whenever you roll {CHAOS}, discard your hand.'])"
+"('Agyrem', ['Plane — Ravnica', 'Whenever a white creature dies, return it to the battlefield under its owner’s control at the beginning of the next end step.', 'Whenever a nonwhite creature dies, return it to its owner’s hand at the beginning of the next end step.', 'Whenever you roll {CHAOS}, creatures can’t attack you until a player planeswalks.'])"
+"('Bant', ['Plane — Alara', 'All creatures have exalted. (Whenever a creature attacks alone, it gets +1/+1 until end of turn for each instance of exalted among permanents its controller controls.)', 'Whenever you roll {CHAOS}, put a divinity counter on target green, white, or blue creature. That creature has indestructible for as long as it has a divinity counter on it.'])"
+"('Cliffside Market', ['Plane — Mercadia', 'When you planeswalk to Cliffside Market or at the beginning of your upkeep, you may exchange life totals with target player.', 'Whenever you roll {CHAOS}, exchange control of two target permanents that share a card type.'])"
+"('Eloren Wilds', ['Plane — Shandalar', 'Whenever a player taps a permanent for mana, that player adds one mana of any type that permanent produced.', 'Whenever you roll {CHAOS}, target player can’t cast spells until a player planeswalks.'])"
+"('Feeding Grounds', ['Plane — Muraganda', 'Red spells cost {1} less to cast.', 'Green spells cost {1} less to cast.', 'Whenever you roll {CHAOS}, put X +1/+1 counters on target creature, where X is that creature’s converted mana cost.'])"
+"('Fields of Summer', ['Plane — Moag', 'Whenever a player casts a spell, that player may gain 2 life.', 'Whenever you roll {CHAOS}, you may gain 10 life.'])"
+"('Glimmervoid Basin', ['Plane — Mirrodin', 'Whenever a player casts an instant or sorcery spell with a single target, that player copies that spell for each other spell, permanent, card not on the battlefield, and/or player the spell could target. Each copy targets a different one of them.', 'Whenever you roll {CHAOS}, choose target creature. Each player except that creature’s controller creates a token that’s a copy of that creature.'])"
+"('Goldmeadow', ['Plane — Lorwyn', 'Whenever a land enters the battlefield, that land’s controller creates three 0/1 white Goat creature tokens.', 'Whenever you roll {CHAOS}, create a 0/1 white Goat creature token.'])"
+"('Grixis', ['Plane — Alara', 'Blue, black, and/or red creature cards in your graveyard have unearth. The unearth cost is equal to the card’s mana cost. (Pay the card’s mana cost: Return it to the battlefield. The creature gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)', 'Whenever you roll {CHAOS}, put target creature card from a graveyard onto the battlefield under your control.'])"
+"('Immersturm', ['Plane — Valla', 'Whenever a creature enters the battlefield, that creature’s controller may have it deal damage equal to its power to any target of their choice.', 'Whenever you roll {CHAOS}, exile target creature, then return it to the battlefield under its owner’s control.'])"
+"('Isle of Vesuva', ['Plane — Dominaria', 'Whenever a nontoken creature enters the battlefield, its controller creates a token that’s a copy of that creature.', 'Whenever you roll {CHAOS}, destroy target creature and all other creatures with the same name as that creature.'])"
+"('Izzet Steam Maze', ['Plane — Ravnica', 'Whenever a player casts an instant or sorcery spell, that player copies it. The player may choose new targets for the copy.', 'Whenever you roll {CHAOS}, instant and sorcery spells you cast this turn cost {3} less to cast.'])"
+"('Krosa', ['Plane — Dominaria', 'All creatures get +2/+2.', 'Whenever you roll {CHAOS}, you may add {W}{U}{B}{R}{G}.'])"
+"('Lethe Lake', ['Plane — Arkhos', 'At the beginning of your upkeep, mill ten cards.', 'Whenever you roll {CHAOS}, target player mills ten cards.'])"
+"('Llanowar', ['Plane — Dominaria', 'All creatures have “{T}: Add {G}{G}.”', 'Whenever you roll {CHAOS}, untap all creatures you control.'])"
+"('Minamo', ['Plane — Kamigawa', 'Whenever a player casts a spell, that player may draw a card.', 'Whenever you roll {CHAOS}, each player may return a blue card from their graveyard to their hand.'])"
+"('Murasa', ['Plane — Zendikar', 'Whenever a nontoken creature enters the battlefield, its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.', 'Whenever you roll {CHAOS}, target land becomes a 4/4 creature that’s still a land.'])"
+"('Naar Isle', ['Plane — Wildfire', 'At the beginning of your upkeep, put a flame counter on Naar Isle, then Naar Isle deals damage to you equal to the number of flame counters on it.', 'Whenever you roll {CHAOS}, Naar Isle deals 3 damage to target player or planeswalker.'])"
+"('Naya', ['Plane — Alara', 'You may play any number of lands on each of your turns.', 'Whenever you roll {CHAOS}, target red, green, or white creature you control gets +1/+1 until end of turn for each land you control.'])"
+"('Otaria', ['Plane — Dominaria', 'Instant and sorcery cards in graveyards have flashback. The flashback cost is equal to the card’s mana cost. (Its owner may cast the card from their graveyard for its mana cost. Then they exile it.)', 'Whenever you roll {CHAOS}, take an extra turn after this one.'])"
+"('Panopticon', ['Plane — Mirrodin', 'When you planeswalk to Panopticon, draw a card.', 'At the beginning of your draw step, draw an additional card.', 'Whenever you roll {CHAOS}, draw a card.'])"
+"('Pools of Becoming', ['Plane — Bolas’s Meditation Realm', 'At the beginning of your end step, put the cards in your hand on the bottom of your library in any order, then draw that many cards.', 'Whenever you roll {CHAOS}, reveal the top three cards of your planar deck. Each of the revealed cards’ {CHAOS} abilities triggers. Then put the revealed cards on the bottom of your planar deck in any order.'])"
+"(""Raven's Run"", ['Plane — Shadowmoor', 'All creatures have wither. (They deal damage to creatures in the form of -1/-1 counters.)', 'Whenever you roll {CHAOS}, put a -1/-1 counter on target creature, two -1/-1 counters on another target creature, and three -1/-1 counters on a third target creature.'])"
+"('Sanctum of Serra', ['Plane — Serra’s Realm', 'When you planeswalk away from Sanctum of Serra, destroy all nonland permanents.', 'Whenever you roll {CHAOS}, you may have your life total become 20.'])"
+"('Sea of Sand', ['Plane — Rabiah', 'Players reveal each card they draw.', 'Whenever a player draws a land card, that player gains 3 life.', 'Whenever a player draws a nonland card, that player loses 3 life.', 'Whenever you roll {CHAOS}, put target permanent on top of its owner’s library.'])"
+"('Shiv', ['Plane — Dominaria', 'All creatures have “{R}: This creature gets +1/+0 until end of turn.”', 'Whenever you roll {CHAOS}, create a 5/5 red Dragon creature token with flying.'])"
+"('Skybreen', ['Plane — Kaldheim', 'Players play with the top card of their libraries revealed.', 'Spells that share a card type with the top card of a library can’t be cast.', 'Whenever you roll {CHAOS}, target player loses life equal to the number of cards in their hand.'])"
+"('Sokenzan', ['Plane — Kamigawa', 'All creatures get +1/+1 and have haste.', 'Whenever you roll {CHAOS}, untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.'])"
+"('Stronghold Furnace', ['Plane — Rath', 'If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.', 'Whenever you roll {CHAOS}, Stronghold Furnace deals 1 damage to any target.'])"
+"('The Aether Flues', ['Plane — Iquatana', 'When you planeswalk to The Aether Flues or at the beginning of your upkeep, you may sacrifice a creature. If you do, reveal cards from the top of your library until you reveal a creature card, put that card onto the battlefield, then shuffle all other cards revealed this way into your library.', 'Whenever you roll {CHAOS}, you may put a creature card from your hand onto the battlefield.'])"
+"('The Dark Barony', ['Plane — Ulgrotha', 'Whenever a nonblack card is put into a player’s graveyard from anywhere, that player loses 1 life.', 'Whenever you roll {CHAOS}, each opponent discards a card.'])"
+"('The Eon Fog', ['Plane — Equilor', 'Players skip their untap steps.', 'Whenever you roll {CHAOS}, untap all permanents you control.'])"
+"('The Fourth Sphere', ['Plane — Phyrexia', 'At the beginning of your upkeep, sacrifice a nonblack creature.', 'Whenever you roll {CHAOS}, create a 2/2 black Zombie creature token.'])"
+"('The Great Forest', ['Plane — Lorwyn', 'Each creature assigns combat damage equal to its toughness rather than its power.', 'Whenever you roll {CHAOS}, creatures you control get +0/+2 and gain trample until end of turn.'])"
+"('The Hippodrome', ['Plane — Segovia', 'All creatures get -5/-0.', 'Whenever you roll {CHAOS}, you may destroy target creature if its power is 0 or less.'])"
+"('The Maelstrom', ['Plane — Alara', 'When you planeswalk to The Maelstrom or at the beginning of your upkeep, you may reveal the top card of your library. If it’s a permanent card, you may put it onto the battlefield. If you revealed a card but didn’t put it onto the battlefield, put it on the bottom of your library.', 'Whenever you roll {CHAOS}, return target permanent card from your graveyard to the battlefield.'])"
+"('Turri Island', ['Plane — Ir', 'Creature spells cost {2} less to cast.', 'Whenever you roll {CHAOS}, reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.'])"
+"('Undercity Reaches', ['Plane — Ravnica', 'Whenever a creature deals combat damage to a player, its controller may draw a card.', 'Whenever you roll {CHAOS}, you have no maximum hand size for the rest of the game.'])"
+"('Velis Vel', ['Plane — Lorwyn', 'Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Elemental Shamans and an Elemental Spirit are on the battlefield, each gets +2/+2.)', 'Whenever you roll {CHAOS}, target creature gains all creature types until end of turn.'])"

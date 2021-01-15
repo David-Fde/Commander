@@ -1,21 +1,5 @@
-Avatar
-Token Creature — Avatar
-This creature’s power and toughness are each equal to your life total.
-*/*
-Beast
-Token Creature — Beast
-3/3
-Bird
-Token Creature — Bird
-Flying
-3/3
-Ooze
-Token Creature — Ooze
-1/1
-Ooze
-Token Creature — Ooze
-"When this creature dies, create two 1/1 green Ooze creature tokens."
-2/2
-Zombie
-Token Creature — Zombie
-2/2
+"('Avatar', ['Token Creature — Avatar', 'This creature’s power and toughness are each equal to your life total.', '*/*'])"
+"('Beast', ['Token Creature — Beast', '3/3'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '3/3'])"
+"('Ooze', ['Token Creature — Ooze', 'When this creature dies, create two 1/1 green Ooze creature tokens.', '2/2'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

@@ -1,90 +1,15 @@
-Bog Humbugs
-{1}{B}
-Creature — Insect
-Flying
-"Whenever Bog Humbugs deals combat damage, hum that many notes of a festive song. If you can, put a +1/+1 counter on Bog Humbugs."
-1/1
-Decorated Knight
-{3}{U}
-Creature — Human Knight
-"Whenever Decorated Knight attacks, draw a card from your original deck if it’s outside the game."
-3/3
-Present Arms
-{2}{U}
-Sorcery — Adventure
-Exchange your library with another deck you own from outside the game. Shuffle your library.
-Evil Presents
-{2}{B}{B}
-Sorcery
-Put a creature card from your hand into play under target opponent’s control. That creature attacks each turn if able… and always attacks its controller.
-Fruitcake Elemental
-{1}{G}{G}
-Creature — Elemental
-Fruitcake Elemental is indestructible.
-"At the end of your turn, Fruitcake Elemental deals 7 damage to you."
-{3}: Target player gains control of Fruitcake Elemental.
-7/7
-Gifts Given
-{3}{U}
-Instant
-Search target opponent’s library for four cards with different names and reveal them. That player chooses two of those cards. Put the chosen cards into the player’s graveyard and the rest into your hand. Then that player shuffles their library.
-Gifts Given
-{3}{U}
-Instant
-Search target opponent’s library for four cards with different names and reveal them. That player chooses two of those cards. Put the chosen cards into the player’s graveyard and the rest into your hand. Then that player shuffles their library.
-Goblin Sleigh Ride
-{1}{R}
-Sorcery
-"Target creature you control climbs into Goblin Sleigh Ride. You slide them on their merry way. If the creature stayed on, it deals damage equal to its toughness to each other creature touched during the slide."
-Mishra's Toy Workshop
-Land
-{T}: Add {C}{C}{C}. Spend this mana only on spells and abilities that put tokens onto the battlefield. Use toys to represent the tokens.
-Naughty
-{1}{B}{B}
-Sorcery
-Search another target player’s library for a card and put that card into your hand. Then shuffle that player’s library.
-Nice
-{1}{W}{W}
-Sorcery
-Search your library for a card and put it into another target player’s hand. Then shuffle your library.
-Season's Beatings
-{R}{R}{R}{R}
-Sorcery
-Family gathering — Each creature target player controls deals damage equal to its power to another random creature that player controls.
-Snow Mercy
-{2}{W}{W}
-Snow Enchantment
-"Whenever a creature deals damage to you, put a globe counter on it."
-"{T}, {Q}, {T}, {Q}, {T}: Tap all creatures with globe counters on them."
-Some Disassembly Required
-{B}
-Enchantment
-"{B}, Sacrifice a creature: Distribute the sacrificed creature’s keyword abilities among any number of other target creatures until end of turn. If it’s December, you gain 1 life for each of those keywords."
-Stocking Tiger
-{5}
-Artifact Creature — Cat Construct
-Stocking Tiger enters the battlefield with a sealed Magic booster pack under it.
-"When Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it into your hand."
-3/3
-Stocking Tiger
-{5}
-Artifact Creature — Cat Construct
-Stocking Tiger enters the battlefield with a sealed Magic booster pack under it.
-"When Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it into your hand."
-3/3
-Thopter Pie Network
-{2}{U}{U}
-Enchantment
-"At the beginning of your upkeep, if you’re eating, create a 1/1 colorless Thopter artifact creature token with flying. Use food to represent the token."
-"Whenever a creature token you control dies, if it’s represented by food, eat it."
-Topdeck the Halls
-{3}{R}{W}
-Enchantment
-"Decorated Cards in your hand have miracle {S}. (Decorated cards include premiums, promos, and cards with alternate frames or art.)"
-"At the beginning of your upkeep, if you control twelve or more decorated permanents, you win the game."
-Yule Ooze
-{2}{R}{G}
-Creature — Ooze
-"At the beginning of your upkeep, destroy another nonland permanent chosen at random, then put a number of +1/+1 counters on Yule Ooze equal to that permanent’s converted mana cost."
-"{R}{G}, Eat some food: Regenerate Yule Ooze."
-1/1
+"('Bog Humbugs', ['{1}{B}', 'Creature — Insect', 'Flying', 'Whenever Bog Humbugs deals combat damage, hum that many notes of a festive song. If you can, put a +1/+1 counter on Bog Humbugs.', '1/1'])"
+"('Decorated Knight', ['{3}{U}', 'Creature — Human Knight', 'Whenever Decorated Knight attacks, draw a card from your original deck if it’s outside the game.', '3/3', 'Present Arms', '{2}{U}', 'Sorcery — Adventure', 'Exchange your library with another deck you own from outside the game. Shuffle your library.'])"
+"('Evil Presents', ['{2}{B}{B}', 'Sorcery', 'Put a creature card from your hand into play under target opponent’s control. That creature attacks each turn if able… and always attacks its controller.'])"
+"('Fruitcake Elemental', ['{1}{G}{G}', 'Creature — Elemental', 'Fruitcake Elemental is indestructible.', 'At the end of your turn, Fruitcake Elemental deals 7 damage to you.', '{3}: Target player gains control of Fruitcake Elemental.', '7/7'])"
+"('Gifts Given', ['{3}{U}', 'Instant', 'Search target opponent’s library for four cards with different names and reveal them. That player chooses two of those cards. Put the chosen cards into the player’s graveyard and the rest into your hand. Then that player shuffles their library.'])"
+"('Goblin Sleigh Ride', ['{1}{R}', 'Sorcery', 'Target creature you control climbs into Goblin Sleigh Ride. You slide them on their merry way. If the creature stayed on, it deals damage equal to its toughness to each other creature touched during the slide.'])"
+"(""Mishra's Toy Workshop"", ['Land', '{T}: Add {C}{C}{C}. Spend this mana only on spells and abilities that put tokens onto the battlefield. Use toys to represent the tokens.'])"
+"('Naughty', ['{1}{B}{B}', 'Sorcery', 'Search another target player’s library for a card and put that card into your hand. Then shuffle that player’s library.', 'Nice', '{1}{W}{W}', 'Sorcery', 'Search your library for a card and put it into another target player’s hand. Then shuffle your library.'])"
+"(""Season's Beatings"", ['{R}{R}{R}{R}', 'Sorcery', 'Family gathering — Each creature target player controls deals damage equal to its power to another random creature that player controls.'])"
+"('Snow Mercy', ['{2}{W}{W}', 'Snow Enchantment', 'Whenever a creature deals damage to you, put a globe counter on it.', '{T}, {Q}, {T}, {Q}, {T}: Tap all creatures with globe counters on them.'])"
+"('Some Disassembly Required', ['{B}', 'Enchantment', '{B}, Sacrifice a creature: Distribute the sacrificed creature’s keyword abilities among any number of other target creatures until end of turn. If it’s December, you gain 1 life for each of those keywords.'])"
+"('Stocking Tiger', ['{5}', 'Artifact Creature — Cat Construct', 'Stocking Tiger enters the battlefield with a sealed Magic booster pack under it.', 'When Stocking Tiger deals combat damage to a player, unwrap the booster pack and put it into your hand.', '3/3'])"
+"('Thopter Pie Network', ['{2}{U}{U}', 'Enchantment', 'At the beginning of your upkeep, if you’re eating, create a 1/1 colorless Thopter artifact creature token with flying. Use food to represent the token.', 'Whenever a creature token you control dies, if it’s represented by food, eat it.'])"
+"('Topdeck the Halls', ['{3}{R}{W}', 'Enchantment', 'Decorated Cards in your hand have miracle {S}. (Decorated cards include premiums, promos, and cards with alternate frames or art.)', 'At the beginning of your upkeep, if you control twelve or more decorated permanents, you win the game.'])"
+"('Yule Ooze', ['{2}{R}{G}', 'Creature — Ooze', 'At the beginning of your upkeep, destroy another nonland permanent chosen at random, then put a number of +1/+1 counters on Yule Ooze equal to that permanent’s converted mana cost.', '{R}{G}, Eat some food: Regenerate Yule Ooze.', '1/1'])"

@@ -1,19 +1,6 @@
-Dragon
-Token Creature — Dragon
-Flying
-5/5
-Elephant
-Token Creature — Elephant
-3/3
-Soldier
-Token Creature — Soldier
-1/1
-Squirrel
-Token Creature — Squirrel
-1/1
-Wurm
-Token Creature — Wurm
-6/6
-Zombie
-Token Creature — Zombie
-2/2
+"('Dragon', ['Token Creature — Dragon', 'Flying', '5/5'])"
+"('Elephant', ['Token Creature — Elephant', '3/3'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Squirrel', ['Token Creature — Squirrel', '1/1'])"
+"('Wurm', ['Token Creature — Wurm', '6/6'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

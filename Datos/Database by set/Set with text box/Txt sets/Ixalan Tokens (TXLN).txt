@@ -1,49 +1,8 @@
-Dinosaur
-Token Creature — Dinosaur
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-3/3
-Illusion
-Token Creature — Illusion
-"When this creature becomes the target of a spell, sacrifice it."
-2/2
-Ixalan Checklist
-Card
-(You can mark this card to represent a double-faced card in your library or hand.)
-☐ Legion’s Landing {W}
-☐ Search for Azcanta {1}{U}
-☐ Arguel’s Blood Fast {1}{B}
-☐ Vance’s Blasting Cannons {3}{R}
-☐ Growing Rites of Itlimoc {2}{G}
-☐ Conqueror’s Galleon {4}
-☐ Dowsing Dagger {2}
-☐ Primal Amulet {4}
-☐ Thaumatic Compass {2}
-☐ Treasure Map {2}
-Merfolk
-Token Creature — Merfolk
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-1/1
-Pirate
-Token Creature — Pirate
-Menace (This creature can’t be blocked except by two or more creatures.)
-2/2
-Plant
-Token Creature — Plant
-Defender (This creature can’t attack.)
-0/2
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
-Treasure
-Token Artifact — Treasure
-"{T}, Sacrifice this artifact: Add one mana of any color."
-Vampire
-Token Creature — Vampire
-Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-1/1
+"('Dinosaur', ['Token Creature — Dinosaur', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', '3/3'])"
+"('Illusion', ['Token Creature — Illusion', 'When this creature becomes the target of a spell, sacrifice it.', '2/2'])"
+"('Ixalan Checklist', ['Card', '(You can mark this card to represent a double-faced card in your library or hand.)', '☐ Legion’s Landing {W}', '☐ Search for Azcanta {1}{U}', '☐ Arguel’s Blood Fast {1}{B}', '☐ Vance’s Blasting Cannons {3}{R}', '☐ Growing Rites of Itlimoc {2}{G}', '☐ Conqueror’s Galleon {4}', '☐ Dowsing Dagger {2}', '☐ Primal Amulet {4}', '☐ Thaumatic Compass {2}', '☐ Treasure Map {2}'])"
+"('Merfolk', ['Token Creature — Merfolk', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '1/1'])"
+"('Pirate', ['Token Creature — Pirate', 'Menace (This creature can’t be blocked except by two or more creatures.)', '2/2'])"
+"('Plant', ['Token Creature — Plant', 'Defender (This creature can’t attack.)', '0/2'])"
+"('Treasure', ['Token Artifact — Treasure', '{T}, Sacrifice this artifact: Add one mana of any color.'])"
+"('Vampire', ['Token Creature — Vampire', 'Lifelink (Damage dealt by this creature also causes you to gain that much life.)', '1/1'])"

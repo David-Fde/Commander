@@ -1,42 +1,9 @@
-Blightning
-{1}{B}{R}
-Sorcery
-Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker’s controller discards two cards.
-Cryptic Command
-{1}{U}{U}{U}
-Instant
-Choose two —
-• Counter target spell.
-• Return target permanent to its owner’s hand.
-• Tap all creatures your opponents control.
-• Draw a card.
-Flame Javelin
-{2/R}{2/R}{2/R}
-Instant
-({2/R} can be paid with any two mana or with {R}. This card’s converted mana cost is 6.)
-Flame Javelin deals 4 damage to any target.
-Nameless Inversion
-{1}{B}
-Tribal Instant — Shapeshifter
-Changeling (This card is every creature type.)
-Target creature gets +3/-3 and loses all creature types until end of turn.
-Negate
-{1}{U}
-Instant
-Counter target noncreature spell.
-Rampant Growth
-{1}{G}
-Sorcery
-Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
-Remove Soul
-{1}{U}
-Instant
-Counter target creature spell.
-Terminate
-{B}{R}
-Instant
-Destroy target creature. It can’t be regenerated.
-Unmake
-{W/B}{W/B}{W/B}
-Instant
-Exile target creature.
+"('Blightning', ['{1}{B}{R}', 'Sorcery', 'Blightning deals 3 damage to target player or planeswalker. That player or that planeswalker’s controller discards two cards.'])"
+"('Cryptic Command', ['{1}{U}{U}{U}', 'Instant', 'Choose two —', '• Counter target spell.', '• Return target permanent to its owner’s hand.', '• Tap all creatures your opponents control.', '• Draw a card.'])"
+"('Flame Javelin', ['{2/R}{2/R}{2/R}', 'Instant', '({2/R} can be paid with any two mana or with {R}. This card’s converted mana cost is 6.)', 'Flame Javelin deals 4 damage to any target.'])"
+"('Nameless Inversion', ['{1}{B}', 'Tribal Instant — Shapeshifter', 'Changeling (This card is every creature type.)', 'Target creature gets +3/-3 and loses all creature types until end of turn.'])"
+"('Negate', ['{1}{U}', 'Instant', 'Counter target noncreature spell.'])"
+"('Rampant Growth', ['{1}{G}', 'Sorcery', 'Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.'])"
+"('Remove Soul', ['{1}{U}', 'Instant', 'Counter target creature spell.'])"
+"('Terminate', ['{B}{R}', 'Instant', 'Destroy target creature. It can’t be regenerated.'])"
+"('Unmake', ['{W/B}{W/B}{W/B}', 'Instant', 'Exile target creature.'])"

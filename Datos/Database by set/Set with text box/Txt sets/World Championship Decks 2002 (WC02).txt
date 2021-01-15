@@ -1,627 +1,80 @@
-2002 World Championships Ad
-Card
-Anurid Brushhopper
-{1}{G}{W}
-Creature — Frog Beast
-Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner’s control at the beginning of the next end step.
-3/4
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Blank Card
-Card
-Breakthrough
-{X}{U}
-Sorcery
-"Draw four cards, then choose X cards in your hand and discard the rest."
-Brian Kibler Bio
-Card
-"Pro Tour™ veteran Brian Kibler piloted his green-white-red “Red Zone 2K2” deck to an impressive finish at this year’s Worlds. This deck quickly tried to put its many creatures into the “red zone,” the attacking zone on the playmats used on the Pro Tour circuit. The twenty-one—year-old Kibler attends Emory University in Atlanta, Georgia, and is part of the “Mini Colony” playtest group that designed the Red Zone 2K2 deck."
-Brian Kibler Decklist
-Card
-Brushland
-Land
-{T}: Add {C}.
-{T}: Add {G} or {W}. Brushland deals 1 damage to you.
-Call of the Herd
-{2}{G}
-Sorcery
-Create a 3/3 green Elephant creature token.
-Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Careful Study
-{U}
-Sorcery
-"Draw two cards, then discard two cards."
-Carlos Romão Bio
-Card
-"Carlos Romão played the same style of deck that many people at this year’s World Championships chose to play: blue-black Psychatog. He simply played his version better than everyone else playing theirs. Romão, known as “Jaba” to his friends, was a perfect 6-0 during the Swiss portion of the tournament, posting a stunning 12-0 game record. This twenty-year-old native of São Paulo, Brazil, has been widely regarded as one of the best players in South America. His deck tried to stay alive long enough to play Upheaval, while floating mana to replay Psychatog on the same turn."
-Carlos Romão Decklist
-Card
-Cephalid Coliseum
-Land
-{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.
-"Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard."
-Chainer's Edict
-{1}{B}
-Sorcery
-Target player sacrifices a creature.
-Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Circular Logic
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-Circular Logic
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-Coffin Purge
-{B}
-Instant
-Exile target card from a graveyard.
-Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Compost
-{1}{G}
-Enchantment
-"Whenever a black card is put into an opponent’s graveyard from anywhere, you may draw a card."
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Cunning Wish
-{2}{U}
-Instant
-You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.
-Darkwater Catacombs
-Land
-"{1}, {T}: Add {U}{B}."
-Deep Analysis
-{3}{U}
-Sorcery
-Target player draws two cards.
-"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-Deep Analysis
-{3}{U}
-Sorcery
-Target player draws two cards.
-"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-Disrupt
-{U}
-Instant
-Counter target instant or sorcery spell unless its controller pays {1}.
-Draw a card.
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Fire
-{1}{R}
-Instant
-Fire deals 2 damage divided as you choose among one or two targets.
-Ice
-{1}{U}
-Instant
-Tap target permanent.
-Draw a card.
-Fire
-{1}{R}
-Instant
-Fire deals 2 damage divided as you choose among one or two targets.
-Ice
-{1}{U}
-Instant
-Tap target permanent.
-Draw a card.
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Gainsay
-{1}{U}
-Instant
-Counter target blue spell.
-Gainsay
-{1}{U}
-Instant
-Counter target blue spell.
-Genesis
-{4}{G}
-Creature — Incarnation
-"At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand."
-4/4
-Genesis
-{4}{G}
-Creature — Incarnation
-"At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand."
-4/4
-Ghastly Demise
-{B}
-Instant
-Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.
-Global Ruin
-{4}{W}
-Sorcery
-"Each player chooses from the lands they control a land of each basic land type, then sacrifices the rest."
-Glory
-{3}{W}{W}
-Creature — Incarnation
-Flying
-{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
-3/3
-Glory
-{3}{W}{W}
-Creature — Incarnation
-Flying
-{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.
-3/3
-Hibernation
-{2}{U}
-Instant
-Return all green permanents to their owners’ hands.
-Intrepid Hero
-{2}{W}
-Creature — Human Soldier
-{T}: Destroy target creature with power 4 or greater.
-1/1
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Karplusan Forest
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
-Karplusan Forest
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
-Living Wish
-{1}{G}
-Sorcery
-You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Mana Short
-{2}{U}
-Instant
-Tap all lands target player controls and that player loses all unspent mana.
-Memory Lapse
-{1}{U}
-Instant
-"Counter target spell. If that spell is countered this way, put it on top of its owner’s library instead of into that player’s graveyard."
-Mental Note
-{U}
-Instant
-Mill two cards.
-Draw a card.
-Merfolk Looter
-{1}{U}
-Creature — Merfolk Rogue
-"{T}: Draw a card, then discard a card."
-1/1
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Nightscape Familiar
-{1}{B}
-Creature — Zombie
-Blue spells and red spells you cast cost {1} less to cast.
-{1}{B}: Regenerate Nightscape Familiar.
-1/1
-Nimble Mongoose
-{G}
-Creature — Mongoose
-Shroud (This creature can’t be the target of spells or abilities.)
-Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.
-1/1
-Opposition
-{2}{U}{U}
-Enchantment
-"Tap an untapped creature you control: Tap target artifact, creature, or land."
-Phantom Centaur
-{2}{G}{G}
-Creature — Centaur Spirit
-Protection from black
-Phantom Centaur enters the battlefield with three +1/+1 counters on it.
-"If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
-2/0
-Phantom Centaur
-{2}{G}{G}
-Creature — Centaur Spirit
-Protection from black
-Phantom Centaur enters the battlefield with three +1/+1 counters on it.
-"If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
-2/0
-Phantom Centaur
-{2}{G}{G}
-Creature — Centaur Spirit
-Protection from black
-Phantom Centaur enters the battlefield with three +1/+1 counters on it.
-"If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
-2/0
-Phantom Nishoba
-{5}{G}{W}
-Creature — Cat Beast Spirit
-Trample
-Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
-"Whenever Phantom Nishoba deals damage, you gain that much life."
-"If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba."
-0/0
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Psychatog
-{1}{U}{B}
-Creature — Atog
-Discard a card: Psychatog gets +1/+1 until end of turn.
-Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.
-1/2
-Quiet Speculation
-{1}{U}
-Sorcery
-Search target player’s library for up to three cards with flashback and put them into that player’s graveyard. Then the player shuffles their library.
-Raphael Levy Bio
-Card
-"A native of Toulouse, France, Raphael Levy posted an impressive 5-1 record during the Standard portion of this year’s Worlds playing a blue-green deck he named “Le Wonder Goose.” This deck used lots of small creatures—like Numble Mongoose and Werebear—that get bigger at threshold. The deck used blue not for countermagic, but for cards like Careful Study and Mental Note, which help the deck reach threshold more quickly, and for Wonder in the graveyard, which allows the deck’s pumped-up threshold creatures to fly."
-Raphael Levy Decklist
-Card
-Ray of Revelation
-{1}{W}
-Instant
-Destroy target enchantment.
-Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Ray of Revelation
-{1}{W}
-Instant
-Destroy target enchantment.
-Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Recoil
-{1}{U}{B}
-Instant
-Return target permanent to its owner’s hand. Then that player discards a card.
-Reprisal
-{1}{W}
-Instant
-Destroy target creature with power 4 or greater. It can’t be regenerated.
-Repulse
-{2}{U}
-Instant
-Return target creature to its owner’s hand.
-Draw a card.
-Repulse
-{2}{U}
-Instant
-Return target creature to its owner’s hand.
-Draw a card.
-Roar of the Wurm
-{6}{G}
-Sorcery
-Create a 6/6 green Wurm creature token.
-Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Roar of the Wurm
-{6}{G}
-Sorcery
-Create a 6/6 green Wurm creature token.
-Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Rushing River
-{2}{U}
-Instant
-Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
-"Return target nonland permanent to its owner’s hand. If this spell was kicked, return another target nonland permanent to its owner’s hand."
-Rushing River
-{2}{U}
-Instant
-Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
-"Return target nonland permanent to its owner’s hand. If this spell was kicked, return another target nonland permanent to its owner’s hand."
-Salt Marsh
-Land
-Salt Marsh enters the battlefield tapped.
-{T}: Add {U} or {B}.
-Seton's Scout
-{1}{G}
-Creature — Centaur Druid Scout Archer
-Reach (This creature can block creatures with flying.)
-Threshold — Seton’s Scout gets +2/+2 as long as seven or more cards are in your graveyard.
-2/1
-Shivan Reef
-Land
-{T}: Add {C}.
-{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.
-Sim Han How Bio
-Card
-"Malaysian National Champion Sim Han How raised some eyebrows by posting a 6-0 record with his blue-green-red “Squirrel Opposition” deck. This deck tried to get out lots of Squirrel tokens with Squirrel Nest before using Opposition to tie up the opponent’s creatures and mana. Han How won quite a few games using some tricky sideboarding, such as pulling out his enchantments and bringing in more beatdown cards like Flametongue Kavu and Roar of the Wurm. Besides being a top Magic® player, Han How is also a student at Bandar Utama College in Kuala Lumpur, Malaysia."
-Sim Han How Decklist
-Card
-Simoon
-{R}{G}
-Instant
-Simoon deals 1 damage to each creature target opponent controls.
-Simoon
-{R}{G}
-Instant
-Simoon deals 1 damage to each creature target opponent controls.
-Slay
-{2}{B}
-Instant
-Destroy target green creature. It can’t be regenerated.
-Draw a card.
-Squirrel Nest
-{1}{G}{G}
-Enchantment — Aura
-Enchant land
-Enchanted land has “{T}: Create a 1/1 green Squirrel creature token.”
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Sylvan Safekeeper
-{G}
-Creature — Human Wizard
-Sacrifice a land: Target creature you control gains shroud until end of turn. (It can’t be the target of spells or abilities.)
-1/1
-Teferi's Response
-{1}{U}
-Instant
-"Counter target spell or ability an opponent controls that targets a land you control. If a permanent’s ability is countered this way, destroy that permanent."
-Draw two cards.
-Thornscape Battlemage
-{2}{G}
-Creature — Elf Wizard
-Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)
-"When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target."
-"When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact."
-2/2
-Thunderscape Battlemage
-{2}{R}
-Creature — Human Wizard
-Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)
-"When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards."
-"When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment."
-2/2
-Underground River
-Land
-{T}: Add {C}.
-{T}: Add {U} or {B}. Underground River deals 1 damage to you.
-Upheaval
-{4}{U}{U}
-Sorcery
-Return all permanents to their owners’ hands.
-Wax
-{G}
-Instant
-Target creature gets +2/+2 until end of turn.
-Wane
-{W}
-Instant
-Destroy target enchantment.
-Werebear
-{1}{G}
-Creature — Human Bear Druid
-{T}: Add {G}.
-Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.
-1/1
-Wild Mongrel
-{1}{G}
-Creature — Dog
-Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
-2/2
-Wild Mongrel
-{1}{G}
-Creature — Dog
-Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
-2/2
-Wild Mongrel
-{1}{G}
-Creature — Dog
-Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
-2/2
-Wonder
-{3}{U}
-Creature — Incarnation
-Flying
-"As long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
-2/2
-Yavimaya Coast
-Land
-{T}: Add {C}.
-{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you.
-Yavimaya Coast
-Land
-{T}: Add {C}.
-{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you.
+"('2002 World Championships Ad', ['Card'])"
+"('Anurid Brushhopper', ['{1}{G}{W}', 'Creature — Frog Beast', 'Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner’s control at the beginning of the next end step.', '3/4'])"
+"('Birds of Paradise', ['{G}', 'Creature — Bird', 'Flying', '{T}: Add one mana of any color.', '0/1'])"
+"('Blank Card', ['Card'])"
+"('Breakthrough', ['{X}{U}', 'Sorcery', 'Draw four cards, then choose X cards in your hand and discard the rest.'])"
+"('Brian Kibler Bio', ['Card', 'Pro Tour™ veteran Brian Kibler piloted his green-white-red “Red Zone 2K2” deck to an impressive finish at this year’s Worlds. This deck quickly tried to put its many creatures into the “red zone,” the attacking zone on the playmats used on the Pro Tour circuit. The twenty-one—year-old Kibler attends Emory University in Atlanta, Georgia, and is part of the “Mini Colony” playtest group that designed the Red Zone 2K2 deck.'])"
+"('Brian Kibler Decklist', ['Card'])"
+"('Brushland', ['Land', '{T}: Add {C}.', '{T}: Add {G} or {W}. Brushland deals 1 damage to you.'])"
+"('Call of the Herd', ['{2}{G}', 'Sorcery', 'Create a 3/3 green Elephant creature token.', 'Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Careful Study', ['{U}', 'Sorcery', 'Draw two cards, then discard two cards.'])"
+"('Carlos Romão Bio', ['Card', 'Carlos Romão played the same style of deck that many people at this year’s World Championships chose to play: blue-black Psychatog. He simply played his version better than everyone else playing theirs. Romão, known as “Jaba” to his friends, was a perfect 6-0 during the Swiss portion of the tournament, posting a stunning 12-0 game record. This twenty-year-old native of São Paulo, Brazil, has been widely regarded as one of the best players in South America. His deck tried to stay alive long enough to play Upheaval, while floating mana to replay Psychatog on the same turn.'])"
+"('Carlos Romão Decklist', ['Card'])"
+"('Cephalid Coliseum', ['Land', '{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.', 'Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.'])"
+"(""Chainer's Edict"", ['{1}{B}', 'Sorcery', 'Target player sacrifices a creature.', 'Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Circular Logic', ['{2}{U}', 'Instant', 'Counter target spell unless its controller pays {1} for each card in your graveyard.', 'Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('Coffin Purge', ['{B}', 'Instant', 'Exile target card from a graveyard.', 'Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Compost', ['{1}{G}', 'Enchantment', 'Whenever a black card is put into an opponent’s graveyard from anywhere, you may draw a card.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Cunning Wish', ['{2}{U}', 'Instant', 'You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.'])"
+"('Darkwater Catacombs', ['Land', '{1}, {T}: Add {U}{B}.'])"
+"('Deep Analysis', ['{3}{U}', 'Sorcery', 'Target player draws two cards.', 'Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Disrupt', ['{U}', 'Instant', 'Counter target instant or sorcery spell unless its controller pays {1}.', 'Draw a card.'])"
+"('Duress', ['{B}', 'Sorcery', 'Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.'])"
+"('Fact or Fiction', ['{3}{U}', 'Instant', 'Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.'])"
+"('Fire', ['{1}{R}', 'Instant', 'Fire deals 2 damage divided as you choose among one or two targets.', 'Ice', '{1}{U}', 'Instant', 'Tap target permanent.', 'Draw a card.'])"
+"('Flametongue Kavu', ['{3}{R}', 'Creature — Kavu', 'When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.', '4/2'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Gainsay', ['{1}{U}', 'Instant', 'Counter target blue spell.'])"
+"('Genesis', ['{4}{G}', 'Creature — Incarnation', 'At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.', '4/4'])"
+"('Ghastly Demise', ['{B}', 'Instant', 'Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.'])"
+"('Global Ruin', ['{4}{W}', 'Sorcery', 'Each player chooses from the lands they control a land of each basic land type, then sacrifices the rest.'])"
+"('Glory', ['{3}{W}{W}', 'Creature — Incarnation', 'Flying', '{2}{W}: Choose a color. Creatures you control gain protection from the chosen color until end of turn. Activate this ability only if Glory is in your graveyard.', '3/3'])"
+"('Hibernation', ['{2}{U}', 'Instant', 'Return all green permanents to their owners’ hands.'])"
+"('Intrepid Hero', ['{2}{W}', 'Creature — Human Soldier', '{T}: Destroy target creature with power 4 or greater.', '1/1'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Karplusan Forest', ['Land', '{T}: Add {C}.', '{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.'])"
+"('Living Wish', ['{1}{G}', 'Sorcery', 'You may reveal a creature or land card you own from outside the game and put it into your hand. Exile Living Wish.'])"
+"('Llanowar Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Mana Short', ['{2}{U}', 'Instant', 'Tap all lands target player controls and that player loses all unspent mana.'])"
+"('Memory Lapse', ['{1}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, put it on top of its owner’s library instead of into that player’s graveyard.'])"
+"('Mental Note', ['{U}', 'Instant', 'Mill two cards.', 'Draw a card.'])"
+"('Merfolk Looter', ['{1}{U}', 'Creature — Merfolk Rogue', '{T}: Draw a card, then discard a card.', '1/1'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Nightscape Familiar', ['{1}{B}', 'Creature — Zombie', 'Blue spells and red spells you cast cost {1} less to cast.', '{1}{B}: Regenerate Nightscape Familiar.', '1/1'])"
+"('Nimble Mongoose', ['{G}', 'Creature — Mongoose', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.', '1/1'])"
+"('Opposition', ['{2}{U}{U}', 'Enchantment', 'Tap an untapped creature you control: Tap target artifact, creature, or land.'])"
+"('Phantom Centaur', ['{2}{G}{G}', 'Creature — Centaur Spirit', 'Protection from black', 'Phantom Centaur enters the battlefield with three +1/+1 counters on it.', 'If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.', '2/0'])"
+"('Phantom Nishoba', ['{5}{G}{W}', 'Creature — Cat Beast Spirit', 'Trample', 'Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.', 'Whenever Phantom Nishoba deals damage, you gain that much life.', 'If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.', '0/0'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Psychatog', ['{1}{U}{B}', 'Creature — Atog', 'Discard a card: Psychatog gets +1/+1 until end of turn.', 'Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.', '1/2'])"
+"('Quiet Speculation', ['{1}{U}', 'Sorcery', 'Search target player’s library for up to three cards with flashback and put them into that player’s graveyard. Then the player shuffles their library.'])"
+"('Raphael Levy Bio', ['Card', 'A native of Toulouse, France, Raphael Levy posted an impressive 5-1 record during the Standard portion of this year’s Worlds playing a blue-green deck he named “Le Wonder Goose.” This deck used lots of small creatures—like Numble Mongoose and Werebear—that get bigger at threshold. The deck used blue not for countermagic, but for cards like Careful Study and Mental Note, which help the deck reach threshold more quickly, and for Wonder in the graveyard, which allows the deck’s pumped-up threshold creatures to fly.'])"
+"('Raphael Levy Decklist', ['Card'])"
+"('Ray of Revelation', ['{1}{W}', 'Instant', 'Destroy target enchantment.', 'Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Recoil', ['{1}{U}{B}', 'Instant', 'Return target permanent to its owner’s hand. Then that player discards a card.'])"
+"('Reprisal', ['{1}{W}', 'Instant', 'Destroy target creature with power 4 or greater. It can’t be regenerated.'])"
+"('Repulse', ['{2}{U}', 'Instant', 'Return target creature to its owner’s hand.', 'Draw a card.'])"
+"('Roar of the Wurm', ['{6}{G}', 'Sorcery', 'Create a 6/6 green Wurm creature token.', 'Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Rushing River', ['{2}{U}', 'Instant', 'Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)', 'Return target nonland permanent to its owner’s hand. If this spell was kicked, return another target nonland permanent to its owner’s hand.'])"
+"('Salt Marsh', ['Land', 'Salt Marsh enters the battlefield tapped.', '{T}: Add {U} or {B}.'])"
+"(""Seton's Scout"", ['{1}{G}', 'Creature — Centaur Druid Scout Archer', 'Reach (This creature can block creatures with flying.)', 'Threshold — Seton’s Scout gets +2/+2 as long as seven or more cards are in your graveyard.', '2/1'])"
+"('Shivan Reef', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.'])"
+"('Sim Han How Bio', ['Card', 'Malaysian National Champion Sim Han How raised some eyebrows by posting a 6-0 record with his blue-green-red “Squirrel Opposition” deck. This deck tried to get out lots of Squirrel tokens with Squirrel Nest before using Opposition to tie up the opponent’s creatures and mana. Han How won quite a few games using some tricky sideboarding, such as pulling out his enchantments and bringing in more beatdown cards like Flametongue Kavu and Roar of the Wurm. Besides being a top Magic® player, Han How is also a student at Bandar Utama College in Kuala Lumpur, Malaysia.'])"
+"('Sim Han How Decklist', ['Card'])"
+"('Simoon', ['{R}{G}', 'Instant', 'Simoon deals 1 damage to each creature target opponent controls.'])"
+"('Slay', ['{2}{B}', 'Instant', 'Destroy target green creature. It can’t be regenerated.', 'Draw a card.'])"
+"('Squirrel Nest', ['{1}{G}{G}', 'Enchantment — Aura', 'Enchant land', 'Enchanted land has “{T}: Create a 1/1 green Squirrel creature token.”'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Sylvan Safekeeper', ['{G}', 'Creature — Human Wizard', 'Sacrifice a land: Target creature you control gains shroud until end of turn. (It can’t be the target of spells or abilities.)', '1/1'])"
+"(""Teferi's Response"", ['{1}{U}', 'Instant', 'Counter target spell or ability an opponent controls that targets a land you control. If a permanent’s ability is countered this way, destroy that permanent.', 'Draw two cards.'])"
+"('Thornscape Battlemage', ['{2}{G}', 'Creature — Elf Wizard', 'Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)', 'When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target.', 'When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.', '2/2'])"
+"('Thunderscape Battlemage', ['{2}{R}', 'Creature — Human Wizard', 'Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)', 'When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.', 'When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.', '2/2'])"
+"('Underground River', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {B}. Underground River deals 1 damage to you.'])"
+"('Upheaval', ['{4}{U}{U}', 'Sorcery', 'Return all permanents to their owners’ hands.'])"
+"('Wax', ['{G}', 'Instant', 'Target creature gets +2/+2 until end of turn.', 'Wane', '{W}', 'Instant', 'Destroy target enchantment.'])"
+"('Werebear', ['{1}{G}', 'Creature — Human Bear Druid', '{T}: Add {G}.', 'Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.', '1/1'])"
+"('Wild Mongrel', ['{1}{G}', 'Creature — Dog', 'Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.', '2/2'])"
+"('Wonder', ['{3}{U}', 'Creature — Incarnation', 'Flying', 'As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.', '2/2'])"
+"('Yavimaya Coast', ['Land', '{T}: Add {C}.', '{T}: Add {G} or {U}. Yavimaya Coast deals 1 damage to you.'])"

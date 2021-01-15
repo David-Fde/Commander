@@ -1,6 +1,1 @@
-Monstrous Hound
-{3}{R}
-Creature — Dog
-Monstrous Hound can’t attack unless you control more lands than defending player.
-Monstrous Hound can’t block unless you control more lands than attacking player.
-4/4
+"('Monstrous Hound', ['{3}{R}', 'Creature — Dog', 'Monstrous Hound can’t attack unless you control more lands than defending player.', 'Monstrous Hound can’t block unless you control more lands than attacking player.', '4/4'])"

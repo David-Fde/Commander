@@ -1,19 +1,5 @@
-Drench the Soil in Their Blood
-Scheme
-"When you set this scheme in motion, after this main phase, there is an additional combat phase followed by an additional main phase. Creatures you control gain vigilance until end of turn."
-Imprison This Insolent Wretch
-Ongoing Scheme
-(An ongoing scheme remains face up until it’s abandoned.)
-"When you set this scheme in motion, choose an opponent."
-Permanents the chosen player controls don’t untap during their untap step.
-"When the chosen player is attacked or becomes the target of a spell or ability, abandon this scheme."
-Perhaps You've Met My Cohort
-Scheme
-"When you set this scheme in motion, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library."
-Plots That Span Centuries
-Scheme
-"When you set this scheme in motion, the next time you would set a scheme in motion, set three schemes in motion instead."
-Your Inescapable Doom
-Ongoing Scheme
-(An ongoing scheme remains face up.)
-"At the beginning of your end step, put a doom counter on this scheme, then this scheme deals damage equal to the number of doom counters on it to the opponent with the highest life total among your opponents. If two or more players are tied for highest life total, you choose one."
+"('Drench the Soil in Their Blood', ['Scheme', 'When you set this scheme in motion, after this main phase, there is an additional combat phase followed by an additional main phase. Creatures you control gain vigilance until end of turn.'])"
+"('Imprison This Insolent Wretch', ['Ongoing Scheme', '(An ongoing scheme remains face up until it’s abandoned.)', 'When you set this scheme in motion, choose an opponent.', 'Permanents the chosen player controls don’t untap during their untap step.', 'When the chosen player is attacked or becomes the target of a spell or ability, abandon this scheme.'])"
+"(""Perhaps You've Met My Cohort"", ['Scheme', 'When you set this scheme in motion, search your library for a planeswalker card, put it onto the battlefield, then shuffle your library.'])"
+"('Plots That Span Centuries', ['Scheme', 'When you set this scheme in motion, the next time you would set a scheme in motion, set three schemes in motion instead.'])"
+"('Your Inescapable Doom', ['Ongoing Scheme', '(An ongoing scheme remains face up.)', 'At the beginning of your end step, put a doom counter on this scheme, then this scheme deals damage equal to the number of doom counters on it to the opponent with the highest life total among your opponents. If two or more players are tied for highest life total, you choose one.'])"

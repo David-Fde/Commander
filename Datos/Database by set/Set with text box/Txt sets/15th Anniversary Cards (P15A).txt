@@ -1,10 +1,2 @@
-Char
-{2}{R}
-Instant
-Char deals 4 damage to any target and 2 damage to you.
-"Kamahl, Pit Fighter"
-{4}{R}{R}
-Legendary Creature — Human Barbarian
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-"{T}: Kamahl, Pit Fighter deals 3 damage to any target."
-6/1
+"('Char', ['{2}{R}', 'Instant', 'Char deals 4 damage to any target and 2 damage to you.'])"
+"('Kamahl, Pit Fighter', ['{4}{R}{R}', 'Legendary Creature — Human Barbarian', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', '{T}: Kamahl, Pit Fighter deals 3 damage to any target.', '6/1'])"

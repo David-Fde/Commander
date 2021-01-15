@@ -1,32 +1,9 @@
-Bat
-Token Creature — Bat
-Flying
-1/1
-Bird
-Token Creature — Bird
-Flying
-1/1
-Cleric
-Token Creature — Cleric
-"{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield."
-1/1
-Dragon
-Token Creature — Dragon
-Flying
-6/6
-Goblin
-Token Creature — Goblin
-2/1
-Ooze
-Token Creature — Ooze
-*/*
-Saproling
-Token Creature — Saproling
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Wurm
-Token Creature — Wurm
-6/6
+"('Bat', ['Token Creature — Bat', 'Flying', '1/1'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Cleric', ['Token Creature — Cleric', '{3}{W}{B}{B}, {T}, Sacrifice this creature: Return a card named Deathpact Angel from your graveyard to the battlefield.', '1/1'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '6/6'])"
+"('Goblin', ['Token Creature — Goblin', '2/1'])"
+"('Ooze', ['Token Creature — Ooze', '*/*'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Wurm', ['Token Creature — Wurm', '6/6'])"

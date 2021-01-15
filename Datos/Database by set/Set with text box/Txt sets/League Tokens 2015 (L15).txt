@@ -1,4 +1,1 @@
-Monk
-Token Creature — Monk
-Prowess
-1/1
+"('Monk', ['Token Creature — Monk', 'Prowess', '1/1'])"

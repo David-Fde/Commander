@@ -1,153 +1,26 @@
-Angelic Skirmisher
-{4}{W}{W}
-Creature — Angel
-Flying
-"At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn."
-4/4
-Angel of Glory's Rise
-{5}{W}{W}
-Creature — Angel
-Flying
-"When Angel of Glory’s Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield."
-4/6
-"Atarka, World Render"
-{5}{R}{G}
-Legendary Creature — Dragon
-"Flying, trample"
-"Whenever a Dragon you control attacks, it gains double strike until end of turn."
-6/4
-Beast Whisperer
-{2}{G}{G}
-Creature — Elf Druid
-"Whenever you cast a creature spell, draw a card."
-2/3
-Brion Stoutarm
-{2}{R}{W}
-Legendary Creature — Giant Warrior
-Lifelink
-"{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to target player or planeswalker."
-4/4
-Bristling Hydra
-{2}{G}{G}
-Creature — Hydra
-"When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters)."
-Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.
-4/3
-Broodmate Dragon
-{3}{B}{R}{G}
-Creature — Dragon
-Flying
-"When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon creature token with flying."
-4/4
-Curator of Mysteries
-{2}{U}{U}
-Creature — Sphinx
-Flying
-"Whenever you cycle or discard another card, scry 1."
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-4/4
-"Etali, Primal Storm"
-{4}{R}{R}
-Legendary Creature — Elder Dinosaur
-"Whenever Etali, Primal Storm attacks, exile the top card of each player’s library, then you may cast any number of spells from among those cards without paying their mana costs."
-6/6
-Felidar Sovereign
-{4}{W}{W}
-Creature — Cat Beast
-"Vigilance, lifelink"
-"At the beginning of your upkeep, if you have 40 or more life, you win the game."
-4/6
-"Gargos, Vicious Watcher"
-{3}{G}{G}{G}
-Legendary Creature — Hydra
-Vigilance
-Hydra spells you cast cost {4} less to cast.
-"Whenever a creature you control becomes the target of a spell, Gargos, Vicious Watcher fights up to one target creature you don’t control."
-8/7
-Genesis Hydra
-{X}{G}{G}
-Creature — Plant Hydra
-"When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library."
-Genesis Hydra enters the battlefield with X +1/+1 counters on it.
-0/0
-Goblin Chieftain
-{1}{R}{R}
-Creature — Goblin
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-Other Goblin creatures you control get +1/+1 and have haste.
-2/2
-Hamletback Goliath
-{6}{R}
-Creature — Giant Warrior
-"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature’s power."
-6/6
-"Jaya Ballard, Task Mage"
-{1}{R}{R}
-Legendary Creature — Human Spellshaper
-"{R}, {T}, Discard a card: Destroy target blue permanent."
-"{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn."
-"{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player."
-2/2
-Knight Exemplar
-{1}{W}{W}
-Creature — Human Knight
-First strike (This creature deals combat damage before creatures without first strike.)
-Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say “destroy” don’t destroy them.)
-2/2
-"Lathliss, Dragon Queen"
-{4}{R}{R}
-Legendary Creature — Dragon
-Flying
-"Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying."
-{1}{R}: Dragons you control get +1/+0 until end of turn.
-6/6
-壌土のライオン
-{W}
-クリーチャー — 猫
-壌土のライオンは、あなたが森をコントロールしているかぎり＋１/＋２の修整を受ける。
-1/1
-巨森、オラン＝リーフ
-土地
-巨森、オラン＝リーフはタップ状態で戦場に出る。
-{T}：あなたのマナ・プールに{G}を加える。
-{T}：このターンに戦場に出た緑の各クリーチャーの上に、それぞれ＋１/＋１カウンターを１個置く。
-Outland Colossus
-{3}{G}{G}
-Creature — Giant
-"Renown 6 (When this creature deals combat damage to a player, if it isn’t renowned, put six +1/+1 counters on it and it becomes renowned.)"
-Outland Colossus can’t be blocked by more than one creature.
-6/6
-Retaliator Griffin
-{1}{R}{G}{W}
-Creature — Griffin
-Flying
-"Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin."
-2/2
-Sunblast Angel
-{4}{W}{W}
-Creature — Angel
-Flying
-"When Sunblast Angel enters the battlefield, destroy all tapped creatures."
-4/5
-Terastodon
-{6}{G}{G}
-Creature — Elephant
-"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token."
-9/9
-Terra Stomper
-{3}{G}{G}{G}
-Creature — Beast
-This spell can’t be countered.
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-8/8
-Thalia's Lancers
-{3}{W}{W}
-Creature — Human Knight
-First strike
-"When Thalia’s Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library."
-4/4
-Xathrid Necromancer
-{2}{B}
-Creature — Human Wizard
-"Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token."
-2/2
+"('Angelic Skirmisher', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'At the beginning of each combat, choose first strike, vigilance, or lifelink. Creatures you control gain that ability until end of turn.', '4/4'])"
+"(""Angel of Glory's Rise"", ['{5}{W}{W}', 'Creature — Angel', 'Flying', 'When Angel of Glory’s Rise enters the battlefield, exile all Zombies, then return all Human creature cards from your graveyard to the battlefield.', '4/6'])"
+"('Atarka, World Render', ['{5}{R}{G}', 'Legendary Creature — Dragon', 'Flying, trample', 'Whenever a Dragon you control attacks, it gains double strike until end of turn.', '6/4'])"
+"('Beast Whisperer', ['{2}{G}{G}', 'Creature — Elf Druid', 'Whenever you cast a creature spell, draw a card.', '2/3'])"
+"('Brion Stoutarm', ['{2}{R}{W}', 'Legendary Creature — Giant Warrior', 'Lifelink', '{R}, {T}, Sacrifice another creature: Brion Stoutarm deals damage equal to the sacrificed creature’s power to target player or planeswalker.', '4/4'])"
+"('Bristling Hydra', ['{2}{G}{G}', 'Creature — Hydra', 'When Bristling Hydra enters the battlefield, you get {E}{E}{E} (three energy counters).', 'Pay {E}{E}{E}: Put a +1/+1 counter on Bristling Hydra. It gains hexproof until end of turn.', '4/3'])"
+"('Broodmate Dragon', ['{3}{B}{R}{G}', 'Creature — Dragon', 'Flying', 'When Broodmate Dragon enters the battlefield, create a 4/4 red Dragon creature token with flying.', '4/4'])"
+"('Curator of Mysteries', ['{2}{U}{U}', 'Creature — Sphinx', 'Flying', 'Whenever you cycle or discard another card, scry 1.', 'Cycling {U} ({U}, Discard this card: Draw a card.)', '4/4'])"
+"('Etali, Primal Storm', ['{4}{R}{R}', 'Legendary Creature — Elder Dinosaur', 'Whenever Etali, Primal Storm attacks, exile the top card of each player’s library, then you may cast any number of spells from among those cards without paying their mana costs.', '6/6'])"
+"('Felidar Sovereign', ['{4}{W}{W}', 'Creature — Cat Beast', 'Vigilance, lifelink', 'At the beginning of your upkeep, if you have 40 or more life, you win the game.', '4/6'])"
+"('Gargos, Vicious Watcher', ['{3}{G}{G}{G}', 'Legendary Creature — Hydra', 'Vigilance', 'Hydra spells you cast cost {4} less to cast.', 'Whenever a creature you control becomes the target of a spell, Gargos, Vicious Watcher fights up to one target creature you don’t control.', '8/7'])"
+"('Genesis Hydra', ['{X}{G}{G}', 'Creature — Plant Hydra', 'When you cast this spell, reveal the top X cards of your library. You may put a nonland permanent card with converted mana cost X or less from among them onto the battlefield. Then shuffle the rest into your library.', 'Genesis Hydra enters the battlefield with X +1/+1 counters on it.', '0/0'])"
+"('Goblin Chieftain', ['{1}{R}{R}', 'Creature — Goblin', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', 'Other Goblin creatures you control get +1/+1 and have haste.', '2/2'])"
+"('Hamletback Goliath', ['{6}{R}', 'Creature — Giant Warrior', 'Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature’s power.', '6/6'])"
+"('Jaya Ballard, Task Mage', ['{1}{R}{R}', 'Legendary Creature — Human Spellshaper', '{R}, {T}, Discard a card: Destroy target blue permanent.', '{1}{R}, {T}, Discard a card: Jaya Ballard, Task Mage deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.', '{5}{R}{R}, {T}, Discard a card: Jaya Ballard deals 6 damage to each creature and each player.', '2/2'])"
+"('Knight Exemplar', ['{1}{W}{W}', 'Creature — Human Knight', 'First strike (This creature deals combat damage before creatures without first strike.)', 'Other Knight creatures you control get +1/+1 and have indestructible. (Damage and effects that say “destroy” don’t destroy them.)', '2/2'])"
+"('Lathliss, Dragon Queen', ['{4}{R}{R}', 'Legendary Creature — Dragon', 'Flying', 'Whenever another nontoken Dragon enters the battlefield under your control, create a 5/5 red Dragon creature token with flying.', '{1}{R}: Dragons you control get +1/+0 until end of turn.', '6/6'])"
+"('壌土のライオン', ['{W}', 'クリーチャー — 猫', '壌土のライオンは、あなたが森をコントロールしているかぎり＋１/＋２の修整を受ける。', '1/1'])"
+"('巨森、オラン＝リーフ', ['土地', '巨森、オラン＝リーフはタップ状態で戦場に出る。', '{T}：あなたのマナ・プールに{G}を加える。', '{T}：このターンに戦場に出た緑の各クリーチャーの上に、それぞれ＋１/＋１カウンターを１個置く。'])"
+"('Outland Colossus', ['{3}{G}{G}', 'Creature — Giant', 'Renown 6 (When this creature deals combat damage to a player, if it isn’t renowned, put six +1/+1 counters on it and it becomes renowned.)', 'Outland Colossus can’t be blocked by more than one creature.', '6/6'])"
+"('Retaliator Griffin', ['{1}{R}{G}{W}', 'Creature — Griffin', 'Flying', 'Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.', '2/2'])"
+"('Sunblast Angel', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'When Sunblast Angel enters the battlefield, destroy all tapped creatures.', '4/5'])"
+"('Terastodon', ['{6}{G}{G}', 'Creature — Elephant', 'When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.', '9/9'])"
+"('Terra Stomper', ['{3}{G}{G}{G}', 'Creature — Beast', 'This spell can’t be countered.', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', '8/8'])"
+"(""Thalia's Lancers"", ['{3}{W}{W}', 'Creature — Human Knight', 'First strike', 'When Thalia’s Lancers enters the battlefield, you may search your library for a legendary card, reveal it, put it into your hand, then shuffle your library.', '4/4'])"
+"('Xathrid Necromancer', ['{2}{B}', 'Creature — Human Wizard', 'Whenever Xathrid Necromancer or another Human creature you control dies, create a tapped 2/2 black Zombie creature token.', '2/2'])"

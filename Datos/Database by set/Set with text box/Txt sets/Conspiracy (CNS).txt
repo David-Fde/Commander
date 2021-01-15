@@ -1,1070 +1,210 @@
-Academy Elite
-{3}{U}
-Creature — Human Wizard
-"Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards."
-"{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card."
-0/0
-Advantageous Proclamation
-Conspiracy
-(Start the game with this conspiracy face up in the command zone.)
-Your minimum deck size is reduced by five.
-Aether Searcher
-{7}
-Artifact Creature — Construct
-Reveal Aether Searcher as you draft it. Reveal the next card you draft and note its name.
-"When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it."
-6/4
-Aether Tradewinds
-{2}{U}
-Instant
-Return target permanent you control and target permanent you don’t control to their owners’ hands.
-Agent of Acquisitions
-{2}
-Artifact Creature — Construct
-Draft Agent of Acquisitions face up.
-"Instead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can’t draft cards for the rest of this draft round. (You may look at booster packs passed to you.)"
-2/1
-Air Servant
-{4}{U}
-Creature — Elemental
-Flying
-{2}{U}: Tap target creature with flying.
-4/3
-Ajani's Sunstriker
-{W}{W}
-Creature — Cat Cleric
-Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-2/2
-Altar of Dementia
-{2}
-Artifact
-Sacrifice a creature: Target player mills cards equal to the sacrificed creature’s power.
-Altar's Reap
-{1}{B}
-Instant
-"As an additional cost to cast this spell, sacrifice a creature."
-Draw two cards.
-Apex Hawks
-{2}{W}
-Creature — Bird
-Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
-Flying
-Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.
-2/2
-Assassinate
-{2}{B}
-Sorcery
-Destroy target tapped creature.
-Backup Plan
-Conspiracy
-(Start the game with this conspiracy face up in the command zone.)
-"Draw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library."
-Barbed Shocker
-{3}{R}
-Creature — Insect
-"Trample, haste"
-"Whenever Barbed Shocker deals damage to a player, that player discards all the cards in their hand, then draws that many cards."
-2/2
-"Basandra, Battle Seraph"
-{3}{R}{W}
-Legendary Creature — Angel
-Flying
-Players can’t cast spells during combat.
-{R}: Target creature attacks this turn if able.
-4/4
-Bite of the Black Rose
-{3}{B}
-Sorcery
-"Will of the council — Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards."
-Boldwyr Intimidator
-{5}{R}{R}
-Creature — Giant Warrior
-Cowards can’t block Warriors.
-{R}: Target creature becomes a Coward until end of turn.
-{2}{R}: Target creature becomes a Warrior until end of turn.
-5/5
-"Brago, King Eternal"
-{2}{W}{U}
-Legendary Creature — Spirit Noble
-Flying
-"Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner’s control."
-2/4
-Brago's Favor
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-Spells with the chosen name you cast cost {1} less to cast.
-Brago's Representative
-{2}{W}
-Creature — Human Advisor
-"While voting, you get an additional vote. (The votes can be for different choices or for the same choice.)"
-1/4
-Brainstorm
-{U}
-Instant
-"Draw three cards, then put two cards from your hand on top of your library in any order."
-Breakthrough
-{X}{U}
-Sorcery
-"Draw four cards, then choose X cards in your hand and discard the rest."
-Brimstone Volley
-{2}{R}
-Instant
-Brimstone Volley deals 3 damage to any target.
-Morbid — Brimstone Volley deals 5 damage instead if a creature died this turn.
-Canal Dredger
-{4}
-Artifact Creature — Construct
-Draft Canal Dredger face up.
-Each player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.
-{T}: Put target card from your graveyard on the bottom of your library.
-1/5
-Charging Rhino
-{3}{G}{G}
-Creature — Rhino
-Charging Rhino can’t be blocked by more than one creature.
-4/4
-Chartooth Cougar
-{5}{R}
-Creature — Cat Beast
-{R}: Chartooth Cougar gets +1/+0 until end of turn.
-"Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)"
-4/4
-Cinder Wall
-{R}
-Creature — Wall
-Defender
-"When Cinder Wall blocks, destroy it at end of combat."
-3/3
-Coercive Portal
-{4}
-Artifact
-"Will of the council — At the beginning of your upkeep, starting with you, each player votes for carnage or homage. If carnage gets more votes, sacrifice Coercive Portal and destroy all nonland permanents. If homage gets more votes or the vote is tied, draw a card."
-Cogwork Grinder
-{6}
-Artifact Creature — Construct
-Draft Cogwork Grinder face up.
-"As you draft a card, you may remove it from the draft face down. (Those cards aren’t in your card pool.)"
-"Cogwork Grinder enters the battlefield with X +1/+1 counters on it, where X is the number of cards you removed from the draft with cards named Cogwork Grinder."
-0/0
-Cogwork Librarian
-{4}
-Artifact Creature — Construct
-Draft Cogwork Librarian face up.
-"As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack."
-3/3
-Cogwork Spy
-{3}
-Artifact Creature — Bird Construct
-Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.
-Flying
-2/1
-Cogwork Tracker
-{4}
-Artifact Creature — Dog Construct
-Reveal Cogwork Tracker as you draft it and note the player who passed it to you.
-Cogwork Tracker attacks each combat if able.
-Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each combat if able.
-4/4
-Compulsive Research
-{2}{U}
-Sorcery
-Target player draws three cards. Then that player discards two cards unless they discard a land card.
-Copperhorn Scout
-{G}
-Creature — Elf Scout
-"Whenever Copperhorn Scout attacks, untap each other creature you control."
-1/1
-Council Guardian
-{5}{W}
-Creature — Giant Soldier
-"Will of the council — When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes."
-5/5
-Council's Judgment
-{1}{W}{W}
-Sorcery
-"Will of the council — Starting with you, each player votes for a nonland permanent you don’t control. Exile each permanent with the most votes or tied for most votes."
-Courier Hawk
-{1}{W}
-Creature — Bird
-"Flying, vigilance"
-1/2
-Crookclaw Transmuter
-{3}{U}
-Creature — Bird Wizard
-Flash (You may cast this spell any time you could cast an instant.)
-Flying
-"When Crookclaw Transmuter enters the battlefield, switch target creature’s power and toughness until end of turn."
-3/1
-Custodi Soulbinders
-{3}{W}
-Creature — Human Cleric
-"Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield."
-"{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying."
-0/0
-Custodi Squire
-{4}{W}
-Creature — Spirit Cleric
-Flying
-"Will of the council — When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand."
-3/3
-Dack Fayden
-{1}{U}{R}
-Legendary Planeswalker — Dack
-"+1: Target player draws two cards, then discards two cards."
-−2: Gain control of target artifact.
-"−6: You get an emblem with “Whenever you cast a spell that targets one or more permanents, gain control of those permanents.”"
-Loyalty: 3
-Dack's Duplicate
-{2}{U}{R}
-Creature — Shapeshifter
-"You may have Dack’s Duplicate enter the battlefield as a copy of any creature on the battlefield, except it has haste and dethrone. (Whenever it attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-0/0
-Deal Broker
-{3}
-Artifact Creature — Construct
-Draft Deal Broker face up.
-"Immediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in their card pool in exchange. You may accept any one offer."
-"{T}: Draw a card, then discard a card."
-2/3
-Deathforge Shaman
-{4}{R}
-Creature — Ogre Shaman
-Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)
-"When Deathforge Shaman enters the battlefield, it deals damage to target player or planeswalker equal to twice the number of times it was kicked."
-4/3
-Deathreap Ritual
-{2}{B}{G}
-Enchantment
-"Morbid — At the beginning of each end step, if a creature died this turn, you may draw a card."
-Deathrender
-{4}
-Artifact — Equipment
-Equipped creature gets +2/+2.
-"Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it."
-Equip {2}
-Decimate
-{2}{R}{G}
-Sorcery
-"Destroy target artifact, target creature, target enchantment, and target land."
-Dimir Doppelganger
-{1}{U}{B}
-Creature — Shapeshifter
-"{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card, except it has this ability."
-0/2
-Doomed Traveler
-{W}
-Creature — Human Soldier
-"When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying."
-1/1
-Double Stroke
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-"Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy."
-Drakestown Forgotten
-{4}{B}
-Creature — Zombie
-"Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, where X is the number of creature cards in all graveyards."
-"{2}{B}, Remove a +1/+1 counter from Drakestown Forgotten: Target creature gets -1/-1 until end of turn."
-0/0
-Dream Fracture
-{1}{U}{U}
-Instant
-Counter target spell. Its controller draws a card.
-Draw a card.
-Echoing Courage
-{1}{G}
-Instant
-Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
-"Edric, Spymaster of Trest"
-{1}{G}{U}
-Legendary Creature — Elf Rogue
-"Whenever a creature deals combat damage to one of your opponents, its controller may draw a card."
-2/2
-Elephant Guide
-{2}{G}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +3/+3.
-"When enchanted creature dies, create a 3/3 green Elephant creature token."
-Elvish Aberration
-{5}{G}
-Creature — Elf Mutant
-{T}: Add {G}{G}{G}.
-"Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)"
-4/5
-Enclave Elite
-{2}{U}
-Creature — Merfolk Soldier
-Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
-Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
-Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.
-2/2
-Enraged Revolutionary
-{2}{R}
-Creature — Human Warrior
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-2/1
-Exploration
-{G}
-Enchantment
-You may play an additional land on each of your turns.
-Explorer's Scope
-{1}
-Artifact — Equipment
-"Whenever equipped creature attacks, look at the top card of your library. If it’s a land card, you may put it onto the battlefield tapped."
-Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)
-Extract from Darkness
-{3}{U}{B}
-Sorcery
-Each player mills two cards. Then you put a creature card from a graveyard onto the battlefield under your control.
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Favorable Winds
-{1}{U}
-Enchantment
-Creatures you control with flying get +1/+1.
-Fireshrieker
-{3}
-Artifact — Equipment
-Equipped creature has double strike. (It deals both first-strike and regular combat damage.)
-Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)
-Fires of Yavimaya
-{1}{R}{G}
-Enchantment
-Creatures you control have haste.
-Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
-Flamewright
-{R}{W}
-Creature — Human Artificer
-"{1}, {T}: Create a 1/1 colorless Construct artifact creature token with defender."
-"{T}, Sacrifice a creature with defender: Flamewright deals 1 damage to any target."
-1/1
-Flaring Flame-Kin
-{2}{R}
-Creature — Elemental Warrior
-"As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has “{R}: Flaring Flame-Kin gets +1/+0 until end of turn.”"
-2/2
-Flowstone Blade
-{R}
-Enchantment — Aura
-Enchant creature
-{R}: Enchanted creature gets +1/-1 until end of turn.
-Galvanic Juggernaut
-{4}
-Artifact Creature — Juggernaut
-Galvanic Juggernaut attacks each combat if able.
-Galvanic Juggernaut doesn’t untap during your untap step.
-"Whenever another creature dies, untap Galvanic Juggernaut."
-5/5
-Gamekeeper
-{3}{G}
-Creature — Elf
-"When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard."
-2/2
-Glimmerpoint Stag
-{2}{W}{W}
-Creature — Elk
-Vigilance
-"When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step."
-3/3
-Gnarlid Pack
-{1}{G}
-Creature — Beast
-Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
-Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.
-2/2
-"Grenzo, Dungeon Warden"
-{X}{B}{R}
-Legendary Creature — Goblin Rogue
-"Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it."
-"{2}: Put the bottom card of your library into your graveyard. If it’s a creature card with power less than or equal to Grenzo’s power, put it onto the battlefield."
-2/2
-Grenzo's Cutthroat
-{1}{R}
-Creature — Goblin Rogue
-First strike
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-1/1
-Grenzo's Rebuttal
-{4}{R}{R}
-Sorcery
-"Create a 4/4 red Ogre creature token. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to their left. Destroy each permanent chosen this way."
-Grixis Illusionist
-{U}
-Creature — Human Wizard
-{T}: Target land you control becomes the basic land type of your choice until end of turn.
-1/1
-Grudge Keeper
-{1}{B}
-Creature — Zombie Wizard
-"Whenever players finish voting, each opponent who voted for a choice you didn’t vote for loses 2 life."
-2/1
-Guardian Zendikon
-{2}{W}
-Enchantment — Aura
-Enchant land
-Enchanted land is a 2/6 white Wall creature with defender. It’s still a land.
-"When enchanted land dies, return that card to its owner’s hand."
-Heartless Hidetsugu
-{3}{R}{R}
-Legendary Creature — Ogre Shaman
-"{T}: Heartless Hidetsugu deals damage to each player equal to half that player’s life total, rounded down."
-4/3
-Heckling Fiends
-{2}{R}
-Creature — Devil
-{2}{R}: Target creature attacks this turn if able.
-2/2
-Howling Wolf
-{2}{G}{G}
-Creature — Wolf
-"When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library."
-2/2
-Hunger of the Howlpack
-{G}
-Instant
-Put a +1/+1 counter on target creature.
-Morbid — Put three +1/+1 counters on that creature instead if a creature died this turn.
-Hydra Omnivore
-{4}{G}{G}
-Creature — Hydra
-"Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent."
-8/8
-Ignition Team
-{5}{R}{R}
-Creature — Goblin Warrior
-"Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield."
-"{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It’s still a land."
-0/0
-Ill-Gotten Gains
-{2}{B}{B}
-Sorcery
-"Exile Ill-Gotten Gains. Each player discards their hand, then returns up to three cards from their graveyard to their hand."
-Immediate Action
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-Creatures you control with the chosen name have haste.
-Infectious Horror
-{3}{B}
-Creature — Zombie Horror
-"Whenever Infectious Horror attacks, each opponent loses 2 life."
-2/2
-Intangible Virtue
-{1}{W}
-Enchantment
-Creature tokens you control get +1/+1 and have vigilance.
-Iterative Analysis
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-"Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card."
-Jetting Glasskite
-{4}{U}{U}
-Creature — Spirit
-Flying
-"Whenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability."
-4/4
-Kor Chant
-{2}{W}
-Instant
-All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.
-Lead the Stampede
-{2}{G}
-Sorcery
-Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.
-Liliana's Specter
-{1}{B}{B}
-Creature — Specter
-Flying
-"When Liliana’s Specter enters the battlefield, each opponent discards a card."
-2/1
-Lizard Warrior
-{3}{R}
-Creature — Lizard Warrior
-4/2
-Lore Seeker
-{2}
-Artifact Creature — Construct
-"Reveal Lore Seeker as you draft it. After you draft Lore Seeker, you may add a booster pack to the draft. (Your next pick is from that booster pack. Pass it to the next player and it’s drafted this draft round.)"
-2/2
-Lurking Automaton
-{5}
-Artifact Creature — Construct
-"Reveal Lurking Automaton as you draft it and note how many cards you’ve drafted this draft round, including Lurking Automaton."
-"Lurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton."
-0/0
-Magister of Worth
-{4}{W}{B}
-Creature — Angel
-Flying
-"Will of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from their graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth."
-4/4
-Magus of the Mirror
-{4}{B}{B}
-Creature — Human Wizard
-"{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep."
-4/2
-Mana Geyser
-{3}{R}{R}
-Sorcery
-Add {R} for each tapped land your opponents control.
-Marchesa's Emissary
-{3}{U}
-Creature — Human Rogue
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-2/2
-Marchesa's Infiltrator
-{2}{U}
-Creature — Human Rogue
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-"Whenever Marchesa’s Infiltrator deals combat damage to a player, draw a card."
-1/1
-Marchesa's Smuggler
-{U}{R}
-Creature — Human Rogue
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-{1}{U}{R}: Target creature you control gains haste until end of turn and can’t be blocked this turn.
-1/1
-"Marchesa, the Black Rose"
-{1}{U}{B}{R}
-Legendary Creature — Human Wizard
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-Other creatures you control have dethrone.
-"Whenever a creature you control with a +1/+1 counter on it dies, return that card to the battlefield under your control at the beginning of the next end step."
-3/3
-Minamo Scrollkeeper
-{1}{U}
-Creature — Human Wizard
-Defender
-Your maximum hand size is increased by one.
-2/3
-Mirari's Wake
-{3}{G}{W}
-Enchantment
-Creatures you control get +1/+1.
-"Whenever you tap a land for mana, add one mana of any type that land produced."
-Mirrodin's Core
-Land
-{T}: Add {C}.
-{T}: Put a charge counter on Mirrodin’s Core.
-"{T}, Remove a charge counter from Mirrodin’s Core: Add one mana of any color."
-Misdirection
-{3}{U}{U}
-Instant
-You may exile a blue card from your hand rather than pay this spell’s mana cost.
-Change the target of target spell with a single target.
-Moment of Heroism
-{1}{W}
-Instant
-Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)
-Morkrut Banshee
-{3}{B}{B}
-Creature — Spirit
-"Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn."
-4/4
-Mortify
-{1}{W}{B}
-Instant
-Destroy target creature or enchantment.
-Muzzio's Preparations
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.
-"Muzzio, Visionary Architect"
-{1}{U}{U}
-Legendary Creature — Human Artificer
-"{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order."
-1/3
-Nature's Claim
-{G}
-Instant
-Destroy target artifact or enchantment. Its controller gains 4 life.
-Necromantic Thirst
-{2}{B}{B}
-Enchantment — Aura
-Enchant creature
-"Whenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand."
-Noble Templar
-{5}{W}
-Creature — Human Cleric Soldier
-Vigilance
-"Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)"
-3/6
-Orcish Cannonade
-{1}{R}{R}
-Instant
-Orcish Cannonade deals 2 damage to any target and 3 damage to you.
-Draw a card.
-"Paliano, the High City"
-Legendary Land
-"Reveal Paliano, the High City as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color."
-"{T}: Add one mana of any color chosen as you drafted cards named Paliano, the High City."
-Peace Strider
-{4}
-Artifact Creature — Construct
-"When Peace Strider enters the battlefield, you gain 3 life."
-3/3
-Pelakka Wurm
-{4}{G}{G}{G}
-Creature — Wurm
-Trample
-"When Pelakka Wurm enters the battlefield, you gain 7 life."
-"When Pelakka Wurm dies, draw a card."
-7/7
-Pernicious Deed
-{1}{B}{G}
-Enchantment
-"{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less."
-Phage the Untouchable
-{3}{B}{B}{B}{B}
-Legendary Creature — Avatar Minion
-"When Phage the Untouchable enters the battlefield, if you didn’t cast it from your hand, you lose the game."
-"Whenever Phage deals combat damage to a creature, destroy that creature. It can’t be regenerated."
-"Whenever Phage deals combat damage to a player, that player loses the game."
-4/4
-Pillarfield Ox
-{3}{W}
-Creature — Ox
-2/4
-Pitchburn Devils
-{4}{R}
-Creature — Devil
-"When Pitchburn Devils dies, it deals 3 damage to any target."
-3/3
-Plagued Rusalka
-{B}
-Creature — Spirit
-"{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn."
-1/1
-Plated Seastrider
-{U}{U}
-Creature — Beast
-1/4
-Plea for Power
-{3}{U}
-Sorcery
-"Will of the council — Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards."
-Plummet
-{1}{G}
-Instant
-Destroy target creature with flying.
-Power of Fire
-{1}{R}
-Enchantment — Aura
-Enchant creature
-Enchanted creature has “{T}: This creature deals 1 damage to any target.”
-Power Play
-Conspiracy
-(Start the game with this conspiracy face up in the command zone.)
-"You are the starting player. If multiple players would be the starting player, one of those players is chosen at random."
-Predator's Howl
-{3}{G}
-Instant
-Create a 2/2 green Wolf creature token.
-Morbid — Create three 2/2 green Wolf creature tokens instead if a creature died this turn.
-Pride Guardian
-{W}
-Creature — Cat Monk
-Defender
-"Whenever Pride Guardian blocks, you gain 3 life."
-0/3
-Pristine Angel
-{4}{W}{W}
-Creature — Angel
-Flying
-"As long as Pristine Angel is untapped, it has protection from artifacts and from all colors."
-"Whenever you cast a spell, you may untap Pristine Angel."
-4/4
-Provoke
-{1}{G}
-Instant
-Untap target creature you don’t control. That creature blocks this turn if able.
-Draw a card.
-Quag Vampires
-{B}
-Creature — Vampire Rogue
-Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)
-Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
-Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.
-1/1
-Quicksand
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn."
-Realm Seekers
-{4}{G}{G}
-Creature — Elf Scout
-"Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players’ hands."
-"{2}{G}, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library."
-0/0
-Reckless Scholar
-{2}{U}
-Creature — Human Wizard
-"{T}: Target player draws a card, then discards a card."
-2/1
-Reckless Spite
-{1}{B}{B}
-Instant
-Destroy two target nonblack creatures. You lose 5 life.
-Reflecting Pool
-Land
-{T}: Add one mana of any type that a land you control could produce.
-Reign of the Pit
-{4}{B}{B}
-Sorcery
-"Each player sacrifices a creature. Create an X/X black Demon creature token with flying, where X is the total power of the creatures sacrificed this way."
-Reito Lantern
-{2}
-Artifact
-{3}: Put target card from a graveyard on the bottom of its owner’s library.
-Relic Crush
-{4}{G}
-Instant
-Destroy target artifact or enchantment and up to one other target artifact or enchantment.
-Respite
-{1}{G}
-Instant
-Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.
-Reya Dawnbringer
-{6}{W}{W}{W}
-Legendary Creature — Angel
-Flying
-"At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
-4/6
-Rousing of Souls
-{2}{W}
-Sorcery
-"Parley — Each player reveals the top card of their library. For each nonland card revealed this way, you create a 1/1 white Spirit creature token with flying. Then each player draws a card."
-Rout
-{3}{W}{W}
-Sorcery
-You may cast Rout as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)
-Destroy all creatures. They can’t be regenerated.
-Runed Servitor
-{2}
-Artifact Creature — Construct
-"When Runed Servitor dies, each player draws a card."
-2/2
-Sakura-Tribe Elder
-{1}{G}
-Creature — Snake Shaman
-"Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
-1/1
-Scaled Wurm
-{7}{G}
-Creature — Wurm
-7/6
-Scourge of the Throne
-{4}{R}{R}
-Creature — Dragon
-Flying
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-"Whenever Scourge of the Throne attacks for the first time each turn, if it’s attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase."
-5/5
-Screaming Seahawk
-{4}{U}
-Creature — Bird
-Flying
-"When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library."
-2/2
-Secrets of Paradise
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-Creatures you control with the chosen name have “{T}: Add one mana of any color.”
-Secret Summoning
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-"Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library."
-"Selvala, Explorer Returned"
-{1}{G}{W}
-Legendary Creature — Elf Scout
-"Parley — {T}: Each player reveals the top card of their library. For each nonland card revealed this way, add {G} and you gain 1 life. Then each player draws a card."
-2/4
-Selvala's Charge
-{4}{G}
-Sorcery
-"Parley — Each player reveals the top card of their library. For each nonland card revealed this way, you create a 3/3 green Elephant creature token. Then each player draws a card."
-Selvala's Enforcer
-{3}{G}
-Creature — Elf Warrior
-"Parley — When Selvala’s Enforcer enters the battlefield, each player reveals the top card of their library. For each nonland card revealed this way, put a +1/+1 counter on Selvala’s Enforcer. Then each player draws a card."
-2/2
-Sentinel Dispatch
-Conspiracy
-(Start the game with this conspiracy face up in the command zone.)
-"At the beginning of the first upkeep, create a 1/1 colorless Construct artifact creature token with defender."
-Shoreline Ranger
-{5}{U}
-Creature — Bird Soldier
-Flying
-"Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)"
-3/4
-Silent Arbiter
-{4}
-Artifact Creature — Construct
-No more than one creature can attack each combat.
-No more than one creature can block each combat.
-1/5
-Silverchase Fox
-{1}{W}
-Creature — Fox
-"{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment."
-2/2
-Skeletal Scrying
-{X}{B}
-Instant
-"As an additional cost to cast this spell, exile X cards from your graveyard."
-You draw X cards and you lose X life.
-Skitter of Lizards
-{R}
-Creature — Lizard
-Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)
-Haste
-Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.
-1/1
-Sky Spirit
-{1}{W}{U}
-Creature — Spirit
-"Flying, first strike"
-2/2
-Smallpox
-{B}{B}
-Sorcery
-"Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land."
-Soulcatcher
-{1}{W}
-Creature — Bird Soldier
-Flying
-"Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher."
-1/1
-Spectral Searchlight
-{3}
-Artifact
-{T}: Choose a player. That player adds one mana of any color they choose.
-Spiritmonger
-{3}{B}{G}
-Creature — Beast
-"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger."
-{B}: Regenerate Spiritmonger.
-{G}: Spiritmonger becomes the color of your choice until end of turn.
-6/6
-Split Decision
-{1}{U}
-Instant
-"Will of the council — Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy."
-Spontaneous Combustion
-{1}{B}{R}
-Instant
-"As an additional cost to cast this spell, sacrifice a creature."
-Spontaneous Combustion deals 3 damage to each creature.
-Sporecap Spider
-{2}{G}
-Creature — Spider
-Reach
-1/5
-Squirrel Nest
-{1}{G}{G}
-Enchantment — Aura
-Enchant land
-Enchanted land has “{T}: Create a 1/1 green Squirrel creature token.”
-Stasis Cell
-{4}{U}
-Enchantment — Aura
-Enchant creature
-Enchanted creature doesn’t untap during its controller’s untap step.
-{3}{U}: Attach Stasis Cell to target creature.
-Stave Off
-{W}
-Instant
-Target creature gains protection from the color of your choice until end of turn.
-Stifle
-{U}
-Instant
-Counter target activated or triggered ability. (Mana abilities can’t be targeted.)
-Stronghold Discipline
-{2}{B}{B}
-Sorcery
-Each player loses 1 life for each creature they control.
-Sulfuric Vortex
-{1}{R}{R}
-Enchantment
-"At the beginning of each player’s upkeep, Sulfuric Vortex deals 2 damage to that player."
-"If a player would gain life, that player gains no life instead."
-Swords to Plowshares
-{W}
-Instant
-Exile target creature. Its controller gains life equal to its power.
-Syphon Soul
-{2}{B}
-Sorcery
-Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.
-Terastodon
-{6}{G}{G}
-Creature — Elephant
-"When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token."
-9/9
-Torch Fiend
-{1}{R}
-Creature — Devil
-"{R}, Sacrifice Torch Fiend: Destroy target artifact."
-2/1
-Tragic Slip
-{B}
-Instant
-Target creature gets -1/-1 until end of turn.
-Morbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.
-Traveler's Cloak
-{2}{U}
-Enchantment — Aura
-Enchant creature
-"As Traveler’s Cloak enters the battlefield, choose a land type."
-"When Traveler’s Cloak enters the battlefield, draw a card."
-Enchanted creature has landwalk of the chosen type. (It can’t be blocked as long as defending player controls a land of that type.)
-Treasonous Ogre
-{3}{R}
-Creature — Ogre Shaman
-"Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)"
-Pay 3 life: Add {R}.
-2/3
-Trumpet Blast
-{2}{R}
-Instant
-Attacking creatures get +2/+0 until end of turn.
-Turn the Tide
-{1}{U}
-Instant
-Creatures your opponents control get -2/-0 until end of turn.
-Twisted Abomination
-{5}{B}
-Creature — Zombie Mutant
-{B}: Regenerate Twisted Abomination.
-"Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)"
-5/3
-Typhoid Rats
-{B}
-Creature — Rat
-Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-1/1
-Tyrant's Choice
-{1}{B}
-Sorcery
-"Will of the council — Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life."
-Uncontrollable Anger
-{2}{R}{R}
-Enchantment — Aura
-Flash (You may cast this spell any time you could cast an instant.)
-Enchant creature
-Enchanted creature gets +2/+2 and attacks each combat if able.
-Unexpected Potential
-Conspiracy
-Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)
-You may spend mana as though it were mana of any color to cast spells with the chosen name.
-Unhallowed Pact
-{2}{B}
-Enchantment — Aura
-Enchant creature
-"When enchanted creature dies, return that card to the battlefield under your control."
-Unquestioned Authority
-{2}{W}
-Enchantment — Aura
-Enchant creature
-"When Unquestioned Authority enters the battlefield, draw a card."
-Enchanted creature has protection from creatures.
-Valor Made Real
-{W}
-Instant
-Target creature can block any number of creatures this turn.
-Vampire Hexmage
-{B}{B}
-Creature — Vampire Shaman
-First strike
-Sacrifice Vampire Hexmage: Remove all counters from target permanent.
-2/1
-Vedalken Orrery
-{4}
-Artifact
-You may cast spells as though they had flash.
-Vent Sentinel
-{3}{R}
-Creature — Elemental
-Defender
-"{1}{R}, {T}: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control."
-2/4
-Victimize
-{2}{B}
-Sorcery
-"Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped."
-Volcanic Fallout
-{1}{R}{R}
-Instant
-This spell can’t be countered.
-Volcanic Fallout deals 2 damage to each creature and each player.
-Vow of Duty
-{2}{W}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature gets +2/+2, has vigilance, and can’t attack you or a planeswalker you control."
-Wakedancer
-{2}{B}
-Creature — Human Shaman
-"Morbid — When Wakedancer enters the battlefield, if a creature died this turn, create a 2/2 black Zombie creature token."
-2/2
-Wakestone Gargoyle
-{3}{W}
-Creature — Gargoyle
-"Defender, flying"
-{1}{W}: Creatures you control with defender can attack this turn as though they didn’t have defender.
-3/4
-Warmonger's Chariot
-{2}
-Artifact — Equipment
-Equipped creature gets +2/+2.
-"As long as equipped creature has defender, it can attack as though it didn’t have defender."
-Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)
-Whispergear Sneak
-{1}
-Artifact Creature — Construct
-Draft Whispergear Sneak face up.
-"During the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player."
-1/1
-Wind Dancer
-{1}{U}
-Creature — Faerie
-Flying
-{T}: Target creature gains flying until end of turn.
-1/1
-Wolfbriar Elemental
-{2}{G}{G}
-Creature — Elemental
-Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)
-"When Wolfbriar Elemental enters the battlefield, create a 2/2 green Wolf creature token for each time it was kicked."
-4/4
-Wood Sage
-{G}{U}
-Creature — Human Druid
-{T}: Choose a creature card name. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.
-1/1
-Woodvine Elemental
-{4}{G}{W}
-Creature — Elemental
-Trample
-"Parley — Whenever Woodvine Elemental attacks, each player reveals the top card of their library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card."
-4/4
-Worldknit
-Conspiracy
-(Start the game with this conspiracy face up in the command zone.)
-"As long as every card in your card pool started the game in your library or in the command zone, lands you control have “{T}: Add one mana of any color.”"
-Wrap in Flames
-{3}{R}
-Sorcery
-Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can’t block this turn.
-Wrap in Vigor
-{1}{G}
-Instant
-Regenerate each creature you control.
-Zombie Goliath
-{4}{B}
-Creature — Zombie Giant
-4/3
+"('Academy Elite', ['{3}{U}', 'Creature — Human Wizard', 'Academy Elite enters the battlefield with X +1/+1 counters on it, where X is the number of instant and sorcery cards in all graveyards.', '{2}{U}, Remove a +1/+1 counter from Academy Elite: Draw a card, then discard a card.', '0/0'])"
+"('Advantageous Proclamation', ['Conspiracy', '(Start the game with this conspiracy face up in the command zone.)', 'Your minimum deck size is reduced by five.'])"
+"('Aether Searcher', ['{7}', 'Artifact Creature — Construct', 'Reveal Aether Searcher as you draft it. Reveal the next card you draft and note its name.', 'When Aether Searcher enters the battlefield, you may search your hand and/or library for a card with a name noted as you drafted cards named Aether Searcher. You may cast it without paying its mana cost. If you searched your library this way, shuffle it.', '6/4'])"
+"('Aether Tradewinds', ['{2}{U}', 'Instant', 'Return target permanent you control and target permanent you don’t control to their owners’ hands.'])"
+"('Agent of Acquisitions', ['{2}', 'Artifact Creature — Construct', 'Draft Agent of Acquisitions face up.', 'Instead of drafting a card from a booster pack, you may draft each card in that booster pack, one at a time. If you do, turn Agent of Acquisitions face down and you can’t draft cards for the rest of this draft round. (You may look at booster packs passed to you.)', '2/1'])"
+"('Air Servant', ['{4}{U}', 'Creature — Elemental', 'Flying', '{2}{U}: Tap target creature with flying.', '4/3'])"
+"(""Ajani's Sunstriker"", ['{W}{W}', 'Creature — Cat Cleric', 'Lifelink (Damage dealt by this creature also causes you to gain that much life.)', '2/2'])"
+"('Altar of Dementia', ['{2}', 'Artifact', 'Sacrifice a creature: Target player mills cards equal to the sacrificed creature’s power.'])"
+"(""Altar's Reap"", ['{1}{B}', 'Instant', 'As an additional cost to cast this spell, sacrifice a creature.', 'Draw two cards.'])"
+"('Apex Hawks', ['{2}{W}', 'Creature — Bird', 'Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)', 'Flying', 'Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.', '2/2'])"
+"('Assassinate', ['{2}{B}', 'Sorcery', 'Destroy target tapped creature.'])"
+"('Backup Plan', ['Conspiracy', '(Start the game with this conspiracy face up in the command zone.)', 'Draw an additional hand of seven cards as the game begins. Before taking mulligans, shuffle all but one of your hands into your library.'])"
+"('Barbed Shocker', ['{3}{R}', 'Creature — Insect', 'Trample, haste', 'Whenever Barbed Shocker deals damage to a player, that player discards all the cards in their hand, then draws that many cards.', '2/2'])"
+"('Basandra, Battle Seraph', ['{3}{R}{W}', 'Legendary Creature — Angel', 'Flying', 'Players can’t cast spells during combat.', '{R}: Target creature attacks this turn if able.', '4/4'])"
+"('Bite of the Black Rose', ['{3}{B}', 'Sorcery', 'Will of the council — Starting with you, each player votes for sickness or psychosis. If sickness gets more votes, creatures your opponents control get -2/-2 until end of turn. If psychosis gets more votes or the vote is tied, each opponent discards two cards.'])"
+"('Boldwyr Intimidator', ['{5}{R}{R}', 'Creature — Giant Warrior', 'Cowards can’t block Warriors.', '{R}: Target creature becomes a Coward until end of turn.', '{2}{R}: Target creature becomes a Warrior until end of turn.', '5/5'])"
+"('Brago, King Eternal', ['{2}{W}{U}', 'Legendary Creature — Spirit Noble', 'Flying', 'Whenever Brago, King Eternal deals combat damage to a player, exile any number of target nonland permanents you control, then return those cards to the battlefield under their owner’s control.', '2/4'])"
+"(""Brago's Favor"", ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Spells with the chosen name you cast cost {1} less to cast.'])"
+"(""Brago's Representative"", ['{2}{W}', 'Creature — Human Advisor', 'While voting, you get an additional vote. (The votes can be for different choices or for the same choice.)', '1/4'])"
+"('Brainstorm', ['{U}', 'Instant', 'Draw three cards, then put two cards from your hand on top of your library in any order.'])"
+"('Breakthrough', ['{X}{U}', 'Sorcery', 'Draw four cards, then choose X cards in your hand and discard the rest.'])"
+"('Brimstone Volley', ['{2}{R}', 'Instant', 'Brimstone Volley deals 3 damage to any target.', 'Morbid — Brimstone Volley deals 5 damage instead if a creature died this turn.'])"
+"('Canal Dredger', ['{4}', 'Artifact Creature — Construct', 'Draft Canal Dredger face up.', 'Each player passes the last card from each booster pack to a player who drafted a card named Canal Dredger.', '{T}: Put target card from your graveyard on the bottom of your library.', '1/5'])"
+"('Charging Rhino', ['{3}{G}{G}', 'Creature — Rhino', 'Charging Rhino can’t be blocked by more than one creature.', '4/4'])"
+"('Chartooth Cougar', ['{5}{R}', 'Creature — Cat Beast', '{R}: Chartooth Cougar gets +1/+0 until end of turn.', 'Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)', '4/4'])"
+"('Cinder Wall', ['{R}', 'Creature — Wall', 'Defender', 'When Cinder Wall blocks, destroy it at end of combat.', '3/3'])"
+"('Coercive Portal', ['{4}', 'Artifact', 'Will of the council — At the beginning of your upkeep, starting with you, each player votes for carnage or homage. If carnage gets more votes, sacrifice Coercive Portal and destroy all nonland permanents. If homage gets more votes or the vote is tied, draw a card.'])"
+"('Cogwork Grinder', ['{6}', 'Artifact Creature — Construct', 'Draft Cogwork Grinder face up.', 'As you draft a card, you may remove it from the draft face down. (Those cards aren’t in your card pool.)', 'Cogwork Grinder enters the battlefield with X +1/+1 counters on it, where X is the number of cards you removed from the draft with cards named Cogwork Grinder.', '0/0'])"
+"('Cogwork Librarian', ['{4}', 'Artifact Creature — Construct', 'Draft Cogwork Librarian face up.', 'As you draft a card, you may draft an additional card from that booster pack. If you do, put Cogwork Librarian into that booster pack.', '3/3'])"
+"('Cogwork Spy', ['{3}', 'Artifact Creature — Bird Construct', 'Reveal Cogwork Spy as you draft it. You may look at the next card drafted from this booster pack.', 'Flying', '2/1'])"
+"('Cogwork Tracker', ['{4}', 'Artifact Creature — Dog Construct', 'Reveal Cogwork Tracker as you draft it and note the player who passed it to you.', 'Cogwork Tracker attacks each combat if able.', 'Cogwork Tracker attacks a player you noted for cards named Cogwork Tracker each combat if able.', '4/4'])"
+"('Compulsive Research', ['{2}{U}', 'Sorcery', 'Target player draws three cards. Then that player discards two cards unless they discard a land card.'])"
+"('Copperhorn Scout', ['{G}', 'Creature — Elf Scout', 'Whenever Copperhorn Scout attacks, untap each other creature you control.', '1/1'])"
+"('Council Guardian', ['{5}{W}', 'Creature — Giant Soldier', 'Will of the council — When Council Guardian enters the battlefield, starting with you, each player votes for blue, black, red, or green. Council Guardian gains protection from each color with the most votes or tied for most votes.', '5/5'])"
+"(""Council's Judgment"", ['{1}{W}{W}', 'Sorcery', 'Will of the council — Starting with you, each player votes for a nonland permanent you don’t control. Exile each permanent with the most votes or tied for most votes.'])"
+"('Courier Hawk', ['{1}{W}', 'Creature — Bird', 'Flying, vigilance', '1/2'])"
+"('Crookclaw Transmuter', ['{3}{U}', 'Creature — Bird Wizard', 'Flash (You may cast this spell any time you could cast an instant.)', 'Flying', 'When Crookclaw Transmuter enters the battlefield, switch target creature’s power and toughness until end of turn.', '3/1'])"
+"('Custodi Soulbinders', ['{3}{W}', 'Creature — Human Cleric', 'Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.', '{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying.', '0/0'])"
+"('Custodi Squire', ['{4}{W}', 'Creature — Spirit Cleric', 'Flying', 'Will of the council — When Custodi Squire enters the battlefield, starting with you, each player votes for an artifact, creature, or enchantment card in your graveyard. Return each card with the most votes or tied for most votes to your hand.', '3/3'])"
+"('Dack Fayden', ['{1}{U}{R}', 'Legendary Planeswalker — Dack', '+1: Target player draws two cards, then discards two cards.', '−2: Gain control of target artifact.', '−6: You get an emblem with “Whenever you cast a spell that targets one or more permanents, gain control of those permanents.”', 'Loyalty: 3'])"
+"(""Dack's Duplicate"", ['{2}{U}{R}', 'Creature — Shapeshifter', 'You may have Dack’s Duplicate enter the battlefield as a copy of any creature on the battlefield, except it has haste and dethrone. (Whenever it attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', '0/0'])"
+"('Deal Broker', ['{3}', 'Artifact Creature — Construct', 'Draft Deal Broker face up.', 'Immediately after the draft, you may reveal a card in your card pool. Each other player may offer you one card in their card pool in exchange. You may accept any one offer.', '{T}: Draw a card, then discard a card.', '2/3'])"
+"('Deathforge Shaman', ['{4}{R}', 'Creature — Ogre Shaman', 'Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)', 'When Deathforge Shaman enters the battlefield, it deals damage to target player or planeswalker equal to twice the number of times it was kicked.', '4/3'])"
+"('Deathreap Ritual', ['{2}{B}{G}', 'Enchantment', 'Morbid — At the beginning of each end step, if a creature died this turn, you may draw a card.'])"
+"('Deathrender', ['{4}', 'Artifact — Equipment', 'Equipped creature gets +2/+2.', 'Whenever equipped creature dies, you may put a creature card from your hand onto the battlefield and attach Deathrender to it.', 'Equip {2}'])"
+"('Decimate', ['{2}{R}{G}', 'Sorcery', 'Destroy target artifact, target creature, target enchantment, and target land.'])"
+"('Dimir Doppelganger', ['{1}{U}{B}', 'Creature — Shapeshifter', '{1}{U}{B}: Exile target creature card from a graveyard. Dimir Doppelganger becomes a copy of that card, except it has this ability.', '0/2'])"
+"('Doomed Traveler', ['{W}', 'Creature — Human Soldier', 'When Doomed Traveler dies, create a 1/1 white Spirit creature token with flying.', '1/1'])"
+"('Double Stroke', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Whenever you cast an instant or sorcery spell with the chosen name, you may copy it. You may choose new targets for the copy.'])"
+"('Drakestown Forgotten', ['{4}{B}', 'Creature — Zombie', 'Drakestown Forgotten enters the battlefield with X +1/+1 counters on it, where X is the number of creature cards in all graveyards.', '{2}{B}, Remove a +1/+1 counter from Drakestown Forgotten: Target creature gets -1/-1 until end of turn.', '0/0'])"
+"('Dream Fracture', ['{1}{U}{U}', 'Instant', 'Counter target spell. Its controller draws a card.', 'Draw a card.'])"
+"('Echoing Courage', ['{1}{G}', 'Instant', 'Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.'])"
+"('Edric, Spymaster of Trest', ['{1}{G}{U}', 'Legendary Creature — Elf Rogue', 'Whenever a creature deals combat damage to one of your opponents, its controller may draw a card.', '2/2'])"
+"('Elephant Guide', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +3/+3.', 'When enchanted creature dies, create a 3/3 green Elephant creature token.'])"
+"('Elvish Aberration', ['{5}{G}', 'Creature — Elf Mutant', '{T}: Add {G}{G}{G}.', 'Forestcycling {2} ({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle your library.)', '4/5'])"
+"('Enclave Elite', ['{2}{U}', 'Creature — Merfolk Soldier', 'Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)', 'Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)', 'Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.', '2/2'])"
+"('Enraged Revolutionary', ['{2}{R}', 'Creature — Human Warrior', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', '2/1'])"
+"('Exploration', ['{G}', 'Enchantment', 'You may play an additional land on each of your turns.'])"
+"(""Explorer's Scope"", ['{1}', 'Artifact — Equipment', 'Whenever equipped creature attacks, look at the top card of your library. If it’s a land card, you may put it onto the battlefield tapped.', 'Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)'])"
+"('Extract from Darkness', ['{3}{U}{B}', 'Sorcery', 'Each player mills two cards. Then you put a creature card from a graveyard onto the battlefield under your control.'])"
+"('Fact or Fiction', ['{3}{U}', 'Instant', 'Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.'])"
+"('Favorable Winds', ['{1}{U}', 'Enchantment', 'Creatures you control with flying get +1/+1.'])"
+"('Fireshrieker', ['{3}', 'Artifact — Equipment', 'Equipped creature has double strike. (It deals both first-strike and regular combat damage.)', 'Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)'])"
+"('Fires of Yavimaya', ['{1}{R}{G}', 'Enchantment', 'Creatures you control have haste.', 'Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.'])"
+"('Flamewright', ['{R}{W}', 'Creature — Human Artificer', '{1}, {T}: Create a 1/1 colorless Construct artifact creature token with defender.', '{T}, Sacrifice a creature with defender: Flamewright deals 1 damage to any target.', '1/1'])"
+"('Flaring Flame-Kin', ['{2}{R}', 'Creature — Elemental Warrior', 'As long as Flaring Flame-Kin is enchanted, it gets +2/+2, has trample, and has “{R}: Flaring Flame-Kin gets +1/+0 until end of turn.”', '2/2'])"
+"('Flowstone Blade', ['{R}', 'Enchantment — Aura', 'Enchant creature', '{R}: Enchanted creature gets +1/-1 until end of turn.'])"
+"('Galvanic Juggernaut', ['{4}', 'Artifact Creature — Juggernaut', 'Galvanic Juggernaut attacks each combat if able.', 'Galvanic Juggernaut doesn’t untap during your untap step.', 'Whenever another creature dies, untap Galvanic Juggernaut.', '5/5'])"
+"('Gamekeeper', ['{3}{G}', 'Creature — Elf', 'When Gamekeeper dies, you may exile it. If you do, reveal cards from the top of your library until you reveal a creature card. Put that card onto the battlefield and put all other cards revealed this way into your graveyard.', '2/2'])"
+"('Glimmerpoint Stag', ['{2}{W}{W}', 'Creature — Elk', 'Vigilance', 'When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step.', '3/3'])"
+"('Gnarlid Pack', ['{1}{G}', 'Creature — Beast', 'Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)', 'Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.', '2/2'])"
+"('Grenzo, Dungeon Warden', ['{X}{B}{R}', 'Legendary Creature — Goblin Rogue', 'Grenzo, Dungeon Warden enters the battlefield with X +1/+1 counters on it.', '{2}: Put the bottom card of your library into your graveyard. If it’s a creature card with power less than or equal to Grenzo’s power, put it onto the battlefield.', '2/2'])"
+"(""Grenzo's Cutthroat"", ['{1}{R}', 'Creature — Goblin Rogue', 'First strike', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', '1/1'])"
+"(""Grenzo's Rebuttal"", ['{4}{R}{R}', 'Sorcery', 'Create a 4/4 red Ogre creature token. Starting with you, each player chooses an artifact, a creature, and a land from among the permanents controlled by the player to their left. Destroy each permanent chosen this way.'])"
+"('Grixis Illusionist', ['{U}', 'Creature — Human Wizard', '{T}: Target land you control becomes the basic land type of your choice until end of turn.', '1/1'])"
+"('Grudge Keeper', ['{1}{B}', 'Creature — Zombie Wizard', 'Whenever players finish voting, each opponent who voted for a choice you didn’t vote for loses 2 life.', '2/1'])"
+"('Guardian Zendikon', ['{2}{W}', 'Enchantment — Aura', 'Enchant land', 'Enchanted land is a 2/6 white Wall creature with defender. It’s still a land.', 'When enchanted land dies, return that card to its owner’s hand.'])"
+"('Heartless Hidetsugu', ['{3}{R}{R}', 'Legendary Creature — Ogre Shaman', '{T}: Heartless Hidetsugu deals damage to each player equal to half that player’s life total, rounded down.', '4/3'])"
+"('Heckling Fiends', ['{2}{R}', 'Creature — Devil', '{2}{R}: Target creature attacks this turn if able.', '2/2'])"
+"('Howling Wolf', ['{2}{G}{G}', 'Creature — Wolf', 'When Howling Wolf enters the battlefield, you may search your library for up to three cards named Howling Wolf, reveal them, and put them into your hand. If you do, shuffle your library.', '2/2'])"
+"('Hunger of the Howlpack', ['{G}', 'Instant', 'Put a +1/+1 counter on target creature.', 'Morbid — Put three +1/+1 counters on that creature instead if a creature died this turn.'])"
+"('Hydra Omnivore', ['{4}{G}{G}', 'Creature — Hydra', 'Whenever Hydra Omnivore deals combat damage to an opponent, it deals that much damage to each other opponent.', '8/8'])"
+"('Ignition Team', ['{5}{R}{R}', 'Creature — Goblin Warrior', 'Ignition Team enters the battlefield with X +1/+1 counters on it, where X is the number of tapped lands on the battlefield.', '{2}{R}, Remove a +1/+1 counter from Ignition Team: Target land becomes a 4/4 red Elemental creature until end of turn. It’s still a land.', '0/0'])"
+"('Ill-Gotten Gains', ['{2}{B}{B}', 'Sorcery', 'Exile Ill-Gotten Gains. Each player discards their hand, then returns up to three cards from their graveyard to their hand.'])"
+"('Immediate Action', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Creatures you control with the chosen name have haste.'])"
+"('Infectious Horror', ['{3}{B}', 'Creature — Zombie Horror', 'Whenever Infectious Horror attacks, each opponent loses 2 life.', '2/2'])"
+"('Intangible Virtue', ['{1}{W}', 'Enchantment', 'Creature tokens you control get +1/+1 and have vigilance.'])"
+"('Iterative Analysis', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Whenever you cast an instant or sorcery spell with the chosen name, you may draw a card.'])"
+"('Jetting Glasskite', ['{4}{U}{U}', 'Creature — Spirit', 'Flying', 'Whenever Jetting Glasskite becomes the target of a spell or ability for the first time each turn, counter that spell or ability.', '4/4'])"
+"('Kor Chant', ['{2}{W}', 'Instant', 'All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.'])"
+"('Lead the Stampede', ['{2}{G}', 'Sorcery', 'Look at the top five cards of your library. You may reveal any number of creature cards from among them and put the revealed cards into your hand. Put the rest on the bottom of your library in any order.'])"
+"(""Liliana's Specter"", ['{1}{B}{B}', 'Creature — Specter', 'Flying', 'When Liliana’s Specter enters the battlefield, each opponent discards a card.', '2/1'])"
+"('Lizard Warrior', ['{3}{R}', 'Creature — Lizard Warrior', '4/2'])"
+"('Lore Seeker', ['{2}', 'Artifact Creature — Construct', 'Reveal Lore Seeker as you draft it. After you draft Lore Seeker, you may add a booster pack to the draft. (Your next pick is from that booster pack. Pass it to the next player and it’s drafted this draft round.)', '2/2'])"
+"('Lurking Automaton', ['{5}', 'Artifact Creature — Construct', 'Reveal Lurking Automaton as you draft it and note how many cards you’ve drafted this draft round, including Lurking Automaton.', 'Lurking Automaton enters the battlefield with X +1/+1 counters on it, where X is the highest number you noted for cards named Lurking Automaton.', '0/0'])"
+"('Magister of Worth', ['{4}{W}{B}', 'Creature — Angel', 'Flying', 'Will of the council — When Magister of Worth enters the battlefield, starting with you, each player votes for grace or condemnation. If grace gets more votes, each player returns each creature card from their graveyard to the battlefield. If condemnation gets more votes or the vote is tied, destroy all creatures other than Magister of Worth.', '4/4'])"
+"('Magus of the Mirror', ['{4}{B}{B}', 'Creature — Human Wizard', '{T}, Sacrifice Magus of the Mirror: Exchange life totals with target opponent. Activate this ability only during your upkeep.', '4/2'])"
+"('Mana Geyser', ['{3}{R}{R}', 'Sorcery', 'Add {R} for each tapped land your opponents control.'])"
+"(""Marchesa's Emissary"", ['{3}{U}', 'Creature — Human Rogue', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', '2/2'])"
+"(""Marchesa's Infiltrator"", ['{2}{U}', 'Creature — Human Rogue', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', 'Whenever Marchesa’s Infiltrator deals combat damage to a player, draw a card.', '1/1'])"
+"(""Marchesa's Smuggler"", ['{U}{R}', 'Creature — Human Rogue', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', '{1}{U}{R}: Target creature you control gains haste until end of turn and can’t be blocked this turn.', '1/1'])"
+"('Marchesa, the Black Rose', ['{1}{U}{B}{R}', 'Legendary Creature — Human Wizard', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', 'Other creatures you control have dethrone.', 'Whenever a creature you control with a +1/+1 counter on it dies, return that card to the battlefield under your control at the beginning of the next end step.', '3/3'])"
+"('Minamo Scrollkeeper', ['{1}{U}', 'Creature — Human Wizard', 'Defender', 'Your maximum hand size is increased by one.', '2/3'])"
+"(""Mirari's Wake"", ['{3}{G}{W}', 'Enchantment', 'Creatures you control get +1/+1.', 'Whenever you tap a land for mana, add one mana of any type that land produced.'])"
+"(""Mirrodin's Core"", ['Land', '{T}: Add {C}.', '{T}: Put a charge counter on Mirrodin’s Core.', '{T}, Remove a charge counter from Mirrodin’s Core: Add one mana of any color.'])"
+"('Misdirection', ['{3}{U}{U}', 'Instant', 'You may exile a blue card from your hand rather than pay this spell’s mana cost.', 'Change the target of target spell with a single target.'])"
+"('Moment of Heroism', ['{1}{W}', 'Instant', 'Target creature gets +2/+2 and gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)'])"
+"('Morkrut Banshee', ['{3}{B}{B}', 'Creature — Spirit', 'Morbid — When Morkrut Banshee enters the battlefield, if a creature died this turn, target creature gets -4/-4 until end of turn.', '4/4'])"
+"('Mortify', ['{1}{W}{B}', 'Instant', 'Destroy target creature or enchantment.'])"
+"(""Muzzio's Preparations"", ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Each creature you control with the chosen name enters the battlefield with an additional +1/+1 counter on it.'])"
+"('Muzzio, Visionary Architect', ['{1}{U}{U}', 'Legendary Creature — Human Artificer', '{3}{U}, {T}: Look at the top X cards of your library, where X is the highest converted mana cost among artifacts you control. You may reveal an artifact card from among them and put it onto the battlefield. Put the rest on the bottom of your library in any order.', '1/3'])"
+"(""Nature's Claim"", ['{G}', 'Instant', 'Destroy target artifact or enchantment. Its controller gains 4 life.'])"
+"('Necromantic Thirst', ['{2}{B}{B}', 'Enchantment — Aura', 'Enchant creature', 'Whenever enchanted creature deals combat damage to a player, you may return target creature card from your graveyard to your hand.'])"
+"('Noble Templar', ['{5}{W}', 'Creature — Human Cleric Soldier', 'Vigilance', 'Plainscycling {2} ({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle your library.)', '3/6'])"
+"('Orcish Cannonade', ['{1}{R}{R}', 'Instant', 'Orcish Cannonade deals 2 damage to any target and 3 damage to you.', 'Draw a card.'])"
+"('Paliano, the High City', ['Legendary Land', 'Reveal Paliano, the High City as you draft it. The player to your right chooses a color, you choose another color, then the player to your left chooses a third color.', '{T}: Add one mana of any color chosen as you drafted cards named Paliano, the High City.'])"
+"('Peace Strider', ['{4}', 'Artifact Creature — Construct', 'When Peace Strider enters the battlefield, you gain 3 life.', '3/3'])"
+"('Pelakka Wurm', ['{4}{G}{G}{G}', 'Creature — Wurm', 'Trample', 'When Pelakka Wurm enters the battlefield, you gain 7 life.', 'When Pelakka Wurm dies, draw a card.', '7/7'])"
+"('Pernicious Deed', ['{1}{B}{G}', 'Enchantment', '{X}, Sacrifice Pernicious Deed: Destroy each artifact, creature, and enchantment with converted mana cost X or less.'])"
+"('Phage the Untouchable', ['{3}{B}{B}{B}{B}', 'Legendary Creature — Avatar Minion', 'When Phage the Untouchable enters the battlefield, if you didn’t cast it from your hand, you lose the game.', 'Whenever Phage deals combat damage to a creature, destroy that creature. It can’t be regenerated.', 'Whenever Phage deals combat damage to a player, that player loses the game.', '4/4'])"
+"('Pillarfield Ox', ['{3}{W}', 'Creature — Ox', '2/4'])"
+"('Pitchburn Devils', ['{4}{R}', 'Creature — Devil', 'When Pitchburn Devils dies, it deals 3 damage to any target.', '3/3'])"
+"('Plagued Rusalka', ['{B}', 'Creature — Spirit', '{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.', '1/1'])"
+"('Plated Seastrider', ['{U}{U}', 'Creature — Beast', '1/4'])"
+"('Plea for Power', ['{3}{U}', 'Sorcery', 'Will of the council — Starting with you, each player votes for time or knowledge. If time gets more votes, take an extra turn after this one. If knowledge gets more votes or the vote is tied, draw three cards.'])"
+"('Plummet', ['{1}{G}', 'Instant', 'Destroy target creature with flying.'])"
+"('Power of Fire', ['{1}{R}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature has “{T}: This creature deals 1 damage to any target.”'])"
+"('Power Play', ['Conspiracy', '(Start the game with this conspiracy face up in the command zone.)', 'You are the starting player. If multiple players would be the starting player, one of those players is chosen at random.'])"
+"(""Predator's Howl"", ['{3}{G}', 'Instant', 'Create a 2/2 green Wolf creature token.', 'Morbid — Create three 2/2 green Wolf creature tokens instead if a creature died this turn.'])"
+"('Pride Guardian', ['{W}', 'Creature — Cat Monk', 'Defender', 'Whenever Pride Guardian blocks, you gain 3 life.', '0/3'])"
+"('Pristine Angel', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.', 'Whenever you cast a spell, you may untap Pristine Angel.', '4/4'])"
+"('Provoke', ['{1}{G}', 'Instant', 'Untap target creature you don’t control. That creature blocks this turn if able.', 'Draw a card.'])"
+"('Quag Vampires', ['{B}', 'Creature — Vampire Rogue', 'Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)', 'Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)', 'Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.', '1/1'])"
+"('Quicksand', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.'])"
+"('Realm Seekers', ['{4}{G}{G}', 'Creature — Elf Scout', 'Realm Seekers enters the battlefield with X +1/+1 counters on it, where X is the total number of cards in all players’ hands.', '{2}{G}, Remove a +1/+1 counter from Realm Seekers: Search your library for a land card, reveal it, put it into your hand, then shuffle your library.', '0/0'])"
+"('Reckless Scholar', ['{2}{U}', 'Creature — Human Wizard', '{T}: Target player draws a card, then discards a card.', '2/1'])"
+"('Reckless Spite', ['{1}{B}{B}', 'Instant', 'Destroy two target nonblack creatures. You lose 5 life.'])"
+"('Reflecting Pool', ['Land', '{T}: Add one mana of any type that a land you control could produce.'])"
+"('Reign of the Pit', ['{4}{B}{B}', 'Sorcery', 'Each player sacrifices a creature. Create an X/X black Demon creature token with flying, where X is the total power of the creatures sacrificed this way.'])"
+"('Reito Lantern', ['{2}', 'Artifact', '{3}: Put target card from a graveyard on the bottom of its owner’s library.'])"
+"('Relic Crush', ['{4}{G}', 'Instant', 'Destroy target artifact or enchantment and up to one other target artifact or enchantment.'])"
+"('Respite', ['{1}{G}', 'Instant', 'Prevent all combat damage that would be dealt this turn. You gain 1 life for each attacking creature.'])"
+"('Reya Dawnbringer', ['{6}{W}{W}{W}', 'Legendary Creature — Angel', 'Flying', 'At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.', '4/6'])"
+"('Rousing of Souls', ['{2}{W}', 'Sorcery', 'Parley — Each player reveals the top card of their library. For each nonland card revealed this way, you create a 1/1 white Spirit creature token with flying. Then each player draws a card.'])"
+"('Rout', ['{3}{W}{W}', 'Sorcery', 'You may cast Rout as though it had flash if you pay {2} more to cast it. (You may cast it any time you could cast an instant.)', 'Destroy all creatures. They can’t be regenerated.'])"
+"('Runed Servitor', ['{2}', 'Artifact Creature — Construct', 'When Runed Servitor dies, each player draws a card.', '2/2'])"
+"('Sakura-Tribe Elder', ['{1}{G}', 'Creature — Snake Shaman', 'Sacrifice Sakura-Tribe Elder: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.', '1/1'])"
+"('Scaled Wurm', ['{7}{G}', 'Creature — Wurm', '7/6'])"
+"('Scourge of the Throne', ['{4}{R}{R}', 'Creature — Dragon', 'Flying', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', 'Whenever Scourge of the Throne attacks for the first time each turn, if it’s attacking the player with the most life or tied for most life, untap all attacking creatures. After this phase, there is an additional combat phase.', '5/5'])"
+"('Screaming Seahawk', ['{4}{U}', 'Creature — Bird', 'Flying', 'When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.', '2/2'])"
+"('Secrets of Paradise', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Creatures you control with the chosen name have “{T}: Add one mana of any color.”'])"
+"('Secret Summoning', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'Whenever a creature with the chosen name enters the battlefield under your control, you may search your library for any number of cards with that name, reveal them, put them into your hand, then shuffle your library.'])"
+"('Selvala, Explorer Returned', ['{1}{G}{W}', 'Legendary Creature — Elf Scout', 'Parley — {T}: Each player reveals the top card of their library. For each nonland card revealed this way, add {G} and you gain 1 life. Then each player draws a card.', '2/4'])"
+"(""Selvala's Charge"", ['{4}{G}', 'Sorcery', 'Parley — Each player reveals the top card of their library. For each nonland card revealed this way, you create a 3/3 green Elephant creature token. Then each player draws a card.'])"
+"(""Selvala's Enforcer"", ['{3}{G}', 'Creature — Elf Warrior', 'Parley — When Selvala’s Enforcer enters the battlefield, each player reveals the top card of their library. For each nonland card revealed this way, put a +1/+1 counter on Selvala’s Enforcer. Then each player draws a card.', '2/2'])"
+"('Sentinel Dispatch', ['Conspiracy', '(Start the game with this conspiracy face up in the command zone.)', 'At the beginning of the first upkeep, create a 1/1 colorless Construct artifact creature token with defender.'])"
+"('Shoreline Ranger', ['{5}{U}', 'Creature — Bird Soldier', 'Flying', 'Islandcycling {2} ({2}, Discard this card: Search your library for an Island card, reveal it, put it into your hand, then shuffle your library.)', '3/4'])"
+"('Silent Arbiter', ['{4}', 'Artifact Creature — Construct', 'No more than one creature can attack each combat.', 'No more than one creature can block each combat.', '1/5'])"
+"('Silverchase Fox', ['{1}{W}', 'Creature — Fox', '{1}{W}, Sacrifice Silverchase Fox: Exile target enchantment.', '2/2'])"
+"('Skeletal Scrying', ['{X}{B}', 'Instant', 'As an additional cost to cast this spell, exile X cards from your graveyard.', 'You draw X cards and you lose X life.'])"
+"('Skitter of Lizards', ['{R}', 'Creature — Lizard', 'Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)', 'Haste', 'Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.', '1/1'])"
+"('Sky Spirit', ['{1}{W}{U}', 'Creature — Spirit', 'Flying, first strike', '2/2'])"
+"('Smallpox', ['{B}{B}', 'Sorcery', 'Each player loses 1 life, discards a card, sacrifices a creature, then sacrifices a land.'])"
+"('Soulcatcher', ['{1}{W}', 'Creature — Bird Soldier', 'Flying', 'Whenever a creature with flying dies, put a +1/+1 counter on Soulcatcher.', '1/1'])"
+"('Spectral Searchlight', ['{3}', 'Artifact', '{T}: Choose a player. That player adds one mana of any color they choose.'])"
+"('Spiritmonger', ['{3}{B}{G}', 'Creature — Beast', 'Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.', '{B}: Regenerate Spiritmonger.', '{G}: Spiritmonger becomes the color of your choice until end of turn.', '6/6'])"
+"('Split Decision', ['{1}{U}', 'Instant', 'Will of the council — Choose target instant or sorcery spell. Starting with you, each player votes for denial or duplication. If denial gets more votes, counter the spell. If duplication gets more votes or the vote is tied, copy the spell. You may choose new targets for the copy.'])"
+"('Spontaneous Combustion', ['{1}{B}{R}', 'Instant', 'As an additional cost to cast this spell, sacrifice a creature.', 'Spontaneous Combustion deals 3 damage to each creature.'])"
+"('Sporecap Spider', ['{2}{G}', 'Creature — Spider', 'Reach', '1/5'])"
+"('Squirrel Nest', ['{1}{G}{G}', 'Enchantment — Aura', 'Enchant land', 'Enchanted land has “{T}: Create a 1/1 green Squirrel creature token.”'])"
+"('Stasis Cell', ['{4}{U}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature doesn’t untap during its controller’s untap step.', '{3}{U}: Attach Stasis Cell to target creature.'])"
+"('Stave Off', ['{W}', 'Instant', 'Target creature gains protection from the color of your choice until end of turn.'])"
+"('Stifle', ['{U}', 'Instant', 'Counter target activated or triggered ability. (Mana abilities can’t be targeted.)'])"
+"('Stronghold Discipline', ['{2}{B}{B}', 'Sorcery', 'Each player loses 1 life for each creature they control.'])"
+"('Sulfuric Vortex', ['{1}{R}{R}', 'Enchantment', 'At the beginning of each player’s upkeep, Sulfuric Vortex deals 2 damage to that player.', 'If a player would gain life, that player gains no life instead.'])"
+"('Swords to Plowshares', ['{W}', 'Instant', 'Exile target creature. Its controller gains life equal to its power.'])"
+"('Syphon Soul', ['{2}{B}', 'Sorcery', 'Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.'])"
+"('Terastodon', ['{6}{G}{G}', 'Creature — Elephant', 'When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller creates a 3/3 green Elephant creature token.', '9/9'])"
+"('Torch Fiend', ['{1}{R}', 'Creature — Devil', '{R}, Sacrifice Torch Fiend: Destroy target artifact.', '2/1'])"
+"('Tragic Slip', ['{B}', 'Instant', 'Target creature gets -1/-1 until end of turn.', 'Morbid — That creature gets -13/-13 until end of turn instead if a creature died this turn.'])"
+"(""Traveler's Cloak"", ['{2}{U}', 'Enchantment — Aura', 'Enchant creature', 'As Traveler’s Cloak enters the battlefield, choose a land type.', 'When Traveler’s Cloak enters the battlefield, draw a card.', 'Enchanted creature has landwalk of the chosen type. (It can’t be blocked as long as defending player controls a land of that type.)'])"
+"('Treasonous Ogre', ['{3}{R}', 'Creature — Ogre Shaman', 'Dethrone (Whenever this creature attacks the player with the most life or tied for most life, put a +1/+1 counter on it.)', 'Pay 3 life: Add {R}.', '2/3'])"
+"('Trumpet Blast', ['{2}{R}', 'Instant', 'Attacking creatures get +2/+0 until end of turn.'])"
+"('Turn the Tide', ['{1}{U}', 'Instant', 'Creatures your opponents control get -2/-0 until end of turn.'])"
+"('Twisted Abomination', ['{5}{B}', 'Creature — Zombie Mutant', '{B}: Regenerate Twisted Abomination.', 'Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)', '5/3'])"
+"('Typhoid Rats', ['{B}', 'Creature — Rat', 'Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)', '1/1'])"
+"(""Tyrant's Choice"", ['{1}{B}', 'Sorcery', 'Will of the council — Starting with you, each player votes for death or torture. If death gets more votes, each opponent sacrifices a creature. If torture gets more votes or the vote is tied, each opponent loses 4 life.'])"
+"('Uncontrollable Anger', ['{2}{R}{R}', 'Enchantment — Aura', 'Flash (You may cast this spell any time you could cast an instant.)', 'Enchant creature', 'Enchanted creature gets +2/+2 and attacks each combat if able.'])"
+"('Unexpected Potential', ['Conspiracy', 'Hidden agenda (Start the game with this conspiracy face down in the command zone and secretly choose a card name. You may turn this conspiracy face up any time and reveal that name.)', 'You may spend mana as though it were mana of any color to cast spells with the chosen name.'])"
+"('Unhallowed Pact', ['{2}{B}', 'Enchantment — Aura', 'Enchant creature', 'When enchanted creature dies, return that card to the battlefield under your control.'])"
+"('Unquestioned Authority', ['{2}{W}', 'Enchantment — Aura', 'Enchant creature', 'When Unquestioned Authority enters the battlefield, draw a card.', 'Enchanted creature has protection from creatures.'])"
+"('Valor Made Real', ['{W}', 'Instant', 'Target creature can block any number of creatures this turn.'])"
+"('Vampire Hexmage', ['{B}{B}', 'Creature — Vampire Shaman', 'First strike', 'Sacrifice Vampire Hexmage: Remove all counters from target permanent.', '2/1'])"
+"('Vedalken Orrery', ['{4}', 'Artifact', 'You may cast spells as though they had flash.'])"
+"('Vent Sentinel', ['{3}{R}', 'Creature — Elemental', 'Defender', '{1}{R}, {T}: Vent Sentinel deals damage to target player or planeswalker equal to the number of creatures with defender you control.', '2/4'])"
+"('Victimize', ['{2}{B}', 'Sorcery', 'Choose two target creature cards in your graveyard. Sacrifice a creature. If you do, return the chosen cards to the battlefield tapped.'])"
+"('Volcanic Fallout', ['{1}{R}{R}', 'Instant', 'This spell can’t be countered.', 'Volcanic Fallout deals 2 damage to each creature and each player.'])"
+"('Vow of Duty', ['{2}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+2, has vigilance, and can’t attack you or a planeswalker you control.'])"
+"('Wakedancer', ['{2}{B}', 'Creature — Human Shaman', 'Morbid — When Wakedancer enters the battlefield, if a creature died this turn, create a 2/2 black Zombie creature token.', '2/2'])"
+"('Wakestone Gargoyle', ['{3}{W}', 'Creature — Gargoyle', 'Defender, flying', '{1}{W}: Creatures you control with defender can attack this turn as though they didn’t have defender.', '3/4'])"
+"(""Warmonger's Chariot"", ['{2}', 'Artifact — Equipment', 'Equipped creature gets +2/+2.', 'As long as equipped creature has defender, it can attack as though it didn’t have defender.', 'Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)'])"
+"('Whispergear Sneak', ['{1}', 'Artifact Creature — Construct', 'Draft Whispergear Sneak face up.', 'During the draft, you may turn Whispergear Sneak face down. If you do, look at any unopened booster pack in the draft or any booster pack not being looked at by another player.', '1/1'])"
+"('Wind Dancer', ['{1}{U}', 'Creature — Faerie', 'Flying', '{T}: Target creature gains flying until end of turn.', '1/1'])"
+"('Wolfbriar Elemental', ['{2}{G}{G}', 'Creature — Elemental', 'Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)', 'When Wolfbriar Elemental enters the battlefield, create a 2/2 green Wolf creature token for each time it was kicked.', '4/4'])"
+"('Wood Sage', ['{G}{U}', 'Creature — Human Druid', '{T}: Choose a creature card name. Reveal the top four cards of your library and put all of them with that name into your hand. Put the rest into your graveyard.', '1/1'])"
+"('Woodvine Elemental', ['{4}{G}{W}', 'Creature — Elemental', 'Trample', 'Parley — Whenever Woodvine Elemental attacks, each player reveals the top card of their library. For each nonland card revealed this way, attacking creatures you control get +1/+1 until end of turn. Then each player draws a card.', '4/4'])"
+"('Worldknit', ['Conspiracy', '(Start the game with this conspiracy face up in the command zone.)', 'As long as every card in your card pool started the game in your library or in the command zone, lands you control have “{T}: Add one mana of any color.”'])"
+"('Wrap in Flames', ['{3}{R}', 'Sorcery', 'Wrap in Flames deals 1 damage to each of up to three target creatures. Those creatures can’t block this turn.'])"
+"('Wrap in Vigor', ['{1}{G}', 'Instant', 'Regenerate each creature you control.'])"
+"('Zombie Goliath', ['{4}{B}', 'Creature — Zombie Giant', '4/3'])"

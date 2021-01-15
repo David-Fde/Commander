@@ -1,301 +1,57 @@
-Akki Coalflinger
-{1}{R}{R}
-Creature — Goblin Shaman
-First strike
-"{R}, {T}: Attacking creatures gain first strike until end of turn."
-2/2
-Allosaurus Rider
-{5}{G}{G}
-Creature — Elf Warrior
-You may exile two green cards from your hand rather than pay this spell’s mana cost.
-Allosaurus Rider’s power and toughness are each equal to 1 plus the number of lands you control.
-1+*/1+*
-Ambush Commander
-{3}{G}{G}
-Creature — Elf
-Forests you control are 1/1 green Elf creatures that are still lands.
-"{1}{G}, Sacrifice an Elf: Target creature gets +3/+3 until end of turn."
-2/2
-Boggart Shenanigans
-{2}{R}
-Tribal Enchantment — Goblin
-"Whenever another Goblin you control is put into a graveyard from the battlefield, you may have Boggart Shenanigans deal 1 damage to target player or planeswalker."
-Clickslither
-{1}{R}{R}{R}
-Creature — Insect
-Haste
-Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.
-3/3
-Elvish Eulogist
-{G}
-Creature — Elf Shaman
-Sacrifice Elvish Eulogist: You gain 1 life for each Elf card in your graveyard.
-1/1
-Elvish Harbinger
-{2}{G}
-Creature — Elf Druid
-"When Elvish Harbinger enters the battlefield, you may search your library for an Elf card, reveal it, then shuffle your library and put that card on top of it."
-{T}: Add one mana of any color.
-1/2
-Elvish Promenade
-{3}{G}
-Tribal Sorcery — Elf
-Create a 1/1 green Elf Warrior creature token for each Elf you control.
-Elvish Warrior
-{G}{G}
-Creature — Elf Warrior
-2/3
-Emberwilde Augur
-{1}{R}
-Creature — Goblin Shaman
-Sacrifice Emberwilde Augur: It deals 3 damage to target player or planeswalker. Activate this ability only during your upkeep.
-2/1
-Flamewave Invoker
-{2}{R}
-Creature — Goblin Mutant
-{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.
-2/2
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forgotten Cave
-Land
-Forgotten Cave enters the battlefield tapped.
-{T}: Add {R}.
-"Cycling {R} ({R}, Discard this card: Draw a card.)"
-Gempalm Incinerator
-{2}{R}
-Creature — Goblin
-"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)"
-"When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield."
-2/1
-Gempalm Strider
-{1}{G}
-Creature — Elf
-"Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)"
-"When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn."
-2/2
-Giant Growth
-{G}
-Instant
-Target creature gets +3/+3 until end of turn.
-Goblin Burrows
-Land
-{T}: Add {C}.
-"{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn."
-Goblin Cohort
-{R}
-Creature — Goblin Warrior
-Goblin Cohort can’t attack unless you’ve cast a creature spell this turn.
-2/2
-Goblin Matron
-{2}{R}
-Creature — Goblin
-"When Goblin Matron enters the battlefield, you may search your library for a Goblin card, reveal that card, put it into your hand, then shuffle your library."
-1/1
-Goblin Ringleader
-{3}{R}
-Creature — Goblin
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-"When Goblin Ringleader enters the battlefield, reveal the top four cards of your library. Put all Goblin cards revealed this way into your hand and the rest on the bottom of your library in any order."
-2/2
-Goblin Sledder
-{R}
-Creature — Goblin
-Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
-1/1
-Goblin Warchief
-{1}{R}{R}
-Creature — Goblin Warrior
-Goblin spells you cast cost {1} less to cast.
-Goblins you control have haste.
-2/2
-Harmonize
-{2}{G}{G}
-Sorcery
-Draw three cards.
-Heedless One
-{3}{G}
-Creature — Elf Avatar
-Trample
-Heedless One’s power and toughness are each equal to the number of Elves on the battlefield.
-*/*
-"Ib Halfheart, Goblin Tactician"
-{3}{R}
-Legendary Creature — Goblin Advisor
-"Whenever another Goblin you control becomes blocked, sacrifice it. If you do, it deals 4 damage to each creature blocking it."
-Sacrifice two Mountains: Create two 1/1 red Goblin creature tokens.
-3/2
-Imperious Perfect
-{2}{G}
-Creature — Elf Warrior
-Other Elves you control get +1/+1.
-"{G}, {T}: Create a 1/1 green Elf Warrior creature token."
-2/2
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Lys Alana Huntmaster
-{2}{G}{G}
-Creature — Elf Warrior
-"Whenever you cast an Elf spell, you may create a 1/1 green Elf Warrior creature token."
-3/3
-Mogg Fanatic
-{R}
-Creature — Goblin
-Sacrifice Mogg Fanatic: It deals 1 damage to any target.
-1/1
-Mogg War Marshal
-{1}{R}
-Creature — Goblin Warrior
-"Echo {1}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-"When Mogg War Marshal enters the battlefield or dies, create a 1/1 red Goblin creature token."
-1/1
-Moonglove Extract
-{3}
-Artifact
-Sacrifice Moonglove Extract: It deals 2 damage to any target.
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mudbutton Torchrunner
-{2}{R}
-Creature — Goblin Warrior
-"When Mudbutton Torchrunner dies, it deals 3 damage to any target."
-1/1
-Raging Goblin
-{R}
-Creature — Goblin Berserker
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-1/1
-Reckless One
-{3}{R}
-Creature — Goblin Avatar
-Haste
-Reckless One’s power and toughness are each equal to the number of Goblins on the battlefield.
-*/*
-Siege-Gang Commander
-{3}{R}{R}
-Creature — Goblin
-"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens."
-"{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
-2/2
-Skirk Drill Sergeant
-{1}{R}
-Creature — Goblin
-"Whenever Skirk Drill Sergeant or another Goblin dies, you may pay {2}{R}. If you do, reveal the top card of your library. If it’s a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard."
-2/1
-Skirk Fire Marshal
-{3}{R}{R}
-Creature — Goblin
-Protection from red
-Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.
-2/2
-Skirk Prospector
-{R}
-Creature — Goblin
-Sacrifice a Goblin: Add {R}.
-1/1
-Skirk Shaman
-{1}{R}{R}
-Creature — Goblin Shaman
-Skirk Shaman can’t be blocked except by artifact creatures and/or red creatures.
-2/2
-Slate of Ancestry
-{4}
-Artifact
-"{4}, {T}, Discard your hand: Draw a card for each creature you control."
-Spitting Earth
-{1}{R}
-Sorcery
-Spitting Earth deals damage to target creature equal to the number of Mountains you control.
-Stonewood Invoker
-{1}{G}
-Creature — Elf Mutant
-{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.
-2/2
-Sylvan Messenger
-{3}{G}
-Creature — Elf
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-"When Sylvan Messenger enters the battlefield, reveal the top four cards of your library. Put all Elf cards revealed this way into your hand and the rest on the bottom of your library in any order."
-2/2
-Tarfire
-{R}
-Tribal Instant — Goblin
-Tarfire deals 2 damage to any target.
-Tar Pitcher
-{3}{R}
-Creature — Goblin Shaman
-"{T}, Sacrifice a Goblin: Tar Pitcher deals 2 damage to any target."
-2/2
-Timberwatch Elf
-{2}{G}
-Creature — Elf
-"{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield."
-1/2
-Tranquil Thicket
-Land
-Tranquil Thicket enters the battlefield tapped.
-{T}: Add {G}.
-"Cycling {G} ({G}, Discard this card: Draw a card.)"
-Voice of the Woods
-{3}{G}{G}
-Creature — Elf
-Tap five untapped Elves you control: Create a 7/7 green Elemental creature token with trample.
-2/2
-Wellwisher
-{1}{G}
-Creature — Elf
-{T}: You gain 1 life for each Elf on the battlefield.
-1/1
-Wildsize
-{2}{G}
-Instant
-Target creature gets +2/+2 and gains trample until end of turn.
-Draw a card.
-Wirewood Herald
-{1}{G}
-Creature — Elf
-"When Wirewood Herald dies, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library."
-1/1
-Wirewood Lodge
-Land
-{T}: Add {C}.
-"{G}, {T}: Untap target Elf."
-Wirewood Symbiote
-{G}
-Creature — Insect
-Return an Elf you control to its owner’s hand: Untap target creature. Activate this ability only once each turn.
-1/1
-Wood Elves
-{2}{G}
-Creature — Elf Scout
-"When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library."
-1/1
-Wren's Run Vanquisher
-{1}{G}
-Creature — Elf Warrior
-"As an additional cost to cast this spell, reveal an Elf card from your hand or pay {3}."
-Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-3/3
+"('Albino Troll', ['{1}{G}', 'Creature — Troll', 'Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)', '{1}{G}: Regenerate Albino Troll.', '3/3'])"
+"('Bad Moon', ['{1}{B}', 'Enchantment', 'Black creatures get +1/+1.'])"
+"('Basking Rootwalla', ['{G}', 'Creature — Lizard', '{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.', 'Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '1/1'])"
+"('Beast Attack', ['{2}{G}{G}{G}', 'Instant', 'Create a 4/4 green Beast creature token.', 'Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Blastoderm', ['{2}{G}{G}', 'Creature — Beast', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', '5/5'])"
+"('Corrupt', ['{5}{B}', 'Sorcery', 'Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.'])"
+"('Deathgreeter', ['{B}', 'Creature — Human Shaman', 'Whenever another creature dies, you may gain 1 life.', '1/1'])"
+"('Drudge Skeletons', ['{1}{B}', 'Creature — Skeleton', '{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/1'])"
+"('Elephant Guide', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +3/+3.', 'When enchanted creature dies, create a 3/3 green Elephant creature token.'])"
+"('Enslave', ['{4}{B}{B}', 'Enchantment — Aura', 'Enchant creature', 'You control enchanted creature.', 'At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.'])"
+"('Faerie Macabre', ['{1}{B}{B}', 'Creature — Faerie Rogue', 'Flying', 'Discard Faerie Macabre: Exile up to two target cards from graveyards.', '2/2'])"
+"('Fleshbag Marauder', ['{2}{B}', 'Creature — Zombie Warrior', 'When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.', '3/1'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Garruk Wildspeaker', ['{2}{G}{G}', 'Legendary Planeswalker — Garruk', '+1: Untap two target lands.', '−1: Create a 3/3 green Beast creature token.', '−4: Creatures you control get +3/+3 and gain trample until end of turn.', 'Loyalty: 3'])"
+"('Genju of the Cedars', ['{G}', 'Enchantment — Aura', 'Enchant Forest', '{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It’s still a land.', 'When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.'])"
+"('Genju of the Fens', ['{B}', 'Enchantment — Aura', 'Enchant Swamp', '{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with “{B}: This creature gets +1/+1 until end of turn.” It’s still a land.', 'When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.'])"
+"('Ghost-Lit Stalker', ['{B}', 'Creature — Spirit', '{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.', 'Channel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.', '1/1'])"
+"('Giant Growth', ['{G}', 'Instant', 'Target creature gets +3/+3 until end of turn.'])"
+"('Harmonize', ['{2}{G}{G}', 'Sorcery', 'Draw three cards.'])"
+"('Hideous End', ['{1}{B}{B}', 'Instant', 'Destroy target nonblack creature. Its controller loses 2 life.'])"
+"('Howling Banshee', ['{2}{B}{B}', 'Creature — Spirit', 'Flying', 'When Howling Banshee enters the battlefield, each player loses 3 life.', '3/3'])"
+"('Ichor Slick', ['{2}{B}', 'Sorcery', 'Target creature gets -3/-3 until end of turn.', 'Cycling {2} ({2}, Discard this card: Draw a card.)', 'Madness {3}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)'])"
+"('Indrik Stomphowler', ['{4}{G}', 'Creature — Beast', 'When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.', '4/4'])"
+"('Invigorate', ['{2}{G}', 'Instant', 'If you control a Forest, rather than pay this spell’s mana cost, you may have an opponent gain 3 life.', 'Target creature gets +4/+4 until end of turn.'])"
+"('Keening Banshee', ['{2}{B}{B}', 'Creature — Spirit', 'Flying', 'When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.', '2/2'])"
+"('Krosan Tusker', ['{5}{G}{G}', 'Creature — Boar Beast', 'Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)', 'When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library. (Do this before you draw.)', '6/5'])"
+"('Lignify', ['{1}{G}', 'Tribal Enchantment — Treefolk Aura', 'Enchant creature', 'Enchanted creature is a Treefolk with base power and toughness 0/4 and loses all abilities.'])"
+"('Liliana Vess', ['{3}{B}{B}', 'Legendary Planeswalker — Liliana', '+1: Target player discards a card.', '−2: Search your library for a card, then shuffle your library and put that card on top of it.', '−8: Put all creature cards from all graveyards onto the battlefield under your control.', 'Loyalty: 5'])"
+"('Mutilate', ['{2}{B}{B}', 'Sorcery', 'All creatures get -1/-1 until end of turn for each Swamp you control.'])"
+"(""Nature's Lore"", ['{1}{G}', 'Sorcery', 'Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.'])"
+"('Overrun', ['{2}{G}{G}{G}', 'Sorcery', 'Creatures you control get +3/+3 and gain trample until end of turn.'])"
+"('Phyrexian Rager', ['{2}{B}', 'Creature — Horror', 'When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.', '2/2'])"
+"('Plated Slagwurm', ['{4}{G}{G}{G}', 'Creature — Wurm', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '8/8'])"
+"('Polluted Mire', ['Land', 'Polluted Mire enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Rancor', ['{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+0 and has trample.', 'When Rancor is put into a graveyard from the battlefield, return Rancor to its owner’s hand.'])"
+"('Ravenous Baloth', ['{2}{G}{G}', 'Creature — Beast', 'Sacrifice a Beast: You gain 4 life.', '4/4'])"
+"('Ravenous Rats', ['{1}{B}', 'Creature — Rat', 'When Ravenous Rats enters the battlefield, target opponent discards a card.', '1/1'])"
+"('Rise from the Grave', ['{4}{B}', 'Sorcery', 'Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.'])"
+"('Rude Awakening', ['{4}{G}', 'Sorcery', 'Choose one —', '• Untap all lands you control.', '• Until end of turn, lands you control become 2/2 creatures that are still lands.', 'Entwine {2}{G} (Choose both if you pay the entwine cost.)'])"
+"('Serrated Arrows', ['{4}', 'Artifact', 'Serrated Arrows enters the battlefield with three arrowhead counters on it.', 'At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.', '{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.'])"
+"('Sign in Blood', ['{B}{B}', 'Sorcery', 'Target player draws two cards and loses 2 life.'])"
+"('Skeletal Vampire', ['{4}{B}{B}', 'Creature — Vampire Skeleton', 'Flying', 'When Skeletal Vampire enters the battlefield, create two 1/1 black Bat creature tokens with flying.', '{3}{B}{B}, Sacrifice a Bat: Create two 1/1 black Bat creature tokens with flying.', 'Sacrifice a Bat: Regenerate Skeletal Vampire.', '3/3'])"
+"('Slippery Karst', ['Land', 'Slippery Karst enters the battlefield tapped.', '{T}: Add {G}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Snuff Out', ['{3}{B}', 'Instant', 'If you control a Swamp, you may pay 4 life rather than pay this spell’s mana cost.', 'Destroy target nonblack creature. It can’t be regenerated.'])"
+"('Stampeding Wildebeests', ['{2}{G}{G}', 'Creature — Antelope Beast', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', 'At the beginning of your upkeep, return a green creature you control to its owner’s hand.', '5/4'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Tendrils of Corruption', ['{3}{B}', 'Instant', 'Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.'])"
+"('Treetop Village', ['Land', 'Treetop Village enters the battlefield tapped.', '{T}: Add {G}.', '{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It’s still a land. (It can deal excess combat damage to the player or planeswalker it’s attacking.)'])"
+"('Twisted Abomination', ['{5}{B}', 'Creature — Zombie Mutant', '{B}: Regenerate Twisted Abomination.', 'Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle your library.)', '5/3'])"
+"('Urborg Syphon-Mage', ['{2}{B}', 'Creature — Human Spellshaper', '{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.', '2/2'])"
+"('Vampire Bats', ['{B}', 'Creature — Bat', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.', '0/1'])"
+"('Vicious Hunger', ['{B}{B}', 'Sorcery', 'Vicious Hunger deals 2 damage to target creature and you gain 2 life.'])"
+"('Vine Trellis', ['{1}{G}', 'Creature — Plant Wall', 'Defender (This creature can’t attack.)', '{T}: Add {G}.', '0/4'])"
+"('Wall of Bone', ['{2}{B}', 'Creature — Skeleton Wall', 'Defender (This creature can’t attack.)', '{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/4'])"
+"('Wild Mongrel', ['{1}{G}', 'Creature — Dog', 'Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.', '2/2'])"
+"('Windstorm', ['{X}{G}', 'Instant', 'Windstorm deals X damage to each creature with flying.'])"
+"('Wirewood Savage', ['{2}{G}', 'Creature — Elf', 'Whenever a Beast enters the battlefield, you may draw a card.', '2/2'])"

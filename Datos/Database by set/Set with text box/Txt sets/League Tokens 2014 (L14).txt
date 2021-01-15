@@ -1,13 +1,4 @@
-Minotaur
-Token Creature — Minotaur
-2/3
-Soldier
-Token Enchantment Creature — Soldier
-1/1
-Squid
-Token Creature — Squid
-Islandwalk
-1/1
-Warrior
-Token Creature — Warrior
-1/1
+"('Minotaur', ['Token Creature — Minotaur', '2/3'])"
+"('Soldier', ['Token Enchantment Creature — Soldier', '1/1'])"
+"('Squid', ['Token Creature — Squid', 'Islandwalk', '1/1'])"
+"('Warrior', ['Token Creature — Warrior', '1/1'])"

@@ -1,28 +1,8 @@
-Angel
-Token Creature — Angel
-"Flying, vigilance"
-4/4
-Bird Illusion
-Token Creature — Bird Illusion
-Flying
-1/1
-Elf Knight
-Token Creature — Elf Knight
-Vigilance
-2/2
-Goblin
-Token Creature — Goblin
-1/1
-Insect
-Token Creature — Insect
-1/1
-"Ral, Izzet Viceroy Emblem"
-Emblem — Ral
-"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."
-Soldier
-Token Creature — Soldier
-Lifelink
-1/1
-"Vraska, Golgari Queen Emblem"
-Emblem — Vraska
-"Whenever a creature you control deals combat damage to a player, that player loses the game."
+"('Angel', ['Token Creature — Angel', 'Flying, vigilance', '4/4'])"
+"('Bird Illusion', ['Token Creature — Bird Illusion', 'Flying', '1/1'])"
+"('Elf Knight', ['Token Creature — Elf Knight', 'Vigilance', '2/2'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Insect', ['Token Creature — Insect', '1/1'])"
+"('Ral, Izzet Viceroy Emblem', ['Emblem — Ral', 'Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.'])"
+"('Soldier', ['Token Creature — Soldier', 'Lifelink', '1/1'])"
+"('Vraska, Golgari Queen Emblem', ['Emblem — Vraska', 'Whenever a creature you control deals combat damage to a player, that player loses the game.'])"

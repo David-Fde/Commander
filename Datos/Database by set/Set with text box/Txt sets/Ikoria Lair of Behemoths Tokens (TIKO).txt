@@ -1,48 +1,12 @@
-Ability Punchcard
-Card
-Ability Punchcard
-Card
-Beast
-Token Creature — Beast
-3/3
-Cat
-Token Creature — Cat
-Lifelink (Damage dealt by this creature also causes you to gain that much life.)
-1/1
-Cat Bird
-Token Creature — Cat Bird
-Flying
-1/1
-Companion
-Card
-"As each game begins, you can place one card with companion here if your starting deck meets its condition. You may cast it once from here."
-Dinosaur
-Token Creature — Dinosaur
-Haste
-1/1
-Dinosaur Beast
-Token Creature — Dinosaur Beast
-Trample
-*/*
-Feather
-Token Artifact
-"{1}, Sacrifice Feather: Return target Phoenix card from your graveyard to the battlefield tapped."
-Human Soldier
-Token Creature — Human Soldier
-1/1
-Human Soldier
-Token Creature — Human Soldier
-1/1
-Human Soldier
-Token Creature — Human Soldier
-1/1
-Kraken
-Token Creature — Kraken
-8/8
-Narset of the Ancient Way Emblem
-Emblem
-"Whenever you cast a noncreature spell, this emblem deals 2 damage to any target."
-Shark
-Token Creature — Shark
-Flying
-*/*
+"('Ability Punchcard', ['Card'])"
+"('Beast', ['Token Creature — Beast', '3/3'])"
+"('Cat', ['Token Creature — Cat', 'Lifelink (Damage dealt by this creature also causes you to gain that much life.)', '1/1'])"
+"('Cat Bird', ['Token Creature — Cat Bird', 'Flying', '1/1'])"
+"('Companion', ['Card', 'As each game begins, you can place one card with companion here if your starting deck meets its condition. You may cast it once from here.'])"
+"('Dinosaur', ['Token Creature — Dinosaur', 'Haste', '1/1'])"
+"('Dinosaur Beast', ['Token Creature — Dinosaur Beast', 'Trample', '*/*'])"
+"('Feather', ['Token Artifact', '{1}, Sacrifice Feather: Return target Phoenix card from your graveyard to the battlefield tapped.'])"
+"('Human Soldier', ['Token Creature — Human Soldier', '1/1'])"
+"('Kraken', ['Token Creature — Kraken', '8/8'])"
+"('Narset of the Ancient Way Emblem', ['Emblem', 'Whenever you cast a noncreature spell, this emblem deals 2 damage to any target.'])"
+"('Shark', ['Token Creature — Shark', 'Flying', '*/*'])"

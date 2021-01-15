@@ -1,26 +1,4 @@
-Dark Ascension Checklist
-Card
-(You can mark this card to represent a double-faced card in your library or hand.)
-☐ Loyal Cathar {W}{W}
-☐ Soul Seizer {3}{U}{U}
-☐ Chosen of Markov {2}{B}
-☐ Ravenous Demon {3}{B}{B}
-☐ Afflicted Deserter {3}{R}
-☐ Hinterland Hermit {1}{R}
-☐ Mondronen Shaman {3}{R}
-☐ Lambholt Elder {2}{G}
-☐ Scorned Villager {1}{G}
-☐ Wolfbitten Captive {G}
-☐ Huntmaster of the Fells {2}{R}{G}
-☐ Chalice of Life {3}
-"☐ Elbrus, the Binding Blade {7}"
-Human
-Token Creature — Human
-1/1
-"Sorin, Lord of Innistrad Emblem"
-Emblem — Sorin
-Creatures you control get +1/+0.
-Vampire
-Token Creature — Vampire
-Lifelink
-1/1
+"('Dark Ascension Checklist', ['Card', '(You can mark this card to represent a double-faced card in your library or hand.)', '☐ Loyal Cathar {W}{W}', '☐ Soul Seizer {3}{U}{U}', '☐ Chosen of Markov {2}{B}', '☐ Ravenous Demon {3}{B}{B}', '☐ Afflicted Deserter {3}{R}', '☐ Hinterland Hermit {1}{R}', '☐ Mondronen Shaman {3}{R}', '☐ Lambholt Elder {2}{G}', '☐ Scorned Villager {1}{G}', '☐ Wolfbitten Captive {G}', '☐ Huntmaster of the Fells {2}{R}{G}', '☐ Chalice of Life {3}', '☐ Elbrus, the Binding Blade {7}'])"
+"('Human', ['Token Creature — Human', '1/1'])"
+"('Sorin, Lord of Innistrad Emblem', ['Emblem — Sorin', 'Creatures you control get +1/+0.'])"
+"('Vampire', ['Token Creature — Vampire', 'Lifelink', '1/1'])"

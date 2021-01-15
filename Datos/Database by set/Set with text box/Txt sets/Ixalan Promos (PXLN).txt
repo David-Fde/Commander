@@ -1,664 +1,80 @@
-Admiral Beckett Brass
-{1}{U}{B}{R}
-Legendary Creature — Human Pirate
-Other Pirates you control get +1/+1.
-"At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn."
-3/3
-Angrath's Marauders
-{5}{R}{R}
-Creature — Human Pirate
-"If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-4/4
-Arcane Adaptation
-{2}{U}
-Enchantment
-"As Arcane Adaptation enters the battlefield, choose a creature type."
-Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren’t on the battlefield.
-Arcane Adaptation
-{2}{U}
-Enchantment
-"As Arcane Adaptation enters the battlefield, choose a creature type."
-Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren’t on the battlefield.
-Arguel's Blood Fast
-{1}{B}
-Legendary Enchantment
-"{1}{B}, Pay 2 life: Draw a card."
-"At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel’s Blood Fast."
-Temple of Aclazotz
-Legendary Land
-(Transforms from Arguel’s Blood Fast.)
-{T}: Add {B}.
-"{T}, Sacrifice a creature: You gain life equal to the sacrificed creature’s toughness."
-Ashes of the Abhorrent
-{1}{W}
-Enchantment
-Players can’t cast spells from graveyards or activate abilities of cards in graveyards.
-"Whenever a creature dies, you gain 1 life."
-Ashes of the Abhorrent
-{1}{W}
-Enchantment
-Players can’t cast spells from graveyards or activate abilities of cards in graveyards.
-"Whenever a creature dies, you gain 1 life."
-Axis of Mortality
-{4}{W}{W}
-Enchantment
-"At the beginning of your upkeep, you may have two target players exchange life totals."
-Bishop of Rebirth
-{3}{W}{W}
-Creature — Vampire Cleric
-Vigilance
-"Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
-3/4
-Bishop of Rebirth
-{3}{W}{W}
-Creature — Vampire Cleric
-Vigilance
-"Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield."
-3/4
-Bloodcrazed Paladin
-{1}{B}
-Creature — Vampire Knight
-Flash
-Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn.
-1/1
-Boneyard Parley
-{5}{B}{B}
-Sorcery
-Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners’ graveyards.
-Burning Sun's Avatar
-{3}{R}{R}{R}
-Creature — Dinosaur Avatar
-"When Burning Sun’s Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature."
-6/6
-Burning Sun's Avatar
-{3}{R}{R}{R}
-Creature — Dinosaur Avatar
-"When Burning Sun’s Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature."
-6/6
-Captain Lannery Storm
-{2}{R}
-Legendary Creature — Human Pirate
-Haste
-"Whenever Captain Lannery Storm attacks, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-"Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn."
-2/2
-Captain Lannery Storm
-{2}{R}
-Legendary Creature — Human Pirate
-Haste
-"Whenever Captain Lannery Storm attacks, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-"Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn."
-2/2
-Captivating Crew
-{3}{R}
-Creature — Human Pirate
-{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
-4/3
-Captivating Crew
-{3}{R}
-Creature — Human Pirate
-{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.
-4/3
-Carnage Tyrant
-{4}{G}{G}
-Creature — Dinosaur
-This spell can’t be countered.
-"Trample, hexproof"
-7/6
-Carnage Tyrant
-{4}{G}{G}
-Creature — Dinosaur
-This spell can’t be countered.
-"Trample, hexproof"
-7/6
-Conqueror's Galleon
-{4}
-Artifact — Vehicle
-"When Conqueror’s Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control."
-Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)
-2/10
-Conqueror's Foothold
-Land
-(Transforms from Conqueror’s Galleon.)
-{T}: Add {C}.
-"{2}, {T}: Draw a card, then discard a card."
-"{4}, {T}: Draw a card."
-"{6}, {T}: Return target card from your graveyard to your hand."
-Daring Saboteur
-{1}{U}
-Creature — Human Pirate
-{2}{U}: Daring Saboteur can’t be blocked this turn.
-"Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card."
-2/1
-Deadeye Tracker
-{B}
-Creature — Human Pirate
-"{1}{B}, {T}: Exile two target cards from an opponent’s graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
-1/1
-Deadeye Tracker
-{B}
-Creature — Human Pirate
-"{1}{B}, {T}: Exile two target cards from an opponent’s graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
-1/1
-Deathgorge Scavenger
-{2}{G}
-Creature — Dinosaur
-"Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn."
-3/2
-Deathgorge Scavenger
-{2}{G}
-Creature — Dinosaur
-"Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn."
-3/2
-Deeproot Champion
-{1}{G}
-Creature — Merfolk Shaman
-"Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion."
-1/1
-Deeproot Champion
-{1}{G}
-Creature — Merfolk Shaman
-"Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion."
-1/1
-Deeproot Champion
-{1}{G}
-Creature — Merfolk Shaman
-"Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion."
-1/1
-Dire Fleet Ravager
-{3}{B}{B}
-Creature — Orc Pirate Wizard
-"Menace, deathtouch"
-"When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up."
-4/4
-Dowsing Dagger
-{2}
-Artifact — Equipment
-"When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender."
-Equipped creature gets +2/+1.
-"Whenever equipped creature deals combat damage to a player, you may transform Dowsing Dagger."
-Equip {2}
-Lost Vale
-Land
-(Transforms from Dowsing Dagger.)
-{T}: Add three mana of any one color.
-Dragonskull Summit
-Land
-Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
-{T}: Add {B} or {R}.
-Dragonskull Summit
-Land
-Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.
-{T}: Add {B} or {R}.
-Dreamcaller Siren
-{2}{U}{U}
-Creature — Siren Pirate
-Flash
-Flying
-Dreamcaller Siren can block only creatures with flying.
-"When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents."
-3/3
-Drowned Catacomb
-Land
-Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
-{T}: Add {U} or {B}.
-Drowned Catacomb
-Land
-Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.
-{T}: Add {U} or {B}.
-Emperor's Vanguard
-{3}{G}
-Creature — Human Scout
-"Whenever Emperor’s Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)"
-4/3
-Entrancing Melody
-{X}{U}{U}
-Sorcery
-Gain control of target creature with converted mana cost X.
-Entrancing Melody
-{X}{U}{U}
-Sorcery
-Gain control of target creature with converted mana cost X.
-Fathom Fleet Captain
-{1}{B}
-Creature — Human Pirate
-Menace
-"Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace."
-2/1
-Fathom Fleet Captain
-{1}{B}
-Creature — Human Pirate
-Menace
-"Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace."
-2/1
-Fell Flagship
-{3}
-Artifact — Vehicle
-Pirates you control get +1/+0.
-"Whenever Fell Flagship deals combat damage to a player, that player discards a card."
-Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)
-3/3
-Fleet Swallower
-{5}{U}{U}
-Creature — Fish
-"Whenever Fleet Swallower attacks, target player mills half their library, rounded up."
-6/6
-"Gishath, Sun's Avatar"
-{5}{R}{G}{W}
-Legendary Creature — Dinosaur Avatar
-"Vigilance, trample, haste"
-"Whenever Gishath, Sun’s Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order."
-7/6
-Glacial Fortress
-Land
-Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
-{T}: Add {W} or {U}.
-Glacial Fortress
-Land
-Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.
-{T}: Add {W} or {U}.
-Goring Ceratops
-{5}{W}{W}
-Creature — Dinosaur
-Double strike
-"Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn."
-3/3
-Growing Rites of Itlimoc
-{2}{G}
-Legendary Enchantment
-"When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
-"At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc."
-"Itlimoc, Cradle of the Sun"
-Legendary Land
-(Transforms from Growing Rites of Itlimoc.)
-{T}: Add {G}.
-{T}: Add {G} for each creature you control.
-Herald of Secret Streams
-{3}{U}
-Creature — Merfolk Warrior
-Creatures you control with +1/+1 counters on them can’t be blocked.
-2/3
-Herald of Secret Streams
-{3}{U}
-Creature — Merfolk Warrior
-Creatures you control with +1/+1 counters on them can’t be blocked.
-2/3
-Hostage Taker
-{2}{U}{B}
-Creature — Human Pirate
-"When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell."
-2/3
-"Huatli, Warrior Poet"
-{3}{R}{W}
-Legendary Planeswalker — Huatli
-+2: You gain life equal to the greatest power among creatures you control.
-0: Create a 3/3 green Dinosaur creature token with trample.
-"−X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can’t block this turn."
-Loyalty: 3
-"Jace, Cunning Castaway"
-{1}{U}{U}
-Legendary Planeswalker — Jace
-"+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card."
-"−2: Create a 2/2 blue Illusion creature token with “When this creature becomes the target of a spell, sacrifice it.”"
-"−5: Create two tokens that are copies of Jace, Cunning Castaway, except they’re not legendary."
-Loyalty: 3
-Kinjalli's Sunwing
-{2}{W}
-Creature — Dinosaur
-Flying
-Creatures your opponents control enter the battlefield tapped.
-2/3
-Kinjalli's Sunwing
-{2}{W}
-Creature — Dinosaur
-Flying
-Creatures your opponents control enter the battlefield tapped.
-2/3
-"Kopala, Warden of Waves"
-{1}{U}{U}
-Legendary Creature — Merfolk Wizard
-Spells your opponents cast that target a Merfolk you control cost {2} more to cast.
-Abilities your opponents activate that target a Merfolk you control cost {2} more to activate.
-2/2
-"Kopala, Warden of Waves"
-{1}{U}{U}
-Legendary Creature — Merfolk Wizard
-Spells your opponents cast that target a Merfolk you control cost {2} more to cast.
-Abilities your opponents activate that target a Merfolk you control cost {2} more to activate.
-2/2
-Legion's Landing
-{W}
-Legendary Enchantment
-"When Legion’s Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink."
-"When you attack with three or more creatures, transform Legion’s Landing."
-"Adanto, the First Fort"
-Legendary Land
-(Transforms from Legion’s Landing.)
-{T}: Add {W}.
-"{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink."
-"Mavren Fein, Dusk Apostle"
-{2}{W}
-Legendary Creature — Vampire Cleric
-"Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink."
-2/2
-"Mavren Fein, Dusk Apostle"
-{2}{W}
-Legendary Creature — Vampire Cleric
-"Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink."
-2/2
-Old-Growth Dryads
-{G}
-Creature — Dryad
-"When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library."
-3/3
-Overflowing Insight
-{4}{U}{U}{U}
-Sorcery
-Target player draws seven cards.
-Priest of the Wakening Sun
-{W}
-Creature — Human Cleric
-"At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life."
-"{3}{W}{W}, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library."
-1/1
-Primal Amulet
-{4}
-Artifact
-Instant and sorcery spells you cast cost {1} less to cast.
-"Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it."
-Primal Wellspring
-Land
-(Transforms from Primal Amulet.)
-"{T}: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy."
-Rampaging Ferocidon
-{2}{R}
-Creature — Dinosaur
-Menace
-Players can’t gain life.
-"Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature’s controller."
-3/3
-Regisaur Alpha
-{3}{R}{G}
-Creature — Dinosaur
-Other Dinosaurs you control have haste.
-"When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample."
-4/4
-Regisaur Alpha
-{3}{R}{G}
-Creature — Dinosaur
-Other Dinosaurs you control have haste.
-"When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample."
-4/4
-Repeating Barrage
-{1}{R}{R}
-Sorcery
-Repeating Barrage deals 3 damage to any target.
-Raid — {3}{R}{R}: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked this turn.
-Revel in Riches
-{4}{B}
-Enchantment
-"Whenever a creature an opponent controls dies, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-"At the beginning of your upkeep, if you control ten or more Treasures, you win the game."
-Revel in Riches
-{4}{B}
-Enchantment
-"Whenever a creature an opponent controls dies, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-"At the beginning of your upkeep, if you control ten or more Treasures, you win the game."
-Ripjaw Raptor
-{2}{G}{G}
-Creature — Dinosaur
-"Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
-4/5
-Ripjaw Raptor
-{2}{G}{G}
-Creature — Dinosaur
-"Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card."
-4/5
-River's Rebuke
-{4}{U}{U}
-Sorcery
-Return all nonland permanents target player controls to their owner’s hand.
-River's Rebuke
-{4}{U}{U}
-Sorcery
-Return all nonland permanents target player controls to their owner’s hand.
-Rootbound Crag
-Land
-Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
-{T}: Add {R} or {G}.
-Rootbound Crag
-Land
-Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.
-{T}: Add {R} or {G}.
-Rowdy Crew
-{2}{R}{R}
-Creature — Human Pirate
-Trample
-"When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew."
-3/3
-Ruin Raider
-{2}{B}
-Creature — Orc Pirate
-"Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card’s converted mana cost."
-3/2
-Ruin Raider
-{2}{B}
-Creature — Orc Pirate
-"Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card’s converted mana cost."
-3/2
-Sanctum Seeker
-{2}{B}{B}
-Creature — Vampire Knight
-"Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
-3/4
-Sanctum Seeker
-{2}{B}{B}
-Creature — Vampire Knight
-"Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life."
-3/4
-Sanguine Sacrament
-{X}{W}{W}
-Instant
-You gain twice X life. Put Sanguine Sacrament on the bottom of its owner’s library.
-Search for Azcanta
-{1}{U}
-Legendary Enchantment
-"At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta."
-"Azcanta, the Sunken Ruin"
-Legendary Land
-(Transforms from Search for Azcanta.)
-{T}: Add {U}.
-"{2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order."
-Settle the Wreckage
-{2}{W}{W}
-Instant
-"Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library."
-Settle the Wreckage
-{2}{W}{W}
-Instant
-"Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library."
-Shadowed Caravel
-{2}
-Artifact — Vehicle
-"Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel."
-Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)
-2/2
-Shapers' Sanctuary
-{G}
-Enchantment
-"Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card."
-Shapers' Sanctuary
-{G}
-Enchantment
-"Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card."
-Sorcerous Spyglass
-{2}
-Artifact
-"As Sorcerous Spyglass enters the battlefield, look at an opponent’s hand, then choose any card name."
-Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
-Sorcerous Spyglass
-{2}
-Artifact
-"As Sorcerous Spyglass enters the battlefield, look at an opponent’s hand, then choose any card name."
-Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
-Spell Swindle
-{3}{U}{U}
-Instant
-"Counter target spell. Create X Treasure tokens, where X is that spell’s converted mana cost. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-Spell Swindle
-{3}{U}{U}
-Instant
-"Counter target spell. Create X Treasure tokens, where X is that spell’s converted mana cost. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-Star of Extinction
-{5}{R}{R}
-Sorcery
-Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.
-Star of Extinction
-{5}{R}{R}
-Sorcery
-Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.
-Sunbird's Invocation
-{5}{R}
-Enchantment
-"Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell’s converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order."
-Sunbird's Invocation
-{5}{R}
-Enchantment
-"Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell’s converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order."
-Sunpetal Grove
-Land
-Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
-{T}: Add {G} or {W}.
-Sunpetal Grove
-Land
-Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.
-{T}: Add {G} or {W}.
-Sword-Point Diplomacy
-{2}{B}
-Sorcery
-"Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest."
-Sword-Point Diplomacy
-{2}{B}
-Sorcery
-"Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest."
-Thaumatic Compass
-{2}
-Artifact
-"{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
-"At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass."
-Spires of Orazca
-Land
-(Transforms from Thaumatic Compass.)
-{T}: Add {C}.
-{T}: Untap target attacking creature an opponent controls and remove it from combat.
-Tilonalli's Skinshifter
-{2}{R}
-Creature — Human Shaman
-Haste
-"Whenever Tilonalli’s Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn."
-0/1
-"Tishana, Voice of Thunder"
-{5}{G}{U}
-Legendary Creature — Merfolk Shaman
-"Tishana, Voice of Thunder’s power and toughness are each equal to the number of cards in your hand."
-You have no maximum hand size.
-"When Tishana enters the battlefield, draw a card for each creature you control."
-*/*
-Tocatli Honor Guard
-{1}{W}
-Creature — Human Soldier
-Creatures entering the battlefield don’t cause abilities to trigger.
-1/3
-Tocatli Honor Guard
-{1}{W}
-Creature — Human Soldier
-Creatures entering the battlefield don’t cause abilities to trigger.
-1/3
-Treasure Map
-{2}
-Artifact
-"{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-Treasure Cove
-Land
-(Transforms from Treasure Map.)
-{T}: Add {C}.
-"{T}, Sacrifice a Treasure: Draw a card."
-Unclaimed Territory
-Land
-"As Unclaimed Territory enters the battlefield, choose a creature type."
-{T}: Add {C}.
-{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.
-Vance's Blasting Cannons
-{3}{R}
-Legendary Enchantment
-"At the beginning of your upkeep, exile the top card of your library. If it’s a nonland card, you may cast that card this turn."
-"Whenever you cast your third spell in a turn, you may transform Vance’s Blasting Cannons."
-Spitfire Bastion
-Legendary Land
-(Transforms from Vance’s Blasting Cannons.)
-{T}: Add {R}.
-"{2}{R}, {T}: Spitfire Bastion deals 3 damage to any target."
-Vanquisher's Banner
-{5}
-Artifact
-"As Vanquisher’s Banner enters the battlefield, choose a creature type."
-Creatures you control of the chosen type get +1/+1.
-"Whenever you cast a creature spell of the chosen type, draw a card."
-Vanquisher's Banner
-{5}
-Artifact
-"As Vanquisher’s Banner enters the battlefield, choose a creature type."
-Creatures you control of the chosen type get +1/+1.
-"Whenever you cast a creature spell of the chosen type, draw a card."
-Verdant Sun's Avatar
-{5}{G}{G}
-Creature — Dinosaur Avatar
-"Whenever Verdant Sun’s Avatar or another creature enters the battlefield under your control, you gain life equal to that creature’s toughness."
-5/5
-Verdant Sun's Avatar
-{5}{G}{G}
-Creature — Dinosaur Avatar
-"Whenever Verdant Sun’s Avatar or another creature enters the battlefield under your control, you gain life equal to that creature’s toughness."
-5/5
-"Vona, Butcher of Magan"
-{3}{W}{B}
-Legendary Creature — Vampire Knight
-"Vigilance, lifelink"
-"{T}, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn."
-4/4
-"Vraska, Relic Seeker"
-{4}{B}{G}
-Legendary Planeswalker — Vraska
-+2: Create a 2/2 black Pirate creature token with menace.
-"−3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-−10: Target player’s life total becomes 1.
-Loyalty: 6
-"Vraska, Relic Seeker"
-{4}{B}{G}
-Legendary Planeswalker — Vraska
-+2: Create a 2/2 black Pirate creature token with menace.
-"−3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)"
-−10: Target player’s life total becomes 1.
-Loyalty: 6
-Vraska's Contempt
-{2}{B}{B}
-Instant
-Exile target creature or planeswalker. You gain 2 life.
-Vraska's Contempt
-{2}{B}{B}
-Instant
-Exile target creature or planeswalker. You gain 2 life.
-Wakening Sun's Avatar
-{5}{W}{W}{W}
-Creature — Dinosaur Avatar
-"When Wakening Sun’s Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures."
-7/7
-Waker of the Wilds
-{2}{G}{G}
-Creature — Merfolk Shaman
-{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It’s still a land.
-3/3
-Walk the Plank
-{B}{B}
-Sorcery
-Destroy target non-Merfolk creature.
+"('Admiral Beckett Brass', ['{1}{U}{B}{R}', 'Legendary Creature — Human Pirate', 'Other Pirates you control get +1/+1.', 'At the beginning of your end step, gain control of target nonland permanent controlled by a player who was dealt combat damage by three or more Pirates this turn.', '3/3'])"
+"(""Angrath's Marauders"", ['{5}{R}{R}', 'Creature — Human Pirate', 'If a source you control would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.', '4/4'])"
+"('Arcane Adaptation', ['{2}{U}', 'Enchantment', 'As Arcane Adaptation enters the battlefield, choose a creature type.', 'Creatures you control are the chosen type in addition to their other types. The same is true for creature spells you control and creature cards you own that aren’t on the battlefield.'])"
+"(""Arguel's Blood Fast"", ['{1}{B}', 'Legendary Enchantment', '{1}{B}, Pay 2 life: Draw a card.', 'At the beginning of your upkeep, if you have 5 or less life, you may transform Arguel’s Blood Fast.', 'Temple of Aclazotz', 'Legendary Land', '(Transforms from Arguel’s Blood Fast.)', '{T}: Add {B}.', '{T}, Sacrifice a creature: You gain life equal to the sacrificed creature’s toughness.'])"
+"('Ashes of the Abhorrent', ['{1}{W}', 'Enchantment', 'Players can’t cast spells from graveyards or activate abilities of cards in graveyards.', 'Whenever a creature dies, you gain 1 life.'])"
+"('Axis of Mortality', ['{4}{W}{W}', 'Enchantment', 'At the beginning of your upkeep, you may have two target players exchange life totals.'])"
+"('Bishop of Rebirth', ['{3}{W}{W}', 'Creature — Vampire Cleric', 'Vigilance', 'Whenever Bishop of Rebirth attacks, you may return target creature card with converted mana cost 3 or less from your graveyard to the battlefield.', '3/4'])"
+"('Bloodcrazed Paladin', ['{1}{B}', 'Creature — Vampire Knight', 'Flash', 'Bloodcrazed Paladin enters the battlefield with a +1/+1 counter on it for each creature that died this turn.', '1/1'])"
+"('Boneyard Parley', ['{5}{B}{B}', 'Sorcery', 'Exile up to five target creature cards from graveyards. An opponent separates those cards into two piles. Put all cards from the pile of your choice onto the battlefield under your control and the rest into their owners’ graveyards.'])"
+"(""Burning Sun's Avatar"", ['{3}{R}{R}{R}', 'Creature — Dinosaur Avatar', 'When Burning Sun’s Avatar enters the battlefield, it deals 3 damage to target opponent or planeswalker and 3 damage to up to one target creature.', '6/6'])"
+"('Captain Lannery Storm', ['{2}{R}', 'Legendary Creature — Human Pirate', 'Haste', 'Whenever Captain Lannery Storm attacks, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)', 'Whenever you sacrifice a Treasure, Captain Lannery Storm gets +1/+0 until end of turn.', '2/2'])"
+"('Captivating Crew', ['{3}{R}', 'Creature — Human Pirate', '{3}{R}: Gain control of target creature an opponent controls until end of turn. Untap that creature. It gains haste until end of turn. Activate this ability only any time you could cast a sorcery.', '4/3'])"
+"('Carnage Tyrant', ['{4}{G}{G}', 'Creature — Dinosaur', 'This spell can’t be countered.', 'Trample, hexproof', '7/6'])"
+"(""Conqueror's Galleon"", ['{4}', 'Artifact — Vehicle', 'When Conqueror’s Galleon attacks, exile it at end of combat, then return it to the battlefield transformed under your control.', 'Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)', '2/10', ""Conqueror's Foothold"", 'Land', '(Transforms from Conqueror’s Galleon.)', '{T}: Add {C}.', '{2}, {T}: Draw a card, then discard a card.', '{4}, {T}: Draw a card.', '{6}, {T}: Return target card from your graveyard to your hand.'])"
+"('Daring Saboteur', ['{1}{U}', 'Creature — Human Pirate', '{2}{U}: Daring Saboteur can’t be blocked this turn.', 'Whenever Daring Saboteur deals combat damage to a player, you may draw a card. If you do, discard a card.', '2/1'])"
+"('Deadeye Tracker', ['{B}', 'Creature — Human Pirate', '{1}{B}, {T}: Exile two target cards from an opponent’s graveyard. Deadeye Tracker explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)', '1/1'])"
+"('Deathgorge Scavenger', ['{2}{G}', 'Creature — Dinosaur', 'Whenever Deathgorge Scavenger enters the battlefield or attacks, you may exile target card from a graveyard. If a creature card is exiled this way, you gain 2 life. If a noncreature card is exiled this way, Deathgorge Scavenger gets +1/+1 until end of turn.', '3/2'])"
+"('Deeproot Champion', ['{1}{G}', 'Creature — Merfolk Shaman', 'Whenever you cast a noncreature spell, put a +1/+1 counter on Deeproot Champion.', '1/1'])"
+"('Dire Fleet Ravager', ['{3}{B}{B}', 'Creature — Orc Pirate Wizard', 'Menace, deathtouch', 'When Dire Fleet Ravager enters the battlefield, each player loses a third of their life, rounded up.', '4/4'])"
+"('Dowsing Dagger', ['{2}', 'Artifact — Equipment', 'When Dowsing Dagger enters the battlefield, target opponent creates two 0/2 green Plant creature tokens with defender.', 'Equipped creature gets +2/+1.', 'Whenever equipped creature deals combat damage to a player, you may transform Dowsing Dagger.', 'Equip {2}', 'Lost Vale', 'Land', '(Transforms from Dowsing Dagger.)', '{T}: Add three mana of any one color.'])"
+"('Dragonskull Summit', ['Land', 'Dragonskull Summit enters the battlefield tapped unless you control a Swamp or a Mountain.', '{T}: Add {B} or {R}.'])"
+"('Dreamcaller Siren', ['{2}{U}{U}', 'Creature — Siren Pirate', 'Flash', 'Flying', 'Dreamcaller Siren can block only creatures with flying.', 'When Dreamcaller Siren enters the battlefield, if you control another Pirate, tap up to two target nonland permanents.', '3/3'])"
+"('Drowned Catacomb', ['Land', 'Drowned Catacomb enters the battlefield tapped unless you control an Island or a Swamp.', '{T}: Add {U} or {B}.'])"
+"(""Emperor's Vanguard"", ['{3}{G}', 'Creature — Human Scout', 'Whenever Emperor’s Vanguard deals combat damage to a player, it explores. (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then put the card back or put it into your graveyard.)', '4/3'])"
+"('Entrancing Melody', ['{X}{U}{U}', 'Sorcery', 'Gain control of target creature with converted mana cost X.'])"
+"('Fathom Fleet Captain', ['{1}{B}', 'Creature — Human Pirate', 'Menace', 'Whenever Fathom Fleet Captain attacks, if you control another nontoken Pirate, you may pay {2}. If you do, create a 2/2 black Pirate creature token with menace.', '2/1'])"
+"('Fell Flagship', ['{3}', 'Artifact — Vehicle', 'Pirates you control get +1/+0.', 'Whenever Fell Flagship deals combat damage to a player, that player discards a card.', 'Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)', '3/3'])"
+"('Fleet Swallower', ['{5}{U}{U}', 'Creature — Fish', 'Whenever Fleet Swallower attacks, target player mills half their library, rounded up.', '6/6'])"
+"(""Gishath, Sun's Avatar"", ['{5}{R}{G}{W}', 'Legendary Creature — Dinosaur Avatar', 'Vigilance, trample, haste', 'Whenever Gishath, Sun’s Avatar deals combat damage to a player, reveal that many cards from the top of your library. Put any number of Dinosaur creature cards from among them onto the battlefield and the rest on the bottom of your library in a random order.', '7/6'])"
+"('Glacial Fortress', ['Land', 'Glacial Fortress enters the battlefield tapped unless you control a Plains or an Island.', '{T}: Add {W} or {U}.'])"
+"('Goring Ceratops', ['{5}{W}{W}', 'Creature — Dinosaur', 'Double strike', 'Whenever Goring Ceratops attacks, other creatures you control gain double strike until end of turn.', '3/3'])"
+"('Growing Rites of Itlimoc', ['{2}{G}', 'Legendary Enchantment', 'When Growing Rites of Itlimoc enters the battlefield, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.', 'At the beginning of your end step, if you control four or more creatures, transform Growing Rites of Itlimoc.', 'Itlimoc, Cradle of the Sun', 'Legendary Land', '(Transforms from Growing Rites of Itlimoc.)', '{T}: Add {G}.', '{T}: Add {G} for each creature you control.'])"
+"('Herald of Secret Streams', ['{3}{U}', 'Creature — Merfolk Warrior', 'Creatures you control with +1/+1 counters on them can’t be blocked.', '2/3'])"
+"('Hostage Taker', ['{2}{U}{B}', 'Creature — Human Pirate', 'When Hostage Taker enters the battlefield, exile another target creature or artifact until Hostage Taker leaves the battlefield. You may cast that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.', '2/3'])"
+"('Huatli, Warrior Poet', ['{3}{R}{W}', 'Legendary Planeswalker — Huatli', '+2: You gain life equal to the greatest power among creatures you control.', '0: Create a 3/3 green Dinosaur creature token with trample.', '−X: Huatli, Warrior Poet deals X damage divided as you choose among any number of target creatures. Creatures dealt damage this way can’t block this turn.', 'Loyalty: 3'])"
+"('Jace, Cunning Castaway', ['{1}{U}{U}', 'Legendary Planeswalker — Jace', '+1: Whenever one or more creatures you control deal combat damage to a player this turn, draw a card, then discard a card.', '−2: Create a 2/2 blue Illusion creature token with “When this creature becomes the target of a spell, sacrifice it.”', '−5: Create two tokens that are copies of Jace, Cunning Castaway, except they’re not legendary.', 'Loyalty: 3'])"
+"(""Kinjalli's Sunwing"", ['{2}{W}', 'Creature — Dinosaur', 'Flying', 'Creatures your opponents control enter the battlefield tapped.', '2/3'])"
+"('Kopala, Warden of Waves', ['{1}{U}{U}', 'Legendary Creature — Merfolk Wizard', 'Spells your opponents cast that target a Merfolk you control cost {2} more to cast.', 'Abilities your opponents activate that target a Merfolk you control cost {2} more to activate.', '2/2'])"
+"(""Legion's Landing"", ['{W}', 'Legendary Enchantment', 'When Legion’s Landing enters the battlefield, create a 1/1 white Vampire creature token with lifelink.', 'When you attack with three or more creatures, transform Legion’s Landing.', 'Adanto, the First Fort', 'Legendary Land', '(Transforms from Legion’s Landing.)', '{T}: Add {W}.', '{2}{W}, {T}: Create a 1/1 white Vampire creature token with lifelink.'])"
+"('Mavren Fein, Dusk Apostle', ['{2}{W}', 'Legendary Creature — Vampire Cleric', 'Whenever one or more nontoken Vampires you control attack, create a 1/1 white Vampire creature token with lifelink.', '2/2'])"
+"('Old-Growth Dryads', ['{G}', 'Creature — Dryad', 'When Old-Growth Dryads enters the battlefield, each opponent may search their library for a basic land card, put it onto the battlefield tapped, then shuffle their library.', '3/3'])"
+"('Overflowing Insight', ['{4}{U}{U}{U}', 'Sorcery', 'Target player draws seven cards.'])"
+"('Priest of the Wakening Sun', ['{W}', 'Creature — Human Cleric', 'At the beginning of your upkeep, you may reveal a Dinosaur card from your hand. If you do, you gain 2 life.', '{3}{W}{W}, Sacrifice Priest of the Wakening Sun: Search your library for a Dinosaur card, reveal it, put it into your hand, then shuffle your library.', '1/1'])"
+"('Primal Amulet', ['{4}', 'Artifact', 'Instant and sorcery spells you cast cost {1} less to cast.', 'Whenever you cast an instant or sorcery spell, put a charge counter on Primal Amulet. Then if there are four or more charge counters on it, you may remove those counters and transform it.', 'Primal Wellspring', 'Land', '(Transforms from Primal Amulet.)', '{T}: Add one mana of any color. When that mana is spent to cast an instant or sorcery spell, copy that spell and you may choose new targets for the copy.'])"
+"('Rampaging Ferocidon', ['{2}{R}', 'Creature — Dinosaur', 'Menace', 'Players can’t gain life.', 'Whenever another creature enters the battlefield, Rampaging Ferocidon deals 1 damage to that creature’s controller.', '3/3'])"
+"('Regisaur Alpha', ['{3}{R}{G}', 'Creature — Dinosaur', 'Other Dinosaurs you control have haste.', 'When Regisaur Alpha enters the battlefield, create a 3/3 green Dinosaur creature token with trample.', '4/4'])"
+"('Repeating Barrage', ['{1}{R}{R}', 'Sorcery', 'Repeating Barrage deals 3 damage to any target.', 'Raid — {3}{R}{R}: Return Repeating Barrage from your graveyard to your hand. Activate this ability only if you attacked this turn.'])"
+"('Revel in Riches', ['{4}{B}', 'Enchantment', 'Whenever a creature an opponent controls dies, create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)', 'At the beginning of your upkeep, if you control ten or more Treasures, you win the game.'])"
+"('Ripjaw Raptor', ['{2}{G}{G}', 'Creature — Dinosaur', 'Enrage — Whenever Ripjaw Raptor is dealt damage, draw a card.', '4/5'])"
+"(""River's Rebuke"", ['{4}{U}{U}', 'Sorcery', 'Return all nonland permanents target player controls to their owner’s hand.'])"
+"('Rootbound Crag', ['Land', 'Rootbound Crag enters the battlefield tapped unless you control a Mountain or a Forest.', '{T}: Add {R} or {G}.'])"
+"('Rowdy Crew', ['{2}{R}{R}', 'Creature — Human Pirate', 'Trample', 'When Rowdy Crew enters the battlefield, draw three cards, then discard two cards at random. If two cards that share a card type are discarded this way, put two +1/+1 counters on Rowdy Crew.', '3/3'])"
+"('Ruin Raider', ['{2}{B}', 'Creature — Orc Pirate', 'Raid — At the beginning of your end step, if you attacked this turn, reveal the top card of your library and put that card into your hand. You lose life equal to the card’s converted mana cost.', '3/2'])"
+"('Sanctum Seeker', ['{2}{B}{B}', 'Creature — Vampire Knight', 'Whenever a Vampire you control attacks, each opponent loses 1 life and you gain 1 life.', '3/4'])"
+"('Sanguine Sacrament', ['{X}{W}{W}', 'Instant', 'You gain twice X life. Put Sanguine Sacrament on the bottom of its owner’s library.'])"
+"('Search for Azcanta', ['{1}{U}', 'Legendary Enchantment', 'At the beginning of your upkeep, look at the top card of your library. You may put it into your graveyard. Then if you have seven or more cards in your graveyard, you may transform Search for Azcanta.', 'Azcanta, the Sunken Ruin', 'Legendary Land', '(Transforms from Search for Azcanta.)', '{T}: Add {U}.', '{2}{U}, {T}: Look at the top four cards of your library. You may reveal a noncreature, nonland card from among them and put it into your hand. Put the rest on the bottom of your library in any order.'])"
+"('Settle the Wreckage', ['{2}{W}{W}', 'Instant', 'Exile all attacking creatures target player controls. That player may search their library for that many basic land cards, put those cards onto the battlefield tapped, then shuffle their library.'])"
+"('Shadowed Caravel', ['{2}', 'Artifact — Vehicle', 'Whenever a creature you control explores, put a +1/+1 counter on Shadowed Caravel.', 'Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)', '2/2'])"
+"(""Shapers' Sanctuary"", ['{G}', 'Enchantment', 'Whenever a creature you control becomes the target of a spell or ability an opponent controls, you may draw a card.'])"
+"('Sorcerous Spyglass', ['{2}', 'Artifact', 'As Sorcerous Spyglass enters the battlefield, look at an opponent’s hand, then choose any card name.', 'Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.'])"
+"('Spell Swindle', ['{3}{U}{U}', 'Instant', 'Counter target spell. Create X Treasure tokens, where X is that spell’s converted mana cost. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)'])"
+"('Star of Extinction', ['{5}{R}{R}', 'Sorcery', 'Destroy target land. Star of Extinction deals 20 damage to each creature and each planeswalker.'])"
+"(""Sunbird's Invocation"", ['{5}{R}', 'Enchantment', 'Whenever you cast a spell from your hand, reveal the top X cards of your library, where X is that spell’s converted mana cost. You may cast a spell with converted mana cost X or less from among cards revealed this way without paying its mana cost. Put the rest on the bottom of your library in a random order.'])"
+"('Sunpetal Grove', ['Land', 'Sunpetal Grove enters the battlefield tapped unless you control a Forest or a Plains.', '{T}: Add {G} or {W}.'])"
+"('Sword-Point Diplomacy', ['{2}{B}', 'Sorcery', 'Reveal the top three cards of your library. For each of those cards, put that card into your hand unless any opponent pays 3 life. Then exile the rest.'])"
+"('Thaumatic Compass', ['{2}', 'Artifact', '{3}, {T}: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.', 'At the beginning of your end step, if you control seven or more lands, transform Thaumatic Compass.', 'Spires of Orazca', 'Land', '(Transforms from Thaumatic Compass.)', '{T}: Add {C}.', '{T}: Untap target attacking creature an opponent controls and remove it from combat.'])"
+"(""Tilonalli's Skinshifter"", ['{2}{R}', 'Creature — Human Shaman', 'Haste', 'Whenever Tilonalli’s Skinshifter attacks, it becomes a copy of another target nonlegendary attacking creature until end of turn.', '0/1'])"
+"('Tishana, Voice of Thunder', ['{5}{G}{U}', 'Legendary Creature — Merfolk Shaman', 'Tishana, Voice of Thunder’s power and toughness are each equal to the number of cards in your hand.', 'You have no maximum hand size.', 'When Tishana enters the battlefield, draw a card for each creature you control.', '*/*'])"
+"('Tocatli Honor Guard', ['{1}{W}', 'Creature — Human Soldier', 'Creatures entering the battlefield don’t cause abilities to trigger.', '1/3'])"
+"('Treasure Map', ['{2}', 'Artifact', '{1}, {T}: Scry 1. Put a landmark counter on Treasure Map. Then if there are three or more landmark counters on it, remove those counters, transform Treasure Map, and create three Treasure tokens. (They’re artifacts with “{T}, Sacrifice this artifact: Add one mana of any color.”)', 'Treasure Cove', 'Land', '(Transforms from Treasure Map.)', '{T}: Add {C}.', '{T}, Sacrifice a Treasure: Draw a card.'])"
+"('Unclaimed Territory', ['Land', 'As Unclaimed Territory enters the battlefield, choose a creature type.', '{T}: Add {C}.', '{T}: Add one mana of any color. Spend this mana only to cast a creature spell of the chosen type.'])"
+"(""Vance's Blasting Cannons"", ['{3}{R}', 'Legendary Enchantment', 'At the beginning of your upkeep, exile the top card of your library. If it’s a nonland card, you may cast that card this turn.', 'Whenever you cast your third spell in a turn, you may transform Vance’s Blasting Cannons.', 'Spitfire Bastion', 'Legendary Land', '(Transforms from Vance’s Blasting Cannons.)', '{T}: Add {R}.', '{2}{R}, {T}: Spitfire Bastion deals 3 damage to any target.'])"
+"(""Vanquisher's Banner"", ['{5}', 'Artifact', 'As Vanquisher’s Banner enters the battlefield, choose a creature type.', 'Creatures you control of the chosen type get +1/+1.', 'Whenever you cast a creature spell of the chosen type, draw a card.'])"
+"(""Verdant Sun's Avatar"", ['{5}{G}{G}', 'Creature — Dinosaur Avatar', 'Whenever Verdant Sun’s Avatar or another creature enters the battlefield under your control, you gain life equal to that creature’s toughness.', '5/5'])"
+"('Vona, Butcher of Magan', ['{3}{W}{B}', 'Legendary Creature — Vampire Knight', 'Vigilance, lifelink', '{T}, Pay 7 life: Destroy target nonland permanent. Activate this ability only during your turn.', '4/4'])"
+"('Vraska, Relic Seeker', ['{4}{B}{G}', 'Legendary Planeswalker — Vraska', '+2: Create a 2/2 black Pirate creature token with menace.', '−3: Destroy target artifact, creature, or enchantment. Create a Treasure token. (It’s an artifact with “{T}, Sacrifice this artifact: Add one mana of any color.”)', '−10: Target player’s life total becomes 1.', 'Loyalty: 6'])"
+"(""Vraska's Contempt"", ['{2}{B}{B}', 'Instant', 'Exile target creature or planeswalker. You gain 2 life.'])"
+"(""Wakening Sun's Avatar"", ['{5}{W}{W}{W}', 'Creature — Dinosaur Avatar', 'When Wakening Sun’s Avatar enters the battlefield, if you cast it from your hand, destroy all non-Dinosaur creatures.', '7/7'])"
+"('Waker of the Wilds', ['{2}{G}{G}', 'Creature — Merfolk Shaman', '{X}{G}{G}: Put X +1/+1 counters on target land you control. That land becomes a 0/0 Elemental creature with haste. It’s still a land.', '3/3'])"
+"('Walk the Plank', ['{B}{B}', 'Sorcery', 'Destroy target non-Merfolk creature.'])"

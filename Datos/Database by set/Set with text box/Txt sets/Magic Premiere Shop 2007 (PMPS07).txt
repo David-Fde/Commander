@@ -1,15 +1,5 @@
-森
-Basic Land — Forest
-({T}: Add {G}.)
-島
-Basic Land — Island
-({T}: Add {U}.)
-山
-Basic Land — Mountain
-({T}: Add {R}.)
-平地
-Basic Land — Plains
-({T}: Add {W}.)
-沼
-Basic Land — Swamp
-({T}: Add {B}.)
+"('森', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('島', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('山', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('平地', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('沼', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

@@ -1,91 +1,15 @@
-"Animar, Soul of Elements"
-{G}{U}{R}
-Legendary Creature — Elemental
-Protection from white and from black
-"Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements."
-Creature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.
-1/1
-"Damia, Sage of Stone"
-{4}{B}{G}{U}
-Legendary Creature — Gorgon Wizard
-Deathtouch
-Skip your draw step.
-"At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference."
-4/4
-"Ghave, Guru of Spores"
-{2}{W}{B}{G}
-Legendary Creature — Fungus Shaman
-"Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it."
-"{1}, Remove a +1/+1 counter from a creature you control: Create a 1/1 green Saproling creature token."
-"{1}, Sacrifice a creature: Put a +1/+1 counter on target creature."
-0/0
-"Intet, the Dreamer"
-{3}{G}{U}{R}
-Legendary Creature — Dragon
-Flying
-"Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield."
-6/6
-Kaalia of the Vast
-{1}{R}{W}{B}
-Legendary Creature — Human Cleric
-Flying
-"Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent."
-2/2
-"Karador, Ghost Chieftain"
-{5}{W}{B}{G}
-Legendary Creature — Centaur Spirit
-This spell costs {1} less to cast for each creature card in your graveyard.
-"During each of your turns, you may cast a creature spell from your graveyard."
-3/4
-"Numot, the Devastator"
-{3}{U}{R}{W}
-Legendary Creature — Dragon
-Flying
-"Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands."
-6/6
-"Oros, the Avenger"
-{3}{R}{W}{B}
-Legendary Creature — Dragon
-Flying
-"Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature."
-6/6
-Riku of Two Reflections
-{2}{G}{U}{R}
-Legendary Creature — Human Wizard
-"Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy."
-"Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that’s a copy of that creature."
-2/2
-Ruhan of the Fomori
-{1}{U}{R}{W}
-Legendary Creature — Giant Warrior
-"At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able."
-7/7
-"Tariel, Reckoner of Souls"
-{4}{R}{W}{B}
-Legendary Creature — Angel
-"Flying, vigilance"
-{T}: Choose a creature card at random from target opponent’s graveyard. Put that card onto the battlefield under your control.
-4/7
-"Teneb, the Harvester"
-{3}{W}{B}{G}
-Legendary Creature — Dragon
-Flying
-"Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control."
-6/6
-The Mimeoplasm
-{2}{B}{G}{U}
-Legendary Creature — Ooze
-"As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card."
-0/0
-"Vorosh, the Hunter"
-{3}{B}{G}{U}
-Legendary Creature — Dragon
-Flying
-"Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh."
-6/6
-Zedruu the Greathearted
-{1}{U}{R}{W}
-Legendary Creature — Minotaur Monk
-"At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control."
-{U}{R}{W}: Target opponent gains control of target permanent you control.
-2/4
+"('Animar, Soul of Elements', ['{G}{U}{R}', 'Legendary Creature — Elemental', 'Protection from white and from black', 'Whenever you cast a creature spell, put a +1/+1 counter on Animar, Soul of Elements.', 'Creature spells you cast cost {1} less to cast for each +1/+1 counter on Animar.', '1/1'])"
+"('Damia, Sage of Stone', ['{4}{B}{G}{U}', 'Legendary Creature — Gorgon Wizard', 'Deathtouch', 'Skip your draw step.', 'At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.', '4/4'])"
+"('Ghave, Guru of Spores', ['{2}{W}{B}{G}', 'Legendary Creature — Fungus Shaman', 'Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it.', '{1}, Remove a +1/+1 counter from a creature you control: Create a 1/1 green Saproling creature token.', '{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.', '0/0'])"
+"('Intet, the Dreamer', ['{3}{G}{U}{R}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Intet, the Dreamer deals combat damage to a player, you may pay {2}{U}. If you do, exile the top card of your library face down. You may look at that card for as long as it remains exiled. You may play that card without paying its mana cost for as long as Intet remains on the battlefield.', '6/6'])"
+"('Kaalia of the Vast', ['{1}{R}{W}{B}', 'Legendary Creature — Human Cleric', 'Flying', 'Whenever Kaalia of the Vast attacks an opponent, you may put an Angel, Demon, or Dragon creature card from your hand onto the battlefield tapped and attacking that opponent.', '2/2'])"
+"('Karador, Ghost Chieftain', ['{5}{W}{B}{G}', 'Legendary Creature — Centaur Spirit', 'This spell costs {1} less to cast for each creature card in your graveyard.', 'During each of your turns, you may cast a creature spell from your graveyard.', '3/4'])"
+"('Numot, the Devastator', ['{3}{U}{R}{W}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Numot, the Devastator deals combat damage to a player, you may pay {2}{R}. If you do, destroy up to two target lands.', '6/6'])"
+"('Oros, the Avenger', ['{3}{R}{W}{B}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Oros, the Avenger deals combat damage to a player, you may pay {2}{W}. If you do, Oros deals 3 damage to each nonwhite creature.', '6/6'])"
+"('Riku of Two Reflections', ['{2}{G}{U}{R}', 'Legendary Creature — Human Wizard', 'Whenever you cast an instant or sorcery spell, you may pay {U}{R}. If you do, copy that spell. You may choose new targets for the copy.', 'Whenever another nontoken creature enters the battlefield under your control, you may pay {G}{U}. If you do, create a token that’s a copy of that creature.', '2/2'])"
+"('Ruhan of the Fomori', ['{1}{U}{R}{W}', 'Legendary Creature — Giant Warrior', 'At the beginning of combat on your turn, choose an opponent at random. Ruhan of the Fomori attacks that player this combat if able.', '7/7'])"
+"('Tariel, Reckoner of Souls', ['{4}{R}{W}{B}', 'Legendary Creature — Angel', 'Flying, vigilance', '{T}: Choose a creature card at random from target opponent’s graveyard. Put that card onto the battlefield under your control.', '4/7'])"
+"('Teneb, the Harvester', ['{3}{W}{B}{G}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Teneb, the Harvester deals combat damage to a player, you may pay {2}{B}. If you do, put target creature card from a graveyard onto the battlefield under your control.', '6/6'])"
+"('The Mimeoplasm', ['{2}{B}{G}{U}', 'Legendary Creature — Ooze', 'As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.', '0/0'])"
+"('Vorosh, the Hunter', ['{3}{B}{G}{U}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.', '6/6'])"
+"('Zedruu the Greathearted', ['{1}{U}{R}{W}', 'Legendary Creature — Minotaur Monk', 'At the beginning of your upkeep, you gain X life and draw X cards, where X is the number of permanents you own that your opponents control.', '{U}{R}{W}: Target opponent gains control of target permanent you control.', '2/4'])"

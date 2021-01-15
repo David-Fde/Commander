@@ -1,47 +1,11 @@
-Dragon
-Token Creature — Dragon
-Flying
-5/5
-Eldrazi
-Token Creature — Eldrazi
-10/10
-Eldrazi Scion
-Token Creature — Eldrazi Scion
-Sacrifice this creature: Add {C}.
-1/1
-Eldrazi Scion
-Token Creature — Eldrazi Scion
-Sacrifice this creature: Add {C}.
-1/1
-Eldrazi Scion
-Token Creature — Eldrazi Scion
-Sacrifice this creature: Add {C}.
-1/1
-Elemental
-Token Creature — Elemental
-"Trample, haste"
-3/1
-Elemental
-Token Creature — Elemental
-5/5
-"Gideon, Ally of Zendikar Emblem"
-Emblem — Gideon
-Creatures you control get +1/+1.
-"Kiora, Master of the Depths Emblem"
-Emblem — Kiora
-"Whenever a creature enters the battlefield under your control, you may have it fight target creature."
-Knight Ally
-Token Creature — Knight Ally
-2/2
-Kor Ally
-Token Creature — Kor Ally
-1/1
-Ob Nixilis Reignited Emblem
-Emblem — Nixilis
-"Whenever a player draws a card, you lose 2 life."
-Octopus
-Token Creature — Octopus
-8/8
-Plant
-Token Creature — Plant
-1/1
+"('Dragon', ['Token Creature — Dragon', 'Flying', '5/5'])"
+"('Eldrazi', ['Token Creature — Eldrazi', '10/10'])"
+"('Eldrazi Scion', ['Token Creature — Eldrazi Scion', 'Sacrifice this creature: Add {C}.', '1/1'])"
+"('Elemental', ['Token Creature — Elemental', '5/5'])"
+"('Gideon, Ally of Zendikar Emblem', ['Emblem — Gideon', 'Creatures you control get +1/+1.'])"
+"('Kiora, Master of the Depths Emblem', ['Emblem — Kiora', 'Whenever a creature enters the battlefield under your control, you may have it fight target creature.'])"
+"('Knight Ally', ['Token Creature — Knight Ally', '2/2'])"
+"('Kor Ally', ['Token Creature — Kor Ally', '1/1'])"
+"('Ob Nixilis Reignited Emblem', ['Emblem — Nixilis', 'Whenever a player draws a card, you lose 2 life.'])"
+"('Octopus', ['Token Creature — Octopus', '8/8'])"
+"('Plant', ['Token Creature — Plant', '1/1'])"

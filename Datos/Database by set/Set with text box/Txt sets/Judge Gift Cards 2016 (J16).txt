@@ -1,34 +1,7 @@
-"Azusa, Lost but Seeking"
-{2}{G}
-Legendary Creature — Human Monk
-You may play two additional lands on each of your turns.
-1/2
-Command Beacon
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone."
-Defense of the Heart
-{3}{G}
-Enchantment
-"At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library."
-Imperial Seal
-{B}
-Sorcery
-"Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life."
-Mana Drain
-{U}{U}
-Instant
-"Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell’s converted mana cost."
-Mystic Confluence
-{3}{U}{U}
-Instant
-Choose three. You may choose the same mode more than once.
-• Counter target spell unless its controller pays {3}.
-• Return target creature to its owner’s hand.
-• Draw a card.
-Zur the Enchanter
-{1}{W}{U}{B}
-Legendary Creature — Human Wizard
-Flying
-"Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library."
-1/4
+"('Azusa, Lost but Seeking', ['{2}{G}', 'Legendary Creature — Human Monk', 'You may play two additional lands on each of your turns.', '1/2'])"
+"('Command Beacon', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Command Beacon: Put your commander into your hand from the command zone.'])"
+"('Defense of the Heart', ['{3}{G}', 'Enchantment', 'At the beginning of your upkeep, if an opponent controls three or more creatures, sacrifice Defense of the Heart, search your library for up to two creature cards, and put those cards onto the battlefield. Then shuffle your library.'])"
+"('Imperial Seal', ['{B}', 'Sorcery', 'Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.'])"
+"('Mana Drain', ['{U}{U}', 'Instant', 'Counter target spell. At the beginning of your next main phase, add an amount of {C} equal to that spell’s converted mana cost.'])"
+"('Mystic Confluence', ['{3}{U}{U}', 'Instant', 'Choose three. You may choose the same mode more than once.', '• Counter target spell unless its controller pays {3}.', '• Return target creature to its owner’s hand.', '• Draw a card.'])"
+"('Zur the Enchanter', ['{1}{W}{U}{B}', 'Legendary Creature — Human Wizard', 'Flying', 'Whenever Zur the Enchanter attacks, you may search your library for an enchantment card with converted mana cost 3 or less and put it onto the battlefield. If you do, shuffle your library.', '1/4'])"

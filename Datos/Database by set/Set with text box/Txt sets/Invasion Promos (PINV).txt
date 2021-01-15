@@ -1,6 +1,1 @@
-Kavu Furens
-{1}{R}{G}
-Animal — Kavu
-Festinatio (animali oppugnare et {T} licet ordine penes tuum venit.)
-Kavu Furentem adhibere tibi licet quandocumque subitum adhibere potes.
-3/1
+"('Kavu Furens', ['{1}{R}{G}', 'Animal — Kavu', 'Festinatio (animali oppugnare et {T} licet ordine penes tuum venit.)', 'Kavu Furentem adhibere tibi licet quandocumque subitum adhibere potes.', '3/1'])"

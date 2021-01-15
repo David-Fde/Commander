@@ -83,16 +83,19 @@ def Datadownload(entrada, url):
                     df.to_csv(f"{url}cc\{e.split(' ')[-1]}.txt", header=None, index=None) # Export the new set to txt.
 
             elif entrada == text_spoiler:
-                elemento = driver.find_element_by_class_name("text-grid-inner")
-                text = elemento.text
-                text = text.split('\n')
-                dictionary = {}
-                
-                for grq in elemento.find_elements_by_class_name("grq"):
-                    dictionary.update({(grq.text.split("\n")[0]) : grq.text.split("\n")[1:]})
-                df[f"{e}"] = dictionary.items()
-                df.to_excel(f"{url}\Xlsx sets\{e}.xlsx", index=False) # Export the new set to excel.
-                df.to_csv(f"{url}\Txt sets\{e}.txt", header=None, index=None) # Export the new set to txt.
+                try:
+                    elemento = driver.find_element_by_class_name("text-grid-inner")
+                    text = elemento.text
+                    text = text.split('\n')
+                    dictionary = {}
+                    
+                    for grq in elemento.find_elements_by_class_name("grq"):
+                        dictionary.update({(grq.text.split("\n")[0]) : grq.text.split("\n")[1:]})
+                    df[f"{e}"] = dictionary.items()
+                    df.to_excel(f"{url}\Xlsx sets\{e}.xlsx", index=False) # Export the new set to excel.
+                    df.to_csv(f"{url}\Txt sets\{e}.txt", header=None, index=None) # Export the new set to txt.
+                except:
+                    pass
 
 Datadownload(long_list, set_by_name)
 Datadownload(text_spoiler, set_with_text_box)

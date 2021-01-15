@@ -1,30 +1,6 @@
-Armageddon
-{3}{W}
-Sorcery
-Destroy all lands.
-Balance
-{1}{W}
-Sorcery
-"Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way."
-Deranged Hermit
-{3}{G}{G}
-Creature — Elf
-"Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-"When Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens."
-Squirrel creatures get +1/+1.
-1/1
-Hermit Druid
-{1}{G}
-Creature — Human Druid
-"{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard."
-1/1
-Phyrexian Negator
-{2}{B}
-Creature — Horror
-Trample
-"Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents."
-5/5
-Time Warp
-{3}{U}{U}
-Sorcery
-Target player takes an extra turn after this one.
+"('Armageddon', ['{3}{W}', 'Sorcery', 'Destroy all lands.'])"
+"('Balance', ['{1}{W}', 'Sorcery', 'Each player chooses a number of lands they control equal to the number of lands controlled by the player who controls the fewest, then sacrifices the rest. Players discard cards and sacrifice creatures the same way.'])"
+"('Deranged Hermit', ['{3}{G}{G}', 'Creature — Elf', 'Echo {3}{G}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)', 'When Deranged Hermit enters the battlefield, create four 1/1 green Squirrel creature tokens.', 'Squirrel creatures get +1/+1.', '1/1'])"
+"('Hermit Druid', ['{1}{G}', 'Creature — Human Druid', '{G}, {T}: Reveal cards from the top of your library until you reveal a basic land card. Put that card into your hand and all other cards revealed this way into your graveyard.', '1/1'])"
+"('Phyrexian Negator', ['{2}{B}', 'Creature — Horror', 'Trample', 'Whenever Phyrexian Negator is dealt damage, sacrifice that many permanents.', '5/5'])"
+"('Time Warp', ['{3}{U}{U}', 'Sorcery', 'Target player takes an extra turn after this one.'])"

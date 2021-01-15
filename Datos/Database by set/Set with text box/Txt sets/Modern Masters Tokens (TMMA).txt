@@ -1,53 +1,16 @@
-Bat
-Token Creature — Bat
-Flying
-1/1
-Dragon
-Token Creature — Dragon
-Flying
-4/4
-Elemental
-Token Creature — Elemental
-4/4
-"Elspeth, Knight-Errant Emblem"
-Emblem — Elspeth
-"Artifacts, creatures, enchantments, and lands you control have indestructible."
-Faerie Rogue
-Token Creature — Faerie Rogue
-Flying
-1/1
-Giant Warrior
-Token Creature — Giant Warrior
-5/5
-Goblin
-Token Creature — Goblin
-1/1
-Goblin Rogue
-Token Creature — Goblin Rogue
-1/1
-Illusion
-Token Creature — Illusion
-Flying
-1/1
-Kithkin Soldier
-Token Creature — Kithkin Soldier
-1/1
-Saproling
-Token Creature — Saproling
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Spider
-Token Creature — Spider
-Reach
-2/4
-Treefolk Shaman
-Token Creature — Treefolk Shaman
-2/5
-Worm
-Token Creature — Worm
-1/1
-Zombie
-Token Creature — Zombie
-2/2
+"('Bat', ['Token Creature — Bat', 'Flying', '1/1'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '4/4'])"
+"('Elemental', ['Token Creature — Elemental', '4/4'])"
+"('Elspeth, Knight-Errant Emblem', ['Emblem — Elspeth', 'Artifacts, creatures, enchantments, and lands you control have indestructible.'])"
+"('Faerie Rogue', ['Token Creature — Faerie Rogue', 'Flying', '1/1'])"
+"('Giant Warrior', ['Token Creature — Giant Warrior', '5/5'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Goblin Rogue', ['Token Creature — Goblin Rogue', '1/1'])"
+"('Illusion', ['Token Creature — Illusion', 'Flying', '1/1'])"
+"('Kithkin Soldier', ['Token Creature — Kithkin Soldier', '1/1'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Spider', ['Token Creature — Spider', 'Reach', '2/4'])"
+"('Treefolk Shaman', ['Token Creature — Treefolk Shaman', '2/5'])"
+"('Worm', ['Token Creature — Worm', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

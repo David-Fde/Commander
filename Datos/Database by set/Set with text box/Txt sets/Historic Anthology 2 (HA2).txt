@@ -1,130 +1,25 @@
-Ancestral Mask
-{2}{G}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +2/+2 for each other enchantment on the battlefield.
-Barren Moor
-Land
-Barren Moor enters the battlefield tapped.
-{T}: Add {B}.
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-Bojuka Bog
-Land
-Bojuka Bog enters the battlefield tapped.
-"When Bojuka Bog enters the battlefield, exile all cards from target player’s graveyard."
-{T}: Add {B}.
-Brain Maggot
-{1}{B}
-Enchantment Creature — Insect
-"When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield."
-1/1
-Dragonmaster Outcast
-{R}
-Creature — Human Shaman
-"At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying."
-1/1
-Forgotten Cave
-Land
-Forgotten Cave enters the battlefield tapped.
-{T}: Add {R}.
-"Cycling {R} ({R}, Discard this card: Draw a card.)"
-Ghost Quarter
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library."
-Goblin Ruinblaster
-{2}{R}
-Creature — Goblin Shaman
-Kicker {R} (You may pay an additional {R} as you cast this spell.)
-Haste
-"When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land."
-2/1
-Inexorable Tide
-{3}{U}{U}
-Enchantment
-"Whenever you cast a spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-Knight of the Reliquary
-{1}{G}{W}
-Creature — Human Knight
-Knight of the Reliquary gets +1/+1 for each land card in your graveyard.
-"{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library."
-2/2
-Lonely Sandbar
-Land
-Lonely Sandbar enters the battlefield tapped.
-{T}: Add {U}.
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-Maelstrom Pulse
-{1}{B}{G}
-Sorcery
-Destroy target nonland permanent and all other permanents with the same name as that permanent.
-Meddling Mage
-{W}{U}
-Creature — Human Wizard
-"As Meddling Mage enters the battlefield, choose a nonland card name."
-Spells with the chosen name can’t be cast.
-2/2
-Merrow Reejerey
-{2}{U}
-Creature — Merfolk Soldier
-Other Merfolk creatures you control get +1/+1.
-"Whenever you cast a Merfolk spell, you may tap or untap target permanent."
-2/2
-Nyx-Fleece Ram
-{1}{W}
-Enchantment Creature — Sheep
-"At the beginning of your upkeep, you gain 1 life."
-0/5
-Pack Rat
-{1}{B}
-Creature — Rat
-Pack Rat’s power and toughness are each equal to the number of Rats you control.
-"{2}{B}, Discard a card: Create a token that’s a copy of Pack Rat."
-*/*
-Platinum Angel
-{7}
-Artifact Creature — Angel
-Flying
-You can’t lose the game and your opponents can’t win the game.
-4/4
-Ranger of Eos
-{3}{W}
-Creature — Human Soldier
-"When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library."
-3/2
-Secluded Steppe
-Land
-Secluded Steppe enters the battlefield tapped.
-{T}: Add {W}.
-"Cycling {W} ({W}, Discard this card: Draw a card.)"
-Sigil of the Empty Throne
-{3}{W}{W}
-Enchantment
-"Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying."
-Terravore
-{1}{G}{G}
-Creature — Lhurgoyf
-Trample
-Terravore’s power and toughness are each equal to the number of land cards in all graveyards.
-*/*
-"Thalia, Guardian of Thraben"
-{1}{W}
-Legendary Creature — Human Soldier
-First strike
-Noncreature spells cost {1} more to cast.
-2/1
-Tranquil Thicket
-Land
-Tranquil Thicket enters the battlefield tapped.
-{T}: Add {G}.
-"Cycling {G} ({G}, Discard this card: Draw a card.)"
-Virulent Plague
-{2}{B}
-Enchantment
-Creature tokens get -2/-2.
-Waste Not
-{1}{B}
-Enchantment
-"Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token."
-"Whenever an opponent discards a land card, add {B}{B}."
-"Whenever an opponent discards a noncreature, nonland card, draw a card."
+"('Ancestral Mask', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+2 for each other enchantment on the battlefield.'])"
+"('Barren Moor', ['Land', 'Barren Moor enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {B} ({B}, Discard this card: Draw a card.)'])"
+"('Bojuka Bog', ['Land', 'Bojuka Bog enters the battlefield tapped.', 'When Bojuka Bog enters the battlefield, exile all cards from target player’s graveyard.', '{T}: Add {B}.'])"
+"('Brain Maggot', ['{1}{B}', 'Enchantment Creature — Insect', 'When Brain Maggot enters the battlefield, target opponent reveals their hand and you choose a nonland card from it. Exile that card until Brain Maggot leaves the battlefield.', '1/1'])"
+"('Dragonmaster Outcast', ['{R}', 'Creature — Human Shaman', 'At the beginning of your upkeep, if you control six or more lands, create a 5/5 red Dragon creature token with flying.', '1/1'])"
+"('Forgotten Cave', ['Land', 'Forgotten Cave enters the battlefield tapped.', '{T}: Add {R}.', 'Cycling {R} ({R}, Discard this card: Draw a card.)'])"
+"('Ghost Quarter', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.'])"
+"('Goblin Ruinblaster', ['{2}{R}', 'Creature — Goblin Shaman', 'Kicker {R} (You may pay an additional {R} as you cast this spell.)', 'Haste', 'When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.', '2/1'])"
+"('Inexorable Tide', ['{3}{U}{U}', 'Enchantment', 'Whenever you cast a spell, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)'])"
+"('Knight of the Reliquary', ['{1}{G}{W}', 'Creature — Human Knight', 'Knight of the Reliquary gets +1/+1 for each land card in your graveyard.', '{T}, Sacrifice a Forest or Plains: Search your library for a land card, put it onto the battlefield, then shuffle your library.', '2/2'])"
+"('Lonely Sandbar', ['Land', 'Lonely Sandbar enters the battlefield tapped.', '{T}: Add {U}.', 'Cycling {U} ({U}, Discard this card: Draw a card.)'])"
+"('Maelstrom Pulse', ['{1}{B}{G}', 'Sorcery', 'Destroy target nonland permanent and all other permanents with the same name as that permanent.'])"
+"('Meddling Mage', ['{W}{U}', 'Creature — Human Wizard', 'As Meddling Mage enters the battlefield, choose a nonland card name.', 'Spells with the chosen name can’t be cast.', '2/2'])"
+"('Merrow Reejerey', ['{2}{U}', 'Creature — Merfolk Soldier', 'Other Merfolk creatures you control get +1/+1.', 'Whenever you cast a Merfolk spell, you may tap or untap target permanent.', '2/2'])"
+"('Nyx-Fleece Ram', ['{1}{W}', 'Enchantment Creature — Sheep', 'At the beginning of your upkeep, you gain 1 life.', '0/5'])"
+"('Pack Rat', ['{1}{B}', 'Creature — Rat', 'Pack Rat’s power and toughness are each equal to the number of Rats you control.', '{2}{B}, Discard a card: Create a token that’s a copy of Pack Rat.', '*/*'])"
+"('Platinum Angel', ['{7}', 'Artifact Creature — Angel', 'Flying', 'You can’t lose the game and your opponents can’t win the game.', '4/4'])"
+"('Ranger of Eos', ['{3}{W}', 'Creature — Human Soldier', 'When Ranger of Eos enters the battlefield, you may search your library for up to two creature cards with converted mana cost 1 or less, reveal them, and put them into your hand. If you do, shuffle your library.', '3/2'])"
+"('Secluded Steppe', ['Land', 'Secluded Steppe enters the battlefield tapped.', '{T}: Add {W}.', 'Cycling {W} ({W}, Discard this card: Draw a card.)'])"
+"('Sigil of the Empty Throne', ['{3}{W}{W}', 'Enchantment', 'Whenever you cast an enchantment spell, create a 4/4 white Angel creature token with flying.'])"
+"('Terravore', ['{1}{G}{G}', 'Creature — Lhurgoyf', 'Trample', 'Terravore’s power and toughness are each equal to the number of land cards in all graveyards.', '*/*'])"
+"('Thalia, Guardian of Thraben', ['{1}{W}', 'Legendary Creature — Human Soldier', 'First strike', 'Noncreature spells cost {1} more to cast.', '2/1'])"
+"('Tranquil Thicket', ['Land', 'Tranquil Thicket enters the battlefield tapped.', '{T}: Add {G}.', 'Cycling {G} ({G}, Discard this card: Draw a card.)'])"
+"('Virulent Plague', ['{2}{B}', 'Enchantment', 'Creature tokens get -2/-2.'])"
+"('Waste Not', ['{1}{B}', 'Enchantment', 'Whenever an opponent discards a creature card, create a 2/2 black Zombie creature token.', 'Whenever an opponent discards a land card, add {B}{B}.', 'Whenever an opponent discards a noncreature, nonland card, draw a card.'])"

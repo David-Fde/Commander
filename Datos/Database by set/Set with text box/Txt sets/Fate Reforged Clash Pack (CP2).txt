@@ -1,34 +1,6 @@
-Courser of Kruphix
-{1}{G}{G}
-Enchantment Creature — Centaur
-Play with the top card of your library revealed.
-You may play lands from the top of your library.
-"Whenever a land enters the battlefield under your control, you gain 1 life."
-2/4
-Hero's Downfall
-{1}{B}{B}
-Instant
-Destroy target creature or planeswalker.
-Necropolis Fiend
-{7}{B}{B}
-Creature — Demon
-Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
-Flying
-"{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn."
-4/5
-Reaper of the Wilds
-{2}{B}{G}
-Creature — Gorgon
-"Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)"
-{B}: Reaper of the Wilds gains deathtouch until end of turn.
-{1}{G}: Reaper of the Wilds gains hexproof until end of turn.
-4/5
-Sultai Ascendancy
-{B}{G}{U}
-Enchantment
-"At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order."
-Whip of Erebos
-{2}{B}{B}
-Legendary Enchantment Artifact
-Creatures you control have lifelink.
-"{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery."
+"('Courser of Kruphix', ['{1}{G}{G}', 'Enchantment Creature — Centaur', 'Play with the top card of your library revealed.', 'You may play lands from the top of your library.', 'Whenever a land enters the battlefield under your control, you gain 1 life.', '2/4'])"
+"(""Hero's Downfall"", ['{1}{B}{B}', 'Instant', 'Destroy target creature or planeswalker.'])"
+"('Necropolis Fiend', ['{7}{B}{B}', 'Creature — Demon', 'Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)', 'Flying', '{X}, {T}, Exile X cards from your graveyard: Target creature gets -X/-X until end of turn.', '4/5'])"
+"('Reaper of the Wilds', ['{2}{B}{G}', 'Creature — Gorgon', 'Whenever another creature dies, scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)', '{B}: Reaper of the Wilds gains deathtouch until end of turn.', '{1}{G}: Reaper of the Wilds gains hexproof until end of turn.', '4/5'])"
+"('Sultai Ascendancy', ['{B}{G}{U}', 'Enchantment', 'At the beginning of your upkeep, look at the top two cards of your library. Put any number of them into your graveyard and the rest back on top of your library in any order.'])"
+"('Whip of Erebos', ['{2}{B}{B}', 'Legendary Enchantment Artifact', 'Creatures you control have lifelink.', '{2}{B}{B}, {T}: Return target creature card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate this ability only any time you could cast a sorcery.'])"

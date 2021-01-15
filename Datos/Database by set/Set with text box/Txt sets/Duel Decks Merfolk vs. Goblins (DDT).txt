@@ -1,310 +1,56 @@
-Abyssal Gatekeeper
-{1}{B}
-Creature — Horror
-"When Abyssal Gatekeeper dies, each player sacrifices a creature."
-1/1
-Abyssal Specter
-{2}{B}{B}
-Creature — Specter
-Flying
-"Whenever Abyssal Specter deals damage to a player, that player discards a card."
-2/3
-"Akroma, Angel of Wrath"
-{5}{W}{W}{W}
-Legendary Creature — Angel
-"Flying, first strike, vigilance, trample, haste, protection from black and from red"
-6/6
-Angelic Benediction
-{3}{W}
-Enchantment
-"Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)"
-"Whenever a creature you control attacks alone, you may tap target creature."
-Angelic Page
-{1}{W}
-Creature — Angel Spirit
-Flying
-{T}: Target attacking or blocking creature gets +1/+1 until end of turn.
-1/1
-Angelic Protector
-{3}{W}
-Creature — Angel
-Flying
-"Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn."
-2/2
-Angel of Mercy
-{4}{W}
-Creature — Angel
-Flying
-"When Angel of Mercy enters the battlefield, you gain 3 life."
-3/3
-Angel's Feather
-{2}
-Artifact
-"Whenever a player casts a white spell, you may gain 1 life."
-Angelsong
-{1}{W}
-Instant
-Prevent all combat damage that would be dealt this turn.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Barren Moor
-Land
-Barren Moor enters the battlefield tapped.
-{T}: Add {B}.
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-Barter in Blood
-{2}{B}{B}
-Sorcery
-Each player sacrifices two creatures.
-Breeding Pit
-{3}{B}
-Enchantment
-"At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}."
-"At the beginning of your end step, create a 0/1 black Thrull creature token."
-Cackling Imp
-{2}{B}{B}
-Creature — Imp
-Flying
-{T}: Target player loses 1 life.
-2/2
-Charging Paladin
-{2}{W}
-Creature — Human Knight
-"Whenever Charging Paladin attacks, it gets +0/+3 until end of turn."
-2/2
-Consume Spirit
-{X}{1}{B}
-Sorcery
-Spend only black mana on X.
-Consume Spirit deals X damage to any target and you gain X life.
-Corrupt
-{5}{B}
-Sorcery
-Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
-Cruel Edict
-{1}{B}
-Sorcery
-Target opponent sacrifices a creature.
-Daggerclaw Imp
-{2}{B}
-Creature — Imp
-Flying
-Daggerclaw Imp can’t block.
-3/1
-Dark Banishing
-{2}{B}
-Instant
-Destroy target nonblack creature. It can’t be regenerated.
-Dark Ritual
-{B}
-Instant
-Add {B}{B}{B}.
-Demonic Tutor
-{1}{B}
-Sorcery
-"Search your library for a card, put that card into your hand, then shuffle your library."
-Demon's Horn
-{2}
-Artifact
-"Whenever a player casts a black spell, you may gain 1 life."
-Demon's Jester
-{3}{B}
-Creature — Imp
-Flying
-Hellbent — Demon’s Jester gets +2/+1 as long as you have no cards in hand.
-2/2
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Dusk Imp
-{2}{B}
-Creature — Imp
-Flying
-2/1
-Faith's Fetters
-{3}{W}
-Enchantment — Aura
-Enchant permanent
-"When Faith’s Fetters enters the battlefield, you gain 4 life."
-"Enchanted permanent can’t attack or block, and its activated abilities can’t be activated unless they’re mana abilities."
-Fallen Angel
-{3}{B}{B}
-Creature — Angel
-Flying
-Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.
-3/3
-Foul Imp
-{B}{B}
-Creature — Imp
-Flying
-"When Foul Imp enters the battlefield, you lose 2 life."
-2/2
-Healing Salve
-{W}
-Instant
-Choose one —
-• Target player gains 3 life.
-• Prevent the next 3 damage that would be dealt to any target this turn.
-Icatian Priest
-{W}
-Creature — Human Cleric
-{1}{W}{W}: Target creature gets +1/+1 until end of turn.
-1/1
-"Kuro, Pitlord"
-{6}{B}{B}{B}
-Legendary Creature — Demon Spirit
-"At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}."
-Pay 1 life: Target creature gets -1/-1 until end of turn.
-9/9
-Lord of the Pit
-{4}{B}{B}{B}
-Creature — Demon
-"Flying, trample"
-"At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can’t, Lord of the Pit deals 7 damage to you."
-7/7
-Luminous Angel
-{4}{W}{W}{W}
-Creature — Angel
-Flying
-"At the beginning of your upkeep, you may create a 1/1 white Spirit creature token with flying."
-4/4
-Marble Diamond
-{2}
-Artifact
-Marble Diamond enters the battlefield tapped.
-{T}: Add {W}.
-Oni Possession
-{2}{B}
-Enchantment — Aura
-Enchant creature
-"At the beginning of your upkeep, sacrifice a creature."
-Enchanted creature gets +3/+3 and has trample.
-Enchanted creature is a Demon Spirit.
-Otherworldly Journey
-{1}{W}
-Instant — Arcane
-"Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner’s control with a +1/+1 counter on it."
-Overeager Apprentice
-{2}{B}
-Creature — Human Minion
-"Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B}."
-1/2
-Pacifism
-{1}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature can’t attack or block.
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Promise of Power
-{2}{B}{B}{B}
-Sorcery
-Choose one —
-• You draw five cards and you lose 5 life.
-"• Create an X/X black Demon creature token with flying, where X is the number of cards in your hand."
-Entwine {4} (Choose both if you pay the entwine cost.)
-Reiver Demon
-{4}{B}{B}{B}{B}
-Creature — Demon
-Flying
-"When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can’t be regenerated."
-6/6
-Reya Dawnbringer
-{6}{W}{W}{W}
-Legendary Creature — Angel
-Flying
-"At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield."
-4/6
-Righteous Cause
-{3}{W}{W}
-Enchantment
-"Whenever a creature attacks, you gain 1 life."
-Secluded Steppe
-Land
-Secluded Steppe enters the battlefield tapped.
-{T}: Add {W}.
-"Cycling {W} ({W}, Discard this card: Draw a card.)"
-Serra Advocate
-{3}{W}
-Creature — Angel
-Flying
-{T}: Target attacking or blocking creature gets +2/+2 until end of turn.
-2/2
-Serra Angel
-{3}{W}{W}
-Creature — Angel
-"Flying, vigilance"
-4/4
-Serra's Boon
-{2}{W}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature gets +1/+2 as long as it’s white. Otherwise, it gets -2/-1."
-Serra's Embrace
-{2}{W}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +2/+2 and has flying and vigilance.
-Soot Imp
-{1}{B}{B}
-Creature — Imp
-Flying
-"Whenever a player casts a nonblack spell, that player loses 1 life."
-1/2
-Souldrinker
-{3}{B}
-Creature — Spirit
-Pay 3 life: Put a +1/+1 counter on Souldrinker.
-2/2
-Stinkweed Imp
-{2}{B}
-Creature — Imp
-Flying
-"Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature."
-"Dredge 5 (If you would draw a card, you may mill five cards instead. If you do, return this card from your graveyard to your hand.)"
-1/2
-Sustainer of the Realm
-{2}{W}{W}
-Creature — Angel
-Flying
-"Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn."
-2/3
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Twilight Shepherd
-{3}{W}{W}{W}
-Creature — Angel
-"Flying, vigilance"
-"When Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn."
-"Persist (When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
-5/5
-Unholy Strength
-{B}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +2/+1.
-Venerable Monk
-{2}{W}
-Creature — Human Monk Cleric
-"When Venerable Monk enters the battlefield, you gain 2 life."
-2/2
+"('Aethersnipe', ['{5}{U}', 'Creature — Elemental', 'When Aethersnipe enters the battlefield, return target nonland permanent to its owner’s hand.', 'Evoke {1}{U}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '4/4'])"
+"('Air Elemental', ['{3}{U}{U}', 'Creature — Elemental', 'Flying', '4/4'])"
+"('Ancestral Vision', ['Sorcery', 'Suspend 4—{U} (Rather than cast this card from your hand, pay {U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost.)', 'Target player draws three cards.'])"
+"('Bottle Gnomes', ['{3}', 'Artifact Creature — Gnome', 'Sacrifice Bottle Gnomes: You gain 3 life.', '1/3'])"
+"('Brine Elemental', ['{4}{U}{U}', 'Creature — Elemental', 'Morph {5}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Brine Elemental is turned face up, each opponent skips their next untap step.', '5/4'])"
+"('Chandra Nalaar', ['{3}{R}{R}', 'Legendary Planeswalker — Chandra', '+1: Chandra Nalaar deals 1 damage to target player or planeswalker.', '−X: Chandra Nalaar deals X damage to target creature.', '−8: Chandra Nalaar deals 10 damage to target player or planeswalker and each creature that player or that planeswalker’s controller controls.', 'Loyalty: 6'])"
+"('Chartooth Cougar', ['{5}{R}', 'Creature — Cat Beast', '{R}: Chartooth Cougar gets +1/+0 until end of turn.', 'Mountaincycling {2} ({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle your library.)', '4/4'])"
+"('Condescend', ['{X}{U}', 'Instant', 'Counter target spell unless its controller pays {X}. Scry 2. (Look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)'])"
+"('Cone of Flame', ['{3}{R}{R}', 'Sorcery', 'Cone of Flame deals 1 damage to any target, 2 damage to another target, and 3 damage to a third target.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Daze', ['{1}{U}', 'Instant', 'You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.', 'Counter target spell unless its controller pays {1}.'])"
+"('Demonfire', ['{X}{R}', 'Sorcery', 'Demonfire deals X damage to any target. If a creature dealt damage this way would die this turn, exile it instead.', 'Hellbent — If you have no cards in hand, this spell can’t be countered and the damage can’t be prevented.'])"
+"('Errant Ephemeron', ['{6}{U}', 'Creature — Illusion', 'Flying', 'Suspend 4—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with four time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)', '4/4'])"
+"('Fact or Fiction', ['{3}{U}', 'Instant', 'Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.'])"
+"('Fathom Seer', ['{1}{U}', 'Creature — Illusion', 'Morph—Return two Islands you control to their owner’s hand. (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Fathom Seer is turned face up, draw two cards.', '1/3'])"
+"('Fireball', ['{X}{R}', 'Sorcery', 'This spell costs {1} more to cast for each target beyond the first.', 'Fireball deals X damage divided evenly, rounded down, among any number of targets.'])"
+"('Fireblast', ['{4}{R}{R}', 'Instant', 'You may sacrifice two Mountains rather than pay this spell’s mana cost.', 'Fireblast deals 4 damage to any target.'])"
+"('Firebolt', ['{R}', 'Sorcery', 'Firebolt deals 2 damage to any target.', 'Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Fireslinger', ['{1}{R}', 'Creature — Human Wizard', '{T}: Fireslinger deals 1 damage to any target and 1 damage to you.', '1/1'])"
+"('Flame Javelin', ['{2/R}{2/R}{2/R}', 'Instant', '({2/R} can be paid with any two mana or with {R}. This card’s converted mana cost is 6.)', 'Flame Javelin deals 4 damage to any target.'])"
+"('Flamekin Brawler', ['{R}', 'Creature — Elemental Warrior', '{R}: Flamekin Brawler gets +1/+0 until end of turn.', '0/2'])"
+"('Flametongue Kavu', ['{3}{R}', 'Creature — Kavu', 'When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.', '4/2'])"
+"('Flamewave Invoker', ['{2}{R}', 'Creature — Goblin Mutant', '{7}{R}: Flamewave Invoker deals 5 damage to target player or planeswalker.', '2/2'])"
+"('Fledgling Mawcor', ['{3}{U}', 'Creature — Beast', 'Flying', '{T}: Fledgling Mawcor deals 1 damage to any target.', 'Morph {U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '2/2'])"
+"('Furnace Whelp', ['{2}{R}{R}', 'Creature — Dragon', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '{R}: Furnace Whelp gets +1/+0 until end of turn.', '2/2'])"
+"('Guile', ['{3}{U}{U}{U}', 'Creature — Elemental Incarnation', 'Guile can’t be blocked except by three or more creatures.', 'If a spell or ability you control would counter a spell, instead exile that spell and you may play that card without paying its mana cost.', 'When Guile is put into a graveyard from anywhere, shuffle it into its owner’s library.', '6/6'])"
+"('Gush', ['{4}{U}', 'Instant', 'You may return two Islands you control to their owner’s hand rather than pay this spell’s mana cost.', 'Draw two cards.'])"
+"('Hostility', ['{3}{R}{R}{R}', 'Creature — Elemental Incarnation', 'Haste', 'If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.', 'When Hostility is put into a graveyard from anywhere, shuffle it into its owner’s library.', '6/6'])"
+"('Incinerate', ['{1}{R}', 'Instant', 'Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.'])"
+"('Ingot Chewer', ['{4}{R}', 'Creature — Elemental', 'When Ingot Chewer enters the battlefield, destroy target artifact.', 'Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '3/3'])"
+"('Inner-Flame Acolyte', ['{1}{R}{R}', 'Creature — Elemental Shaman', 'When Inner-Flame Acolyte enters the battlefield, target creature gets +2/+0 and gains haste until end of turn.', 'Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '2/2'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jace Beleren', ['{1}{U}{U}', 'Legendary Planeswalker — Jace', '+2: Each player draws a card.', '−1: Target player draws a card.', '−10: Target player mills twenty cards.', 'Loyalty: 3'])"
+"('Keldon Megaliths', ['Land', 'Keldon Megaliths enters the battlefield tapped.', '{T}: Add {R}.', 'Hellbent — {1}{R}, {T}: Keldon Megaliths deals 1 damage to any target. Activate this ability only if you have no cards in hand.'])"
+"('Magma Jet', ['{1}{R}', 'Instant', 'Magma Jet deals 2 damage to any target. Scry 2.'])"
+"(""Man-o'-War"", ['{2}{U}', 'Creature — Jellyfish', 'When Man-o’-War enters the battlefield, return target creature to its owner’s hand.', '2/2'])"
+"('Martyr of Frost', ['{U}', 'Creature — Human Wizard', '{2}, Reveal X blue cards from your hand, Sacrifice Martyr of Frost: Counter target spell unless its controller pays {X}.', '1/1'])"
+"('Mind Stone', ['{2}', 'Artifact', '{T}: Add {C}.', '{1}, {T}, Sacrifice Mind Stone: Draw a card.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Mulldrifter', ['{4}{U}', 'Creature — Elemental', 'Flying', 'When Mulldrifter enters the battlefield, draw two cards.', 'Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '2/2'])"
+"('Ophidian', ['{2}{U}', 'Creature — Snake', 'Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.', '1/3'])"
+"('Oxidda Golem', ['{6}', 'Artifact Creature — Golem', 'Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)', 'Haste', '3/2'])"
+"('Pyre Charger', ['{R}{R}', 'Creature — Elemental Warrior', 'Haste', '{R}: Pyre Charger gets +1/+0 until end of turn.', '1/1'])"
+"('Quicksilver Dragon', ['{4}{U}{U}', 'Creature — Dragon', 'Flying', '{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell’s target to another creature.', 'Morph {4}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '5/5'])"
+"('Rakdos Pit Dragon', ['{2}{R}{R}', 'Creature — Dragon', '{R}{R}: Rakdos Pit Dragon gains flying until end of turn.', '{R}: Rakdos Pit Dragon gets +1/+0 until end of turn.', 'Hellbent — Rakdos Pit Dragon has double strike as long as you have no cards in hand.', '3/3'])"
+"('Repulse', ['{2}{U}', 'Instant', 'Return target creature to its owner’s hand.', 'Draw a card.'])"
+"('Riftwing Cloudskate', ['{3}{U}{U}', 'Creature — Illusion', 'Flying', 'When Riftwing Cloudskate enters the battlefield, return target permanent to its owner’s hand.', 'Suspend 3—{1}{U} (Rather than cast this card from your hand, you may pay {1}{U} and exile it with three time counters on it. At the beginning of your upkeep, remove a time counter. When the last is removed, cast it without paying its mana cost. It has haste.)', '2/2'])"
+"('Seal of Fire', ['{R}', 'Enchantment', 'Sacrifice Seal of Fire: It deals 2 damage to any target.'])"
+"('Slith Firewalker', ['{R}{R}', 'Creature — Slith', 'Haste', 'Whenever Slith Firewalker deals combat damage to a player, put a +1/+1 counter on it.', '1/1'])"
+"('Soulbright Flamekin', ['{1}{R}', 'Creature — Elemental Shaman', '{2}: Target creature gains trample until end of turn. If this is the third time this ability has resolved this turn, you may add {R}{R}{R}{R}{R}{R}{R}{R}.', '2/1'])"
+"('Spire Golem', ['{6}', 'Artifact Creature — Golem', 'Affinity for Islands (This spell costs {1} less to cast for each Island you control.)', 'Flying', '2/4'])"
+"('Terrain Generator', ['Land', '{T}: Add {C}.', '{2}, {T}: You may put a basic land card from your hand onto the battlefield tapped.'])"
+"('Voidmage Apprentice', ['{1}{U}', 'Creature — Human Wizard', 'Morph {2}{U}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Voidmage Apprentice is turned face up, counter target spell.', '1/1'])"
+"('Wall of Deceit', ['{1}{U}', 'Creature — Wall', 'Defender (This creature can’t attack.)', '{3}: Turn Wall of Deceit face down.', 'Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '0/5'])"
+"('Waterspout Djinn', ['{2}{U}{U}', 'Creature — Djinn', 'Flying', 'At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner’s hand.', '4/4'])"
+"('Willbender', ['{1}{U}', 'Creature — Human Wizard', 'Morph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Willbender is turned face up, change the target of target spell or ability with a single target.', '1/2'])"

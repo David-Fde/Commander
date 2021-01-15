@@ -1,51 +1,13 @@
-Adorned Pouncer
-Token Creature — Zombie Cat
-Double strike
-4/4
-Champion of Wits
-Token Creature — Zombie Naga Wizard
-"When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards."
-4/4
-Dreamstealer
-Token Creature — Zombie Human Wizard
-Menace
-"Whenever Dreamstealer deals combat damage to a player, that player discards that many cards."
-4/4
-Earthshaker Khenra
-Token Creature — Zombie Jackal Warrior
-Haste
-"When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra’s power can’t block this turn."
-4/4
-Horse
-Token Creature — Horse
-5/5
-Insect
-Token Creature — Insect
-"Flying, haste"
-1/1
-Proven Combatant
-Token Creature — Zombie Human Warrior
-4/4
-Punchcard
-Card
-Punchcard
-Card
-Resilient Khenra
-Token Creature — Zombie Jackal Wizard
-"When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra’s power."
-4/4
-Sinuous Striker
-Token Creature — Zombie Naga Warrior
-{U}: Sinuous Striker gets +1/-1 until end of turn.
-4/4
-Snake
-Token Creature — Snake
-5/4
-Steadfast Sentinel
-Token Creature — Zombie Human Cleric
-Vigilance
-4/4
-Sunscourge Champion
-Token Creature — Zombie Human Wizard
-"When Sunscourge Champion enters the battlefield, you gain life equal to its power."
-4/4
+"('Adorned Pouncer', ['Token Creature — Zombie Cat', 'Double strike', '4/4'])"
+"('Champion of Wits', ['Token Creature — Zombie Naga Wizard', 'When Champion of Wits enters the battlefield, you may draw cards equal to its power. If you do, discard two cards.', '4/4'])"
+"('Dreamstealer', ['Token Creature — Zombie Human Wizard', 'Menace', 'Whenever Dreamstealer deals combat damage to a player, that player discards that many cards.', '4/4'])"
+"('Earthshaker Khenra', ['Token Creature — Zombie Jackal Warrior', 'Haste', 'When Earthshaker Khenra enters the battlefield, target creature with power less than or equal to Earthshaker Khenra’s power can’t block this turn.', '4/4'])"
+"('Horse', ['Token Creature — Horse', '5/5'])"
+"('Insect', ['Token Creature — Insect', 'Flying, haste', '1/1'])"
+"('Proven Combatant', ['Token Creature — Zombie Human Warrior', '4/4'])"
+"('Punchcard', ['Card'])"
+"('Resilient Khenra', ['Token Creature — Zombie Jackal Wizard', 'When Resilient Khenra enters the battlefield, you may have target creature get +X/+X until end of turn, where X is Resilient Khenra’s power.', '4/4'])"
+"('Sinuous Striker', ['Token Creature — Zombie Naga Warrior', '{U}: Sinuous Striker gets +1/-1 until end of turn.', '4/4'])"
+"('Snake', ['Token Creature — Snake', '5/4'])"
+"('Steadfast Sentinel', ['Token Creature — Zombie Human Cleric', 'Vigilance', '4/4'])"
+"('Sunscourge Champion', ['Token Creature — Zombie Human Wizard', 'When Sunscourge Champion enters the battlefield, you gain life equal to its power.', '4/4'])"

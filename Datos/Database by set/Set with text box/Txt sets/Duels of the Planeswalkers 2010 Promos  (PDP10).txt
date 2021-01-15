@@ -1,14 +1,2 @@
-Liliana Vess
-{3}{B}{B}
-Legendary Planeswalker — Liliana
-+1: Target player discards a card.
-"−2: Search your library for a card, then shuffle your library and put that card on top of it."
-−8: Put all creature cards from all graveyards onto the battlefield under your control.
-Loyalty: 5
-Nissa Revane
-{2}{G}{G}
-Legendary Planeswalker — Nissa
-+1: Search your library for a card named Nissa’s Chosen and put it onto the battlefield. Then shuffle your library.
-+1: You gain 2 life for each Elf you control.
-−7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.
-Loyalty: 2
+"('Liliana Vess', ['{3}{B}{B}', 'Legendary Planeswalker — Liliana', '+1: Target player discards a card.', '−2: Search your library for a card, then shuffle your library and put that card on top of it.', '−8: Put all creature cards from all graveyards onto the battlefield under your control.', 'Loyalty: 5'])"
+"('Nissa Revane', ['{2}{G}{G}', 'Legendary Planeswalker — Nissa', '+1: Search your library for a card named Nissa’s Chosen and put it onto the battlefield. Then shuffle your library.', '+1: You gain 2 life for each Elf you control.', '−7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.', 'Loyalty: 2'])"

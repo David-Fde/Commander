@@ -1,31 +1,6 @@
-Armored Pegasus
-{1}{W}
-Creature — Pegasus
-Flying
-1/2
-Bull Hippo
-{3}{G}
-Creature — Hippo
-Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
-3/3
-Cloud Pirates
-{U}
-Creature — Human Pirate
-Flying
-Cloud Pirates can block only creatures with flying.
-1/1
-Feral Shadow
-{2}{B}
-Creature — Nightstalker
-Flying
-2/1
-Snapping Drake
-{3}{U}
-Creature — Drake
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-3/2
-Storm Crow
-{1}{U}
-Creature — Bird
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-1/2
+"('Armored Pegasus', ['{1}{W}', 'Creature — Pegasus', 'Flying', '1/2'])"
+"('Bull Hippo', ['{3}{G}', 'Creature — Hippo', 'Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)', '3/3'])"
+"('Cloud Pirates', ['{U}', 'Creature — Human Pirate', 'Flying', 'Cloud Pirates can block only creatures with flying.', '1/1'])"
+"('Feral Shadow', ['{2}{B}', 'Creature — Nightstalker', 'Flying', '2/1'])"
+"('Snapping Drake', ['{3}{U}', 'Creature — Drake', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '3/2'])"
+"('Storm Crow', ['{1}{U}', 'Creature — Bird', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '1/2'])"

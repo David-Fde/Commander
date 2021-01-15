@@ -1,563 +1,84 @@
-1997 World Championships Ad
-Card
-Abduction
-{2}{U}{U}
-Enchantment — Aura
-Enchant creature
-"When Abduction enters the battlefield, untap enchanted creature."
-You control enchanted creature.
-"When enchanted creature dies, return that card to the battlefield under its owner’s control."
-Abeyance
-{1}{W}
-Instant
-"Until end of turn, target player can’t cast instant or sorcery spells, and that player can’t activate abilities that aren’t mana abilities."
-Draw a card.
-Black Knight
-{B}{B}
-Creature — Human Knight
-First strike (This creature deals combat damage before creatures without first strike.)
-"Protection from white (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything white.)"
-2/2
-Blank Card
-Card
-Bounty of the Hunt
-{3}{G}{G}
-Instant
-You may exile a green card from your hand rather than pay this spell’s mana cost.
-"Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
-Bounty of the Hunt
-{3}{G}{G}
-Instant
-You may exile a green card from your hand rather than pay this spell’s mana cost.
-"Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step."
-Choking Sands
-{1}{B}{B}
-Sorcery
-"Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land’s controller."
-Circle of Protection: Black
-{1}{W}
-Enchantment
-"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
-Circle of Protection: Red
-{1}{W}
-Enchantment
-"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-City of Solitude
-{2}{G}
-Enchantment
-Players can cast spells and activate abilities only during their own turns.
-Cloud Elemental
-{2}{U}
-Creature — Elemental
-Flying
-Cloud Elemental can block only creatures with flying.
-2/3
-Contagion
-{3}{B}{B}
-Instant
-You may pay 1 life and exile a black card from your hand rather than pay this spell’s mana cost.
-Distribute two -2/-1 counters among one or two target creatures.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Crumble
-{G}
-Instant
-Destroy target artifact. It can’t be regenerated. That artifact’s controller gains life equal to its converted mana cost.
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Disintegrate
-{X}{R}
-Sorcery
-"Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead."
-Disintegrate
-{X}{R}
-Sorcery
-"Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead."
-Disrupt
-{U}
-Instant
-Counter target instant or sorcery spell unless its controller pays {1}.
-Draw a card.
-Dissipate
-{1}{U}{U}
-Instant
-"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard."
-Dystopia
-{1}{B}{B}
-Enchantment
-"Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
-"At the beginning of each player’s upkeep, that player sacrifices a green or white permanent."
-Earthquake
-{X}{R}
-Sorcery
-Earthquake deals X damage to each creature without flying and each player.
-Earthquake
-{X}{R}
-Sorcery
-Earthquake deals X damage to each creature without flying and each player.
-Ebony Charm
-{B}
-Instant
-Choose one —
-• Target opponent loses 1 life and you gain 1 life.
-• Exile up to three target cards from a single graveyard.
-• Target creature gains fear until end of turn. (It can’t be blocked except by artifact creatures and/or black creatures.)
-Emerald Charm
-{G}
-Instant
-Choose one —
-• Untap target permanent.
-• Destroy target non-Aura enchantment.
-• Target creature loses flying until end of turn.
-Exile
-{2}{W}
-Instant
-Exile target nonwhite attacking creature. You gain life equal to its toughness.
-Fallen Askari
-{1}{B}
-Creature — Human Knight
-"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
-Fallen Askari can’t block.
-2/2
-Force of Will
-{3}{U}{U}
-Instant
-You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
-Counter target spell.
-Force of Will
-{3}{U}{U}
-Instant
-You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.
-Counter target spell.
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forsaken Wastes
-{2}{B}
-World Enchantment
-Players can’t gain life.
-"At the beginning of each player’s upkeep, that player loses 1 life."
-"Whenever Forsaken Wastes becomes the target of a spell, that spell’s controller loses 5 life."
-Frenetic Efreet
-{1}{U}{R}
-Creature — Efreet
-Flying
-"{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before you untap during your next untap step.)"
-2/1
-Frenetic Efreet
-{1}{U}{R}
-Creature — Efreet
-Flying
-"{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before you untap during your next untap step.)"
-2/1
-Fyndhorn Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Gemstone Mine
-Land
-Gemstone Mine enters the battlefield with three mining counters on it.
-"{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
-Ghazbán Ogre
-{G}
-Creature — Ogre
-"At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre."
-2/2
-Giant Growth
-{G}
-Instant
-Target creature gets +3/+3 until end of turn.
-Hammer of Bogardan
-{1}{R}{R}
-Sorcery
-Hammer of Bogardan deals 3 damage to any target.
-{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
-Harvest Wurm
-{1}{G}
-Creature — Wurm
-"When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand."
-3/2
-Heart of Yavimaya
-Land
-"If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don’t, put it into its owner’s graveyard."
-{T}: Add {G}.
-{T}: Target creature gets +1/+1 until end of turn.
-Honorable Passage
-{1}{W}
-Instant
-"The next time a source of your choice would deal damage to any target this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source’s controller."
-Hydroblast
-{U}
-Instant
-Choose one —
-• Counter target spell if it’s red.
-• Destroy target permanent if it’s red.
-Hydroblast
-{U}
-Instant
-Choose one —
-• Counter target spell if it’s red.
-• Destroy target permanent if it’s red.
-Impulse
-{1}{U}
-Instant
-Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jakub Šlemr Bio
-Card
-"Šlemr, a twenty-year-old computer analyst from Prague in the Czech Republic, said that he wasn’t happy with his deck’s 3—4 performance in the Standard (Type II) portion of the tournament. However, it came through for him in the elimination rounds. A black weenie deck at heart, it dips into all five colors. It also features a number of creatures that have an effect on entering play, like Man-o’-War, Uktabi Orangutan, and Nekrataal."
-Jakub Šlemr Decklist
-Card
-Janosch Kühn Bio 1997
-Card
-"Kühn, a fifteen-year-old high-school student from Hanover, Germany, played a red, white, and blue deck with a balanced mix of speed and control. It uses cards like Incinerate and Swords to Plowshares to deal with opponents’ fast creatures, while increasing the mana base with Thawing Glaciers. For late in the game, Disintegrate and Hammer of Bogardan are excellent finishing cards."
-Janosch Kühn Decklist 1997
-Card
-Jolrael's Centaur
-{1}{G}{G}
-Creature — Centaur Archer
-Shroud (This creature can’t be the target of spells or abilities.)
-"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
-2/2
-Kjeldoran Outpost
-Land
-"If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don’t, put it into its owner’s graveyard."
-{T}: Add {W}.
-"{1}{W}, {T}: Create a 1/1 white Soldier creature token."
-Knight of Stromgald
-{B}{B}
-Creature — Human Knight
-Protection from white
-{B}: Knight of Stromgald gains first strike until end of turn.
-{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.
-2/1
-Knight of the Mists
-{2}{U}
-Creature — Human Knight
-"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
-"When Knight of the Mists enters the battlefield, you may pay {U}. If you don’t, destroy target Knight and it can’t be regenerated."
-2/2
-Lhurgoyf
-{2}{G}{G}
-Creature — Lhurgoyf
-Lhurgoyf’s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
-*/1+*
-Man-o'-War
-{2}{U}
-Creature — Jellyfish
-"When Man-o’-War enters the battlefield, return target creature to its owner’s hand."
-2/2
-Man-o'-War
-{2}{U}
-Creature — Jellyfish
-"When Man-o’-War enters the battlefield, return target creature to its owner’s hand."
-2/2
-Mind Stone
-{2}
-Artifact
-{T}: Add {C}.
-"{1}, {T}, Sacrifice Mind Stone: Draw a card."
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Necratog
-{1}{B}{B}
-Creature — Atog
-Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.
-1/2
-Nekrataal
-{2}{B}{B}
-Creature — Human Assassin
-First strike
-"When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can’t be regenerated."
-2/1
-Nevinyrral's Disk
-{4}
-Artifact
-Nevinyrral’s Disk enters the battlefield tapped.
-"{1}, {T}: Destroy all artifacts, creatures, and enchantments."
-Ophidian
-{2}{U}
-Creature — Snake
-"Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn."
-1/3
-Paul McCabe Bio
-Card
-"McCabe, a nineteen-year-old college student from Toronto, Canada, played a fast red-blue attacking deck. The deck’s main strategy is to put the opponent on the defensive, using a large number of inexpensive, efficient creatures such as Suq'Ata Lancer, Cloud Elemental, Ophidian, and Man-o’-War. It also makes good use of several “pitch” spells like Force of Will and Pyrokinesis."
-Paul McCabe Decklist
-Card
-Phyrexian Furnace
-{1}
-Artifact
-{T}: Exile the bottom card of target player’s graveyard.
-"{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card."
-Pillage
-{1}{R}{R}
-Sorcery
-Destroy target artifact or land. It can’t be regenerated.
-Pillage
-{1}{R}{R}
-Sorcery
-Destroy target artifact or land. It can’t be regenerated.
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Political Trickery
-{2}{U}
-Sorcery
-Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Pyrokinesis
-{4}{R}{R}
-Instant
-You may exile a red card from your hand rather than pay this spell’s mana cost.
-Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
-Pyrokinesis
-{4}{R}{R}
-Instant
-You may exile a red card from your hand rather than pay this spell’s mana cost.
-Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.
-Quirion Ranger
-{G}
-Creature — Elf
-Return a Forest you control to its owner’s hand: Untap target creature. Activate this ability only once each turn.
-1/1
-River Boa
-{1}{G}
-Creature — Snake
-Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)
-{G}: Regenerate River Boa.
-2/1
-Rogue Elephant
-{G}
-Creature — Elephant
-"When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest."
-3/3
-Serrated Arrows
-{4}
-Artifact
-Serrated Arrows enters the battlefield with three arrowhead counters on it.
-"At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it."
-"{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
-Shadow Guildmage
-{B}
-Creature — Human Wizard
-"{U}, {T}: Put target creature you control on top of its owner’s library."
-"{R}, {T}: Shadow Guildmage deals 1 damage to any target and 1 damage to you."
-1/1
-Spectral Bears
-{1}{G}
-Creature — Bear Spirit
-"Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn’t untap during your next untap step."
-3/3
-Sulfurous Springs
-Land
-{T}: Add {C}.
-{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
-Suq'Ata Lancer
-{2}{R}
-Creature — Human Knight
-Haste
-"Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)"
-2/2
-Svend Geertsen Bio
-Card
-"Geertsen, a sixteen-year-old high-school student from Copenhagen, Denmark, played a mono-green deck known affectionately as “Señor Stompie.” Of the eight finalists, Geertsen had the best record in the Standard (Type II) portion of the tournament, going 6—0—1. This deck is overloaded with fast green creatures, thirty-three in all. The only noncreature cards are Giant Growth, Bounty of the Hunt, and Winter Orb. The deck also exploits the interaction between Rogue Elephant, Harvest Worm, and Heart of Yavimaya."
-Svend Geertsen Decklist
-Card
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swords to Plowshares
-{W}
-Instant
-Exile target creature. Its controller gains life equal to its power.
-Thawing Glaciers
-Land
-Thawing Glaciers enters the battlefield tapped.
-"{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner’s hand at the beginning of the next cleanup step."
-Uktabi Orangutan
-{2}{G}
-Creature — Ape
-"When Uktabi Orangutan enters the battlefield, destroy target artifact."
-2/2
-Uktabi Orangutan
-{2}{G}
-Creature — Ape
-"When Uktabi Orangutan enters the battlefield, destroy target artifact."
-2/2
-Uktabi Orangutan
-{2}{G}
-Creature — Ape
-"When Uktabi Orangutan enters the battlefield, destroy target artifact."
-2/2
-Underground River
-Land
-{T}: Add {C}.
-{T}: Add {U} or {B}. Underground River deals 1 damage to you.
-Undiscovered Paradise
-Land
-"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand."
-Undiscovered Paradise
-Land
-"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand."
-Undiscovered Paradise
-Land
-"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand."
-Whirling Dervish
-{G}{G}
-Creature — Human Monk
-Protection from black
-"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
-1/1
-Whirling Dervish
-{G}{G}
-Creature — Human Monk
-Protection from black
-"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
-1/1
-Wildfire Emissary
-{3}{R}
-Creature — Efreet
-Protection from white
-{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
-2/4
-Wildfire Emissary
-{3}{R}
-Creature — Efreet
-Protection from white
-{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.
-2/4
-Winter Orb
-{2}
-Artifact
-"As long as Winter Orb is untapped, players can’t untap more than one land during their untap steps."
+"('1997 World Championships Ad', ['Card'])"
+"('Abduction', ['{2}{U}{U}', 'Enchantment — Aura', 'Enchant creature', 'When Abduction enters the battlefield, untap enchanted creature.', 'You control enchanted creature.', 'When enchanted creature dies, return that card to the battlefield under its owner’s control.'])"
+"('Abeyance', ['{1}{W}', 'Instant', 'Until end of turn, target player can’t cast instant or sorcery spells, and that player can’t activate abilities that aren’t mana abilities.', 'Draw a card.'])"
+"('Black Knight', ['{B}{B}', 'Creature — Human Knight', 'First strike (This creature deals combat damage before creatures without first strike.)', 'Protection from white (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything white.)', '2/2'])"
+"('Blank Card', ['Card'])"
+"('Bounty of the Hunt', ['{3}{G}{G}', 'Instant', 'You may exile a green card from your hand rather than pay this spell’s mana cost.', 'Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.'])"
+"('Choking Sands', ['{1}{B}{B}', 'Sorcery', 'Destroy target non-Swamp land. If that land was nonbasic, Choking Sands deals 2 damage to the land’s controller.'])"
+"('Circle of Protection: Black', ['{1}{W}', 'Enchantment', '{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.'])"
+"('Circle of Protection: Red', ['{1}{W}', 'Enchantment', '{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('City of Solitude', ['{2}{G}', 'Enchantment', 'Players can cast spells and activate abilities only during their own turns.'])"
+"('Cloud Elemental', ['{2}{U}', 'Creature — Elemental', 'Flying', 'Cloud Elemental can block only creatures with flying.', '2/3'])"
+"('Contagion', ['{3}{B}{B}', 'Instant', 'You may pay 1 life and exile a black card from your hand rather than pay this spell’s mana cost.', 'Distribute two -2/-1 counters among one or two target creatures.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Crumble', ['{G}', 'Instant', 'Destroy target artifact. It can’t be regenerated. That artifact’s controller gains life equal to its converted mana cost.'])"
+"('Disenchant', ['{1}{W}', 'Instant', 'Destroy target artifact or enchantment.'])"
+"('Disintegrate', ['{X}{R}', 'Sorcery', 'Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead.'])"
+"('Disrupt', ['{U}', 'Instant', 'Counter target instant or sorcery spell unless its controller pays {1}.', 'Draw a card.'])"
+"('Dissipate', ['{1}{U}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.'])"
+"('Dystopia', ['{1}{B}{B}', 'Enchantment', 'Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)', 'At the beginning of each player’s upkeep, that player sacrifices a green or white permanent.'])"
+"('Earthquake', ['{X}{R}', 'Sorcery', 'Earthquake deals X damage to each creature without flying and each player.'])"
+"('Ebony Charm', ['{B}', 'Instant', 'Choose one —', '• Target opponent loses 1 life and you gain 1 life.', '• Exile up to three target cards from a single graveyard.', '• Target creature gains fear until end of turn. (It can’t be blocked except by artifact creatures and/or black creatures.)'])"
+"('Emerald Charm', ['{G}', 'Instant', 'Choose one —', '• Untap target permanent.', '• Destroy target non-Aura enchantment.', '• Target creature loses flying until end of turn.'])"
+"('Exile', ['{2}{W}', 'Instant', 'Exile target nonwhite attacking creature. You gain life equal to its toughness.'])"
+"('Fallen Askari', ['{1}{B}', 'Creature — Human Knight', 'Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)', 'Fallen Askari can’t block.', '2/2'])"
+"('Force of Will', ['{3}{U}{U}', 'Instant', 'You may pay 1 life and exile a blue card from your hand rather than pay this spell’s mana cost.', 'Counter target spell.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Forsaken Wastes', ['{2}{B}', 'World Enchantment', 'Players can’t gain life.', 'At the beginning of each player’s upkeep, that player loses 1 life.', 'Whenever Forsaken Wastes becomes the target of a spell, that spell’s controller loses 5 life.'])"
+"('Frenetic Efreet', ['{1}{U}{R}', 'Creature — Efreet', 'Flying', '{0}: Flip a coin. If you win the flip, Frenetic Efreet phases out. If you lose the flip, sacrifice Frenetic Efreet. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before you untap during your next untap step.)', '2/1'])"
+"('Fyndhorn Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Gemstone Mine', ['Land', 'Gemstone Mine enters the battlefield with three mining counters on it.', '{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.'])"
+"('Ghazbán Ogre', ['{G}', 'Creature — Ogre', 'At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.', '2/2'])"
+"('Giant Growth', ['{G}', 'Instant', 'Target creature gets +3/+3 until end of turn.'])"
+"('Hammer of Bogardan', ['{1}{R}{R}', 'Sorcery', 'Hammer of Bogardan deals 3 damage to any target.', '{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.'])"
+"('Harvest Wurm', ['{1}{G}', 'Creature — Wurm', 'When Harvest Wurm enters the battlefield, sacrifice it unless you return a basic land card from your graveyard to your hand.', '3/2'])"
+"('Heart of Yavimaya', ['Land', 'If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don’t, put it into its owner’s graveyard.', '{T}: Add {G}.', '{T}: Target creature gets +1/+1 until end of turn.'])"
+"('Honorable Passage', ['{1}{W}', 'Instant', 'The next time a source of your choice would deal damage to any target this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source’s controller.'])"
+"('Hydroblast', ['{U}', 'Instant', 'Choose one —', '• Counter target spell if it’s red.', '• Destroy target permanent if it’s red.'])"
+"('Impulse', ['{1}{U}', 'Instant', 'Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.'])"
+"('Incinerate', ['{1}{R}', 'Instant', 'Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jakub Šlemr Bio', ['Card', 'Šlemr, a twenty-year-old computer analyst from Prague in the Czech Republic, said that he wasn’t happy with his deck’s 3—4 performance in the Standard (Type II) portion of the tournament. However, it came through for him in the elimination rounds. A black weenie deck at heart, it dips into all five colors. It also features a number of creatures that have an effect on entering play, like Man-o’-War, Uktabi Orangutan, and Nekrataal.'])"
+"('Jakub Šlemr Decklist', ['Card'])"
+"('Janosch Kühn Bio 1997', ['Card', 'Kühn, a fifteen-year-old high-school student from Hanover, Germany, played a red, white, and blue deck with a balanced mix of speed and control. It uses cards like Incinerate and Swords to Plowshares to deal with opponents’ fast creatures, while increasing the mana base with Thawing Glaciers. For late in the game, Disintegrate and Hammer of Bogardan are excellent finishing cards.'])"
+"('Janosch Kühn Decklist 1997', ['Card'])"
+"(""Jolrael's Centaur"", ['{1}{G}{G}', 'Creature — Centaur Archer', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)', '2/2'])"
+"('Kjeldoran Outpost', ['Land', 'If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don’t, put it into its owner’s graveyard.', '{T}: Add {W}.', '{1}{W}, {T}: Create a 1/1 white Soldier creature token.'])"
+"('Knight of Stromgald', ['{B}{B}', 'Creature — Human Knight', 'Protection from white', '{B}: Knight of Stromgald gains first strike until end of turn.', '{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.', '2/1'])"
+"('Knight of the Mists', ['{2}{U}', 'Creature — Human Knight', 'Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)', 'When Knight of the Mists enters the battlefield, you may pay {U}. If you don’t, destroy target Knight and it can’t be regenerated.', '2/2'])"
+"('Lhurgoyf', ['{2}{G}{G}', 'Creature — Lhurgoyf', 'Lhurgoyf’s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.', '*/1+*'])"
+"(""Man-o'-War"", ['{2}{U}', 'Creature — Jellyfish', 'When Man-o’-War enters the battlefield, return target creature to its owner’s hand.', '2/2'])"
+"('Mind Stone', ['{2}', 'Artifact', '{T}: Add {C}.', '{1}, {T}, Sacrifice Mind Stone: Draw a card.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Necratog', ['{1}{B}{B}', 'Creature — Atog', 'Exile the top creature card of your graveyard: Necratog gets +2/+2 until end of turn.', '1/2'])"
+"('Nekrataal', ['{2}{B}{B}', 'Creature — Human Assassin', 'First strike', 'When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can’t be regenerated.', '2/1'])"
+"(""Nevinyrral's Disk"", ['{4}', 'Artifact', 'Nevinyrral’s Disk enters the battlefield tapped.', '{1}, {T}: Destroy all artifacts, creatures, and enchantments.'])"
+"('Ophidian', ['{2}{U}', 'Creature — Snake', 'Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.', '1/3'])"
+"('Paul McCabe Bio', ['Card', ""McCabe, a nineteen-year-old college student from Toronto, Canada, played a fast red-blue attacking deck. The deck’s main strategy is to put the opponent on the defensive, using a large number of inexpensive, efficient creatures such as Suq'Ata Lancer, Cloud Elemental, Ophidian, and Man-o’-War. It also makes good use of several “pitch” spells like Force of Will and Pyrokinesis.""])"
+"('Paul McCabe Decklist', ['Card'])"
+"('Phyrexian Furnace', ['{1}', 'Artifact', '{T}: Exile the bottom card of target player’s graveyard.', '{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.'])"
+"('Pillage', ['{1}{R}{R}', 'Sorcery', 'Destroy target artifact or land. It can’t be regenerated.'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Political Trickery', ['{2}{U}', 'Sorcery', 'Exchange control of target land you control and target land an opponent controls. (This effect lasts indefinitely.)'])"
+"('Pyroblast', ['{R}', 'Instant', 'Choose one —', '• Counter target spell if it’s blue.', '• Destroy target permanent if it’s blue.'])"
+"('Pyrokinesis', ['{4}{R}{R}', 'Instant', 'You may exile a red card from your hand rather than pay this spell’s mana cost.', 'Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.'])"
+"('Quirion Ranger', ['{G}', 'Creature — Elf', 'Return a Forest you control to its owner’s hand: Untap target creature. Activate this ability only once each turn.', '1/1'])"
+"('River Boa', ['{1}{G}', 'Creature — Snake', 'Islandwalk (This creature can’t be blocked as long as defending player controls an Island.)', '{G}: Regenerate River Boa.', '2/1'])"
+"('Rogue Elephant', ['{G}', 'Creature — Elephant', 'When Rogue Elephant enters the battlefield, sacrifice it unless you sacrifice a Forest.', '3/3'])"
+"('Serrated Arrows', ['{4}', 'Artifact', 'Serrated Arrows enters the battlefield with three arrowhead counters on it.', 'At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.', '{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.'])"
+"('Shadow Guildmage', ['{B}', 'Creature — Human Wizard', '{U}, {T}: Put target creature you control on top of its owner’s library.', '{R}, {T}: Shadow Guildmage deals 1 damage to any target and 1 damage to you.', '1/1'])"
+"('Spectral Bears', ['{1}{G}', 'Creature — Bear Spirit', 'Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn’t untap during your next untap step.', '3/3'])"
+"('Sulfurous Springs', ['Land', '{T}: Add {C}.', '{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.'])"
+"(""Suq'Ata Lancer"", ['{2}{R}', 'Creature — Human Knight', 'Haste', 'Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)', '2/2'])"
+"('Svend Geertsen Bio', ['Card', 'Geertsen, a sixteen-year-old high-school student from Copenhagen, Denmark, played a mono-green deck known affectionately as “Señor Stompie.” Of the eight finalists, Geertsen had the best record in the Standard (Type II) portion of the tournament, going 6—0—1. This deck is overloaded with fast green creatures, thirty-three in all. The only noncreature cards are Giant Growth, Bounty of the Hunt, and Winter Orb. The deck also exploits the interaction between Rogue Elephant, Harvest Worm, and Heart of Yavimaya.'])"
+"('Svend Geertsen Decklist', ['Card'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Swords to Plowshares', ['{W}', 'Instant', 'Exile target creature. Its controller gains life equal to its power.'])"
+"('Thawing Glaciers', ['Land', 'Thawing Glaciers enters the battlefield tapped.', '{1}, {T}: Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library. Return Thawing Glaciers to its owner’s hand at the beginning of the next cleanup step.'])"
+"('Uktabi Orangutan', ['{2}{G}', 'Creature — Ape', 'When Uktabi Orangutan enters the battlefield, destroy target artifact.', '2/2'])"
+"('Underground River', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {B}. Underground River deals 1 damage to you.'])"
+"('Undiscovered Paradise', ['Land', '{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand.'])"
+"('Whirling Dervish', ['{G}{G}', 'Creature — Human Monk', 'Protection from black', 'At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.', '1/1'])"
+"('Wildfire Emissary', ['{3}{R}', 'Creature — Efreet', 'Protection from white', '{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.', '2/4'])"
+"('Winter Orb', ['{2}', 'Artifact', 'As long as Winter Orb is untapped, players can’t untap more than one land during their untap steps.'])"

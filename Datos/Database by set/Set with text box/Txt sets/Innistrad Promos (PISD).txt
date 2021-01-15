@@ -1,38 +1,5 @@
-Devil's Play
-{X}{R}
-Sorcery
-Devil’s Play deals X damage to any target.
-Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Diregraf Ghoul
-{B}
-Creature — Zombie
-Diregraf Ghoul enters the battlefield tapped.
-2/2
-Elite Inquisitor
-{W}{W}
-Creature — Human Soldier
-"First strike, vigilance"
-"Protection from Vampires, from Werewolves, and from Zombies"
-2/2
-Ludevic's Test Subject
-{1}{U}
-Creature — Lizard Egg
-Defender
-"{1}{U}: Put a hatchling counter on Ludevic’s Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it."
-0/3
-Ludevic's Abomination
-Creature — Lizard Horror
-Trample
-13/13
-Mayor of Avabruck
-{1}{G}
-Creature — Human Advisor Werewolf
-Other Human creatures you control get +1/+1.
-"At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck."
-1/1
-Howlpack Alpha
-Creature — Werewolf
-Each other creature you control that’s a Werewolf or a Wolf gets +1/+1.
-"At the beginning of your end step, create a 2/2 green Wolf creature token."
-"At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha."
-3/3
+"(""Devil's Play"", ['{X}{R}', 'Sorcery', 'Devil’s Play deals X damage to any target.', 'Flashback {X}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Diregraf Ghoul', ['{B}', 'Creature — Zombie', 'Diregraf Ghoul enters the battlefield tapped.', '2/2'])"
+"('Elite Inquisitor', ['{W}{W}', 'Creature — Human Soldier', 'First strike, vigilance', 'Protection from Vampires, from Werewolves, and from Zombies', '2/2'])"
+"(""Ludevic's Test Subject"", ['{1}{U}', 'Creature — Lizard Egg', 'Defender', '{1}{U}: Put a hatchling counter on Ludevic’s Test Subject. Then if there are five or more hatchling counters on it, remove all of them and transform it.', '0/3', ""Ludevic's Abomination"", 'Creature — Lizard Horror', 'Trample', '13/13'])"
+"('Mayor of Avabruck', ['{1}{G}', 'Creature — Human Advisor Werewolf', 'Other Human creatures you control get +1/+1.', 'At the beginning of each upkeep, if no spells were cast last turn, transform Mayor of Avabruck.', '1/1', 'Howlpack Alpha', 'Creature — Werewolf', 'Each other creature you control that’s a Werewolf or a Wolf gets +1/+1.', 'At the beginning of your end step, create a 2/2 green Wolf creature token.', 'At the beginning of each upkeep, if a player cast two or more spells last turn, transform Howlpack Alpha.', '3/3'])"

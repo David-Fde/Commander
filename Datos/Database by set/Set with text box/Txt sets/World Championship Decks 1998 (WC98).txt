@@ -1,512 +1,99 @@
-1998 World Championships Ad
-Card
-Abeyance
-{1}{W}
-Instant
-"Until end of turn, target player can’t cast instant or sorcery spells, and that player can’t activate abilities that aren’t mana abilities."
-Draw a card.
-Armageddon
-{3}{W}
-Sorcery
-Destroy all lands.
-Aura of Silence
-{1}{W}{W}
-Enchantment
-Artifact and enchantment spells your opponents cast cost {2} more to cast.
-Sacrifice Aura of Silence: Destroy target artifact or enchantment.
-Aura of Silence
-{1}{W}{W}
-Enchantment
-Artifact and enchantment spells your opponents cast cost {2} more to cast.
-Sacrifice Aura of Silence: Destroy target artifact or enchantment.
-Ball Lightning
-{R}{R}{R}
-Creature — Elemental
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-"At the beginning of the end step, sacrifice Ball Lightning."
-6/1
-Ben Rubin Bio
-Card
-"Though only fifteen years old, Ben Rubin has amassed quite an impressive tournament record. He placed second at Pro Tour™—Los Angeles and finished in the Top 16 at Grand Prix—San Francisco, his hometown. Ben played the archetypal mono-red weenie or Sligh deck at the 1998 Worlds. Although he prefers to play a more balanced deck, Rubin thought the aggressive Sligh would work well at this tournament. His deck consists of roughly one-third land, one-third direct damage, and one-third small aggressive creatures."
-Ben Rubin Decklist
-Card
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Blank Card
-Card
-Boil
-{3}{R}
-Instant
-Destroy all Islands.
-Bottle Gnomes
-{3}
-Artifact Creature — Gnome
-Sacrifice Bottle Gnomes: You gain 3 life.
-1/3
-Brian Hacker Bio
-Card
-"Twenty-three-year-old professional Magic® player Brian Hacker of San Diego, California, thought he had a good chance of winning the finals with his white weenie deck. Hacker said his deck was well set up to defeat his opponents with its twenty-something aggressive creatures—including a number of shadow and en-Kor creatures. Unlike traditional white weenie decks, which rely on Armageddon as a major threat card, Hacker’s deck uses Cataclysm, which he feels better complements the use of Empyrial Armor."
-Brian Hacker Decklist
-Card
-Brian Selden Bio
-Card
-"Brian Selden, a seventeen-year-old high school student from San Diego, California, says his deck revolves around the interaction between Survival of the Fittest and Recurring Nightmare. The former is used to put creatures into the graveyard and the latter can then bring them into play. With this combo, Selden is able to use his creatures to react to an opponent’s threats. The deck also contains over twenty creatures, many of which have an effect when they enter play or perform some other useful function, such as the Spike Weaver. Unlike many similar decks, Selden’s dips into blue, primarily for Lobotomy. He said this was the key to many of his victories."
-Brian Selden Decklist
-Card
-Capsize
-{1}{U}{U}
-Instant
-"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Return target permanent to its owner’s hand.
-Cataclysm
-{2}{W}{W}
-Sorcery
-"Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest."
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-Cloudchaser Eagle
-{3}{W}
-Creature — Bird
-Flying
-"When Cloudchaser Eagle enters the battlefield, destroy target enchantment."
-2/2
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Cursed Scroll
-{1}
-Artifact
-"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
-Cursed Scroll
-{1}
-Artifact
-"{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target."
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Disenchant
-{1}{W}
-Instant
-Destroy target artifact or enchantment.
-Dismiss
-{2}{U}{U}
-Instant
-Counter target spell.
-Draw a card.
-Dissipate
-{1}{U}{U}
-Instant
-"Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard."
-Dread of Night
-{B}
-Enchantment
-White creatures get -1/-1.
-Dwarven Miner
-{1}{R}
-Creature — Dwarf
-"{2}{R}, {T}: Destroy target nonbasic land."
-1/2
-Dwarven Thaumaturgist
-{2}{R}
-Creature — Dwarf Shaman
-{T}: Switch target creature’s power and toughness until end of turn.
-1/2
-Emerald Charm
-{G}
-Instant
-Choose one —
-• Untap target permanent.
-• Destroy target non-Aura enchantment.
-• Target creature loses flying until end of turn.
-Empyrial Armor
-{1}{W}{W}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets +1/+1 for each card in your hand.
-Final Fortune
-{R}{R}
-Instant
-"Take an extra turn after this one. At the beginning of that turn’s end step, you lose the game."
-Fireblast
-{4}{R}{R}
-Instant
-You may sacrifice two Mountains rather than pay this spell’s mana cost.
-Fireblast deals 4 damage to any target.
-Firestorm
-{R}
-Instant
-"As an additional cost to cast this spell, discard X cards."
-Firestorm deals X damage to each of X targets.
-Firestorm
-{R}
-Instant
-"As an additional cost to cast this spell, discard X cards."
-Firestorm deals X damage to each of X targets.
-Forbid
-{1}{U}{U}
-Instant
-"Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Counter target spell.
-Force Spike
-{U}
-Instant
-Counter target spell unless its controller pays {1}.
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Gemstone Mine
-Land
-Gemstone Mine enters the battlefield with three mining counters on it.
-"{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it."
-Goblin Vandal
-{R}
-Creature — Goblin Rogue
-"Whenever Goblin Vandal attacks and isn’t blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn."
-1/1
-Grindstone
-{1}
-Artifact
-"{3}, {T}: Target player mills two cards. If two cards that share a color were milled this way, repeat this process."
-Hall of Gemstone
-{1}{G}{G}
-World Enchantment
-"At the beginning of each player’s upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color."
-Hammer of Bogardan
-{1}{R}{R}
-Sorcery
-Hammer of Bogardan deals 3 damage to any target.
-{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.
-Hydroblast
-{U}
-Instant
-Choose one —
-• Counter target spell if it’s red.
-• Destroy target permanent if it’s red.
-Impulse
-{1}{U}
-Instant
-Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Incinerate
-{1}{R}
-Instant
-Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.
-Ironclaw Orcs
-{1}{R}
-Creature — Orc
-Ironclaw Orcs can’t block creatures with power 2 or greater.
-2/2
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jackal Pup
-{R}
-Creature — Jackal
-"Whenever Jackal Pup is dealt damage, it deals that much damage to you."
-2/1
-Karplusan Forest
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
-Lobotomy
-{2}{U}{B}
-Sorcery
-"Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player’s graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library."
-Mana Leak
-{1}{U}
-Instant
-Counter target spell unless its controller pays {3}.
-Man-o'-War
-{2}{U}
-Creature — Jellyfish
-"When Man-o’-War enters the battlefield, return target creature to its owner’s hand."
-2/2
-Memory Lapse
-{1}{U}
-Instant
-"Counter target spell. If that spell is countered this way, put it on top of its owner’s library instead of into that player’s graveyard."
-Mogg Fanatic
-{R}
-Creature — Goblin
-Sacrifice Mogg Fanatic: It deals 1 damage to any target.
-1/1
-Mogg Flunkies
-{1}{R}
-Creature — Goblin
-Mogg Flunkies can’t attack or block alone.
-3/3
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Nekrataal
-{2}{B}{B}
-Creature — Human Assassin
-First strike
-"When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can’t be regenerated."
-2/1
-Nevinyrral's Disk
-{4}
-Artifact
-Nevinyrral’s Disk enters the battlefield tapped.
-"{1}, {T}: Destroy all artifacts, creatures, and enchantments."
-Nomads en-Kor
-{W}
-Creature — Kor Nomad Soldier
-{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.
-1/1
-Orcish Settlers
-{1}{R}
-Creature — Orc
-"{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands."
-1/1
-Paladin en-Vec
-{1}{W}{W}
-Creature — Human Knight
-"First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can’t be blocked, targeted, dealt damage, or enchanted by anything black or red.)"
-2/2
-Phyrexian Furnace
-{1}
-Artifact
-{T}: Exile the bottom card of target player’s graveyard.
-"{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card."
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Pyroblast
-{R}
-Instant
-Choose one —
-• Counter target spell if it’s blue.
-• Destroy target permanent if it’s blue.
-Quicksand
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn."
-Rainbow Efreet
-{3}{U}
-Creature — Efreet
-Flying
-"{U}{U}: Rainbow Efreet phases out. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before you untap during your next untap step.)"
-3/1
-Randy Buehler Bio
-Card
-"Although twenty-six-year-old professional Magic® player Randy Buehler of Pittsburgh, Pennsylvania, didn’t make the Top 8, he did finish with an impressive 6—1 record during the Standard portion of the World Championships. Buehler’s Draw, Go deck is built for pure control with over twenty counters. He uses eight card-drawing spells to get to his counters more quickly and only four Stalking Stones and one Rainbow Efreet for offensive power. Buehler said he won some games without ever having to tap a land for mana on his own turn."
-Randy Buehler Decklist
-Card
-Recurring Nightmare
-{2}{B}
-Enchantment
-"Sacrifice a creature, Return Recurring Nightmare to its owner’s hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery."
-Reflecting Pool
-Land
-{T}: Add one mana of any type that a land you control could produce.
-Scroll Rack
-{2}
-Artifact
-"{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order."
-Sea Sprite
-{1}{U}
-Creature — Faerie
-"Flying, protection from red"
-1/1
-Shattering Pulse
-{1}{R}
-Instant
-"Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Destroy target artifact.
-Shock
-{R}
-Instant
-Shock deals 2 damage to any target.
-Soltari Monk
-{W}{W}
-Creature — Soltari Monk Cleric
-Protection from black
-Shadow (This creature can block or be blocked by only creatures with shadow.)
-2/1
-Soltari Priest
-{W}{W}
-Creature — Soltari Cleric
-Protection from red
-Shadow (This creature can block or be blocked by only creatures with shadow.)
-2/1
-Soltari Visionary
-{1}{W}{W}
-Creature — Soltari Cleric
-Shadow (This creature can block or be blocked by only creatures with shadow.)
-"Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls."
-2/2
-Soul Warden
-{W}
-Creature — Human Cleric
-"Whenever another creature enters the battlefield, you gain 1 life."
-1/1
-Spike Feeder
-{1}{G}{G}
-Creature — Spike
-Spike Feeder enters the battlefield with two +1/+1 counters on it.
-"{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature."
-Remove a +1/+1 counter from Spike Feeder: You gain 2 life.
-0/0
-Spike Weaver
-{2}{G}{G}
-Creature — Spike
-Spike Weaver enters the battlefield with three +1/+1 counters on it.
-"{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature."
-"{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn."
-0/0
-Spirit Link
-{W}
-Enchantment — Aura
-Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
-"Whenever enchanted creature deals damage, you gain that much life."
-Spirit of the Night
-{6}{B}{B}{B}
-Legendary Creature — Demon Spirit
-"Flying, trample, haste, protection from black"
-Spirit of the Night has first strike as long as it’s attacking.
-6/5
-Stalking Stones
-Land
-{T}: Add {C}.
-{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that’s still a land. (This effect lasts indefinitely.)
-Staunch Defenders
-{3}{W}{W}
-Creature — Human Soldier
-"When Staunch Defenders enters the battlefield, you gain 4 life."
-3/4
-Survival of the Fittest
-{1}{G}
-Enchantment
-"{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library."
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Thrull Surgeon
-{1}{B}
-Creature — Thrull
-"{1}{B}, Sacrifice Thrull Surgeon: Look at target player’s hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery."
-1/1
-Tithe
-{W}
-Instant
-"Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library."
-Tradewind Rider
-{3}{U}
-Creature — Spirit
-Flying
-"{T}, Tap two untapped creatures you control: Return target permanent to its owner’s hand."
-1/4
-Uktabi Orangutan
-{2}{G}
-Creature — Ape
-"When Uktabi Orangutan enters the battlefield, destroy target artifact."
-2/2
-Underground River
-Land
-{T}: Add {C}.
-{T}: Add {U} or {B}. Underground River deals 1 damage to you.
-Undiscovered Paradise
-Land
-"{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand."
-Verdant Force
-{5}{G}{G}{G}
-Creature — Elemental
-"At the beginning of each upkeep, create a 1/1 green Saproling creature token."
-7/7
-Viashino Sandstalker
-{1}{R}{R}
-Creature — Viashino Warrior
-Haste (This creature can attack and {T} as soon as it comes under your control.)
-"At the beginning of the end step, return Viashino Sandstalker to its owner’s hand. (Return it only if it’s on the battlefield.)"
-4/2
-Volrath's Stronghold
-Legendary Land
-{T}: Add {C}.
-"{1}{B}, {T}: Put target creature card from your graveyard on top of your library."
-Wall of Blossoms
-{1}{G}
-Creature — Plant Wall
-Defender
-"When Wall of Blossoms enters the battlefield, draw a card."
-0/4
-Wall of Roots
-{1}{G}
-Creature — Plant Wall
-Defender
-Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.
-0/5
-Warrior en-Kor
-{W}{W}
-Creature — Kor Warrior Knight
-{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.
-2/2
-Wasteland
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
-Wasteland
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Wasteland: Destroy target nonbasic land."
-Whispers of the Muse
-{U}
-Instant
-"Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)"
-Draw a card.
-White Knight
-{W}{W}
-Creature — Human Knight
-First strike (This creature deals combat damage before creatures without first strike.)
-"Protection from black (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything black.)"
-2/2
+"('1998 World Championships Ad', ['Card'])"
+"('Abeyance', ['{1}{W}', 'Instant', 'Until end of turn, target player can’t cast instant or sorcery spells, and that player can’t activate abilities that aren’t mana abilities.', 'Draw a card.'])"
+"('Armageddon', ['{3}{W}', 'Sorcery', 'Destroy all lands.'])"
+"('Aura of Silence', ['{1}{W}{W}', 'Enchantment', 'Artifact and enchantment spells your opponents cast cost {2} more to cast.', 'Sacrifice Aura of Silence: Destroy target artifact or enchantment.'])"
+"('Ball Lightning', ['{R}{R}{R}', 'Creature — Elemental', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', 'At the beginning of the end step, sacrifice Ball Lightning.', '6/1'])"
+"('Ben Rubin Bio', ['Card', 'Though only fifteen years old, Ben Rubin has amassed quite an impressive tournament record. He placed second at Pro Tour™—Los Angeles and finished in the Top 16 at Grand Prix—San Francisco, his hometown. Ben played the archetypal mono-red weenie or Sligh deck at the 1998 Worlds. Although he prefers to play a more balanced deck, Rubin thought the aggressive Sligh would work well at this tournament. His deck consists of roughly one-third land, one-third direct damage, and one-third small aggressive creatures.'])"
+"('Ben Rubin Decklist', ['Card'])"
+"('Birds of Paradise', ['{G}', 'Creature — Bird', 'Flying', '{T}: Add one mana of any color.', '0/1'])"
+"('Blank Card', ['Card'])"
+"('Boil', ['{3}{R}', 'Instant', 'Destroy all Islands.'])"
+"('Bottle Gnomes', ['{3}', 'Artifact Creature — Gnome', 'Sacrifice Bottle Gnomes: You gain 3 life.', '1/3'])"
+"('Brian Hacker Bio', ['Card', 'Twenty-three-year-old professional Magic® player Brian Hacker of San Diego, California, thought he had a good chance of winning the finals with his white weenie deck. Hacker said his deck was well set up to defeat his opponents with its twenty-something aggressive creatures—including a number of shadow and en-Kor creatures. Unlike traditional white weenie decks, which rely on Armageddon as a major threat card, Hacker’s deck uses Cataclysm, which he feels better complements the use of Empyrial Armor.'])"
+"('Brian Hacker Decklist', ['Card'])"
+"('Brian Selden Bio', ['Card', 'Brian Selden, a seventeen-year-old high school student from San Diego, California, says his deck revolves around the interaction between Survival of the Fittest and Recurring Nightmare. The former is used to put creatures into the graveyard and the latter can then bring them into play. With this combo, Selden is able to use his creatures to react to an opponent’s threats. The deck also contains over twenty creatures, many of which have an effect when they enter play or perform some other useful function, such as the Spike Weaver. Unlike many similar decks, Selden’s dips into blue, primarily for Lobotomy. He said this was the key to many of his victories.'])"
+"('Brian Selden Decklist', ['Card'])"
+"('Capsize', ['{1}{U}{U}', 'Instant', 'Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Return target permanent to its owner’s hand.'])"
+"('Cataclysm', ['{2}{W}{W}', 'Sorcery', 'Each player chooses from among the permanents they control an artifact, a creature, an enchantment, and a land, then sacrifices the rest.'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('Cloudchaser Eagle', ['{3}{W}', 'Creature — Bird', 'Flying', 'When Cloudchaser Eagle enters the battlefield, destroy target enchantment.', '2/2'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Cursed Scroll', ['{1}', 'Artifact', '{3}, {T}: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target.'])"
+"('Disenchant', ['{1}{W}', 'Instant', 'Destroy target artifact or enchantment.'])"
+"('Dismiss', ['{2}{U}{U}', 'Instant', 'Counter target spell.', 'Draw a card.'])"
+"('Dissipate', ['{1}{U}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard.'])"
+"('Dread of Night', ['{B}', 'Enchantment', 'White creatures get -1/-1.'])"
+"('Dwarven Miner', ['{1}{R}', 'Creature — Dwarf', '{2}{R}, {T}: Destroy target nonbasic land.', '1/2'])"
+"('Dwarven Thaumaturgist', ['{2}{R}', 'Creature — Dwarf Shaman', '{T}: Switch target creature’s power and toughness until end of turn.', '1/2'])"
+"('Emerald Charm', ['{G}', 'Instant', 'Choose one —', '• Untap target permanent.', '• Destroy target non-Aura enchantment.', '• Target creature loses flying until end of turn.'])"
+"('Empyrial Armor', ['{1}{W}{W}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +1/+1 for each card in your hand.'])"
+"('Final Fortune', ['{R}{R}', 'Instant', 'Take an extra turn after this one. At the beginning of that turn’s end step, you lose the game.'])"
+"('Fireblast', ['{4}{R}{R}', 'Instant', 'You may sacrifice two Mountains rather than pay this spell’s mana cost.', 'Fireblast deals 4 damage to any target.'])"
+"('Firestorm', ['{R}', 'Instant', 'As an additional cost to cast this spell, discard X cards.', 'Firestorm deals X damage to each of X targets.'])"
+"('Forbid', ['{1}{U}{U}', 'Instant', 'Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Counter target spell.'])"
+"('Force Spike', ['{U}', 'Instant', 'Counter target spell unless its controller pays {1}.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Gemstone Mine', ['Land', 'Gemstone Mine enters the battlefield with three mining counters on it.', '{T}, Remove a mining counter from Gemstone Mine: Add one mana of any color. If there are no mining counters on Gemstone Mine, sacrifice it.'])"
+"('Goblin Vandal', ['{R}', 'Creature — Goblin Rogue', 'Whenever Goblin Vandal attacks and isn’t blocked, you may pay {R}. If you do, destroy target artifact defending player controls and Goblin Vandal assigns no combat damage this turn.', '1/1'])"
+"('Grindstone', ['{1}', 'Artifact', '{3}, {T}: Target player mills two cards. If two cards that share a color were milled this way, repeat this process.'])"
+"('Hall of Gemstone', ['{1}{G}{G}', 'World Enchantment', 'At the beginning of each player’s upkeep, that player chooses a color. Until end of turn, lands tapped for mana produce mana of the chosen color instead of any other color.'])"
+"('Hammer of Bogardan', ['{1}{R}{R}', 'Sorcery', 'Hammer of Bogardan deals 3 damage to any target.', '{2}{R}{R}{R}: Return Hammer of Bogardan from your graveyard to your hand. Activate this ability only during your upkeep.'])"
+"('Hydroblast', ['{U}', 'Instant', 'Choose one —', '• Counter target spell if it’s red.', '• Destroy target permanent if it’s red.'])"
+"('Impulse', ['{1}{U}', 'Instant', 'Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.'])"
+"('Incinerate', ['{1}{R}', 'Instant', 'Incinerate deals 3 damage to any target. A creature dealt damage this way can’t be regenerated this turn.'])"
+"('Ironclaw Orcs', ['{1}{R}', 'Creature — Orc', 'Ironclaw Orcs can’t block creatures with power 2 or greater.', '2/2'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jackal Pup', ['{R}', 'Creature — Jackal', 'Whenever Jackal Pup is dealt damage, it deals that much damage to you.', '2/1'])"
+"('Karplusan Forest', ['Land', '{T}: Add {C}.', '{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.'])"
+"('Lobotomy', ['{2}{U}{B}', 'Sorcery', 'Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player’s graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.'])"
+"('Mana Leak', ['{1}{U}', 'Instant', 'Counter target spell unless its controller pays {3}.'])"
+"(""Man-o'-War"", ['{2}{U}', 'Creature — Jellyfish', 'When Man-o’-War enters the battlefield, return target creature to its owner’s hand.', '2/2'])"
+"('Memory Lapse', ['{1}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, put it on top of its owner’s library instead of into that player’s graveyard.'])"
+"('Mogg Fanatic', ['{R}', 'Creature — Goblin', 'Sacrifice Mogg Fanatic: It deals 1 damage to any target.', '1/1'])"
+"('Mogg Flunkies', ['{1}{R}', 'Creature — Goblin', 'Mogg Flunkies can’t attack or block alone.', '3/3'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Nekrataal', ['{2}{B}{B}', 'Creature — Human Assassin', 'First strike', 'When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can’t be regenerated.', '2/1'])"
+"(""Nevinyrral's Disk"", ['{4}', 'Artifact', 'Nevinyrral’s Disk enters the battlefield tapped.', '{1}, {T}: Destroy all artifacts, creatures, and enchantments.'])"
+"('Nomads en-Kor', ['{W}', 'Creature — Kor Nomad Soldier', '{0}: The next 1 damage that would be dealt to Nomads en-Kor this turn is dealt to target creature you control instead.', '1/1'])"
+"('Orcish Settlers', ['{1}{R}', 'Creature — Orc', '{X}{X}{R}, {T}, Sacrifice Orcish Settlers: Destroy X target lands.', '1/1'])"
+"('Paladin en-Vec', ['{1}{W}{W}', 'Creature — Human Knight', 'First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can’t be blocked, targeted, dealt damage, or enchanted by anything black or red.)', '2/2'])"
+"('Phyrexian Furnace', ['{1}', 'Artifact', '{T}: Exile the bottom card of target player’s graveyard.', '{1}, Sacrifice Phyrexian Furnace: Exile target card from a graveyard. Draw a card.'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Pyroblast', ['{R}', 'Instant', 'Choose one —', '• Counter target spell if it’s blue.', '• Destroy target permanent if it’s blue.'])"
+"('Quicksand', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.'])"
+"('Rainbow Efreet', ['{3}{U}', 'Creature — Efreet', 'Flying', '{U}{U}: Rainbow Efreet phases out. (While it’s phased out, it’s treated as though it doesn’t exist. It phases in before you untap during your next untap step.)', '3/1'])"
+"('Randy Buehler Bio', ['Card', 'Although twenty-six-year-old professional Magic® player Randy Buehler of Pittsburgh, Pennsylvania, didn’t make the Top 8, he did finish with an impressive 6—1 record during the Standard portion of the World Championships. Buehler’s Draw, Go deck is built for pure control with over twenty counters. He uses eight card-drawing spells to get to his counters more quickly and only four Stalking Stones and one Rainbow Efreet for offensive power. Buehler said he won some games without ever having to tap a land for mana on his own turn.'])"
+"('Randy Buehler Decklist', ['Card'])"
+"('Recurring Nightmare', ['{2}{B}', 'Enchantment', 'Sacrifice a creature, Return Recurring Nightmare to its owner’s hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.'])"
+"('Reflecting Pool', ['Land', '{T}: Add one mana of any type that a land you control could produce.'])"
+"('Scroll Rack', ['{2}', 'Artifact', '{1}, {T}: Exile any number of cards from your hand face down. Put that many cards from the top of your library into your hand. Then look at the exiled cards and put them on top of your library in any order.'])"
+"('Sea Sprite', ['{1}{U}', 'Creature — Faerie', 'Flying, protection from red', '1/1'])"
+"('Shattering Pulse', ['{1}{R}', 'Instant', 'Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Destroy target artifact.'])"
+"('Shock', ['{R}', 'Instant', 'Shock deals 2 damage to any target.'])"
+"('Soltari Monk', ['{W}{W}', 'Creature — Soltari Monk Cleric', 'Protection from black', 'Shadow (This creature can block or be blocked by only creatures with shadow.)', '2/1'])"
+"('Soltari Priest', ['{W}{W}', 'Creature — Soltari Cleric', 'Protection from red', 'Shadow (This creature can block or be blocked by only creatures with shadow.)', '2/1'])"
+"('Soltari Visionary', ['{1}{W}{W}', 'Creature — Soltari Cleric', 'Shadow (This creature can block or be blocked by only creatures with shadow.)', 'Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.', '2/2'])"
+"('Soul Warden', ['{W}', 'Creature — Human Cleric', 'Whenever another creature enters the battlefield, you gain 1 life.', '1/1'])"
+"('Spike Feeder', ['{1}{G}{G}', 'Creature — Spike', 'Spike Feeder enters the battlefield with two +1/+1 counters on it.', '{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.', 'Remove a +1/+1 counter from Spike Feeder: You gain 2 life.', '0/0'])"
+"('Spike Weaver', ['{2}{G}{G}', 'Creature — Spike', 'Spike Weaver enters the battlefield with three +1/+1 counters on it.', '{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.', '{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.', '0/0'])"
+"('Spirit Link', ['{W}', 'Enchantment — Aura', 'Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)', 'Whenever enchanted creature deals damage, you gain that much life.'])"
+"('Spirit of the Night', ['{6}{B}{B}{B}', 'Legendary Creature — Demon Spirit', 'Flying, trample, haste, protection from black', 'Spirit of the Night has first strike as long as it’s attacking.', '6/5'])"
+"('Stalking Stones', ['Land', '{T}: Add {C}.', '{6}: Stalking Stones becomes a 3/3 Elemental artifact creature that’s still a land. (This effect lasts indefinitely.)'])"
+"('Staunch Defenders', ['{3}{W}{W}', 'Creature — Human Soldier', 'When Staunch Defenders enters the battlefield, you gain 4 life.', '3/4'])"
+"('Survival of the Fittest', ['{1}{G}', 'Enchantment', '{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Thrull Surgeon', ['{1}{B}', 'Creature — Thrull', '{1}{B}, Sacrifice Thrull Surgeon: Look at target player’s hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.', '1/1'])"
+"('Tithe', ['{W}', 'Instant', 'Search your library for a Plains card. If target opponent controls more lands than you, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.'])"
+"('Tradewind Rider', ['{3}{U}', 'Creature — Spirit', 'Flying', '{T}, Tap two untapped creatures you control: Return target permanent to its owner’s hand.', '1/4'])"
+"('Uktabi Orangutan', ['{2}{G}', 'Creature — Ape', 'When Uktabi Orangutan enters the battlefield, destroy target artifact.', '2/2'])"
+"('Underground River', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {B}. Underground River deals 1 damage to you.'])"
+"('Undiscovered Paradise', ['Land', '{T}: Add one mana of any color. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner’s hand.'])"
+"('Verdant Force', ['{5}{G}{G}{G}', 'Creature — Elemental', 'At the beginning of each upkeep, create a 1/1 green Saproling creature token.', '7/7'])"
+"('Viashino Sandstalker', ['{1}{R}{R}', 'Creature — Viashino Warrior', 'Haste (This creature can attack and {T} as soon as it comes under your control.)', 'At the beginning of the end step, return Viashino Sandstalker to its owner’s hand. (Return it only if it’s on the battlefield.)', '4/2'])"
+"(""Volrath's Stronghold"", ['Legendary Land', '{T}: Add {C}.', '{1}{B}, {T}: Put target creature card from your graveyard on top of your library.'])"
+"('Wall of Blossoms', ['{1}{G}', 'Creature — Plant Wall', 'Defender', 'When Wall of Blossoms enters the battlefield, draw a card.', '0/4'])"
+"('Wall of Roots', ['{1}{G}', 'Creature — Plant Wall', 'Defender', 'Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.', '0/5'])"
+"('Warrior en-Kor', ['{W}{W}', 'Creature — Kor Warrior Knight', '{0}: The next 1 damage that would be dealt to Warrior en-Kor this turn is dealt to target creature you control instead.', '2/2'])"
+"('Wasteland', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Wasteland: Destroy target nonbasic land.'])"
+"('Whispers of the Muse', ['{U}', 'Instant', 'Buyback {5} (You may pay an additional {5} as you cast this spell. If you do, put this card into your hand as it resolves.)', 'Draw a card.'])"
+"('White Knight', ['{W}{W}', 'Creature — Human Knight', 'First strike (This creature deals combat damage before creatures without first strike.)', 'Protection from black (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything black.)', '2/2'])"

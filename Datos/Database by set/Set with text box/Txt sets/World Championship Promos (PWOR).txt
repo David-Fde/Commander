@@ -1,9 +1,2 @@
-Balduvian Horde
-{2}{R}{R}
-Creature — Human Barbarian
-"When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random."
-5/5
-Crucible of Worlds
-{3}
-Artifact
-You may play lands from your graveyard.
+"('Balduvian Horde', ['{2}{R}{R}', 'Creature — Human Barbarian', 'When Balduvian Horde enters the battlefield, sacrifice it unless you discard a card at random.', '5/5'])"
+"('Crucible of Worlds', ['{3}', 'Artifact', 'You may play lands from your graveyard.'])"

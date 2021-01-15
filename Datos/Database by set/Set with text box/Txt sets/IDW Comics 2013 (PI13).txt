@@ -1,24 +1,5 @@
-Corrupt
-{5}{B}
-Sorcery
-Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.
-Gaze of Granite
-{X}{B}{B}{G}
-Sorcery
-Destroy each nonland permanent with converted mana cost X or less.
-High Tide
-{U}
-Instant
-"Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}."
-Ogre Arsonist
-{4}{R}
-Creature — Ogre
-"When Ogre Arsonist enters the battlefield, destroy target land."
-3/3
-Voidmage Husher
-{3}{U}
-Creature — Human Wizard
-Flash (You may cast this spell any time you could cast an instant.)
-"When Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can’t be targeted.)"
-"Whenever you cast a spell, you may return Voidmage Husher to its owner’s hand."
-2/2
+"('Corrupt', ['{5}{B}', 'Sorcery', 'Corrupt deals damage to any target equal to the number of Swamps you control. You gain life equal to the damage dealt this way.'])"
+"('Gaze of Granite', ['{X}{B}{B}{G}', 'Sorcery', 'Destroy each nonland permanent with converted mana cost X or less.'])"
+"('High Tide', ['{U}', 'Instant', 'Until end of turn, whenever a player taps an Island for mana, that player adds an additional {U}.'])"
+"('Ogre Arsonist', ['{4}{R}', 'Creature — Ogre', 'When Ogre Arsonist enters the battlefield, destroy target land.', '3/3'])"
+"('Voidmage Husher', ['{3}{U}', 'Creature — Human Wizard', 'Flash (You may cast this spell any time you could cast an instant.)', 'When Voidmage Husher enters the battlefield, counter target activated ability. (Mana abilities can’t be targeted.)', 'Whenever you cast a spell, you may return Voidmage Husher to its owner’s hand.', '2/2'])"

@@ -1,5 +1,1 @@
-Rukh Egg
-{3}{R}
-Creature — Bird Egg
-"When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step."
-0/3
+"('Rukh Egg', ['{3}{R}', 'Creature — Bird Egg', 'When Rukh Egg dies, create a 4/4 red Bird creature token with flying at the beginning of the next end step.', '0/3'])"

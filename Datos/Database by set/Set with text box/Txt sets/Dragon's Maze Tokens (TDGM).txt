@@ -1,4 +1,1 @@
-Elemental
-Token Creature — Elemental
-This creature’s power and toughness are each equal to the number of creatures you control.
-*/*
+"('Elemental', ['Token Creature — Elemental', 'This creature’s power and toughness are each equal to the number of creatures you control.', '*/*'])"

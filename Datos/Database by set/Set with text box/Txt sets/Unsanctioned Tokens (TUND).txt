@@ -1,19 +1,6 @@
-Acorn Stash
-Card
-(Place your acorn counters in this area.)
-Beeble
-Token Creature — Beeble
-1/1
-Dragon
-Token Creature — Dragon
-Flying
-4/4
-Giant Teddy Bear
-Token Creature — Giant Teddy Bear
-5/5
-Goblin
-Token Creature — Goblin
-1/1
-Squirrel
-Token Creature — Squirrel
-1/1
+"('Acorn Stash', ['Card', '(Place your acorn counters in this area.)'])"
+"('Beeble', ['Token Creature — Beeble', '1/1'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '4/4'])"
+"('Giant Teddy Bear', ['Token Creature — Giant Teddy Bear', '5/5'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Squirrel', ['Token Creature — Squirrel', '1/1'])"

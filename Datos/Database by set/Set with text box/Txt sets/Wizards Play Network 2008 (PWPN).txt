@@ -1,9 +1,2 @@
-Sprouting Thrinax
-{B}{R}{G}
-Creature — Lizard
-"When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens."
-3/3
-Woolly Thoctar
-{R}{G}{W}
-Creature — Beast
-5/4
+"('Sprouting Thrinax', ['{B}{R}{G}', 'Creature — Lizard', 'When Sprouting Thrinax dies, create three 1/1 green Saproling creature tokens.', '3/3'])"
+"('Woolly Thoctar', ['{R}{G}{W}', 'Creature — Beast', '5/4'])"

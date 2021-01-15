@@ -1,34 +1,11 @@
-Beast
-Token Creature — Beast
-3/3
-Cat
-Token Creature — Cat
-2/2
-Drake
-Token Creature — Drake
-Flying
-2/2
-Goat
-Token Creature — Goat
-0/1
-Goblin
-Token Creature — Goblin
-1/1
-Hellion
-Token Creature — Hellion
-4/4
-Liliana of the Dark Realms Emblem
-Emblem — Liliana
-Swamps you control have ‘{T}: Add {B}{B}{B}{B}.'
-Saproling
-Token Creature — Saproling
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Wurm
-Token Creature — Wurm
-6/6
-Zombie
-Token Creature — Zombie
-2/2
+"('Beast', ['Token Creature — Beast', '3/3'])"
+"('Cat', ['Token Creature — Cat', '2/2'])"
+"('Drake', ['Token Creature — Drake', 'Flying', '2/2'])"
+"('Goat', ['Token Creature — Goat', '0/1'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Hellion', ['Token Creature — Hellion', '4/4'])"
+"('Liliana of the Dark Realms Emblem', ['Emblem — Liliana', ""Swamps you control have ‘{T}: Add {B}{B}{B}{B}.'""])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Wurm', ['Token Creature — Wurm', '6/6'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

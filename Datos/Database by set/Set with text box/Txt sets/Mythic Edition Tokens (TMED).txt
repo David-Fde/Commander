@@ -1,53 +1,15 @@
-Beast
-Token Creature — Beast
-Deathtouch
-3/3
-Construct
-Token Artifact Creature — Construct
-This creature gets +1/+1 for each artifact you control.
-0/0
-Construct
-Token Artifact Creature — Construct
-Defender
-1/1
-Dack Fayden Emblem
-Emblem — Dack
-"Whenever you cast a spell that targets one or more permanents, gain control of those permanents."
-"Domri, Chaos Bringer Emblem"
-Emblem — Domri
-"At the beginning of each end step, create a 4/4 red and green Beast creature token with trample."
-Dragon
-Token Creature — Dragon
-Flying
-4/4
-"Elspeth, Knight-Errant Emblem"
-Emblem — Elspeth
-"Artifacts, creatures, enchantments, and lands you control have indestructible."
-"Garruk, Apex Predator Emblem"
-Emblem — Garruk
-"Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn."
-Jaya Ballard Emblem
-Emblem — Jaya
-"You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead."
-"Liliana, the Last Hope Emblem"
-Emblem — Liliana
-"At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control."
-"Ral, Izzet Viceroy Emblem"
-Emblem — Ral
-"Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards."
-Soldier
-Token Creature — Soldier
-1/1
-"Tamiyo, the Moon Sage Emblem"
-Emblem — Tamiyo
-You have no maximum hand size.
-"Whenever a card is put into your graveyard from anywhere, you may return it to your hand."
-"Teferi, Hero of Dominaria Emblem"
-Emblem — Teferi
-"Whenever you draw a card, exile target permanent an opponent controls."
-"Vraska, Golgari Queen Emblem"
-Emblem — Vraska
-"Whenever a creature you control deals combat damage to a player, that player loses the game."
-Zombie
-Token Creature — Zombie
-2/2
+"('Beast', ['Token Creature — Beast', 'Deathtouch', '3/3'])"
+"('Construct', ['Token Artifact Creature — Construct', 'Defender', '1/1'])"
+"('Dack Fayden Emblem', ['Emblem — Dack', 'Whenever you cast a spell that targets one or more permanents, gain control of those permanents.'])"
+"('Domri, Chaos Bringer Emblem', ['Emblem — Domri', 'At the beginning of each end step, create a 4/4 red and green Beast creature token with trample.'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '4/4'])"
+"('Elspeth, Knight-Errant Emblem', ['Emblem — Elspeth', 'Artifacts, creatures, enchantments, and lands you control have indestructible.'])"
+"('Garruk, Apex Predator Emblem', ['Emblem — Garruk', 'Whenever a creature attacks you, it gets +5/+5 and gains trample until end of turn.'])"
+"('Jaya Ballard Emblem', ['Emblem — Jaya', 'You may cast instant and sorcery cards from your graveyard. If a card cast this way would be put into your graveyard, exile it instead.'])"
+"('Liliana, the Last Hope Emblem', ['Emblem — Liliana', 'At the beginning of your end step, create X 2/2 black Zombie creature tokens, where X is two plus the number of Zombies you control.'])"
+"('Ral, Izzet Viceroy Emblem', ['Emblem — Ral', 'Whenever you cast an instant or sorcery spell, this emblem deals 4 damage to any target and you draw two cards.'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Tamiyo, the Moon Sage Emblem', ['Emblem — Tamiyo', 'You have no maximum hand size.', 'Whenever a card is put into your graveyard from anywhere, you may return it to your hand.'])"
+"('Teferi, Hero of Dominaria Emblem', ['Emblem — Teferi', 'Whenever you draw a card, exile target permanent an opponent controls.'])"
+"('Vraska, Golgari Queen Emblem', ['Emblem — Vraska', 'Whenever a creature you control deals combat damage to a player, that player loses the game.'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

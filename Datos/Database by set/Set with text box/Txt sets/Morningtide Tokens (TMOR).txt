@@ -1,10 +1,3 @@
-Faerie Rogue
-Token Creature — Faerie Rogue
-Flying
-1/1
-Giant Warrior
-Token Creature — Giant Warrior
-5/5
-Treefolk Shaman
-Token Creature — Treefolk Shaman
-2/5
+"('Faerie Rogue', ['Token Creature — Faerie Rogue', 'Flying', '1/1'])"
+"('Giant Warrior', ['Token Creature — Giant Warrior', '5/5'])"
+"('Treefolk Shaman', ['Token Creature — Treefolk Shaman', '2/5'])"

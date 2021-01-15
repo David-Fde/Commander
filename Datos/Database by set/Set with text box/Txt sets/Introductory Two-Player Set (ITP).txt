@@ -1,287 +1,57 @@
-Alabaster Potion
-{X}{W}{W}
-Instant
-Choose one —
-• Target player gains X life.
-• Prevent the next X damage that would be dealt to any target this turn.
-Battering Ram
-{2}
-Artifact Creature — Construct
-"At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s blocking.)"
-"Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat."
-1/1
-Bog Imp
-{1}{B}
-Creature — Imp
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-1/1
-Bog Wraith
-{3}{B}
-Creature — Wraith
-Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
-3/3
-Circle of Protection: Black
-{1}{W}
-Enchantment
-"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
-Circle of Protection: Red
-{1}{W}
-Enchantment
-"{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage."
-Clockwork Beast
-{6}
-Artifact Creature — Beast
-Clockwork Beast enters the battlefield with seven +1/+0 counters on it.
-"At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it."
-"{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can’t cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep."
-0/4
-Cursed Land
-{2}{B}{B}
-Enchantment — Aura
-Enchant land
-"At the beginning of the upkeep of enchanted land’s controller, Cursed Land deals 1 damage to that player."
-Dark Ritual
-{B}
-Instant
-Add {B}{B}{B}.
-Detonate
-{X}{R}
-Sorcery
-Destroy target artifact with converted mana cost X. It can’t be regenerated. Detonate deals X damage to that artifact’s controller.
-Disintegrate
-{X}{R}
-Sorcery
-"Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead."
-Durkwood Boars
-{4}{G}
-Creature — Boar
-4/4
-Elven Riders
-{3}{G}{G}
-Creature — Elf
-Elven Riders can’t be blocked except by Walls and/or creatures with flying.
-3/3
-Elvish Archers
-{1}{G}
-Creature — Elf Archer
-First strike
-2/1
-Energy Flux
-{2}{U}
-Enchantment
-"All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.”"
-Feedback
-{2}{U}
-Enchantment — Aura
-Enchant enchantment
-"At the beginning of the upkeep of enchanted enchantment’s controller, Feedback deals 1 damage to that player."
-Fireball
-{X}{R}
-Sorcery
-This spell costs {1} more to cast for each target beyond the first.
-"Fireball deals X damage divided evenly, rounded down, among any number of targets."
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Glasses of Urza
-{1}
-Artifact
-{T}: Look at target player’s hand.
-Grizzly Bears
-{1}{G}
-Creature — Bear
-2/2
-Healing Salve
-{W}
-Instant
-Choose one —
-• Target player gains 3 life.
-• Prevent the next 3 damage that would be dealt to any target this turn.
-Hill Giant
-{3}{R}
-Creature — Giant
-3/3
-Ironclaw Orcs
-{1}{R}
-Creature — Orc
-Ironclaw Orcs can’t block creatures with power 2 or greater.
-2/2
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jayemdae Tome
-{4}
-Artifact
-"{4}, {T}: Draw a card."
-Lost Soul
-{1}{B}{B}
-Creature — Spirit Minion
-Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)
-2/1
-Merfolk of the Pearl Trident
-{U}
-Creature — Merfolk
-1/1
-Mesa Pegasus
-{1}{W}
-Creature — Pegasus
-"Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)"
-1/1
-Mons's Goblin Raiders
-{R}
-Creature — Goblin
-1/1
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Murk Dwellers
-{3}{B}
-Creature — Zombie
-"Whenever Murk Dwellers attacks and isn’t blocked, it gets +2/+0 until end of combat."
-2/2
-Orcish Artillery
-{1}{R}{R}
-Creature — Orc Warrior
-{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.
-1/3
-Orcish Oriflamme
-{3}{R}
-Enchantment
-Attacking creatures you control get +1/+0.
-Pearled Unicorn
-{2}{W}
-Creature — Unicorn
-2/2
-Phantom Monster
-{3}{U}
-Creature — Illusion
-Flying
-3/3
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Power Sink
-{X}{U}
-Instant
-"Counter target spell unless its controller pays {X}. If that player doesn’t, they tap all lands with mana abilities they control and lose all unspent mana."
-Pyrotechnics
-{4}{R}
-Sorcery
-Pyrotechnics deals 4 damage divided as you choose among any number of targets.
-Raise Dead
-{B}
-Sorcery
-Return target creature card from your graveyard to your hand.
-Reverse Damage
-{1}{W}{W}
-Instant
-"The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way."
-Rod of Ruin
-{4}
-Artifact
-"{3}, {T}: Rod of Ruin deals 1 damage to any target."
-Scathe Zombies
-{2}{B}
-Creature — Zombie
-2/2
-Scryb Sprites
-{G}
-Creature — Faerie
-Flying
-1/1
-Sorceress Queen
-{1}{B}{B}
-Creature — Human Wizard
-{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.
-1/1
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Terror
-{1}{B}
-Instant
-"Destroy target nonartifact, nonblack creature. It can’t be regenerated."
-Twiddle
-{U}
-Instant
-"You may tap or untap target artifact, creature, or land."
-Unsummon
-{U}
-Instant
-Return target creature to its owner’s hand.
-Untamed Wilds
-{2}{G}
-Sorcery
-Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
-Vampire Bats
-{B}
-Creature — Bat
-Flying (This creature can’t be blocked except by creatures with flying or reach.)
-{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.
-0/1
-Wall of Bone
-{2}{B}
-Creature — Skeleton Wall
-Defender (This creature can’t attack.)
-"{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)"
-1/4
-War Mammoth
-{3}{G}
-Creature — Elephant
-Trample
-3/3
-Warp Artifact
-{B}{B}
-Enchantment — Aura
-Enchant artifact
-"At the beginning of the upkeep of enchanted artifact’s controller, Warp Artifact deals 1 damage to that player."
-Weakness
-{B}
-Enchantment — Aura
-Enchant creature
-Enchanted creature gets -2/-1.
-Whirling Dervish
-{G}{G}
-Creature — Human Monk
-Protection from black
-"At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it."
-1/1
-Winter Blast
-{X}{G}
-Sorcery
-Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.
-Zephyr Falcon
-{1}{U}
-Creature — Bird
-"Flying, vigilance"
-1/1
+"('Alabaster Potion', ['{X}{W}{W}', 'Instant', 'Choose one —', '• Target player gains X life.', '• Prevent the next X damage that would be dealt to any target this turn.'])"
+"('Battering Ram', ['{2}', 'Artifact Creature — Construct', 'At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s blocking.)', 'Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.', '1/1'])"
+"('Bog Imp', ['{1}{B}', 'Creature — Imp', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '1/1'])"
+"('Bog Wraith', ['{3}{B}', 'Creature — Wraith', 'Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)', '3/3'])"
+"('Circle of Protection: Black', ['{1}{W}', 'Enchantment', '{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.'])"
+"('Circle of Protection: Red', ['{1}{W}', 'Enchantment', '{1}: The next time a red source of your choice would deal damage to you this turn, prevent that damage.'])"
+"('Clockwork Beast', ['{6}', 'Artifact Creature — Beast', 'Clockwork Beast enters the battlefield with seven +1/+0 counters on it.', 'At end of combat, if Clockwork Beast attacked or blocked this combat, remove a +1/+0 counter from it.', '{X}, {T}: Put up to X +1/+0 counters on Clockwork Beast. This ability can’t cause the total number of +1/+0 counters on Clockwork Beast to be greater than seven. Activate this ability only during your upkeep.', '0/4'])"
+"('Cursed Land', ['{2}{B}{B}', 'Enchantment — Aura', 'Enchant land', 'At the beginning of the upkeep of enchanted land’s controller, Cursed Land deals 1 damage to that player.'])"
+"('Dark Ritual', ['{B}', 'Instant', 'Add {B}{B}{B}.'])"
+"('Detonate', ['{X}{R}', 'Sorcery', 'Destroy target artifact with converted mana cost X. It can’t be regenerated. Detonate deals X damage to that artifact’s controller.'])"
+"('Disintegrate', ['{X}{R}', 'Sorcery', 'Disintegrate deals X damage to any target. If it’s a creature, it can’t be regenerated this turn, and if it would die this turn, exile it instead.'])"
+"('Durkwood Boars', ['{4}{G}', 'Creature — Boar', '4/4'])"
+"('Elven Riders', ['{3}{G}{G}', 'Creature — Elf', 'Elven Riders can’t be blocked except by Walls and/or creatures with flying.', '3/3'])"
+"('Elvish Archers', ['{1}{G}', 'Creature — Elf Archer', 'First strike', '2/1'])"
+"('Energy Flux', ['{2}{U}', 'Enchantment', 'All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.”'])"
+"('Feedback', ['{2}{U}', 'Enchantment — Aura', 'Enchant enchantment', 'At the beginning of the upkeep of enchanted enchantment’s controller, Feedback deals 1 damage to that player.'])"
+"('Fireball', ['{X}{R}', 'Sorcery', 'This spell costs {1} more to cast for each target beyond the first.', 'Fireball deals X damage divided evenly, rounded down, among any number of targets.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Glasses of Urza', ['{1}', 'Artifact', '{T}: Look at target player’s hand.'])"
+"('Grizzly Bears', ['{1}{G}', 'Creature — Bear', '2/2'])"
+"('Healing Salve', ['{W}', 'Instant', 'Choose one —', '• Target player gains 3 life.', '• Prevent the next 3 damage that would be dealt to any target this turn.'])"
+"('Hill Giant', ['{3}{R}', 'Creature — Giant', '3/3'])"
+"('Ironclaw Orcs', ['{1}{R}', 'Creature — Orc', 'Ironclaw Orcs can’t block creatures with power 2 or greater.', '2/2'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jayemdae Tome', ['{4}', 'Artifact', '{4}, {T}: Draw a card.'])"
+"('Lost Soul', ['{1}{B}{B}', 'Creature — Spirit Minion', 'Swampwalk (This creature can’t be blocked as long as defending player controls a Swamp.)', '2/1'])"
+"('Merfolk of the Pearl Trident', ['{U}', 'Creature — Merfolk', '1/1'])"
+"('Mesa Pegasus', ['{1}{W}', 'Creature — Pegasus', 'Flying; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature’s combat damage, not its controller, among any of the creatures it’s being blocked by or is blocking.)', '1/1'])"
+"(""Mons's Goblin Raiders"", ['{R}', 'Creature — Goblin', '1/1'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Murk Dwellers', ['{3}{B}', 'Creature — Zombie', 'Whenever Murk Dwellers attacks and isn’t blocked, it gets +2/+0 until end of combat.', '2/2'])"
+"('Orcish Artillery', ['{1}{R}{R}', 'Creature — Orc Warrior', '{T}: Orcish Artillery deals 2 damage to any target and 3 damage to you.', '1/3'])"
+"('Orcish Oriflamme', ['{3}{R}', 'Enchantment', 'Attacking creatures you control get +1/+0.'])"
+"('Pearled Unicorn', ['{2}{W}', 'Creature — Unicorn', '2/2'])"
+"('Phantom Monster', ['{3}{U}', 'Creature — Illusion', 'Flying', '3/3'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Power Sink', ['{X}{U}', 'Instant', 'Counter target spell unless its controller pays {X}. If that player doesn’t, they tap all lands with mana abilities they control and lose all unspent mana.'])"
+"('Pyrotechnics', ['{4}{R}', 'Sorcery', 'Pyrotechnics deals 4 damage divided as you choose among any number of targets.'])"
+"('Raise Dead', ['{B}', 'Sorcery', 'Return target creature card from your graveyard to your hand.'])"
+"('Reverse Damage', ['{1}{W}{W}', 'Instant', 'The next time a source of your choice would deal damage to you this turn, prevent that damage. You gain life equal to the damage prevented this way.'])"
+"('Rod of Ruin', ['{4}', 'Artifact', '{3}, {T}: Rod of Ruin deals 1 damage to any target.'])"
+"('Scathe Zombies', ['{2}{B}', 'Creature — Zombie', '2/2'])"
+"('Scryb Sprites', ['{G}', 'Creature — Faerie', 'Flying', '1/1'])"
+"('Sorceress Queen', ['{1}{B}{B}', 'Creature — Human Wizard', '{T}: Target creature other than Sorceress Queen has base power and toughness 0/2 until end of turn.', '1/1'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Terror', ['{1}{B}', 'Instant', 'Destroy target nonartifact, nonblack creature. It can’t be regenerated.'])"
+"('Twiddle', ['{U}', 'Instant', 'You may tap or untap target artifact, creature, or land.'])"
+"('Unsummon', ['{U}', 'Instant', 'Return target creature to its owner’s hand.'])"
+"('Untamed Wilds', ['{2}{G}', 'Sorcery', 'Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.'])"
+"('Vampire Bats', ['{B}', 'Creature — Bat', 'Flying (This creature can’t be blocked except by creatures with flying or reach.)', '{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.', '0/1'])"
+"('Wall of Bone', ['{2}{B}', 'Creature — Skeleton Wall', 'Defender (This creature can’t attack.)', '{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn’t. Instead tap it, remove all damage from it, and remove it from combat.)', '1/4'])"
+"('War Mammoth', ['{3}{G}', 'Creature — Elephant', 'Trample', '3/3'])"
+"('Warp Artifact', ['{B}{B}', 'Enchantment — Aura', 'Enchant artifact', 'At the beginning of the upkeep of enchanted artifact’s controller, Warp Artifact deals 1 damage to that player.'])"
+"('Weakness', ['{B}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets -2/-1.'])"
+"('Whirling Dervish', ['{G}{G}', 'Creature — Human Monk', 'Protection from black', 'At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.', '1/1'])"
+"('Winter Blast', ['{X}{G}', 'Sorcery', 'Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.'])"
+"('Zephyr Falcon', ['{1}{U}', 'Creature — Bird', 'Flying, vigilance', '1/1'])"

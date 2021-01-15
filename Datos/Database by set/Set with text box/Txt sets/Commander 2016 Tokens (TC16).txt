@@ -1,70 +1,18 @@
-Beast
-Token Creature — Beast
-3/3
-Bird
-Token Creature — Bird
-Flying
-2/2
-Bird
-Token Creature — Bird
-Flying
-1/1
-"Daretti, Scrap Savant Emblem"
-Emblem — Daretti
-"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
-Elemental
-Token Creature — Elemental
-Flying
-4/4
-Elf Warrior
-Token Creature — Elf Warrior
-1/1
-Germ
-Token Creature — Germ
-0/0
-Goat
-Token Creature — Goat
-0/1
-Goblin
-Token Creature — Goblin
-Creatures you control attack each combat if able.
-1/1
-Horror
-Token Artifact Creature — Horror
-*/*
-Myr
-Token Artifact Creature — Myr
-1/1
-Ogre
-Token Creature — Ogre
-3/3
-Saproling
-Token Creature — Saproling
-1/1
-Saproling
-Token Creature — Saproling
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Spirit
-Token Creature — Spirit
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Squid
-Token Creature — Squid
-Islandwalk
-1/1
-Thopter
-Token Artifact Creature — Thopter
-Flying
-1/1
-Worm
-Token Creature — Worm
-1/1
-Zombie
-Token Creature — Zombie
-2/2
+"('Beast', ['Token Creature — Beast', '3/3'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Daretti, Scrap Savant Emblem', ['Emblem — Daretti', 'Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.'])"
+"('Elemental', ['Token Creature — Elemental', 'Flying', '4/4'])"
+"('Elf Warrior', ['Token Creature — Elf Warrior', '1/1'])"
+"('Germ', ['Token Creature — Germ', '0/0'])"
+"('Goat', ['Token Creature — Goat', '0/1'])"
+"('Goblin', ['Token Creature — Goblin', 'Creatures you control attack each combat if able.', '1/1'])"
+"('Horror', ['Token Artifact Creature — Horror', '*/*'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Ogre', ['Token Creature — Ogre', '3/3'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Squid', ['Token Creature — Squid', 'Islandwalk', '1/1'])"
+"('Thopter', ['Token Artifact Creature — Thopter', 'Flying', '1/1'])"
+"('Worm', ['Token Creature — Worm', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

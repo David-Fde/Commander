@@ -1,614 +1,96 @@
-2003 World Championships Ad
-Card
-Anger
-{3}{R}
-Creature — Incarnation
-Haste
-"As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste."
-2/2
-Anurid Brushhopper
-{1}{G}{W}
-Creature — Frog Beast
-Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner’s control at the beginning of the next end step.
-3/4
-Aquamoeba
-{1}{U}
-Creature — Elemental Beast
-Discard a card: Switch Aquamoeba’s power and toughness until end of turn.
-1/3
-Arcanis the Omnipotent
-{3}{U}{U}{U}
-Legendary Creature — Wizard
-{T}: Draw three cards.
-{2}{U}{U}: Return Arcanis the Omnipotent to its owner’s hand.
-3/4
-Arrogant Wurm
-{3}{G}{G}
-Creature — Wurm
-Trample
-"Madness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-4/4
-Barren Moor
-Land
-Barren Moor enters the battlefield tapped.
-{T}: Add {B}.
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-Basking Rootwalla
-{G}
-Creature — Lizard
-{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
-"Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-1/1
-Blank Card
-Card
-Bloodstained Mire
-Land
-"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library."
-Bloodstained Mire
-Land
-"{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library."
-Buried Alive
-{2}{B}
-Sorcery
-"Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
-Buried Alive
-{2}{B}
-Sorcery
-"Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
-Burning Wish
-{1}{R}
-Sorcery
-You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.
-Cabal Therapy
-{B}
-Sorcery
-Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
-Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Cabal Therapy
-{B}
-Sorcery
-Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
-Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Cabal Therapy
-{B}
-Sorcery
-Choose a nonland card name. Target player reveals their hand and discards all cards with that name.
-Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Careful Study
-{U}
-Sorcery
-"Draw two cards, then discard two cards."
-Centaur Garden
-Land
-{T}: Add {G}. Centaur Garden deals 1 damage to you.
-"Threshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard."
-Chainer's Edict
-{1}{B}
-Sorcery
-Target player sacrifices a creature.
-Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Circular Logic
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-Circular Logic
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-Circular Logic
-{2}{U}
-Instant
-Counter target spell unless its controller pays {1} for each card in your graveyard.
-"Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)"
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-Compulsion
-{1}{U}
-Enchantment
-"{1}{U}, Discard a card: Draw a card."
-"{1}{U}, Sacrifice Compulsion: Draw a card."
-Cunning Wish
-{2}{U}
-Instant
-You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.
-Daniel Zink Bio
-Card
-"Daniel Zink, a student from Bochum, Germany, players the control deck that defined this year’s World Championships. The white-blue-green “Wake” deck is named after the powerful enchantment that’s the heart of the deck. Once Mirari’s Wake is in play, the deck produces more mana, draws more cards, counters more spells, and makes more Soldiers than opponents can possibly handle. Zink had help from fellow German and 2002-2003 Player of the Year Kai Budde in adapting the “Wake” deck to the post—Eigth Edition environment."
-Daniel Zink Decklist
-Card
-Dark Banishing
-{2}{B}
-Instant
-Destroy target nonblack creature. It can’t be regenerated.
-Dave Humpherys Bio
-Card
-"The Top 8 is familiar territory for professional Magic player Dave Humpherys. With over $130,000 in career winnings and a Pro Tour championship on his resume, “The Hump” advanced to the Worlds semifinals for the second year in a row where he lost to eventual champion Daniel Zink. The blue-green madness deck he played has been a Standard mainstay for more than a year. It revolves around Torment madness cards like Basking Rootwalla and Circular Logic, together with discard-enablers like Aquamoeba and Wild Mongrel. Humpherys, who recently earned his Ph.D. from MIT, credits this version of the deck to Norway’s Sigurd Eskeland."
-Dave Humpherys Decklist
-Card
-Decompose
-{1}{B}
-Sorcery
-Exile up to three target cards from a single graveyard.
-Decree of Justice
-{X}{X}{2}{W}{W}
-Sorcery
-Create X 4/4 white Angel creature tokens with flying.
-"Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)"
-"When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens."
-Deep Analysis
-{3}{U}
-Sorcery
-Target player draws two cards.
-"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-Deep Analysis
-{3}{U}
-Sorcery
-Target player draws two cards.
-"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-Deep Analysis
-{3}{U}
-Sorcery
-Target player draws two cards.
-"Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)"
-Demolish
-{3}{R}
-Sorcery
-Destroy target artifact or land.
-Doomed Necromancer
-{2}{B}
-Creature — Human Cleric Mercenary
-"{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield."
-2/2
-Elfhame Palace
-Land
-Elfhame Palace enters the battlefield tapped.
-{T}: Add {G} or {W}.
-Entomb
-{B}
-Instant
-Search your library for a card and put that card into your graveyard. Then shuffle your library.
-Envelop
-{U}
-Instant
-Counter target sorcery spell.
-Exalted Angel
-{4}{W}{W}
-Creature — Angel
-Flying
-"Whenever Exalted Angel deals damage, you gain that much life."
-Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-4/5
-Flaring Pain
-{1}{R}
-Instant
-Damage can’t be prevented this turn.
-Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Flooded Strand
-Land
-"{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library."
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Gempalm Incinerator
-{2}{R}
-Creature — Goblin
-"Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)"
-"When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield."
-2/1
-Goblin Grappler
-{R}
-Creature — Goblin
-"Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)"
-1/1
-Goblin Piledriver
-{1}{R}
-Creature — Goblin Warrior
-"Protection from blue (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything blue.)"
-"Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin."
-1/2
-Goblin Sharpshooter
-{2}{R}
-Creature — Goblin
-Goblin Sharpshooter doesn’t untap during your untap step.
-"Whenever a creature dies, untap Goblin Sharpshooter."
-{T}: Goblin Sharpshooter deals 1 damage to any target.
-1/1
-Goblin Sledder
-{R}
-Creature — Goblin
-Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.
-1/1
-Goblin Taskmaster
-{R}
-Creature — Goblin
-{1}{R}: Target Goblin creature gets +1/+0 until end of turn.
-Morph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-1/1
-Goblin Warchief
-{1}{R}{R}
-Creature — Goblin Warrior
-Goblin spells you cast cost {1} less to cast.
-Goblins you control have haste.
-2/2
-Guiltfeeder
-{3}{B}{B}
-Creature — Horror
-Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
-"Whenever Guiltfeeder attacks and isn’t blocked, defending player loses 1 life for each card in their graveyard."
-0/4
-Haunting Echoes
-{3}{B}{B}
-Sorcery
-"Exile all cards from target player’s graveyard other than basic land cards. For each card exiled this way, search that player’s library for all cards with the same name as that card and exile them. Then that player shuffles their library."
-Hunting Pack
-{5}{G}{G}
-Instant
-Create a 4/4 green Beast creature token.
-"Storm (When you cast this spell, copy it for each spell cast before it this turn.)"
-Innocent Blood
-{B}
-Sorcery
-Each player sacrifices a creature.
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Krosan Reclamation
-{1}{G}
-Instant
-Target player shuffles up to two target cards from their graveyard into their library.
-Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Krosan Reclamation
-{1}{G}
-Instant
-Target player shuffles up to two target cards from their graveyard into their library.
-Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Krosan Reclamation
-{1}{G}
-Instant
-Target player shuffles up to two target cards from their graveyard into their library.
-Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Krosan Verge
-Land
-Krosan Verge enters the battlefield tapped.
-{T}: Add {C}.
-"{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library."
-Last Rites
-{2}{B}
-Sorcery
-"Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards."
-Mana Leak
-{1}{U}
-Instant
-Counter target spell unless its controller pays {3}.
-Mana Leak
-{1}{U}
-Instant
-Counter target spell unless its controller pays {3}.
-Mirari
-{5}
-Legendary Artifact
-"Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy."
-Mirari's Wake
-{3}{G}{W}
-Enchantment
-Creatures you control get +1/+1.
-"Whenever you tap a land for mana, add one mana of any type that land produced."
-Moment's Peace
-{1}{G}
-Instant
-Prevent all combat damage that would be dealt this turn.
-Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Nantuko Vigilante
-{3}{G}
-Creature — Insect Druid Mutant
-Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Nantuko Vigilante is turned face up, destroy target artifact or enchantment."
-3/2
-Patriarch's Bidding
-{3}{B}{B}
-Sorcery
-Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.
-Patriarch's Bidding
-{3}{B}{B}
-Sorcery
-Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.
-Peer Kröger Bio
-Card
-Hometown hero Peer Kröger played his own version of the classic “Reanimator” deck to an impressive record during this year’s World Championships. The twenty-eight-year-old communications and computer science student nicknamed his deck “Herbert Wise” after the famous H. P. Lovecraft work “Herbert Wise—Reanimator.” Winning with this deck is a two-step process: Step 1. Use Entomb or Buried Alive to quickly get daunting creatures into the graveyard. Step 2. Bring the creature back to life with Zombify or Doomed Necromancer. The mostly black deck also uses Burning Wish to find just the right answers to deal with opponents’ plans.
-Peer Kröger Decklist
-Card
-Phantom Centaur
-{2}{G}{G}
-Creature — Centaur Spirit
-Protection from black
-Phantom Centaur enters the battlefield with three +1/+1 counters on it.
-"If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur."
-2/0
-Phantom Nishoba
-{5}{G}{W}
-Creature — Cat Beast Spirit
-Trample
-Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
-"Whenever Phantom Nishoba deals damage, you gain that much life."
-"If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba."
-0/0
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Pyroclasm
-{1}{R}
-Sorcery
-Pyroclasm deals 2 damage to each creature.
-Quiet Speculation
-{1}{U}
-Sorcery
-Search target player’s library for up to three cards with flashback and put them into that player’s graveyard. Then the player shuffles their library.
-Ray of Distortion
-{3}{W}
-Instant
-Destroy target artifact or enchantment.
-Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Ray of Revelation
-{1}{W}
-Instant
-Destroy target enchantment.
-Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Ray of Revelation
-{1}{W}
-Instant
-Destroy target enchantment.
-Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Ray of Revelation
-{1}{W}
-Instant
-Destroy target enchantment.
-Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Recoup
-{1}{R}
-Sorcery
-Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
-Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Recoup
-{1}{R}
-Sorcery
-Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
-Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Renewed Faith
-{2}{W}
-Instant
-You gain 6 life.
-"Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)"
-"When you cycle Renewed Faith, you may gain 2 life."
-Renewed Faith
-{2}{W}
-Instant
-You gain 6 life.
-"Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)"
-"When you cycle Renewed Faith, you may gain 2 life."
-Roar of the Wurm
-{6}{G}
-Sorcery
-Create a 6/6 green Wurm creature token.
-Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Shadowblood Ridge
-Land
-"{1}, {T}: Add {B}{R}."
-Shadowblood Ridge
-Land
-"{1}, {T}: Add {B}{R}."
-Sickening Dreams
-{1}{B}
-Sorcery
-"As an additional cost to cast this spell, discard X cards."
-Sickening Dreams deals X damage to each creature and each player.
-Siege-Gang Commander
-{3}{R}{R}
-Creature — Goblin
-"When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens."
-"{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target."
-2/2
-Skirk Prospector
-{R}
-Creature — Goblin
-Sacrifice a Goblin: Add {R}.
-1/1
-Skycloud Expanse
-Land
-"{1}, {T}: Add {W}{U}."
-Smother
-{1}{B}
-Instant
-Destroy target creature with converted mana cost 3 or less. It can’t be regenerated.
-Smother
-{1}{B}
-Instant
-Destroy target creature with converted mana cost 3 or less. It can’t be regenerated.
-Smother
-{1}{B}
-Instant
-Destroy target creature with converted mana cost 3 or less. It can’t be regenerated.
-Soul Feast
-{3}{B}{B}
-Sorcery
-Target player loses 4 life and you gain 4 life.
-Sparksmith
-{1}{R}
-Creature — Goblin
-"{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield."
-1/1
-Starstorm
-{X}{R}{R}
-Instant
-Starstorm deals X damage to each creature.
-"Cycling {3} ({3}, Discard this card: Draw a card.)"
-Stitch Together
-{B}{B}
-Sorcery
-Return target creature card from your graveyard to your hand.
-Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
-Stitch Together
-{B}{B}
-Sorcery
-Return target creature card from your graveyard to your hand.
-Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
-Stupefying Touch
-{1}{U}
-Enchantment — Aura
-Enchant creature
-"When Stupefying Touch enters the battlefield, draw a card."
-Enchanted creature’s activated abilities can’t be activated.
-Sulfuric Vortex
-{1}{R}{R}
-Enchantment
-"At the beginning of each player’s upkeep, Sulfuric Vortex deals 2 damage to that player."
-"If a player would gain life, that player gains no life instead."
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Symbiotic Wurm
-{5}{G}{G}{G}
-Creature — Wurm
-"When Symbiotic Wurm dies, create seven 1/1 green Insect creature tokens."
-7/7
-Undead Gladiator
-{1}{B}{B}
-Creature — Zombie Barbarian
-"{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep."
-"Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)"
-3/1
-Unsummon
-{U}
-Instant
-Return target creature to its owner’s hand.
-Unsummon
-{U}
-Instant
-Return target creature to its owner’s hand.
-Vengeful Dreams
-{W}{W}
-Instant
-"As an additional cost to cast this spell, discard X cards."
-Exile X target attacking creatures.
-Vengeful Dreams
-{W}{W}
-Instant
-"As an additional cost to cast this spell, discard X cards."
-Exile X target attacking creatures.
-Visara the Dreadful
-{3}{B}{B}{B}
-Legendary Creature — Gorgon
-Flying
-{T}: Destroy target creature. It can’t be regenerated.
-5/5
-Wild Mongrel
-{1}{G}
-Creature — Dog
-Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.
-2/2
-Wing Shards
-{1}{W}{W}
-Instant
-Target player sacrifices an attacking creature.
-"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
-Wolfgang Eder Bio
-Card
-"Wolfgang Eder introduced this black-red “Goblin Bidding” deck to the world at this year’s European Championships. The twenty-two-year-old student from Weinheim, Germany, says the inspiration for the deck came from trying to give the typical Goblin tribe something to do in the midgame. He achieved this by adding black to the deck for Patriarch’s Bidding, which brings every Goblin in the graveyard back to play. And with cards like Goblin Warchief and Siege-Gang Commander, those Goblins have haste and bring friends with them! A resolved Patriarch’s Bidding is usually game over."
-Wolfgang Eder Decklist
-Card
-Wonder
-{3}{U}
-Creature — Incarnation
-Flying
-"As long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
-2/2
-Wonder
-{3}{U}
-Creature — Incarnation
-Flying
-"As long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
-2/2
-Wrath of God
-{2}{W}{W}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Zombify
-{3}{B}
-Sorcery
-Return target creature card from your graveyard to the battlefield.
+"('2003 World Championships Ad', ['Card'])"
+"('Anger', ['{3}{R}', 'Creature — Incarnation', 'Haste', 'As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.', '2/2'])"
+"('Anurid Brushhopper', ['{1}{G}{W}', 'Creature — Frog Beast', 'Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner’s control at the beginning of the next end step.', '3/4'])"
+"('Aquamoeba', ['{1}{U}', 'Creature — Elemental Beast', 'Discard a card: Switch Aquamoeba’s power and toughness until end of turn.', '1/3'])"
+"('Arcanis the Omnipotent', ['{3}{U}{U}{U}', 'Legendary Creature — Wizard', '{T}: Draw three cards.', '{2}{U}{U}: Return Arcanis the Omnipotent to its owner’s hand.', '3/4'])"
+"('Arrogant Wurm', ['{3}{G}{G}', 'Creature — Wurm', 'Trample', 'Madness {2}{G} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '4/4'])"
+"('Barren Moor', ['Land', 'Barren Moor enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {B} ({B}, Discard this card: Draw a card.)'])"
+"('Basking Rootwalla', ['{G}', 'Creature — Lizard', '{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.', 'Madness {0} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)', '1/1'])"
+"('Blank Card', ['Card'])"
+"('Bloodstained Mire', ['Land', '{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle your library.'])"
+"('Buried Alive', ['{2}{B}', 'Sorcery', 'Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.'])"
+"('Burning Wish', ['{1}{R}', 'Sorcery', 'You may reveal a sorcery card you own from outside the game and put it into your hand. Exile Burning Wish.'])"
+"('Cabal Therapy', ['{B}', 'Sorcery', 'Choose a nonland card name. Target player reveals their hand and discards all cards with that name.', 'Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Careful Study', ['{U}', 'Sorcery', 'Draw two cards, then discard two cards.'])"
+"('Centaur Garden', ['Land', '{T}: Add {G}. Centaur Garden deals 1 damage to you.', 'Threshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.'])"
+"(""Chainer's Edict"", ['{1}{B}', 'Sorcery', 'Target player sacrifices a creature.', 'Flashback {5}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Circular Logic', ['{2}{U}', 'Instant', 'Counter target spell unless its controller pays {1} for each card in your graveyard.', 'Madness {U} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('Compulsion', ['{1}{U}', 'Enchantment', '{1}{U}, Discard a card: Draw a card.', '{1}{U}, Sacrifice Compulsion: Draw a card.'])"
+"('Cunning Wish', ['{2}{U}', 'Instant', 'You may reveal an instant card you own from outside the game and put it into your hand. Exile Cunning Wish.'])"
+"('Daniel Zink Bio', ['Card', 'Daniel Zink, a student from Bochum, Germany, players the control deck that defined this year’s World Championships. The white-blue-green “Wake” deck is named after the powerful enchantment that’s the heart of the deck. Once Mirari’s Wake is in play, the deck produces more mana, draws more cards, counters more spells, and makes more Soldiers than opponents can possibly handle. Zink had help from fellow German and 2002-2003 Player of the Year Kai Budde in adapting the “Wake” deck to the post—Eigth Edition environment.'])"
+"('Daniel Zink Decklist', ['Card'])"
+"('Dark Banishing', ['{2}{B}', 'Instant', 'Destroy target nonblack creature. It can’t be regenerated.'])"
+"('Dave Humpherys Bio', ['Card', 'The Top 8 is familiar territory for professional Magic player Dave Humpherys. With over $130,000 in career winnings and a Pro Tour championship on his resume, “The Hump” advanced to the Worlds semifinals for the second year in a row where he lost to eventual champion Daniel Zink. The blue-green madness deck he played has been a Standard mainstay for more than a year. It revolves around Torment madness cards like Basking Rootwalla and Circular Logic, together with discard-enablers like Aquamoeba and Wild Mongrel. Humpherys, who recently earned his Ph.D. from MIT, credits this version of the deck to Norway’s Sigurd Eskeland.'])"
+"('Dave Humpherys Decklist', ['Card'])"
+"('Decompose', ['{1}{B}', 'Sorcery', 'Exile up to three target cards from a single graveyard.'])"
+"('Decree of Justice', ['{X}{X}{2}{W}{W}', 'Sorcery', 'Create X 4/4 white Angel creature tokens with flying.', 'Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)', 'When you cycle Decree of Justice, you may pay {X}. If you do, create X 1/1 white Soldier creature tokens.'])"
+"('Deep Analysis', ['{3}{U}', 'Sorcery', 'Target player draws two cards.', 'Flashback—{1}{U}, Pay 3 life. (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Demolish', ['{3}{R}', 'Sorcery', 'Destroy target artifact or land.'])"
+"('Doomed Necromancer', ['{2}{B}', 'Creature — Human Cleric Mercenary', '{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.', '2/2'])"
+"('Elfhame Palace', ['Land', 'Elfhame Palace enters the battlefield tapped.', '{T}: Add {G} or {W}.'])"
+"('Entomb', ['{B}', 'Instant', 'Search your library for a card and put that card into your graveyard. Then shuffle your library.'])"
+"('Envelop', ['{U}', 'Instant', 'Counter target sorcery spell.'])"
+"('Exalted Angel', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'Whenever Exalted Angel deals damage, you gain that much life.', 'Morph {2}{W}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '4/5'])"
+"('Flaring Pain', ['{1}{R}', 'Instant', 'Damage can’t be prevented this turn.', 'Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Flooded Strand', ['Land', '{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle your library.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Gempalm Incinerator', ['{2}{R}', 'Creature — Goblin', 'Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)', 'When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.', '2/1'])"
+"('Goblin Grappler', ['{R}', 'Creature — Goblin', 'Provoke (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)', '1/1'])"
+"('Goblin Piledriver', ['{1}{R}', 'Creature — Goblin Warrior', 'Protection from blue (This creature can’t be blocked, targeted, dealt damage, or enchanted by anything blue.)', 'Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.', '1/2'])"
+"('Goblin Sharpshooter', ['{2}{R}', 'Creature — Goblin', 'Goblin Sharpshooter doesn’t untap during your untap step.', 'Whenever a creature dies, untap Goblin Sharpshooter.', '{T}: Goblin Sharpshooter deals 1 damage to any target.', '1/1'])"
+"('Goblin Sledder', ['{R}', 'Creature — Goblin', 'Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.', '1/1'])"
+"('Goblin Taskmaster', ['{R}', 'Creature — Goblin', '{1}{R}: Target Goblin creature gets +1/+0 until end of turn.', 'Morph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', '1/1'])"
+"('Goblin Warchief', ['{1}{R}{R}', 'Creature — Goblin Warrior', 'Goblin spells you cast cost {1} less to cast.', 'Goblins you control have haste.', '2/2'])"
+"('Guiltfeeder', ['{3}{B}{B}', 'Creature — Horror', 'Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)', 'Whenever Guiltfeeder attacks and isn’t blocked, defending player loses 1 life for each card in their graveyard.', '0/4'])"
+"('Haunting Echoes', ['{3}{B}{B}', 'Sorcery', 'Exile all cards from target player’s graveyard other than basic land cards. For each card exiled this way, search that player’s library for all cards with the same name as that card and exile them. Then that player shuffles their library.'])"
+"('Hunting Pack', ['{5}{G}{G}', 'Instant', 'Create a 4/4 green Beast creature token.', 'Storm (When you cast this spell, copy it for each spell cast before it this turn.)'])"
+"('Innocent Blood', ['{B}', 'Sorcery', 'Each player sacrifices a creature.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Krosan Reclamation', ['{1}{G}', 'Instant', 'Target player shuffles up to two target cards from their graveyard into their library.', 'Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Krosan Verge', ['Land', 'Krosan Verge enters the battlefield tapped.', '{T}: Add {C}.', '{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card, put them onto the battlefield tapped, then shuffle your library.'])"
+"('Last Rites', ['{2}{B}', 'Sorcery', 'Discard any number of cards. Target player reveals their hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.'])"
+"('Mana Leak', ['{1}{U}', 'Instant', 'Counter target spell unless its controller pays {3}.'])"
+"('Mirari', ['{5}', 'Legendary Artifact', 'Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.'])"
+"(""Mirari's Wake"", ['{3}{G}{W}', 'Enchantment', 'Creatures you control get +1/+1.', 'Whenever you tap a land for mana, add one mana of any type that land produced.'])"
+"(""Moment's Peace"", ['{1}{G}', 'Instant', 'Prevent all combat damage that would be dealt this turn.', 'Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Nantuko Vigilante', ['{3}{G}', 'Creature — Insect Druid Mutant', 'Morph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.', '3/2'])"
+"(""Patriarch's Bidding"", ['{3}{B}{B}', 'Sorcery', 'Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from their graveyard to the battlefield.'])"
+"('Peer Kröger Bio', ['Card', 'Hometown hero Peer Kröger played his own version of the classic “Reanimator” deck to an impressive record during this year’s World Championships. The twenty-eight-year-old communications and computer science student nicknamed his deck “Herbert Wise” after the famous H. P. Lovecraft work “Herbert Wise—Reanimator.” Winning with this deck is a two-step process: Step 1. Use Entomb or Buried Alive to quickly get daunting creatures into the graveyard. Step 2. Bring the creature back to life with Zombify or Doomed Necromancer. The mostly black deck also uses Burning Wish to find just the right answers to deal with opponents’ plans.'])"
+"('Peer Kröger Decklist', ['Card'])"
+"('Phantom Centaur', ['{2}{G}{G}', 'Creature — Centaur Spirit', 'Protection from black', 'Phantom Centaur enters the battlefield with three +1/+1 counters on it.', 'If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.', '2/0'])"
+"('Phantom Nishoba', ['{5}{G}{W}', 'Creature — Cat Beast Spirit', 'Trample', 'Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.', 'Whenever Phantom Nishoba deals damage, you gain that much life.', 'If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.', '0/0'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Pyroclasm', ['{1}{R}', 'Sorcery', 'Pyroclasm deals 2 damage to each creature.'])"
+"('Quiet Speculation', ['{1}{U}', 'Sorcery', 'Search target player’s library for up to three cards with flashback and put them into that player’s graveyard. Then the player shuffles their library.'])"
+"('Ray of Distortion', ['{3}{W}', 'Instant', 'Destroy target artifact or enchantment.', 'Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Ray of Revelation', ['{1}{W}', 'Instant', 'Destroy target enchantment.', 'Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Recoup', ['{1}{R}', 'Sorcery', 'Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)', 'Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Renewed Faith', ['{2}{W}', 'Instant', 'You gain 6 life.', 'Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)', 'When you cycle Renewed Faith, you may gain 2 life.'])"
+"('Roar of the Wurm', ['{6}{G}', 'Sorcery', 'Create a 6/6 green Wurm creature token.', 'Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"('Shadowblood Ridge', ['Land', '{1}, {T}: Add {B}{R}.'])"
+"('Sickening Dreams', ['{1}{B}', 'Sorcery', 'As an additional cost to cast this spell, discard X cards.', 'Sickening Dreams deals X damage to each creature and each player.'])"
+"('Siege-Gang Commander', ['{3}{R}{R}', 'Creature — Goblin', 'When Siege-Gang Commander enters the battlefield, create three 1/1 red Goblin creature tokens.', '{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to any target.', '2/2'])"
+"('Skirk Prospector', ['{R}', 'Creature — Goblin', 'Sacrifice a Goblin: Add {R}.', '1/1'])"
+"('Skycloud Expanse', ['Land', '{1}, {T}: Add {W}{U}.'])"
+"('Smother', ['{1}{B}', 'Instant', 'Destroy target creature with converted mana cost 3 or less. It can’t be regenerated.'])"
+"('Soul Feast', ['{3}{B}{B}', 'Sorcery', 'Target player loses 4 life and you gain 4 life.'])"
+"('Sparksmith', ['{1}{R}', 'Creature — Goblin', '{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.', '1/1'])"
+"('Starstorm', ['{X}{R}{R}', 'Instant', 'Starstorm deals X damage to each creature.', 'Cycling {3} ({3}, Discard this card: Draw a card.)'])"
+"('Stitch Together', ['{B}{B}', 'Sorcery', 'Return target creature card from your graveyard to your hand.', 'Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.'])"
+"('Stupefying Touch', ['{1}{U}', 'Enchantment — Aura', 'Enchant creature', 'When Stupefying Touch enters the battlefield, draw a card.', 'Enchanted creature’s activated abilities can’t be activated.'])"
+"('Sulfuric Vortex', ['{1}{R}{R}', 'Enchantment', 'At the beginning of each player’s upkeep, Sulfuric Vortex deals 2 damage to that player.', 'If a player would gain life, that player gains no life instead.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Symbiotic Wurm', ['{5}{G}{G}{G}', 'Creature — Wurm', 'When Symbiotic Wurm dies, create seven 1/1 green Insect creature tokens.', '7/7'])"
+"('Undead Gladiator', ['{1}{B}{B}', 'Creature — Zombie Barbarian', '{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.', 'Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)', '3/1'])"
+"('Unsummon', ['{U}', 'Instant', 'Return target creature to its owner’s hand.'])"
+"('Vengeful Dreams', ['{W}{W}', 'Instant', 'As an additional cost to cast this spell, discard X cards.', 'Exile X target attacking creatures.'])"
+"('Visara the Dreadful', ['{3}{B}{B}{B}', 'Legendary Creature — Gorgon', 'Flying', '{T}: Destroy target creature. It can’t be regenerated.', '5/5'])"
+"('Wild Mongrel', ['{1}{G}', 'Creature — Dog', 'Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.', '2/2'])"
+"('Wing Shards', ['{1}{W}{W}', 'Instant', 'Target player sacrifices an attacking creature.', 'Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)'])"
+"('Wolfgang Eder Bio', ['Card', 'Wolfgang Eder introduced this black-red “Goblin Bidding” deck to the world at this year’s European Championships. The twenty-two-year-old student from Weinheim, Germany, says the inspiration for the deck came from trying to give the typical Goblin tribe something to do in the midgame. He achieved this by adding black to the deck for Patriarch’s Bidding, which brings every Goblin in the graveyard back to play. And with cards like Goblin Warchief and Siege-Gang Commander, those Goblins have haste and bring friends with them! A resolved Patriarch’s Bidding is usually game over.'])"
+"('Wolfgang Eder Decklist', ['Card'])"
+"('Wonder', ['{3}{U}', 'Creature — Incarnation', 'Flying', 'As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.', '2/2'])"
+"('Wrath of God', ['{2}{W}{W}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"
+"('Zombify', ['{3}{B}', 'Sorcery', 'Return target creature card from your graveyard to the battlefield.'])"

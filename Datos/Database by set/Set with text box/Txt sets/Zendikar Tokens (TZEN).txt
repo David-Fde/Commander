@@ -1,36 +1,11 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-Beast
-Token Creature — Beast
-4/4
-Bird
-Token Creature — Bird
-Flying
-1/1
-Elemental
-Token Creature — Elemental
-"Trample, haste"
-7/1
-Illusion
-Token Creature — Illusion
-2/2
-Kor Soldier
-Token Creature — Kor Soldier
-1/1
-Merfolk
-Token Creature — Merfolk
-1/1
-Snake
-Token Creature — Snake
-1/1
-Vampire
-Token Creature — Vampire
-*/*
-Wolf
-Token Creature — Wolf
-2/2
-Zombie Giant
-Token Creature — Zombie Giant
-5/5
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Beast', ['Token Creature — Beast', '4/4'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Elemental', ['Token Creature — Elemental', 'Trample, haste', '7/1'])"
+"('Illusion', ['Token Creature — Illusion', '2/2'])"
+"('Kor Soldier', ['Token Creature — Kor Soldier', '1/1'])"
+"('Merfolk', ['Token Creature — Merfolk', '1/1'])"
+"('Snake', ['Token Creature — Snake', '1/1'])"
+"('Vampire', ['Token Creature — Vampire', '*/*'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
+"('Zombie Giant', ['Token Creature — Zombie Giant', '5/5'])"

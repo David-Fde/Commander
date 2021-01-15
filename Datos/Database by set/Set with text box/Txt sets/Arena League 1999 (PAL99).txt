@@ -1,39 +1,9 @@
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-"Karn, Silver Golem"
-{5}
-Legendary Artifact Creature — Golem
-"Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn."
-{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.
-4/4
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Pouncing Jaguar
-{G}
-Creature — Cat
-"Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-2/2
-Rewind
-{2}{U}{U}
-Instant
-Counter target spell. Untap up to four lands.
-Skittering Skirge
-{B}{B}
-Creature — Imp
-Flying
-"When you cast a creature spell, sacrifice Skittering Skirge."
-3/2
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Karn, Silver Golem', ['{5}', 'Legendary Artifact Creature — Golem', 'Whenever Karn, Silver Golem blocks or becomes blocked, it gets -4/+4 until end of turn.', '{1}: Target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost until end of turn.', '4/4'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Pouncing Jaguar', ['{G}', 'Creature — Cat', 'Echo {G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)', '2/2'])"
+"('Rewind', ['{2}{U}{U}', 'Instant', 'Counter target spell. Untap up to four lands.'])"
+"('Skittering Skirge', ['{B}{B}', 'Creature — Imp', 'Flying', 'When you cast a creature spell, sacrifice Skittering Skirge.', '3/2'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

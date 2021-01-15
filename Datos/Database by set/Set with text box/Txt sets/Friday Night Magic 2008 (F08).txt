@@ -1,57 +1,12 @@
-Desert
-Land — Desert
-{T}: Add {C}.
-{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.
-Eternal Witness
-{1}{G}{G}
-Creature — Human Shaman
-"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
-2/1
-Isochron Scepter
-{2}
-Artifact
-"Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand."
-"{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost."
-Pendelhaven
-Legendary Land
-{T}: Add {G}.
-{T}: Target 1/1 creature gets +1/+2 until end of turn.
-Remand
-{1}{U}
-Instant
-"Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard."
-Draw a card.
-Resurrection
-{2}{W}{W}
-Sorcery
-Return target creature card from your graveyard to the battlefield.
-Serrated Arrows
-{4}
-Artifact
-Serrated Arrows enters the battlefield with three arrowhead counters on it.
-"At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it."
-"{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature."
-Shrapnel Blast
-{1}{R}
-Instant
-"As an additional cost to cast this spell, sacrifice an artifact."
-Shrapnel Blast deals 5 damage to any target.
-Tendrils of Agony
-{2}{B}{B}
-Sorcery
-Target player loses 2 life and you gain 2 life.
-"Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)"
-Thirst for Knowledge
-{2}{U}
-Instant
-Draw three cards. Then discard two cards unless you discard an artifact card.
-Tormod's Crypt
-{0}
-Artifact
-"{T}, Sacrifice Tormod’s Crypt: Exile all cards from target player’s graveyard."
-Wall of Roots
-{1}{G}
-Creature — Plant Wall
-Defender
-Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.
-0/5
+"('Desert', ['Land — Desert', '{T}: Add {C}.', '{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.'])"
+"('Eternal Witness', ['{1}{G}{G}', 'Creature — Human Shaman', 'When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.', '2/1'])"
+"('Isochron Scepter', ['{2}', 'Artifact', 'Imprint — When Isochron Scepter enters the battlefield, you may exile an instant card with converted mana cost 2 or less from your hand.', '{2}, {T}: You may copy the exiled card. If you do, you may cast the copy without paying its mana cost.'])"
+"('Pendelhaven', ['Legendary Land', '{T}: Add {G}.', '{T}: Target 1/1 creature gets +1/+2 until end of turn.'])"
+"('Remand', ['{1}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, put it into its owner’s hand instead of into that player’s graveyard.', 'Draw a card.'])"
+"('Resurrection', ['{2}{W}{W}', 'Sorcery', 'Return target creature card from your graveyard to the battlefield.'])"
+"('Serrated Arrows', ['{4}', 'Artifact', 'Serrated Arrows enters the battlefield with three arrowhead counters on it.', 'At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.', '{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.'])"
+"('Shrapnel Blast', ['{1}{R}', 'Instant', 'As an additional cost to cast this spell, sacrifice an artifact.', 'Shrapnel Blast deals 5 damage to any target.'])"
+"('Tendrils of Agony', ['{2}{B}{B}', 'Sorcery', 'Target player loses 2 life and you gain 2 life.', 'Storm (When you cast this spell, copy it for each spell cast before it this turn. You may choose new targets for the copies.)'])"
+"('Thirst for Knowledge', ['{2}{U}', 'Instant', 'Draw three cards. Then discard two cards unless you discard an artifact card.'])"
+"(""Tormod's Crypt"", ['{0}', 'Artifact', '{T}, Sacrifice Tormod’s Crypt: Exile all cards from target player’s graveyard.'])"
+"('Wall of Roots', ['{1}{G}', 'Creature — Plant Wall', 'Defender', 'Put a -0/-1 counter on Wall of Roots: Add {G}. Activate this ability only once each turn.', '0/5'])"

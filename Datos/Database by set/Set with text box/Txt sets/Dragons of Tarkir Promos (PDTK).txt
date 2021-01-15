@@ -1,319 +1,41 @@
-"Anafenza, Kin-Tree Spirit"
-{W}{W}
-Legendary Creature — Spirit Soldier
-"Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)"
-2/2
-Arashin Foremost
-{1}{W}{W}
-Creature — Human Warrior
-Double strike
-"Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn."
-2/2
-Arashin Sovereign
-{5}{G}{W}
-Creature — Dragon
-Flying
-"When Arashin Sovereign dies, you may put it on the top or bottom of its owner’s library."
-6/6
-Arashin Sovereign
-{5}{G}{W}
-Creature — Dragon
-Flying
-"When Arashin Sovereign dies, you may put it on the top or bottom of its owner’s library."
-6/6
-Atarka's Command
-{R}{G}
-Instant
-Choose two —
-• Your opponents can’t gain life this turn.
-• Atarka’s Command deals 3 damage to each opponent.
-• You may put a land card from your hand onto the battlefield.
-• Creatures you control get +1/+1 and gain reach until end of turn.
-Avatar of the Resolute
-{G}{G}
-Creature — Avatar
-"Reach, trample"
-Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it.
-3/2
-Blessed Reincarnation
-{3}{U}
-Instant
-"Exile target creature an opponent controls. That player reveals cards from the top of their library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into their library."
-"Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)"
-Blood-Chin Fanatic
-{1}{B}{B}
-Creature — Orc Warrior
-"{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature’s power."
-3/3
-Boltwing Marauder
-{3}{B}{R}
-Creature — Dragon
-Flying
-"Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn."
-5/4
-Boltwing Marauder
-{3}{B}{R}
-Creature — Dragon
-Flying
-"Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn."
-5/4
-Crater Elemental
-{2}{R}
-Creature — Elemental
-"{R}, {T}, Sacrifice Crater Elemental: It deals 4 damage to target creature."
-Formidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.
-0/6
-Damnable Pact
-{X}{B}{B}
-Sorcery
-Target player draws X cards and loses X life.
-Deathbringer Regent
-{5}{B}{B}
-Creature — Dragon
-Flying
-"When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures."
-5/6
-Deathbringer Regent
-{5}{B}{B}
-Creature — Dragon
-Flying
-"When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures."
-5/6
-Den Protector
-{1}{G}
-Creature — Human Warrior
-Creatures with power less than Den Protector’s power can’t block it.
-Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
-"When Den Protector is turned face up, return target card from your graveyard to your hand."
-2/1
-Dragonlord Atarka
-{5}{R}{G}
-Legendary Creature — Elder Dragon
-"Flying, trample"
-"When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control."
-8/8
-Dragonlord Dromoka
-{4}{G}{W}
-Legendary Creature — Elder Dragon
-This spell can’t be countered.
-"Flying, lifelink"
-Your opponents can’t cast spells during your turn.
-5/7
-Dragonlord Kolaghan
-{4}{B}{R}
-Legendary Creature — Elder Dragon
-"Flying, haste"
-Other creatures you control have haste.
-"Whenever an opponent casts a creature or planeswalker spell with the same name as a card in their graveyard, that player loses 10 life."
-6/5
-Dragonlord Ojutai
-{3}{W}{U}
-Legendary Creature — Elder Dragon
-Flying
-Dragonlord Ojutai has hexproof as long as it’s untapped.
-"Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order."
-5/4
-Dragonlord Silumgar
-{4}{U}{B}
-Legendary Creature — Elder Dragon
-"Flying, deathtouch"
-"When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar."
-3/5
-Dromoka's Command
-{G}{W}
-Instant
-Choose two —
-• Prevent all damage target instant or sorcery spell would deal this turn.
-• Target player sacrifices an enchantment.
-• Put a +1/+1 counter on target creature.
-• Target creature you control fights target creature you don’t control.
-Foe-Razer Regent
-{5}{G}{G}
-Creature — Dragon
-Flying
-"When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don’t control."
-"Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step."
-4/5
-Harbinger of the Hunt
-{3}{R}{G}
-Creature — Dragon
-Flying
-{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
-{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.
-5/3
-Harbinger of the Hunt
-{3}{R}{G}
-Creature — Dragon
-Flying
-{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.
-{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.
-5/3
-Hidden Dragonslayer
-{1}{W}
-Creature — Human Warrior
-Lifelink
-Megamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
-"When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls."
-2/1
-Icefall Regent
-{3}{U}{U}
-Creature — Dragon
-Flying
-"When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s untap step for as long as you control Icefall Regent."
-Spells your opponents cast that target Icefall Regent cost {2} more to cast.
-4/3
-Ire Shaman
-{1}{R}
-Creature — Orc Shaman
-Menace (This creature can’t be blocked except by two or more creatures.)
-Megamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
-"When Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card."
-2/1
-Kolaghan's Command
-{1}{B}{R}
-Instant
-Choose two —
-• Return target creature card from your graveyard to your hand.
-• Target player discards a card.
-• Destroy target artifact.
-• Kolaghan’s Command deals 2 damage to any target.
-Living Lore
-{3}{U}
-Creature — Avatar
-"As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard."
-Living Lore’s power and toughness are each equal to the exiled card’s converted mana cost.
-"Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost."
-*/*
-Myth Realized
-{W}
-Enchantment
-"Whenever you cast a noncreature spell, put a lore counter on Myth Realized."
-{2}{W}: Put a lore counter on Myth Realized.
-"{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains “This creature’s power and toughness are each equal to the number of lore counters on it.”"
-Necromaster Dragon
-{3}{U}{B}
-Creature — Dragon
-Flying
-"Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent mills two cards."
-4/4
-Necromaster Dragon
-{3}{U}{B}
-Creature — Dragon
-Flying
-"Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent mills two cards."
-4/4
-Ojutai's Command
-{2}{W}{U}
-Instant
-Choose two —
-• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
-• You gain 4 life.
-• Counter target creature spell.
-• Draw a card.
-Ojutai's Command
-{2}{W}{U}
-Instant
-Choose two —
-• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.
-• You gain 4 life.
-• Counter target creature spell.
-• Draw a card.
-Pitiless Horde
-{2}{B}
-Creature — Orc Berserker
-"At the beginning of your upkeep, you lose 2 life."
-"Dash {2}{B}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)"
-5/3
-Pristine Skywise
-{4}{W}{U}
-Creature — Dragon
-Flying
-"Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn."
-6/4
-Pristine Skywise
-{4}{W}{U}
-Creature — Dragon
-Flying
-"Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn."
-6/4
-Profaner of the Dead
-{3}{U}
-Creature — Naga Wizard
-"Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
-"When Profaner of the Dead exploits a creature, return to their owners’ hands all creatures your opponents control with toughness less than the exploited creature’s toughness."
-3/3
-Scaleguard Sentinels
-{G}{G}
-Creature — Human Soldier
-"As an additional cost to cast this spell, you may reveal a Dragon card from your hand."
-Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast this spell.
-2/3
-"Sidisi, Undead Vizier"
-{3}{B}{B}
-Legendary Creature — Zombie Naga
-Deathtouch
-"Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
-"When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library."
-4/6
-"Sidisi, Undead Vizier"
-{3}{B}{B}
-Legendary Creature — Zombie Naga
-Deathtouch
-"Exploit (When this creature enters the battlefield, you may sacrifice a creature.)"
-"When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library."
-4/6
-Silumgar Assassin
-{1}{B}
-Creature — Human Assassin
-Creatures with power greater than Silumgar Assassin’s power can’t block it.
-Megamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
-"When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls."
-2/1
-Silumgar's Command
-{3}{U}{B}
-Instant
-Choose two —
-• Counter target noncreature spell.
-• Return target permanent to its owner’s hand.
-• Target creature gets -3/-3 until end of turn.
-• Destroy target planeswalker.
-Stratus Dancer
-{1}{U}
-Creature — Djinn Monk
-Flying
-Megamorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)
-"When Stratus Dancer is turned face up, counter target instant or sorcery spell."
-2/1
-Sunscorch Regent
-{3}{W}{W}
-Creature — Dragon
-Flying
-"Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life."
-4/3
-"Surrak, the Hunt Caller"
-{2}{G}{G}
-Legendary Creature — Human Warrior
-"Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn."
-5/4
-Thunderbreak Regent
-{2}{R}{R}
-Creature — Dragon
-Flying
-"Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player."
-4/4
-Thunderbreak Regent
-{2}{R}{R}
-Creature — Dragon
-Flying
-"Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player."
-4/4
-Volcanic Vision
-{5}{R}{R}
-Sorcery
-Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card’s converted mana cost to each creature your opponents control. Exile Volcanic Vision.
-Zurgo Bellstriker
-{R}
-Legendary Creature — Orc Warrior
-Zurgo Bellstriker can’t block creatures with power 2 or greater.
-"Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)"
-2/2
+"('Anafenza, Kin-Tree Spirit', ['{W}{W}', 'Legendary Creature — Spirit Soldier', 'Whenever another nontoken creature enters the battlefield under your control, bolster 1. (Choose a creature with the least toughness among creatures you control and put a +1/+1 counter on it.)', '2/2'])"
+"('Arashin Foremost', ['{1}{W}{W}', 'Creature — Human Warrior', 'Double strike', 'Whenever Arashin Foremost enters the battlefield or attacks, another target Warrior creature you control gains double strike until end of turn.', '2/2'])"
+"('Arashin Sovereign', ['{5}{G}{W}', 'Creature — Dragon', 'Flying', 'When Arashin Sovereign dies, you may put it on the top or bottom of its owner’s library.', '6/6'])"
+"(""Atarka's Command"", ['{R}{G}', 'Instant', 'Choose two —', '• Your opponents can’t gain life this turn.', '• Atarka’s Command deals 3 damage to each opponent.', '• You may put a land card from your hand onto the battlefield.', '• Creatures you control get +1/+1 and gain reach until end of turn.'])"
+"('Avatar of the Resolute', ['{G}{G}', 'Creature — Avatar', 'Reach, trample', 'Avatar of the Resolute enters the battlefield with a +1/+1 counter on it for each other creature you control with a +1/+1 counter on it.', '3/2'])"
+"('Blessed Reincarnation', ['{3}{U}', 'Instant', 'Exile target creature an opponent controls. That player reveals cards from the top of their library until a creature card is revealed. The player puts that card onto the battlefield, then shuffles the rest into their library.', 'Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)'])"
+"('Blood-Chin Fanatic', ['{1}{B}{B}', 'Creature — Orc Warrior', '{1}{B}, Sacrifice another Warrior creature: Target player loses X life and you gain X life, where X is the sacrificed creature’s power.', '3/3'])"
+"('Boltwing Marauder', ['{3}{B}{R}', 'Creature — Dragon', 'Flying', 'Whenever another creature enters the battlefield under your control, target creature gets +2/+0 until end of turn.', '5/4'])"
+"('Crater Elemental', ['{2}{R}', 'Creature — Elemental', '{R}, {T}, Sacrifice Crater Elemental: It deals 4 damage to target creature.', 'Formidable — {2}{R}: Crater Elemental has base power 8 until end of turn. Activate this ability only if creatures you control have total power 8 or greater.', '0/6'])"
+"('Damnable Pact', ['{X}{B}{B}', 'Sorcery', 'Target player draws X cards and loses X life.'])"
+"('Deathbringer Regent', ['{5}{B}{B}', 'Creature — Dragon', 'Flying', 'When Deathbringer Regent enters the battlefield, if you cast it from your hand and there are five or more other creatures on the battlefield, destroy all other creatures.', '5/6'])"
+"('Den Protector', ['{1}{G}', 'Creature — Human Warrior', 'Creatures with power less than Den Protector’s power can’t block it.', 'Megamorph {1}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)', 'When Den Protector is turned face up, return target card from your graveyard to your hand.', '2/1'])"
+"('Dragonlord Atarka', ['{5}{R}{G}', 'Legendary Creature — Elder Dragon', 'Flying, trample', 'When Dragonlord Atarka enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or planeswalkers your opponents control.', '8/8'])"
+"('Dragonlord Dromoka', ['{4}{G}{W}', 'Legendary Creature — Elder Dragon', 'This spell can’t be countered.', 'Flying, lifelink', 'Your opponents can’t cast spells during your turn.', '5/7'])"
+"('Dragonlord Kolaghan', ['{4}{B}{R}', 'Legendary Creature — Elder Dragon', 'Flying, haste', 'Other creatures you control have haste.', 'Whenever an opponent casts a creature or planeswalker spell with the same name as a card in their graveyard, that player loses 10 life.', '6/5'])"
+"('Dragonlord Ojutai', ['{3}{W}{U}', 'Legendary Creature — Elder Dragon', 'Flying', 'Dragonlord Ojutai has hexproof as long as it’s untapped.', 'Whenever Dragonlord Ojutai deals combat damage to a player, look at the top three cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.', '5/4'])"
+"('Dragonlord Silumgar', ['{4}{U}{B}', 'Legendary Creature — Elder Dragon', 'Flying, deathtouch', 'When Dragonlord Silumgar enters the battlefield, gain control of target creature or planeswalker for as long as you control Dragonlord Silumgar.', '3/5'])"
+"(""Dromoka's Command"", ['{G}{W}', 'Instant', 'Choose two —', '• Prevent all damage target instant or sorcery spell would deal this turn.', '• Target player sacrifices an enchantment.', '• Put a +1/+1 counter on target creature.', '• Target creature you control fights target creature you don’t control.'])"
+"('Foe-Razer Regent', ['{5}{G}{G}', 'Creature — Dragon', 'Flying', 'When Foe-Razer Regent enters the battlefield, you may have it fight target creature you don’t control.', 'Whenever a creature you control fights, put two +1/+1 counters on it at the beginning of the next end step.', '4/5'])"
+"('Harbinger of the Hunt', ['{3}{R}{G}', 'Creature — Dragon', 'Flying', '{2}{R}: Harbinger of the Hunt deals 1 damage to each creature without flying.', '{2}{G}: Harbinger of the Hunt deals 1 damage to each other creature with flying.', '5/3'])"
+"('Hidden Dragonslayer', ['{1}{W}', 'Creature — Human Warrior', 'Lifelink', 'Megamorph {2}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)', 'When Hidden Dragonslayer is turned face up, destroy target creature with power 4 or greater an opponent controls.', '2/1'])"
+"('Icefall Regent', ['{3}{U}{U}', 'Creature — Dragon', 'Flying', 'When Icefall Regent enters the battlefield, tap target creature an opponent controls. That creature doesn’t untap during its controller’s untap step for as long as you control Icefall Regent.', 'Spells your opponents cast that target Icefall Regent cost {2} more to cast.', '4/3'])"
+"('Ire Shaman', ['{1}{R}', 'Creature — Orc Shaman', 'Menace (This creature can’t be blocked except by two or more creatures.)', 'Megamorph {R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)', 'When Ire Shaman is turned face up, exile the top card of your library. Until end of turn, you may play that card.', '2/1'])"
+"(""Kolaghan's Command"", ['{1}{B}{R}', 'Instant', 'Choose two —', '• Return target creature card from your graveyard to your hand.', '• Target player discards a card.', '• Destroy target artifact.', '• Kolaghan’s Command deals 2 damage to any target.'])"
+"('Living Lore', ['{3}{U}', 'Creature — Avatar', 'As Living Lore enters the battlefield, exile an instant or sorcery card from your graveyard.', 'Living Lore’s power and toughness are each equal to the exiled card’s converted mana cost.', 'Whenever Living Lore deals combat damage, you may sacrifice it. If you do, you may cast the exiled card without paying its mana cost.', '*/*'])"
+"('Myth Realized', ['{W}', 'Enchantment', 'Whenever you cast a noncreature spell, put a lore counter on Myth Realized.', '{2}{W}: Put a lore counter on Myth Realized.', '{W}: Until end of turn, Myth Realized becomes a Monk Avatar creature in addition to its other types and gains “This creature’s power and toughness are each equal to the number of lore counters on it.”'])"
+"('Necromaster Dragon', ['{3}{U}{B}', 'Creature — Dragon', 'Flying', 'Whenever Necromaster Dragon deals combat damage to a player, you may pay {2}. If you do, create a 2/2 black Zombie creature token and each opponent mills two cards.', '4/4'])"
+"(""Ojutai's Command"", ['{2}{W}{U}', 'Instant', 'Choose two —', '• Return target creature card with converted mana cost 2 or less from your graveyard to the battlefield.', '• You gain 4 life.', '• Counter target creature spell.', '• Draw a card.'])"
+"('Pitiless Horde', ['{2}{B}', 'Creature — Orc Berserker', 'At the beginning of your upkeep, you lose 2 life.', 'Dash {2}{B}{B} (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)', '5/3'])"
+"('Pristine Skywise', ['{4}{W}{U}', 'Creature — Dragon', 'Flying', 'Whenever you cast a noncreature spell, untap Pristine Skywise. It gains protection from the color of your choice until end of turn.', '6/4'])"
+"('Profaner of the Dead', ['{3}{U}', 'Creature — Naga Wizard', 'Exploit (When this creature enters the battlefield, you may sacrifice a creature.)', 'When Profaner of the Dead exploits a creature, return to their owners’ hands all creatures your opponents control with toughness less than the exploited creature’s toughness.', '3/3'])"
+"('Scaleguard Sentinels', ['{G}{G}', 'Creature — Human Soldier', 'As an additional cost to cast this spell, you may reveal a Dragon card from your hand.', 'Scaleguard Sentinels enters the battlefield with a +1/+1 counter on it if you revealed a Dragon card or controlled a Dragon as you cast this spell.', '2/3'])"
+"('Sidisi, Undead Vizier', ['{3}{B}{B}', 'Legendary Creature — Zombie Naga', 'Deathtouch', 'Exploit (When this creature enters the battlefield, you may sacrifice a creature.)', 'When Sidisi, Undead Vizier exploits a creature, you may search your library for a card, put it into your hand, then shuffle your library.', '4/6'])"
+"('Silumgar Assassin', ['{1}{B}', 'Creature — Human Assassin', 'Creatures with power greater than Silumgar Assassin’s power can’t block it.', 'Megamorph {2}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)', 'When Silumgar Assassin is turned face up, destroy target creature with power 3 or less an opponent controls.', '2/1'])"
+"(""Silumgar's Command"", ['{3}{U}{B}', 'Instant', 'Choose two —', '• Counter target noncreature spell.', '• Return target permanent to its owner’s hand.', '• Target creature gets -3/-3 until end of turn.', '• Destroy target planeswalker.'])"
+"('Stratus Dancer', ['{1}{U}', 'Creature — Djinn Monk', 'Flying', 'Megamorph {1}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its megamorph cost and put a +1/+1 counter on it.)', 'When Stratus Dancer is turned face up, counter target instant or sorcery spell.', '2/1'])"
+"('Sunscorch Regent', ['{3}{W}{W}', 'Creature — Dragon', 'Flying', 'Whenever an opponent casts a spell, put a +1/+1 counter on Sunscorch Regent and you gain 1 life.', '4/3'])"
+"('Surrak, the Hunt Caller', ['{2}{G}{G}', 'Legendary Creature — Human Warrior', 'Formidable — At the beginning of combat on your turn, if creatures you control have total power 8 or greater, target creature you control gains haste until end of turn.', '5/4'])"
+"('Thunderbreak Regent', ['{2}{R}{R}', 'Creature — Dragon', 'Flying', 'Whenever a Dragon you control becomes the target of a spell or ability an opponent controls, Thunderbreak Regent deals 3 damage to that player.', '4/4'])"
+"('Volcanic Vision', ['{5}{R}{R}', 'Sorcery', 'Return target instant or sorcery card from your graveyard to your hand. Volcanic Vision deals damage equal to that card’s converted mana cost to each creature your opponents control. Exile Volcanic Vision.'])"
+"('Zurgo Bellstriker', ['{R}', 'Legendary Creature — Orc Warrior', 'Zurgo Bellstriker can’t block creatures with power 2 or greater.', 'Dash {1}{R} (You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)', '2/2'])"

@@ -1,68 +1,18 @@
-Bird
-Token Creature — Bird
-Flying
-1/1
-"Daretti, Scrap Savant Emblem"
-Emblem — Daretti
-"Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step."
-Elemental Shaman
-Token Creature — Elemental Shaman
-3/1
-Experience
-Card
-(Place your experience counters here.)
-Germ
-Token Creature — Germ
-0/0
-Goat
-Token Creature — Goat
-0/1
-Goblin
-Token Creature — Goblin
-1/1
-Knight
-Token Creature — Knight
-First strike
-2/2
-Lightning Rager
-Token Creature — Elemental
-"Trample, haste"
-"At the beginning of the end step, sacrifice this creature."
-5/1
-Myr
-Token Artifact Creature — Myr
-1/1
-Pentavite
-Token Artifact Creature — Pentavite
-Flying
-1/1
-Saproling
-Token Creature — Saproling
-1/1
-Shapeshifter
-Token Creature — Shapeshifter
-Changeling
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Triskelavite
-Token Artifact Creature — Triskelavite
-Flying
-1/1
-Tuktuk the Returned
-Token Artifact Creature — Goblin Golem
-Tuktuk the Returned is legendary.
-5/5
-Wurm
-Token Artifact Creature — Wurm
-Deathtouch
-3/3
-Wurm
-Token Artifact Creature — Wurm
-Lifelink
-3/3
-Zombie
-Token Creature — Zombie
-2/2
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Daretti, Scrap Savant Emblem', ['Emblem — Daretti', 'Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.'])"
+"('Elemental Shaman', ['Token Creature — Elemental Shaman', '3/1'])"
+"('Experience', ['Card', '(Place your experience counters here.)'])"
+"('Germ', ['Token Creature — Germ', '0/0'])"
+"('Goat', ['Token Creature — Goat', '0/1'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Knight', ['Token Creature — Knight', 'First strike', '2/2'])"
+"('Lightning Rager', ['Token Creature — Elemental', 'Trample, haste', 'At the beginning of the end step, sacrifice this creature.', '5/1'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Pentavite', ['Token Artifact Creature — Pentavite', 'Flying', '1/1'])"
+"('Saproling', ['Token Creature — Saproling', '1/1'])"
+"('Shapeshifter', ['Token Creature — Shapeshifter', 'Changeling', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Triskelavite', ['Token Artifact Creature — Triskelavite', 'Flying', '1/1'])"
+"('Tuktuk the Returned', ['Token Artifact Creature — Goblin Golem', 'Tuktuk the Returned is legendary.', '5/5'])"
+"('Wurm', ['Token Artifact Creature — Wurm', 'Lifelink', '3/3'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

@@ -1,1 +1,2 @@
 "('Foretell', ['Card', '(After you foretell a card, you can place the exiled card here. You may cast it on a later turn for its foretell cost.)'])"
+"(""Valkyrie's Sword"", ['{1}{W}', 'Artifact — Equipment', 'When Valkyrie’s Sword enters the battlefield, you may pay {4}{W}. If you do, create a 4/4 white Angel Warrior creature token with flying and vigilance, then attach Valkyrie’s Sword to it.', 'Equipped creature gets +2/+1.', 'Equip {3}'])"

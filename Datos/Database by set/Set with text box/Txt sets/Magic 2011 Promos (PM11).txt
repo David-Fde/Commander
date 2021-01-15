@@ -1,29 +1,5 @@
-Ancient Hellkite
-{4}{R}{R}{R}
-Creature — Dragon
-Flying
-{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.
-6/6
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Liliana's Specter
-{1}{B}{B}
-Creature — Specter
-Flying
-"When Liliana’s Specter enters the battlefield, each opponent discards a card."
-2/1
-Mitotic Slime
-{4}{G}
-Creature — Ooze
-"When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have “When this creature dies, create two 1/1 green Ooze creature tokens.”"
-4/4
-Sun Titan
-{4}{W}{W}
-Creature — Giant
-Vigilance
-"Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
-6/6
+"('Ancient Hellkite', ['{4}{R}{R}{R}', 'Creature — Dragon', 'Flying', '{R}: Ancient Hellkite deals 1 damage to target creature defending player controls. Activate this ability only if Ancient Hellkite is attacking.', '6/6'])"
+"('Birds of Paradise', ['{G}', 'Creature — Bird', 'Flying', '{T}: Add one mana of any color.', '0/1'])"
+"(""Liliana's Specter"", ['{1}{B}{B}', 'Creature — Specter', 'Flying', 'When Liliana’s Specter enters the battlefield, each opponent discards a card.', '2/1'])"
+"('Mitotic Slime', ['{4}{G}', 'Creature — Ooze', 'When Mitotic Slime dies, create two 2/2 green Ooze creature tokens. They have “When this creature dies, create two 1/1 green Ooze creature tokens.”', '4/4'])"
+"('Sun Titan', ['{4}{W}{W}', 'Creature — Giant', 'Vigilance', 'Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.', '6/6'])"

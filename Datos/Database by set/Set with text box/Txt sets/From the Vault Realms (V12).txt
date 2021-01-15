@@ -1,60 +1,15 @@
-Ancient Tomb
-Land
-{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.
-"Boseiju, Who Shelters All"
-Legendary Land
-"Boseiju, Who Shelters All enters the battlefield tapped."
-"{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can’t be countered."
-Cephalid Coliseum
-Land
-{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.
-"Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard."
-Desert
-Land — Desert
-{T}: Add {C}.
-{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.
-Dryad Arbor
-Land Creature — Forest Dryad
-"(Dryad Arbor isn’t a spell, it’s affected by summoning sickness, and it has “{T}: Add {G}.”)"
-1/1
-Forbidden Orchard
-Land
-{T}: Add one mana of any color.
-"Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token."
-Glacial Chasm
-Land
-"Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)"
-"When Glacial Chasm enters the battlefield, sacrifice a land."
-Creatures you control can’t attack.
-Prevent all damage that would be dealt to you.
-Grove of the Burnwillows
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Each opponent gains 1 life.
-High Market
-Land
-{T}: Add {C}.
-"{T}, Sacrifice a creature: You gain 1 life."
-Maze of Ith
-Land
-{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.
-Murmuring Bosk
-Land — Forest
-({T}: Add {G}.)
-"As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don’t, Murmuring Bosk enters the battlefield tapped."
-{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.
-Shivan Gorge
-Legendary Land
-{T}: Add {C}.
-"{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent."
-"Urborg, Tomb of Yawgmoth"
-Legendary Land
-Each land is a Swamp in addition to its other land types.
-Vesuva
-Land
-You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.
-Windbrisk Heights
-Land
-"Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)"
-{T}: Add {W}.
-"{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn."
+"('Ancient Tomb', ['Land', '{T}: Add {C}{C}. Ancient Tomb deals 2 damage to you.'])"
+"('Boseiju, Who Shelters All', ['Legendary Land', 'Boseiju, Who Shelters All enters the battlefield tapped.', '{T}, Pay 2 life: Add {C}. If that mana is spent on an instant or sorcery spell, that spell can’t be countered.'])"
+"('Cephalid Coliseum', ['Land', '{T}: Add {U}. Cephalid Coliseum deals 1 damage to you.', 'Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.'])"
+"('Desert', ['Land — Desert', '{T}: Add {C}.', '{T}: Desert deals 1 damage to target attacking creature. Activate this ability only during the end of combat step.'])"
+"('Dryad Arbor', ['Land Creature — Forest Dryad', '(Dryad Arbor isn’t a spell, it’s affected by summoning sickness, and it has “{T}: Add {G}.”)', '1/1'])"
+"('Forbidden Orchard', ['Land', '{T}: Add one mana of any color.', 'Whenever you tap Forbidden Orchard for mana, target opponent creates a 1/1 colorless Spirit creature token.'])"
+"('Glacial Chasm', ['Land', 'Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)', 'When Glacial Chasm enters the battlefield, sacrifice a land.', 'Creatures you control can’t attack.', 'Prevent all damage that would be dealt to you.'])"
+"('Grove of the Burnwillows', ['Land', '{T}: Add {C}.', '{T}: Add {R} or {G}. Each opponent gains 1 life.'])"
+"('High Market', ['Land', '{T}: Add {C}.', '{T}, Sacrifice a creature: You gain 1 life.'])"
+"('Maze of Ith', ['Land', '{T}: Untap target attacking creature. Prevent all combat damage that would be dealt to and dealt by that creature this turn.'])"
+"('Murmuring Bosk', ['Land — Forest', '({T}: Add {G}.)', 'As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don’t, Murmuring Bosk enters the battlefield tapped.', '{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.'])"
+"('Shivan Gorge', ['Legendary Land', '{T}: Add {C}.', '{2}{R}, {T}: Shivan Gorge deals 1 damage to each opponent.'])"
+"('Urborg, Tomb of Yawgmoth', ['Legendary Land', 'Each land is a Swamp in addition to its other land types.'])"
+"('Vesuva', ['Land', 'You may have Vesuva enter the battlefield tapped as a copy of any land on the battlefield.'])"
+"('Windbrisk Heights', ['Land', 'Hideaway (This land enters the battlefield tapped. When it does, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library.)', '{T}: Add {W}.', '{W}, {T}: You may play the exiled card without paying its mana cost if you attacked with three or more creatures this turn.'])"

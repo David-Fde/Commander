@@ -1,13 +1,2 @@
-Dinosaur
-Token Creature — Dinosaur
-Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)
-3/3
-Dragon
-Token Creature — Dragon
-Flying
-{R}: This creature gets +1/+0 until end of turn.
-2/2
-Dragon
-Token Creature — Dragon
-Flying
-5/5
+"('Dinosaur', ['Token Creature — Dinosaur', 'Trample (This creature can deal excess combat damage to the player or planeswalker it’s attacking.)', '3/3'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '5/5'])"

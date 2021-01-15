@@ -1,4 +1,1 @@
-Underworld Dreams
-{B}{B}{B}
-Enchantment
-"Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player."
+"('Underworld Dreams', ['{B}{B}{B}', 'Enchantment', 'Whenever an opponent draws a card, Underworld Dreams deals 1 damage to that player.'])"

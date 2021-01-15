@@ -1,576 +1,84 @@
-2001 World Championships Ad
-Card
-Accumulated Knowledge
-{1}{U}
-Instant
-"Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards."
-Addle
-{1}{B}
-Sorcery
-Choose a color. Target player reveals their hand and you choose a card of that color from it. That player discards that card.
-Alex Borteh Bio
-Card
-Eighteen-year-old Alex Borteh came on strong in the last half of the 2000—2001 Pro Tour™ season. He posted an impressive Top 8 finish at U.S. Nationals and followed that up by coming within one match of winning this year’s Worlds. The soon-to-be Ohio State University freshman played a monoblue combo deck that he liked to call “Da Folk.” This deck wins by using Opposition and Static Orb to establish a lock down while legions of Merfolk overrun opponents’ immobilized defenses.
-Alex Borteh Decklist
-Card
-Antoine Ruel Bio
-Card
-"A member of the famous Team Block Ops, Antoine Ruel, a native of Aubervilliers, France, took his blue-black-red control deck to a third-place finish at this year’s World Championships. Ruel credits his teammate Laurent Pagorek for the deck that he calls “AK-Go.” The deck, which Ruel played to a 5—1 record during the Standard portion of the tournament, relies on card drawing (most notably Accumulated Knowledge, or “AK” for short), countermagic (“Go,” for short), red for board control, and Nether Spirits for the win."
-Antoine Ruel Decklist
-Card
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Blank Card
-Card
-Blastoderm
-{2}{G}{G}
-Creature — Beast
-Shroud (This creature can’t be the target of spells or abilities.)
-"Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-5/5
-Blazing Specter
-{2}{B}{R}
-Creature — Specter
-"Flying, haste"
-"Whenever Blazing Specter deals combat damage to a player, that player discards a card."
-2/2
-Blood Oath
-{3}{R}
-Instant
-"Choose a card type. Target opponent reveals their hand. Blood Oath deals 3 damage to that player for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)"
-Boil
-{3}{R}
-Instant
-Destroy all Islands.
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Crosis's Charm
-{U}{B}{R}
-Instant
-Choose one —
-• Return target permanent to its owner’s hand.
-• Destroy target nonblack creature. It can’t be regenerated.
-• Destroy target artifact.
-Crypt Angel
-{4}{B}
-Creature — Angel
-"Flying, protection from white"
-"When Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand."
-3/3
-Crypt Angel
-{4}{B}
-Creature — Angel
-"Flying, protection from white"
-"When Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand."
-3/3
-Dark Ritual
-{B}
-Instant
-Add {B}{B}{B}.
-Darting Merfolk
-{1}{U}
-Creature — Merfolk
-{U}: Return Darting Merfolk to its owner’s hand.
-1/1
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Engineered Plague
-{2}{B}
-Enchantment
-"As Engineered Plague enters the battlefield, choose a creature type."
-All creatures of the chosen type get -1/-1.
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Fire
-{1}{R}
-Instant
-Fire deals 2 damage divided as you choose among one or two targets.
-Ice
-{1}{U}
-Instant
-Tap target permanent.
-Draw a card.
-Fire
-{1}{R}
-Instant
-Fire deals 2 damage divided as you choose among one or two targets.
-Ice
-{1}{U}
-Instant
-Tap target permanent.
-Draw a card.
-Fires of Yavimaya
-{1}{R}{G}
-Enchantment
-Creatures you control have haste.
-Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Gush
-{4}{U}
-Instant
-You may return two Islands you control to their owner’s hand rather than pay this spell’s mana cost.
-Draw two cards.
-Hibernation
-{2}{U}
-Instant
-Return all green permanents to their owners’ hands.
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jan Tomcani Bio
-Card
-"Jan Tomcani, from Bratislava in the Slovak Republic, came out of nowhere to stun everyone by posting a perfect 6—0 record in the Standard portion of this year’s Worlds. Tomcani then proved that his run was no fluke by working his way up to the quarterfinals, where he lost to Alex Borteh in a close five-game match. Tomcani played a version of “Fires,” the green-red deck that defined much of this year’s metagame. Tomcani’s version, which splashed black, follows the normal Fires archetype of playing cheap creatures followed by Fires of Yavimaya and big creatures like Blastoderm or Spiritmonger."
-Jan Tomcani Decklist
-Card
-Karplusan Forest
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
-Kavu Chameleon
-{3}{G}{G}
-Creature — Kavu
-This spell can’t be countered.
-{G}: Kavu Chameleon becomes the color of your choice until end of turn.
-4/4
-Kavu Chameleon
-{3}{G}{G}
-Creature — Kavu
-This spell can’t be countered.
-{G}: Kavu Chameleon becomes the color of your choice until end of turn.
-4/4
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Llanowar Wastes
-Land
-{T}: Add {C}.
-{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.
-Lobotomy
-{2}{U}{B}
-Sorcery
-"Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player’s graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library."
-Lord of Atlantis
-{U}{U}
-Creature — Merfolk
-Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)
-2/2
-Mana Maze
-{1}{U}
-Enchantment
-Players can’t cast spells that share a color with the spell most recently cast this turn.
-Meekstone
-{1}
-Artifact
-Creatures with power 3 or greater don’t untap during their controllers’ untap steps.
-Merfolk Looter
-{1}{U}
-Creature — Merfolk Rogue
-"{T}: Draw a card, then discard a card."
-1/1
-Merfolk of the Pearl Trident
-{U}
-Creature — Merfolk
-1/1
-Misdirection
-{3}{U}{U}
-Instant
-You may exile a blue card from your hand rather than pay this spell’s mana cost.
-Change the target of target spell with a single target.
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Nether Spirit
-{1}{B}{B}
-Creature — Spirit
-"At the beginning of your upkeep, if Nether Spirit is the only creature card in your graveyard, you may return Nether Spirit to the battlefield."
-2/2
-Obliterate
-{6}{R}{R}
-Sorcery
-This spell can’t be countered.
-"Destroy all artifacts, creatures, and lands. They can’t be regenerated."
-Opposition
-{2}{U}{U}
-Enchantment
-"Tap an untapped creature you control: Tap target artifact, creature, or land."
-Opt
-{U}
-Instant
-Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)
-Draw a card.
-Persecute
-{2}{B}{B}
-Sorcery
-Choose a color. Target player reveals their hand and discards all cards of that color.
-Phyrexian Arena
-{1}{B}{B}
-Enchantment
-"At the beginning of your upkeep, you draw a card and you lose 1 life."
-Phyrexian Scuta
-{3}{B}
-Creature — Zombie
-Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)
-"If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it."
-3/3
-Plague Spitter
-{2}{B}
-Creature — Horror
-"At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player."
-"When Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player."
-2/2
-Prodigal Sorcerer
-{2}{U}
-Creature — Human Wizard
-{T}: Prodigal Sorcerer deals 1 damage to any target.
-1/1
-Pyroclasm
-{1}{R}
-Sorcery
-Pyroclasm deals 2 damage to each creature.
-Pyroclasm
-{1}{R}
-Sorcery
-Pyroclasm deals 2 damage to each creature.
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Rushing River
-{2}{U}
-Instant
-Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
-"Return target nonland permanent to its owner’s hand. If this spell was kicked, return another target nonland permanent to its owner’s hand."
-Salt Marsh
-Land
-Salt Marsh enters the battlefield tapped.
-{T}: Add {U} or {B}.
-Saproling Burst
-{4}{G}
-Enchantment
-"Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has “This creature’s power and toughness are each equal to the number of fade counters on Saproling Burst.”
-"When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can’t be regenerated."
-Scoria Cat
-{3}{R}{R}
-Creature — Cat
-Scoria Cat gets +3/+3 as long as you control no untapped lands.
-3/3
-Shivan Reef
-Land
-{T}: Add {C}.
-{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.
-Skizzik
-{3}{R}
-Creature — Elemental
-Kicker {R} (You may pay an additional {R} as you cast this spell.)
-"Trample, haste"
-"At the beginning of the end step, if Skizzik wasn’t kicked, sacrifice it."
-5/3
-Spiritmonger
-{3}{B}{G}
-Creature — Beast
-"Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger."
-{B}: Regenerate Spiritmonger.
-{G}: Spiritmonger becomes the color of your choice until end of turn.
-6/6
-Spite
-{3}{U}
-Instant
-Counter target noncreature spell.
-Malice
-{3}{B}
-Instant
-Destroy target nonblack creature. It can’t be regenerated.
-Static Orb
-{3}
-Artifact
-"As long as Static Orb is untapped, players can’t untap more than two permanents during their untap steps."
-Sulfurous Springs
-Land
-{T}: Add {C}.
-{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
-Sulfurous Springs
-Land
-{T}: Add {C}.
-{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
-Sulfurous Springs
-Land
-{T}: Add {C}.
-{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Tangle
-{1}{G}
-Instant
-Prevent all combat damage that would be dealt this turn.
-Each attacking creature doesn’t untap during its controller’s next untap step.
-Teferi's Response
-{1}{U}
-Instant
-"Counter target spell or ability an opponent controls that targets a land you control. If a permanent’s ability is countered this way, destroy that permanent."
-Draw two cards.
-Teferi's Response
-{1}{U}
-Instant
-"Counter target spell or ability an opponent controls that targets a land you control. If a permanent’s ability is countered this way, destroy that permanent."
-Draw two cards.
-Terminate
-{B}{R}
-Instant
-Destroy target creature. It can’t be regenerated.
-Thornscape Battlemage
-{2}{G}
-Creature — Elf Wizard
-Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)
-"When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target."
-"When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact."
-2/2
-Thunderscape Battlemage
-{2}{R}
-Creature — Human Wizard
-Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)
-"When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards."
-"When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment."
-2/2
-Thwart
-{2}{U}{U}
-Instant
-You may return three Islands you control to their owner’s hand rather than pay this spell’s mana cost.
-Counter target spell.
-Tom van de Logt Bio (2001)
-Card
-"Tom van de Logt is the 2001 Netherlands National Champion as well as one of an elite group of players who have posted back-to-back World Championship Top 8 performances. Currently a student in Groesbeek, van de Logt posted an impressive 5—1 record in the Standard portion of this year’s Worlds. He described his aggressive black-red “Machine Head” deck as “the deck that beats the deck that beats ‘Fires.’” He liked the explosive “I win” draws that his deck provided, and he especially liked the way it performed against blue decks."
-Tom van de Logt Decklist (2001)
-Card
-Tsabo's Assassin
-{2}{B}{B}
-Creature — Zombie Assassin
-{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can’t be regenerated.
-1/1
-Tsabo's Decree
-{5}{B}
-Instant
-Choose a creature type. Target player reveals their hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can’t be regenerated.
-Tsabo's Web
-{2}
-Artifact
-"When Tsabo’s Web enters the battlefield, draw a card."
-Each land with an activated ability that isn’t a mana ability doesn’t untap during its controller’s untap step.
-Underground River
-Land
-{T}: Add {C}.
-{T}: Add {U} or {B}. Underground River deals 1 damage to you.
-Undermine
-{U}{U}{B}
-Instant
-Counter target spell. Its controller loses 3 life.
-Urborg Volcano
-Land
-Urborg Volcano enters the battlefield tapped.
-{T}: Add {B} or {R}.
-Urborg Volcano
-Land
-Urborg Volcano enters the battlefield tapped.
-{T}: Add {B} or {R}.
-Urza's Rage
-{2}{R}
-Instant
-Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)
-This spell can’t be countered.
-"Urza’s Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can’t be prevented."
-Urza's Rage
-{2}{R}
-Instant
-Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)
-This spell can’t be countered.
-"Urza’s Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can’t be prevented."
-Urza's Rage
-{2}{R}
-Instant
-Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)
-This spell can’t be countered.
-"Urza’s Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can’t be prevented."
-Vendetta
-{B}
-Instant
-Destroy target nonblack creature. It can’t be regenerated. You lose life equal to that creature’s toughness.
-Vodalian Merchant
-{1}{U}
-Creature — Merfolk
-"When Vodalian Merchant enters the battlefield, draw a card, then discard a card."
-1/2
-Wash Out
-{3}{U}
-Sorcery
-Return all permanents of the color of your choice to their owners’ hands.
-Waterfront Bouncer
-{1}{U}
-Creature — Merfolk Spellshaper
-"{U}, {T}, Discard a card: Return target creature to its owner’s hand."
-1/1
+"('2001 World Championships Ad', ['Card'])"
+"('Accumulated Knowledge', ['{1}{U}', 'Instant', 'Draw a card, then draw cards equal to the number of cards named Accumulated Knowledge in all graveyards.'])"
+"('Addle', ['{1}{B}', 'Sorcery', 'Choose a color. Target player reveals their hand and you choose a card of that color from it. That player discards that card.'])"
+"('Alex Borteh Bio', ['Card', 'Eighteen-year-old Alex Borteh came on strong in the last half of the 2000—2001 Pro Tour™ season. He posted an impressive Top 8 finish at U.S. Nationals and followed that up by coming within one match of winning this year’s Worlds. The soon-to-be Ohio State University freshman played a monoblue combo deck that he liked to call “Da Folk.” This deck wins by using Opposition and Static Orb to establish a lock down while legions of Merfolk overrun opponents’ immobilized defenses.'])"
+"('Alex Borteh Decklist', ['Card'])"
+"('Antoine Ruel Bio', ['Card', 'A member of the famous Team Block Ops, Antoine Ruel, a native of Aubervilliers, France, took his blue-black-red control deck to a third-place finish at this year’s World Championships. Ruel credits his teammate Laurent Pagorek for the deck that he calls “AK-Go.” The deck, which Ruel played to a 5—1 record during the Standard portion of the tournament, relies on card drawing (most notably Accumulated Knowledge, or “AK” for short), countermagic (“Go,” for short), red for board control, and Nether Spirits for the win.'])"
+"('Antoine Ruel Decklist', ['Card'])"
+"('Birds of Paradise', ['{G}', 'Creature — Bird', 'Flying', '{T}: Add one mana of any color.', '0/1'])"
+"('Blank Card', ['Card'])"
+"('Blastoderm', ['{2}{G}{G}', 'Creature — Beast', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', '5/5'])"
+"('Blazing Specter', ['{2}{B}{R}', 'Creature — Specter', 'Flying, haste', 'Whenever Blazing Specter deals combat damage to a player, that player discards a card.', '2/2'])"
+"('Blood Oath', ['{3}{R}', 'Instant', 'Choose a card type. Target opponent reveals their hand. Blood Oath deals 3 damage to that player for each card of the chosen type revealed this way. (Artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card types.)'])"
+"('Boil', ['{3}{R}', 'Instant', 'Destroy all Islands.'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"(""Crosis's Charm"", ['{U}{B}{R}', 'Instant', 'Choose one —', '• Return target permanent to its owner’s hand.', '• Destroy target nonblack creature. It can’t be regenerated.', '• Destroy target artifact.'])"
+"('Crypt Angel', ['{4}{B}', 'Creature — Angel', 'Flying, protection from white', 'When Crypt Angel enters the battlefield, return target blue or red creature card from your graveyard to your hand.', '3/3'])"
+"('Dark Ritual', ['{B}', 'Instant', 'Add {B}{B}{B}.'])"
+"('Darting Merfolk', ['{1}{U}', 'Creature — Merfolk', '{U}: Return Darting Merfolk to its owner’s hand.', '1/1'])"
+"('Duress', ['{B}', 'Sorcery', 'Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.'])"
+"('Engineered Plague', ['{2}{B}', 'Enchantment', 'As Engineered Plague enters the battlefield, choose a creature type.', 'All creatures of the chosen type get -1/-1.'])"
+"('Fact or Fiction', ['{3}{U}', 'Instant', 'Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.'])"
+"('Fire', ['{1}{R}', 'Instant', 'Fire deals 2 damage divided as you choose among one or two targets.', 'Ice', '{1}{U}', 'Instant', 'Tap target permanent.', 'Draw a card.'])"
+"('Fires of Yavimaya', ['{1}{R}{G}', 'Enchantment', 'Creatures you control have haste.', 'Sacrifice Fires of Yavimaya: Target creature gets +2/+2 until end of turn.'])"
+"('Flametongue Kavu', ['{3}{R}', 'Creature — Kavu', 'When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.', '4/2'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Gush', ['{4}{U}', 'Instant', 'You may return two Islands you control to their owner’s hand rather than pay this spell’s mana cost.', 'Draw two cards.'])"
+"('Hibernation', ['{2}{U}', 'Instant', 'Return all green permanents to their owners’ hands.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jan Tomcani Bio', ['Card', 'Jan Tomcani, from Bratislava in the Slovak Republic, came out of nowhere to stun everyone by posting a perfect 6—0 record in the Standard portion of this year’s Worlds. Tomcani then proved that his run was no fluke by working his way up to the quarterfinals, where he lost to Alex Borteh in a close five-game match. Tomcani played a version of “Fires,” the green-red deck that defined much of this year’s metagame. Tomcani’s version, which splashed black, follows the normal Fires archetype of playing cheap creatures followed by Fires of Yavimaya and big creatures like Blastoderm or Spiritmonger.'])"
+"('Jan Tomcani Decklist', ['Card'])"
+"('Karplusan Forest', ['Land', '{T}: Add {C}.', '{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.'])"
+"('Kavu Chameleon', ['{3}{G}{G}', 'Creature — Kavu', 'This spell can’t be countered.', '{G}: Kavu Chameleon becomes the color of your choice until end of turn.', '4/4'])"
+"('Llanowar Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Llanowar Wastes', ['Land', '{T}: Add {C}.', '{T}: Add {B} or {G}. Llanowar Wastes deals 1 damage to you.'])"
+"('Lobotomy', ['{2}{U}{B}', 'Sorcery', 'Target player reveals their hand, then you choose a card other than a basic land card from it. Search that player’s graveyard, hand, and library for all cards with the same name as the chosen card and exile them. Then that player shuffles their library.'])"
+"('Lord of Atlantis', ['{U}{U}', 'Creature — Merfolk', 'Other Merfolk get +1/+1 and have islandwalk. (They can’t be blocked as long as defending player controls an Island.)', '2/2'])"
+"('Mana Maze', ['{1}{U}', 'Enchantment', 'Players can’t cast spells that share a color with the spell most recently cast this turn.'])"
+"('Meekstone', ['{1}', 'Artifact', 'Creatures with power 3 or greater don’t untap during their controllers’ untap steps.'])"
+"('Merfolk Looter', ['{1}{U}', 'Creature — Merfolk Rogue', '{T}: Draw a card, then discard a card.', '1/1'])"
+"('Merfolk of the Pearl Trident', ['{U}', 'Creature — Merfolk', '1/1'])"
+"('Misdirection', ['{3}{U}{U}', 'Instant', 'You may exile a blue card from your hand rather than pay this spell’s mana cost.', 'Change the target of target spell with a single target.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Nether Spirit', ['{1}{B}{B}', 'Creature — Spirit', 'At the beginning of your upkeep, if Nether Spirit is the only creature card in your graveyard, you may return Nether Spirit to the battlefield.', '2/2'])"
+"('Obliterate', ['{6}{R}{R}', 'Sorcery', 'This spell can’t be countered.', 'Destroy all artifacts, creatures, and lands. They can’t be regenerated.'])"
+"('Opposition', ['{2}{U}{U}', 'Enchantment', 'Tap an untapped creature you control: Tap target artifact, creature, or land.'])"
+"('Opt', ['{U}', 'Instant', 'Scry 1. (Look at the top card of your library. You may put that card on the bottom of your library.)', 'Draw a card.'])"
+"('Persecute', ['{2}{B}{B}', 'Sorcery', 'Choose a color. Target player reveals their hand and discards all cards of that color.'])"
+"('Phyrexian Arena', ['{1}{B}{B}', 'Enchantment', 'At the beginning of your upkeep, you draw a card and you lose 1 life.'])"
+"('Phyrexian Scuta', ['{3}{B}', 'Creature — Zombie', 'Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)', 'If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.', '3/3'])"
+"('Plague Spitter', ['{2}{B}', 'Creature — Horror', 'At the beginning of your upkeep, Plague Spitter deals 1 damage to each creature and each player.', 'When Plague Spitter dies, Plague Spitter deals 1 damage to each creature and each player.', '2/2'])"
+"('Prodigal Sorcerer', ['{2}{U}', 'Creature — Human Wizard', '{T}: Prodigal Sorcerer deals 1 damage to any target.', '1/1'])"
+"('Pyroclasm', ['{1}{R}', 'Sorcery', 'Pyroclasm deals 2 damage to each creature.'])"
+"('Rishadan Port', ['Land', '{T}: Add {C}.', '{1}, {T}: Tap target land.'])"
+"('Rushing River', ['{2}{U}', 'Instant', 'Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)', 'Return target nonland permanent to its owner’s hand. If this spell was kicked, return another target nonland permanent to its owner’s hand.'])"
+"('Salt Marsh', ['Land', 'Salt Marsh enters the battlefield tapped.', '{T}: Add {U} or {B}.'])"
+"('Saproling Burst', ['{4}{G}', 'Enchantment', 'Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', 'Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has “This creature’s power and toughness are each equal to the number of fade counters on Saproling Burst.”', 'When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can’t be regenerated.'])"
+"('Scoria Cat', ['{3}{R}{R}', 'Creature — Cat', 'Scoria Cat gets +3/+3 as long as you control no untapped lands.', '3/3'])"
+"('Shivan Reef', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {R}. Shivan Reef deals 1 damage to you.'])"
+"('Skizzik', ['{3}{R}', 'Creature — Elemental', 'Kicker {R} (You may pay an additional {R} as you cast this spell.)', 'Trample, haste', 'At the beginning of the end step, if Skizzik wasn’t kicked, sacrifice it.', '5/3'])"
+"('Spiritmonger', ['{3}{B}{G}', 'Creature — Beast', 'Whenever Spiritmonger deals damage to a creature, put a +1/+1 counter on Spiritmonger.', '{B}: Regenerate Spiritmonger.', '{G}: Spiritmonger becomes the color of your choice until end of turn.', '6/6'])"
+"('Spite', ['{3}{U}', 'Instant', 'Counter target noncreature spell.', 'Malice', '{3}{B}', 'Instant', 'Destroy target nonblack creature. It can’t be regenerated.'])"
+"('Static Orb', ['{3}', 'Artifact', 'As long as Static Orb is untapped, players can’t untap more than two permanents during their untap steps.'])"
+"('Sulfurous Springs', ['Land', '{T}: Add {C}.', '{T}: Add {B} or {R}. Sulfurous Springs deals 1 damage to you.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Tangle', ['{1}{G}', 'Instant', 'Prevent all combat damage that would be dealt this turn.', 'Each attacking creature doesn’t untap during its controller’s next untap step.'])"
+"(""Teferi's Response"", ['{1}{U}', 'Instant', 'Counter target spell or ability an opponent controls that targets a land you control. If a permanent’s ability is countered this way, destroy that permanent.', 'Draw two cards.'])"
+"('Terminate', ['{B}{R}', 'Instant', 'Destroy target creature. It can’t be regenerated.'])"
+"('Thornscape Battlemage', ['{2}{G}', 'Creature — Elf Wizard', 'Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)', 'When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to any target.', 'When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.', '2/2'])"
+"('Thunderscape Battlemage', ['{2}{R}', 'Creature — Human Wizard', 'Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)', 'When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.', 'When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.', '2/2'])"
+"('Thwart', ['{2}{U}{U}', 'Instant', 'You may return three Islands you control to their owner’s hand rather than pay this spell’s mana cost.', 'Counter target spell.'])"
+"('Tom van de Logt Bio (2001)', ['Card', 'Tom van de Logt is the 2001 Netherlands National Champion as well as one of an elite group of players who have posted back-to-back World Championship Top 8 performances. Currently a student in Groesbeek, van de Logt posted an impressive 5—1 record in the Standard portion of this year’s Worlds. He described his aggressive black-red “Machine Head” deck as “the deck that beats the deck that beats ‘Fires.’” He liked the explosive “I win” draws that his deck provided, and he especially liked the way it performed against blue decks.'])"
+"('Tom van de Logt Decklist (2001)', ['Card'])"
+"(""Tsabo's Assassin"", ['{2}{B}{B}', 'Creature — Zombie Assassin', '{T}: Destroy target creature if it shares a color with the most common color among all permanents or a color tied for most common. A creature destroyed this way can’t be regenerated.', '1/1'])"
+"(""Tsabo's Decree"", ['{5}{B}', 'Instant', 'Choose a creature type. Target player reveals their hand and discards all creature cards of that type. Then destroy all creatures of that type that player controls. They can’t be regenerated.'])"
+"(""Tsabo's Web"", ['{2}', 'Artifact', 'When Tsabo’s Web enters the battlefield, draw a card.', 'Each land with an activated ability that isn’t a mana ability doesn’t untap during its controller’s untap step.'])"
+"('Underground River', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {B}. Underground River deals 1 damage to you.'])"
+"('Undermine', ['{U}{U}{B}', 'Instant', 'Counter target spell. Its controller loses 3 life.'])"
+"('Urborg Volcano', ['Land', 'Urborg Volcano enters the battlefield tapped.', '{T}: Add {B} or {R}.'])"
+"(""Urza's Rage"", ['{2}{R}', 'Instant', 'Kicker {8}{R} (You may pay an additional {8}{R} as you cast this spell.)', 'This spell can’t be countered.', 'Urza’s Rage deals 3 damage to any target. If this spell was kicked, instead it deals 10 damage to that permanent or player and the damage can’t be prevented.'])"
+"('Vendetta', ['{B}', 'Instant', 'Destroy target nonblack creature. It can’t be regenerated. You lose life equal to that creature’s toughness.'])"
+"('Vodalian Merchant', ['{1}{U}', 'Creature — Merfolk', 'When Vodalian Merchant enters the battlefield, draw a card, then discard a card.', '1/2'])"
+"('Wash Out', ['{3}{U}', 'Sorcery', 'Return all permanents of the color of your choice to their owners’ hands.'])"
+"('Waterfront Bouncer', ['{1}{U}', 'Creature — Merfolk Spellshaper', '{U}, {T}, Discard a card: Return target creature to its owner’s hand.', '1/1'])"

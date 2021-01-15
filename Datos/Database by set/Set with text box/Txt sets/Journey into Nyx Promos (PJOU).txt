@@ -1,48 +1,9 @@
-Dawnbringer Charioteers
-{2}{W}{W}
-Creature — Human Soldier
-"Flying, lifelink"
-"Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers."
-2/4
-Dictate of Kruphix
-{1}{U}{U}
-Enchantment
-Flash
-"At the beginning of each player’s draw step, that player draws an additional card."
-Dictate of the Twin Gods
-{3}{R}{R}
-Enchantment
-Flash
-"If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead."
-Doomwake Giant
-{4}{B}
-Enchantment Creature — Giant
-"Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn."
-4/6
-Eidolon of Blossoms
-{2}{G}{G}
-Enchantment Creature — Spirit
-"Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card."
-2/2
-Heroes' Bane
-{3}{G}{G}
-Creature — Hydra
-Heroes’ Bane enters the battlefield with four +1/+1 counters on it.
-"{2}{G}{G}: Put X +1/+1 counters on Heroes’ Bane, where X is its power."
-0/0
-Scourge of Fleets
-{5}{U}{U}
-Creature — Kraken
-"When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner’s hand, where X is the number of Islands you control."
-6/6
-Spawn of Thraxes
-{5}{R}{R}
-Creature — Dragon
-Flying
-"When Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control."
-5/5
-Squelching Leeches
-{2}{B}{B}
-Creature — Leech
-Squelching Leeches’s power and toughness are each equal to the number of Swamps you control.
-*/*
+"('Dawnbringer Charioteers', ['{2}{W}{W}', 'Creature — Human Soldier', 'Flying, lifelink', 'Heroic — Whenever you cast a spell that targets Dawnbringer Charioteers, put a +1/+1 counter on Dawnbringer Charioteers.', '2/4'])"
+"('Dictate of Kruphix', ['{1}{U}{U}', 'Enchantment', 'Flash', 'At the beginning of each player’s draw step, that player draws an additional card.'])"
+"('Dictate of the Twin Gods', ['{3}{R}{R}', 'Enchantment', 'Flash', 'If a source would deal damage to a permanent or player, it deals double that damage to that permanent or player instead.'])"
+"('Doomwake Giant', ['{4}{B}', 'Enchantment Creature — Giant', 'Constellation — Whenever Doomwake Giant or another enchantment enters the battlefield under your control, creatures your opponents control get -1/-1 until end of turn.', '4/6'])"
+"('Eidolon of Blossoms', ['{2}{G}{G}', 'Enchantment Creature — Spirit', 'Constellation — Whenever Eidolon of Blossoms or another enchantment enters the battlefield under your control, draw a card.', '2/2'])"
+"(""Heroes' Bane"", ['{3}{G}{G}', 'Creature — Hydra', 'Heroes’ Bane enters the battlefield with four +1/+1 counters on it.', '{2}{G}{G}: Put X +1/+1 counters on Heroes’ Bane, where X is its power.', '0/0'])"
+"('Scourge of Fleets', ['{5}{U}{U}', 'Creature — Kraken', 'When Scourge of Fleets enters the battlefield, return each creature your opponents control with toughness X or less to its owner’s hand, where X is the number of Islands you control.', '6/6'])"
+"('Spawn of Thraxes', ['{5}{R}{R}', 'Creature — Dragon', 'Flying', 'When Spawn of Thraxes enters the battlefield, it deals damage to any target equal to the number of Mountains you control.', '5/5'])"
+"('Squelching Leeches', ['{2}{B}{B}', 'Creature — Leech', 'Squelching Leeches’s power and toughness are each equal to the number of Swamps you control.', '*/*'])"

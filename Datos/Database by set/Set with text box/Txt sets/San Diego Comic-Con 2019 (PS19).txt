@@ -1,36 +1,5 @@
-God-Eternal Bontu
-{3}{B}{B}
-Legendary Creature — Zombie God
-Menace
-"When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards."
-"When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
-5/6
-God-Eternal Kefnet
-{2}{U}{U}
-Legendary Creature — Zombie God
-Flying
-"You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast."
-"When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
-4/5
-God-Eternal Oketra
-{3}{W}{W}
-Legendary Creature — Zombie God
-Double strike
-"Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance."
-"When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
-3/6
-God-Eternal Rhonas
-{3}{G}{G}
-Legendary Creature — Zombie God
-Deathtouch
-"When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn."
-"When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top."
-5/5
-"Nicol Bolas, Dragon-God"
-{U}{B}{B}{B}{R}
-Legendary Planeswalker — Bolas
-"Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield."
-+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.
-−3: Destroy target creature or planeswalker.
-−8: Each opponent who doesn’t control a legendary creature or planeswalker loses the game.
-Loyalty: 4
+"('God-Eternal Bontu', ['{3}{B}{B}', 'Legendary Creature — Zombie God', 'Menace', 'When God-Eternal Bontu enters the battlefield, sacrifice any number of other permanents, then draw that many cards.', 'When God-Eternal Bontu dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.', '5/6'])"
+"('God-Eternal Kefnet', ['{2}{U}{U}', 'Legendary Creature — Zombie God', 'Flying', 'You may reveal the first card you draw each turn as you draw it. Whenever you reveal an instant or sorcery card this way, copy that card and you may cast the copy. That copy costs {2} less to cast.', 'When God-Eternal Kefnet dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.', '4/5'])"
+"('God-Eternal Oketra', ['{3}{W}{W}', 'Legendary Creature — Zombie God', 'Double strike', 'Whenever you cast a creature spell, create a 4/4 black Zombie Warrior creature token with vigilance.', 'When God-Eternal Oketra dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.', '3/6'])"
+"('God-Eternal Rhonas', ['{3}{G}{G}', 'Legendary Creature — Zombie God', 'Deathtouch', 'When God-Eternal Rhonas enters the battlefield, double the power of each other creature you control until end of turn. Those creatures gain vigilance until end of turn.', 'When God-Eternal Rhonas dies or is put into exile from the battlefield, you may put it into its owner’s library third from the top.', '5/5'])"
+"('Nicol Bolas, Dragon-God', ['{U}{B}{B}{B}{R}', 'Legendary Planeswalker — Bolas', 'Nicol Bolas, Dragon-God has all loyalty abilities of all other planeswalkers on the battlefield.', '+1: You draw a card. Each opponent exiles a card from their hand or a permanent they control.', '−3: Destroy target creature or planeswalker.', '−8: Each opponent who doesn’t control a legendary creature or planeswalker loses the game.', 'Loyalty: 4'])"

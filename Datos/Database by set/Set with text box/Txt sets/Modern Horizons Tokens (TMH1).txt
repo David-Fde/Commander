@@ -1,73 +1,20 @@
-Angel
-Token Creature — Angel
-"Flying, vigilance"
-4/4
-Bear
-Token Creature — Bear
-2/2
-Bird
-Token Creature — Bird
-Flying
-1/1
-Construct
-Token Artifact Creature — Construct
-This creature gets +1/+1 for each artifact you control.
-0/0
-Elemental
-Token Creature — Elemental
-1/1
-Elemental
-Token Creature — Elemental
-"Trample, haste"
-3/1
-Elephant
-Token Creature — Elephant
-3/3
-Goblin
-Token Creature — Goblin
-1/1
-Golem
-Token Artifact Creature — Golem
-3/3
-Illusion
-Token Creature — Illusion
-Flying
-1/1
-Marit Lage
-Token Legendary Creature — Avatar
-"Flying, indestructible"
-20/20
-Myr
-Token Artifact Creature — Myr
-1/1
-Rhino
-Token Creature — Rhino
-Trample
-4/4
-Serra the Benevolent Emblem
-Emblem — Serra
-"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
-Shapeshifter
-Token Creature — Shapeshifter
-Changeling
-2/2
-Soldier
-Token Creature — Soldier
-1/1
-Spider
-Token Creature — Spider
-Reach
-1/2
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Squirrel
-Token Creature — Squirrel
-1/1
-Wrenn and Six Emblem
-Emblem — Wrenn
-Instant and sorcery cards in your graveyard have retrace. (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)
-Zombie
-Token Creature — Zombie
-2/2
+"('Angel', ['Token Creature — Angel', 'Flying, vigilance', '4/4'])"
+"('Bear', ['Token Creature — Bear', '2/2'])"
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Construct', ['Token Artifact Creature — Construct', 'This creature gets +1/+1 for each artifact you control.', '0/0'])"
+"('Elemental', ['Token Creature — Elemental', 'Trample, haste', '3/1'])"
+"('Elephant', ['Token Creature — Elephant', '3/3'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Golem', ['Token Artifact Creature — Golem', '3/3'])"
+"('Illusion', ['Token Creature — Illusion', 'Flying', '1/1'])"
+"('Marit Lage', ['Token Legendary Creature — Avatar', 'Flying, indestructible', '20/20'])"
+"('Myr', ['Token Artifact Creature — Myr', '1/1'])"
+"('Rhino', ['Token Creature — Rhino', 'Trample', '4/4'])"
+"('Serra the Benevolent Emblem', ['Emblem — Serra', 'If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.'])"
+"('Shapeshifter', ['Token Creature — Shapeshifter', 'Changeling', '2/2'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Spider', ['Token Creature — Spider', 'Reach', '1/2'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Squirrel', ['Token Creature — Squirrel', '1/1'])"
+"('Wrenn and Six Emblem', ['Emblem — Wrenn', 'Instant and sorcery cards in your graveyard have retrace. (You may cast instant and sorcery cards from your graveyard by discarding a land card in addition to paying their other costs.)'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

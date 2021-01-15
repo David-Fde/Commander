@@ -1,6 +1,1 @@
-Aswan Jaguar
-{1}{G}{G}
-Summon Jaguar
-"When Aswan Jaguar comes into play, choose a random creature type from those in target opponent’s deck."
-"{G}{G}, {T}: Bury target creature of the chosen type."
-2/2
+"('Aswan Jaguar', ['{1}{G}{G}', 'Summon Jaguar', 'When Aswan Jaguar comes into play, choose a random creature type from those in target opponent’s deck.', '{G}{G}, {T}: Bury target creature of the chosen type.', '2/2'])"

@@ -1,21 +1,6 @@
-Hydra
-Token Creature — Hydra
-*/*
-Minotaur
-Token Creature — Minotaur
-2/3
-Snake
-Token Enchantment Creature — Snake
-Deathtouch
-1/1
-Sphinx
-Token Creature — Sphinx
-Flying
-4/4
-Spider
-Token Enchantment Creature — Spider
-Reach
-1/3
-Zombie
-Token Creature — Zombie
-*/*
+"('Hydra', ['Token Creature — Hydra', '*/*'])"
+"('Minotaur', ['Token Creature — Minotaur', '2/3'])"
+"('Snake', ['Token Enchantment Creature — Snake', 'Deathtouch', '1/1'])"
+"('Sphinx', ['Token Creature — Sphinx', 'Flying', '4/4'])"
+"('Spider', ['Token Enchantment Creature — Spider', 'Reach', '1/3'])"
+"('Zombie', ['Token Creature — Zombie', '*/*'])"

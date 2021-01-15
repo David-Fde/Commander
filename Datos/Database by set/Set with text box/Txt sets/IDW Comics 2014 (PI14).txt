@@ -1,12 +1,3 @@
-Acquire
-{3}{U}{U}
-Sorcery
-Search target opponent’s library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles their library.
-Duress
-{B}
-Sorcery
-"Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card."
-Wash Out
-{3}{U}
-Sorcery
-Return all permanents of the color of your choice to their owners’ hands.
+"('Acquire', ['{3}{U}{U}', 'Sorcery', 'Search target opponent’s library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles their library.'])"
+"('Duress', ['{B}', 'Sorcery', 'Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.'])"
+"('Wash Out', ['{3}{U}', 'Sorcery', 'Return all permanents of the color of your choice to their owners’ hands.'])"

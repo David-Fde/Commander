@@ -1,23 +1,7 @@
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Lightning Bolt
-{R}
-Instant
-Lightning Bolt deals 3 damage to any target.
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Sol Ring
-{1}
-Artifact
-{T}: Add {C}{C}.
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Lightning Bolt', ['{R}', 'Instant', 'Lightning Bolt deals 3 damage to any target.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Sol Ring', ['{1}', 'Artifact', '{T}: Add {C}{C}.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"

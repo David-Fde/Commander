@@ -1,505 +1,97 @@
-2000 World Championships Ad
-Card
-Absolute Law
-{1}{W}
-Enchantment
-All creatures have protection from red.
-Academy Rector
-{3}{W}
-Creature — Human Cleric
-"When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library."
-1/2
-Adarkar Wastes
-Land
-{T}: Add {C}.
-{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.
-Annul
-{U}
-Instant
-Counter target artifact or enchantment spell.
-Arc Lightning
-{2}{R}
-Sorcery
-"Arc Lightning deals 3 damage divided as you choose among one, two, or three targets."
-Armageddon
-{3}{W}
-Sorcery
-Destroy all lands.
-Ashnod's Altar
-{3}
-Artifact
-Sacrifice a creature: Add {C}{C}.
-Attunement
-{2}{U}
-Enchantment
-"Return Attunement to its owner’s hand: Draw three cards, then discard four cards."
-Aura Fracture
-{2}{W}
-Enchantment
-Sacrifice a land: Destroy target enchantment.
-Avalanche Riders
-{3}{R}
-Creature — Human Nomad
-Haste
-"Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)"
-"When Avalanche Riders enters the battlefield, destroy target land."
-2/2
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Birds of Paradise
-{G}
-Creature — Bird
-Flying
-{T}: Add one mana of any color.
-0/1
-Blank Card
-Card
-Blastoderm
-{2}{G}{G}
-Creature — Beast
-Shroud (This creature can’t be the target of spells or abilities.)
-"Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-5/5
-Blaze
-{X}{R}
-Sorcery
-Blaze deals X damage to any target.
-Boil
-{3}{R}
-Instant
-Destroy all Islands.
-Brainstorm
-{U}
-Instant
-"Draw three cards, then put two cards from your hand on top of your library in any order."
-Brushland
-Land
-{T}: Add {C}.
-{T}: Add {G} or {W}. Brushland deals 1 damage to you.
-Chill
-{1}{U}
-Enchantment
-Red spells cost {2} more to cast.
-Chill
-{1}{U}
-Enchantment
-Red spells cost {2} more to cast.
-Circle of Protection: Black
-{1}{W}
-Enchantment
-"{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage."
-City of Brass
-Land
-"Whenever City of Brass becomes tapped, it deals 1 damage to you."
-{T}: Add one mana of any color.
-Confiscate
-{4}{U}{U}
-Enchantment — Aura
-Enchant permanent
-You control enchanted permanent.
-Counterspell
-{U}{U}
-Instant
-Counter target spell.
-Creeping Mold
-{2}{G}{G}
-Sorcery
-"Destroy target artifact, enchantment, or land."
-Creeping Mold
-{2}{G}{G}
-Sorcery
-"Destroy target artifact, enchantment, or land."
-Crumbling Sanctuary
-{5}
-Artifact
-"If damage would be dealt to a player, that player exiles that many cards from the top of their library instead."
-Crystal Vein
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Crystal Vein: Add {C}{C}."
-Cursed Totem
-{2}
-Artifact
-Activated abilities of creatures can’t be activated.
-Daze
-{1}{U}
-Instant
-You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.
-Counter target spell unless its controller pays {1}.
-Defense Grid
-{2}
-Artifact
-Each spell costs {3} more to cast except during its controller’s turn.
-Dust Bowl
-Land
-{T}: Add {C}.
-"{3}, {T}, Sacrifice a land: Destroy target nonbasic land."
-Energy Field
-{1}{U}
-Enchantment
-Prevent all damage that would be dealt to you by sources you don’t control.
-"When a card is put into your graveyard from anywhere, sacrifice Energy Field."
-Energy Flux
-{2}{U}
-Enchantment
-"All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.”"
-Enlightened Tutor
-{W}
-Instant
-"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
-Enlightened Tutor
-{W}
-Instant
-"Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it."
-Erase
-{W}
-Instant
-Exile target enchantment.
-Fecundity
-{2}{G}
-Enchantment
-"Whenever a creature dies, that creature’s controller may draw a card."
-Flameshot
-{3}{R}
-Sorcery
-You may discard a Mountain card rather than pay this spell’s mana cost.
-"Flameshot deals 3 damage divided as you choose among one, two, or three target creatures."
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Frantic Search
-{2}{U}
-Instant
-"Draw two cards, then discard two cards. Untap up to three lands."
-Grim Monolith
-{2}
-Artifact
-Grim Monolith doesn’t untap during your untap step.
-{T}: Add {C}{C}{C}.
-{4}: Untap Grim Monolith.
-Heart of Ramos
-{3}
-Artifact
-{T}: Add {R}.
-Sacrifice Heart of Ramos: Add {R}.
-High Market
-Land
-{T}: Add {C}.
-"{T}, Sacrifice a creature: You gain 1 life."
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Janosch Kühn Bio (2000)
-Card
-"Hannover, Germany native Janosch Kühn joined an elite group of players in earning his second World Championship Top 8. Kühn played a red-green deck known as “Angry ‘Derm” or “Son of Hermit.” The deck built up its mana early with Birds of Paradise or Llanowar Elves, and then followed that up with mana-denial cards like Stone Rain, Plow Under, and Avalanche Riders. Masticore and Blastoderm provided the finishing punch."
-Janosch Kühn Decklist (2000)
-Card
-Jon Finkel Bio
-Card
-"“World Champion” was the one honor Jon Finkel had yet to claim. His dominating performance at this year’s World Championships earned him that title at lost. Finkel played an explosive deck that is named after its most important card, Tinker. Fellow Team Antarctica member Dan O'Mahoney-Schwartz designed this monoblue deck. The deck used artifacts such as Grim Monolith, Metalworker, and Voltaic Key to quickly generate huge amounts of mana, and then used that mana to put large creatures into play."
-Jon Finkel Decklist
-Card
-Karplusan Forest
-Land
-{T}: Add {C}.
-{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.
-Light of Day
-{3}{W}
-Enchantment
-Black creatures can’t attack or block.
-Lilting Refrain
-{1}{U}
-Enchantment
-"At the beginning of your upkeep, you may put a verse counter on Lilting Refrain."
-"Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain."
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Llanowar Elves
-{G}
-Creature — Elf Druid
-{T}: Add {G}.
-1/1
-Masticore
-{4}
-Artifact Creature — Masticore
-"At the beginning of your upkeep, sacrifice Masticore unless you discard a card."
-{2}: Masticore deals 1 damage to target creature.
-{2}: Regenerate Masticore.
-4/4
-Masticore
-{4}
-Artifact Creature — Masticore
-"At the beginning of your upkeep, sacrifice Masticore unless you discard a card."
-{2}: Masticore deals 1 damage to target creature.
-{2}: Regenerate Masticore.
-4/4
-Masticore
-{4}
-Artifact Creature — Masticore
-"At the beginning of your upkeep, sacrifice Masticore unless you discard a card."
-{2}: Masticore deals 1 damage to target creature.
-{2}: Regenerate Masticore.
-4/4
-Meekstone
-{1}
-Artifact
-Creatures with power 3 or greater don’t untap during their controllers’ untap steps.
-Metalworker
-{3}
-Artifact Creature — Construct
-{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.
-1/2
-Miscalculation
-{1}{U}
-Instant
-Counter target spell unless its controller pays {2}.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Mishra's Helix
-{5}
-Artifact
-"{X}, {T}: Tap X target lands."
-Mishra's Helix
-{5}
-Artifact
-"{X}, {T}: Tap X target lands."
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mystical Tutor
-{U}
-Instant
-"Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it."
-Nicolas Labarre Bio
-Card
-"The 2000 World Championships was Nicolas Labarre’s third Top 8 finish at a Pro Tour™ event (Rome ‘98, New York '99, Worlds '00). This Rennes, France native played a combo deck that he called “Chimera.” This deck used searching cards like Academy Rector and Enlightened Tutor to fetch Fecundity, Saproling Cluster, and Ashnod’s Altar. Once those three cards were in play, Labarre could generate as much mana as he wanted. With unlimited mana, he could play a very big Blaze or use Whetstone to immediately deck his opponent."
-Nicolas Labarre Decklist
-Card
-Opalescence
-{2}{W}{W}
-Enchantment
-Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.
-Parallax Tide
-{2}{U}{U}
-Enchantment
-"Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-Remove a fade counter from Parallax Tide: Exile target land.
-"When Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Tide."
-Parallax Wave
-{2}{W}{W}
-Enchantment
-"Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-Remove a fade counter from Parallax Wave: Exile target creature.
-"When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave."
-Parallax Wave
-{2}{W}{W}
-Enchantment
-"Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-Remove a fade counter from Parallax Wave: Exile target creature.
-"When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave."
-Pattern of Rebirth
-{3}{G}
-Enchantment — Aura
-Enchant creature
-"When enchanted creature dies, that creature’s controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library."
-Phyrexian Colossus
-{7}
-Artifact Creature — Golem
-Phyrexian Colossus doesn’t untap during your untap step.
-Pay 8 life: Untap Phyrexian Colossus.
-Phyrexian Colossus can’t be blocked except by three or more creatures.
-8/8
-Phyrexian Processor
-{4}
-Artifact
-"As Phyrexian Processor enters the battlefield, pay any amount of life."
-"{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
-Phyrexian Processor
-{4}
-Artifact
-"As Phyrexian Processor enters the battlefield, pay any amount of life."
-"{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
-Phyrexian Processor
-{4}
-Artifact
-"As Phyrexian Processor enters the battlefield, pay any amount of life."
-"{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
-Phyrexian Processor
-{4}
-Artifact
-"As Phyrexian Processor enters the battlefield, pay any amount of life."
-"{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield."
-Phyrexian Tower
-Legendary Land
-{T}: Add {C}.
-"{T}, Sacrifice a creature: Add {B}{B}."
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plow Under
-{3}{G}{G}
-Sorcery
-Put two target lands on top of their owners’ libraries.
-Priest of Titania
-{1}{G}
-Creature — Elf Druid
-{T}: Add {G} for each Elf on the battlefield.
-1/1
-Priest of Titania
-{1}{G}
-Creature — Elf Druid
-{T}: Add {G} for each Elf on the battlefield.
-1/1
-Rack and Ruin
-{2}{R}
-Instant
-Destroy two target artifacts.
-Replenish
-{3}{W}
-Sorcery
-Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Rishadan Port
-Land
-{T}: Add {C}.
-"{1}, {T}: Tap target land."
-Rising Waters
-{3}{U}
-Enchantment
-Lands don’t untap during their controllers’ untap steps.
-"At the beginning of each player’s upkeep, that player untaps a land they control."
-Saprazzan Skerry
-Land
-Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.
-"{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U}. If there are no depletion counters on Saprazzan Skerry, sacrifice it."
-Saproling Burst
-{4}{G}
-Enchantment
-"Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has “This creature’s power and toughness are each equal to the number of fade counters on Saproling Burst.”
-"When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can’t be regenerated."
-Saproling Cluster
-{1}{G}
-Enchantment
-"{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability."
-Seal of Cleansing
-{1}{W}
-Enchantment
-Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.
-Seal of Cleansing
-{1}{W}
-Enchantment
-Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.
-Seal of Cleansing
-{1}{W}
-Enchantment
-Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.
-Seal of Removal
-{U}
-Enchantment
-Sacrifice Seal of Removal: Return target creature to its owner’s hand.
-Serra Avatar
-{4}{W}{W}{W}
-Creature — Avatar
-Serra Avatar’s power and toughness are each equal to your life total.
-"When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner’s library."
-*/*
-Sky Diamond
-{2}
-Artifact
-Sky Diamond enters the battlefield tapped.
-{T}: Add {U}.
-Snake Basket
-{4}
-Artifact
-"{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery."
-Splinter
-{2}{G}{G}
-Sorcery
-"Exile target artifact. Search its controller’s graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library."
-Stone Rain
-{2}{R}
-Sorcery
-Destroy target land.
-Submerge
-{4}{U}
-Instant
-"If an opponent controls a Forest and you control an Island, you may cast this spell without paying its mana cost."
-Put target creature on top of its owner’s library.
-Tangle Wire
-{3}
-Artifact
-"Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)"
-"At the beginning of each player’s upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire."
-Thran Dynamo
-{4}
-Artifact
-{T}: Add {C}{C}{C}.
-Thran Quarry
-Land
-"At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry."
-{T}: Add one mana of any color.
-Tinker
-{2}{U}
-Sorcery
-"As an additional cost to cast this spell, sacrifice an artifact."
-Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.
-Tom van de Logt Bio (2000)
-Card
-"Quarterfinalist Tom van de Logt posted a perfect 6—0 record during the Standard portion of this year’s World Championships. The 19-year-old Groesbeek, Holland native was playing a deck that had a big impact on the metagame this year, “Replenish.” This deck used cards like Attunement and Frantic Search to put powerful enchantments, such as Parallax Wave and Opalescence, into the graveyard and then used Replenish to put them all back into play at once."
-Tom van de Logt Decklist (2000)
-Card
-Uktabi Orangutan
-{2}{G}
-Creature — Ape
-"When Uktabi Orangutan enters the battlefield, destroy target artifact."
-2/2
-Voltaic Key
-{1}
-Artifact
-"{1}, {T}: Untap target artifact."
-Whetstone
-{3}
-Artifact
-{3}: Each player mills two cards.
-Worship
-{3}{W}
-Enchantment
-"If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead."
-Wrath of God
-{2}{W}{W}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Wrath of God
-{2}{W}{W}
-Sorcery
-Destroy all creatures. They can’t be regenerated.
-Yawgmoth's Bargain
-{4}{B}{B}
-Enchantment
-Skip your draw step.
-Pay 1 life: Draw a card.
-Yawgmoth's Will
-{2}{B}
-Sorcery
-"Until end of turn, you may play lands and cast spells from your graveyard."
-"If a card would be put into your graveyard from anywhere this turn, exile that card instead."
+"('2000 World Championships Ad', ['Card'])"
+"('Absolute Law', ['{1}{W}', 'Enchantment', 'All creatures have protection from red.'])"
+"('Academy Rector', ['{3}{W}', 'Creature — Human Cleric', 'When Academy Rector dies, you may exile it. If you do, search your library for an enchantment card, put that card onto the battlefield, then shuffle your library.', '1/2'])"
+"('Adarkar Wastes', ['Land', '{T}: Add {C}.', '{T}: Add {W} or {U}. Adarkar Wastes deals 1 damage to you.'])"
+"('Annul', ['{U}', 'Instant', 'Counter target artifact or enchantment spell.'])"
+"('Arc Lightning', ['{2}{R}', 'Sorcery', 'Arc Lightning deals 3 damage divided as you choose among one, two, or three targets.'])"
+"('Armageddon', ['{3}{W}', 'Sorcery', 'Destroy all lands.'])"
+"(""Ashnod's Altar"", ['{3}', 'Artifact', 'Sacrifice a creature: Add {C}{C}.'])"
+"('Attunement', ['{2}{U}', 'Enchantment', 'Return Attunement to its owner’s hand: Draw three cards, then discard four cards.'])"
+"('Aura Fracture', ['{2}{W}', 'Enchantment', 'Sacrifice a land: Destroy target enchantment.'])"
+"('Avalanche Riders', ['{3}{R}', 'Creature — Human Nomad', 'Haste', 'Echo {3}{R} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)', 'When Avalanche Riders enters the battlefield, destroy target land.', '2/2'])"
+"('Birds of Paradise', ['{G}', 'Creature — Bird', 'Flying', '{T}: Add one mana of any color.', '0/1'])"
+"('Blank Card', ['Card'])"
+"('Blastoderm', ['{2}{G}{G}', 'Creature — Beast', 'Shroud (This creature can’t be the target of spells or abilities.)', 'Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', '5/5'])"
+"('Blaze', ['{X}{R}', 'Sorcery', 'Blaze deals X damage to any target.'])"
+"('Boil', ['{3}{R}', 'Instant', 'Destroy all Islands.'])"
+"('Brainstorm', ['{U}', 'Instant', 'Draw three cards, then put two cards from your hand on top of your library in any order.'])"
+"('Brushland', ['Land', '{T}: Add {C}.', '{T}: Add {G} or {W}. Brushland deals 1 damage to you.'])"
+"('Chill', ['{1}{U}', 'Enchantment', 'Red spells cost {2} more to cast.'])"
+"('Circle of Protection: Black', ['{1}{W}', 'Enchantment', '{1}: The next time a black source of your choice would deal damage to you this turn, prevent that damage.'])"
+"('City of Brass', ['Land', 'Whenever City of Brass becomes tapped, it deals 1 damage to you.', '{T}: Add one mana of any color.'])"
+"('Confiscate', ['{4}{U}{U}', 'Enchantment — Aura', 'Enchant permanent', 'You control enchanted permanent.'])"
+"('Counterspell', ['{U}{U}', 'Instant', 'Counter target spell.'])"
+"('Creeping Mold', ['{2}{G}{G}', 'Sorcery', 'Destroy target artifact, enchantment, or land.'])"
+"('Crumbling Sanctuary', ['{5}', 'Artifact', 'If damage would be dealt to a player, that player exiles that many cards from the top of their library instead.'])"
+"('Crystal Vein', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Crystal Vein: Add {C}{C}.'])"
+"('Cursed Totem', ['{2}', 'Artifact', 'Activated abilities of creatures can’t be activated.'])"
+"('Daze', ['{1}{U}', 'Instant', 'You may return an Island you control to its owner’s hand rather than pay this spell’s mana cost.', 'Counter target spell unless its controller pays {1}.'])"
+"('Defense Grid', ['{2}', 'Artifact', 'Each spell costs {3} more to cast except during its controller’s turn.'])"
+"('Dust Bowl', ['Land', '{T}: Add {C}.', '{3}, {T}, Sacrifice a land: Destroy target nonbasic land.'])"
+"('Energy Field', ['{1}{U}', 'Enchantment', 'Prevent all damage that would be dealt to you by sources you don’t control.', 'When a card is put into your graveyard from anywhere, sacrifice Energy Field.'])"
+"('Energy Flux', ['{2}{U}', 'Enchantment', 'All artifacts have “At the beginning of your upkeep, sacrifice this artifact unless you pay {2}.”'])"
+"('Enlightened Tutor', ['{W}', 'Instant', 'Search your library for an artifact or enchantment card and reveal that card. Shuffle your library, then put the card on top of it.'])"
+"('Erase', ['{W}', 'Instant', 'Exile target enchantment.'])"
+"('Fecundity', ['{2}{G}', 'Enchantment', 'Whenever a creature dies, that creature’s controller may draw a card.'])"
+"('Flameshot', ['{3}{R}', 'Sorcery', 'You may discard a Mountain card rather than pay this spell’s mana cost.', 'Flameshot deals 3 damage divided as you choose among one, two, or three target creatures.'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Frantic Search', ['{2}{U}', 'Instant', 'Draw two cards, then discard two cards. Untap up to three lands.'])"
+"('Grim Monolith', ['{2}', 'Artifact', 'Grim Monolith doesn’t untap during your untap step.', '{T}: Add {C}{C}{C}.', '{4}: Untap Grim Monolith.'])"
+"('Heart of Ramos', ['{3}', 'Artifact', '{T}: Add {R}.', 'Sacrifice Heart of Ramos: Add {R}.'])"
+"('High Market', ['Land', '{T}: Add {C}.', '{T}, Sacrifice a creature: You gain 1 life.'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Janosch Kühn Bio (2000)', ['Card', 'Hannover, Germany native Janosch Kühn joined an elite group of players in earning his second World Championship Top 8. Kühn played a red-green deck known as “Angry ‘Derm” or “Son of Hermit.” The deck built up its mana early with Birds of Paradise or Llanowar Elves, and then followed that up with mana-denial cards like Stone Rain, Plow Under, and Avalanche Riders. Masticore and Blastoderm provided the finishing punch.'])"
+"('Janosch Kühn Decklist (2000)', ['Card'])"
+"('Jon Finkel Bio', ['Card', ""“World Champion” was the one honor Jon Finkel had yet to claim. His dominating performance at this year’s World Championships earned him that title at lost. Finkel played an explosive deck that is named after its most important card, Tinker. Fellow Team Antarctica member Dan O'Mahoney-Schwartz designed this monoblue deck. The deck used artifacts such as Grim Monolith, Metalworker, and Voltaic Key to quickly generate huge amounts of mana, and then used that mana to put large creatures into play.""])"
+"('Jon Finkel Decklist', ['Card'])"
+"('Karplusan Forest', ['Land', '{T}: Add {C}.', '{T}: Add {R} or {G}. Karplusan Forest deals 1 damage to you.'])"
+"('Light of Day', ['{3}{W}', 'Enchantment', 'Black creatures can’t attack or block.'])"
+"('Lilting Refrain', ['{1}{U}', 'Enchantment', 'At the beginning of your upkeep, you may put a verse counter on Lilting Refrain.', 'Sacrifice Lilting Refrain: Counter target spell unless its controller pays {X}, where X is the number of verse counters on Lilting Refrain.'])"
+"('Llanowar Elves', ['{G}', 'Creature — Elf Druid', '{T}: Add {G}.', '1/1'])"
+"('Masticore', ['{4}', 'Artifact Creature — Masticore', 'At the beginning of your upkeep, sacrifice Masticore unless you discard a card.', '{2}: Masticore deals 1 damage to target creature.', '{2}: Regenerate Masticore.', '4/4'])"
+"('Meekstone', ['{1}', 'Artifact', 'Creatures with power 3 or greater don’t untap during their controllers’ untap steps.'])"
+"('Metalworker', ['{3}', 'Artifact Creature — Construct', '{T}: Reveal any number of artifact cards in your hand. Add {C}{C} for each card revealed this way.', '1/2'])"
+"('Miscalculation', ['{1}{U}', 'Instant', 'Counter target spell unless its controller pays {2}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"(""Mishra's Helix"", ['{5}', 'Artifact', '{X}, {T}: Tap X target lands.'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Mystical Tutor', ['{U}', 'Instant', 'Search your library for an instant or sorcery card and reveal that card. Shuffle your library, then put the card on top of it.'])"
+"('Nicolas Labarre Bio', ['Card', ""The 2000 World Championships was Nicolas Labarre’s third Top 8 finish at a Pro Tour™ event (Rome ‘98, New York '99, Worlds '00). This Rennes, France native played a combo deck that he called “Chimera.” This deck used searching cards like Academy Rector and Enlightened Tutor to fetch Fecundity, Saproling Cluster, and Ashnod’s Altar. Once those three cards were in play, Labarre could generate as much mana as he wanted. With unlimited mana, he could play a very big Blaze or use Whetstone to immediately deck his opponent.""])"
+"('Nicolas Labarre Decklist', ['Card'])"
+"('Opalescence', ['{2}{W}{W}', 'Enchantment', 'Each other non-Aura enchantment is a creature in addition to its other types and has base power and base toughness each equal to its converted mana cost.'])"
+"('Parallax Tide', ['{2}{U}{U}', 'Enchantment', 'Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', 'Remove a fade counter from Parallax Tide: Exile target land.', 'When Parallax Tide leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Tide.'])"
+"('Parallax Wave', ['{2}{W}{W}', 'Enchantment', 'Fading 5 (This enchantment enters the battlefield with five fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', 'Remove a fade counter from Parallax Wave: Exile target creature.', 'When Parallax Wave leaves the battlefield, each player returns to the battlefield all cards they own exiled with Parallax Wave.'])"
+"('Pattern of Rebirth', ['{3}{G}', 'Enchantment — Aura', 'Enchant creature', 'When enchanted creature dies, that creature’s controller may search their library for a creature card, put that card onto the battlefield, then shuffle their library.'])"
+"('Phyrexian Colossus', ['{7}', 'Artifact Creature — Golem', 'Phyrexian Colossus doesn’t untap during your untap step.', 'Pay 8 life: Untap Phyrexian Colossus.', 'Phyrexian Colossus can’t be blocked except by three or more creatures.', '8/8'])"
+"('Phyrexian Processor', ['{4}', 'Artifact', 'As Phyrexian Processor enters the battlefield, pay any amount of life.', '{4}, {T}: Create an X/X black Minion creature token, where X is the life paid as Phyrexian Processor entered the battlefield.'])"
+"('Phyrexian Tower', ['Legendary Land', '{T}: Add {C}.', '{T}, Sacrifice a creature: Add {B}{B}.'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Plow Under', ['{3}{G}{G}', 'Sorcery', 'Put two target lands on top of their owners’ libraries.'])"
+"('Priest of Titania', ['{1}{G}', 'Creature — Elf Druid', '{T}: Add {G} for each Elf on the battlefield.', '1/1'])"
+"('Rack and Ruin', ['{2}{R}', 'Instant', 'Destroy two target artifacts.'])"
+"('Replenish', ['{3}{W}', 'Sorcery', 'Return all enchantment cards from your graveyard to the battlefield. (Auras with nothing to enchant remain in your graveyard.)'])"
+"('Rishadan Port', ['Land', '{T}: Add {C}.', '{1}, {T}: Tap target land.'])"
+"('Rising Waters', ['{3}{U}', 'Enchantment', 'Lands don’t untap during their controllers’ untap steps.', 'At the beginning of each player’s upkeep, that player untaps a land they control.'])"
+"('Saprazzan Skerry', ['Land', 'Saprazzan Skerry enters the battlefield tapped with two depletion counters on it.', '{T}, Remove a depletion counter from Saprazzan Skerry: Add {U}{U}. If there are no depletion counters on Saprazzan Skerry, sacrifice it.'])"
+"('Saproling Burst', ['{4}{G}', 'Enchantment', 'Fading 7 (This enchantment enters the battlefield with seven fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', 'Remove a fade counter from Saproling Burst: Create a green Saproling creature token. It has “This creature’s power and toughness are each equal to the number of fade counters on Saproling Burst.”', 'When Saproling Burst leaves the battlefield, destroy all tokens created with Saproling Burst. They can’t be regenerated.'])"
+"('Saproling Cluster', ['{1}{G}', 'Enchantment', '{1}, Discard a card: Create a 1/1 green Saproling creature token. Any player may activate this ability.'])"
+"('Seal of Cleansing', ['{1}{W}', 'Enchantment', 'Sacrifice Seal of Cleansing: Destroy target artifact or enchantment.'])"
+"('Seal of Removal', ['{U}', 'Enchantment', 'Sacrifice Seal of Removal: Return target creature to its owner’s hand.'])"
+"('Serra Avatar', ['{4}{W}{W}{W}', 'Creature — Avatar', 'Serra Avatar’s power and toughness are each equal to your life total.', 'When Serra Avatar is put into a graveyard from anywhere, shuffle it into its owner’s library.', '*/*'])"
+"('Sky Diamond', ['{2}', 'Artifact', 'Sky Diamond enters the battlefield tapped.', '{T}: Add {U}.'])"
+"('Snake Basket', ['{4}', 'Artifact', '{X}, Sacrifice Snake Basket: Create X 1/1 green Snake creature tokens. Activate this ability only any time you could cast a sorcery.'])"
+"('Splinter', ['{2}{G}{G}', 'Sorcery', 'Exile target artifact. Search its controller’s graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles their library.'])"
+"('Stone Rain', ['{2}{R}', 'Sorcery', 'Destroy target land.'])"
+"('Submerge', ['{4}{U}', 'Instant', 'If an opponent controls a Forest and you control an Island, you may cast this spell without paying its mana cost.', 'Put target creature on top of its owner’s library.'])"
+"('Tangle Wire', ['{3}', 'Artifact', 'Fading 4 (This artifact enters the battlefield with four fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can’t, sacrifice it.)', 'At the beginning of each player’s upkeep, that player taps an untapped artifact, creature, or land they control for each fade counter on Tangle Wire.'])"
+"('Thran Dynamo', ['{4}', 'Artifact', '{T}: Add {C}{C}{C}.'])"
+"('Thran Quarry', ['Land', 'At the beginning of the end step, if you control no creatures, sacrifice Thran Quarry.', '{T}: Add one mana of any color.'])"
+"('Tinker', ['{2}{U}', 'Sorcery', 'As an additional cost to cast this spell, sacrifice an artifact.', 'Search your library for an artifact card and put that card onto the battlefield. Then shuffle your library.'])"
+"('Tom van de Logt Bio (2000)', ['Card', 'Quarterfinalist Tom van de Logt posted a perfect 6—0 record during the Standard portion of this year’s World Championships. The 19-year-old Groesbeek, Holland native was playing a deck that had a big impact on the metagame this year, “Replenish.” This deck used cards like Attunement and Frantic Search to put powerful enchantments, such as Parallax Wave and Opalescence, into the graveyard and then used Replenish to put them all back into play at once.'])"
+"('Tom van de Logt Decklist (2000)', ['Card'])"
+"('Uktabi Orangutan', ['{2}{G}', 'Creature — Ape', 'When Uktabi Orangutan enters the battlefield, destroy target artifact.', '2/2'])"
+"('Voltaic Key', ['{1}', 'Artifact', '{1}, {T}: Untap target artifact.'])"
+"('Whetstone', ['{3}', 'Artifact', '{3}: Each player mills two cards.'])"
+"('Worship', ['{3}{W}', 'Enchantment', 'If you control a creature, damage that would reduce your life total to less than 1 reduces it to 1 instead.'])"
+"('Wrath of God', ['{2}{W}{W}', 'Sorcery', 'Destroy all creatures. They can’t be regenerated.'])"
+"(""Yawgmoth's Bargain"", ['{4}{B}{B}', 'Enchantment', 'Skip your draw step.', 'Pay 1 life: Draw a card.'])"
+"(""Yawgmoth's Will"", ['{2}{B}', 'Sorcery', 'Until end of turn, you may play lands and cast spells from your graveyard.', 'If a card would be put into your graveyard from anywhere this turn, exile that card instead.'])"

@@ -1,5 +1,6 @@
 Absorb Identity
 "Aegar, the Freezing Flame"
+"Aegar, the Freezing Flame"
 Alpine Meadow
 "Alrund, God of the Cosmos // Hakka, Whispering Raven"
 "Alrund, God of the Cosmos // Hakka, Whispering Raven"
@@ -8,18 +9,22 @@ Alrund's Epiphany
 Annul
 Arctic Treeline
 Armed and Armored
+Arni Slays the Troll
+Ascendant Spirit
 Augury Raven
+Avalanche Caller
+Axgard Armory
+Axgard Braggart
 Axgard Cavalry
-Axguard Armory
 Barkchannel Pathway // Tidechannel Pathway
 Barkchannel Pathway // Tidechannel Pathway
 Basalt Ravager
 Battle for Bretagard
 Battle of Frost and Fire
 Bearded Axe
-"""Beasts of Littjara"""
 Behold the Multiverse
-"""Big-Booty Ox"""
+Berg Strider
+Beskir Shieldmate
 Binding the Old Gods
 Blightstep Pathway // Searstep Pathway
 Blightstep Pathway // Searstep Pathway
@@ -39,11 +44,13 @@ Cinderheart Giant
 Clarion Spirit
 Cleaving Reaper
 Codespell Cleric
+"Cosima, God of the Voyage // The Omenkeel"
+"Cosima, God of the Voyage // The Omenkeel"
 Cosmos Charger
 Cosmos Charger
 Crush the Weak
-"""Cyclone Summoner"""
-"""Cyclone Summoner"""
+Cyclone Summoner
+Cyclone Summoner
 Darkbore Pathway // Slitherbore Pathway
 Darkbore Pathway // Slitherbore Pathway
 Deathknell Berserker
@@ -54,10 +61,11 @@ Doomskar Oracle
 """Dragon Dad uwu…"""
 Draugr Necromancer
 Draugr Necromancer
-"""Draugr Omenreader"""
 Draugr's Helm
+Dread Rider
 Dual Strike
 Duskwielder
+Dwarven Reinforcements
 "Egon, God of Death // Throne of Death"
 "Egon, God of Death // Throne of Death"
 Elderfang Disciple
@@ -74,19 +82,22 @@ Esika's Chariot
 Esika's Chariot
 Faceless Haven
 Faceless Haven
+Fall of the Impostor
+Fearless Liberator
 Feed the Serpent
 Fire Giant's Fury
 "Firja, Judge of Valor"
 "Firja, Judge of Valor"
-Firja's Judgment
+Firja's Retribution
 Forest
 Forging the Tyrite Sword
-"""Frigid-Sea Traveler"""
 Frost Bite
 Frost Bite
 Frostpeak Yeti
 Frostpyre Arcanist
 Funeral Longboat
+Gates of Istfell
+Giant Ox
 Giant's Amulet
 Giant's Grasp
 Gilded Assault Cart
@@ -95,7 +106,9 @@ Gladewalker Ritualist
 Glimpse the Cosmos
 Glittering Frost
 Gnottvold Recluse
+Gnottvold Slumbermound
 Gods' Hall Guardian
+Goldmaw Champion
 Goldspan Dragon
 Goldspan Dragon
 Goldvein Pick
@@ -118,13 +131,13 @@ Inga Rune-Eyes
 Invasion of the Giants
 Iron Verdict
 Island
-"""Jack and Jill Storm the Hill"""
 Jaspera Sentinel
 "Jorn, God of Winter // Kaldring, the Rimestaff"
 "Jorn, God of Winter // Kaldring, the Rimestaff"
 "Kardur, Doomscourge"
 "Kardur, Doomscourge"
 Kardur's Vicious Return
+Karfell Harbinger
 Karfell Kennel-Master
 Kaya's Onslaught
 Kaya the Inexorable
@@ -147,21 +160,25 @@ Maskwood Nexus
 Maskwood Nexus
 Moritte of the Frost
 Mountain
-"""My Larger Pony"""
-"""Mystic Reflection"""
+Mystic Reflection
+Mystic Reflection
+"Narfi, Betrayer King"
 "Narfi, Betrayer King"
 Niko Aris
 Niko Aris
+Niko Defies Destiny
 Old-Growth Troll
 Old-Growth Troll
 Open the Omenpaths
 Path to the World Tree
+Pilfering Hawk
 Plains
+Poison the Cup
 Pyre of Heroes
 Pyre of Heroes
 Quakebringer
 Quakebringer
-"""Raiding Karve"""
+Raiders' Karve
 Raise the Draugr
 Rally the Ranks
 Rally the Ranks
@@ -180,6 +197,7 @@ Reflections of Littjara
 Renegade Reaper
 Replicating Ring
 """Resolute Valkyrie"""
+Revitalize
 Rimewood Falls
 Rise of the Dread Marn
 Rise of the Dread Marn
@@ -192,17 +210,19 @@ Rune of Flight
 "Sarulf, Realm Eater"
 Sarulf's Packmate
 Saw It Coming
+Scorn Effigy
 Sculptor of Winter
 Search for Glory
 Search for Glory
 Seize the Spoils
 Shepherd of the Cosmos
-"""Shirtless Snow Wizard"""
 Showdown of the Skalds
 "Sigrid, God-Favored"
 "Sigrid, God-Favored"
+Skemfar Avenger
+Skemfar Elderhall
 Skemfar Shadowsage
-"""Ski Resort Bandit"""
+Smashing Success
 Snakeskin Veil
 Snow-Covered Forest
 Snow-Covered Forest
@@ -221,13 +241,16 @@ Squash
 Starnheim Aspirant
 Starnheim Unleashed
 Starnheim Unleashed
+Strategic Planning
 Sulfurous Mire
 Surtland Elementalist
 Surtland Flinger
+"""Surtland Frostfire"""
 Swamp
 "Tergrid, God of Fright // Tergrid's Lantern"
 "Tergrid, God of Fright // Tergrid's Lantern"
 Tergrid's Shadow
+The Bears of Littjara
 The Trickster-God's Heist
 The World Tree
 Thornmantle Striker
@@ -238,15 +261,20 @@ Tibalt's Trickery
 Tormentor's Helm
 "Toski, Bearer of Secrets"
 "Toski, Bearer of Secrets"
+Tundra Fumarole
+Tundra Fumarole
+Tuskeri Firewalker
 Tyvar Kell
 Tyvar Kell
 Undersea Invader
+Usher of the Fallen
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 Valkyrie Harbinger
 "Varragoth, Bloodsky Sire"
 "Varragoth, Bloodsky Sire"
+Vault Robber
 "Vega, the Watcher"
 "Vega, the Watcher"
 Village Rites
@@ -260,4 +288,5 @@ Weathered Runestone
 Wings of the Cosmos
 Withercrown
 Woodland Chasm
+"""Writing Werewolf Fanfics"""
 Youthful Valkyrie

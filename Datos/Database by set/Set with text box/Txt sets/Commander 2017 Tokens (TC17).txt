@@ -1,40 +1,10 @@
-Bat
-Token Creature — Bat
-Flying
-1/1
-Cat
-Token Creature — Cat
-2/2
-Cat Dragon
-Token Creature — Cat Dragon
-Flying
-3/3
-Cat Warrior
-Token Creature — Cat Warrior
-Forestwalk
-2/2
-Dragon
-Token Creature — Dragon
-Flying
-4/4
-Dragon
-Token Creature — Dragon
-Flying
-6/6
-Eldrazi Spawn
-Token Creature — Eldrazi Spawn
-Sacrifice this creature: Add {C}.
-0/1
-Gold
-Token Artifact — Gold
-Sacrifice this artifact: Add one mana of any color.
-Rat
-Token Creature — Rat
-Deathtouch
-1/1
-Vampire
-Token Creature — Vampire
-1/1
-Zombie
-Token Creature — Zombie
-2/2
+"('Bat', ['Token Creature — Bat', 'Flying', '1/1'])"
+"('Cat', ['Token Creature — Cat', '2/2'])"
+"('Cat Dragon', ['Token Creature — Cat Dragon', 'Flying', '3/3'])"
+"('Cat Warrior', ['Token Creature — Cat Warrior', 'Forestwalk', '2/2'])"
+"('Dragon', ['Token Creature — Dragon', 'Flying', '6/6'])"
+"('Eldrazi Spawn', ['Token Creature — Eldrazi Spawn', 'Sacrifice this creature: Add {C}.', '0/1'])"
+"('Gold', ['Token Artifact — Gold', 'Sacrifice this artifact: Add one mana of any color.'])"
+"('Rat', ['Token Creature — Rat', 'Deathtouch', '1/1'])"
+"('Vampire', ['Token Creature — Vampire', '1/1'])"
+"('Zombie', ['Token Creature — Zombie', '2/2'])"

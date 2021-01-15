@@ -1,1526 +1,279 @@
-Abzan Falconer
-{2}{W}
-Creature — Human Soldier
-"Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
-Each creature you control with a +1/+1 counter on it has flying.
-2/3
-Acidic Slime
-{3}{G}{G}
-Creature — Ooze
-Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)
-"When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land."
-2/2
-Ancient Amphitheater
-Land
-"As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don’t, Ancient Amphitheater enters the battlefield tapped."
-{T}: Add {R} or {W}.
-Ancient Excavation
-{2}{U}{B}
-Instant
-"Draw cards equal to the number of cards in your hand, then discard a card for each card drawn this way."
-"Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
-Angel of Serenity
-{4}{W}{W}{W}
-Creature — Angel
-Flying
-"When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards."
-"When Angel of Serenity leaves the battlefield, return the exiled cards to their owners’ hands."
-5/6
-"Anya, Merciless Angel"
-{3}{R}{W}
-Legendary Creature — Angel
-Flying
-"Anya, Merciless Angel gets +3/+3 for each opponent whose life total is less than half their starting life total."
-"As long as an opponent’s life total is less than half their starting life total, Anya has indestructible."
-4/4
-Arbiter of Knollridge
-{6}{W}
-Creature — Giant Wizard
-Vigilance
-"When Arbiter of Knollridge enters the battlefield, each player’s life total becomes the highest life total among all players."
-5/5
-Arcane Lighthouse
-Land
-{T}: Add {C}.
-"{1}, {T}: Until end of turn, creatures your opponents control lose hexproof and shroud and can’t have hexproof or shroud."
-Arcane Sanctum
-Land
-Arcane Sanctum enters the battlefield tapped.
-"{T}: Add {W}, {U}, or {B}."
-Artisan of Kozilek
-{9}
-Creature — Eldrazi
-"When you cast this spell, you may return target creature card from your graveyard to the battlefield."
-"Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)"
-10/9
-Ash Barrens
-Land
-{T}: Add {C}.
-"Basic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
-Astral Cornucopia
-{X}{X}{X}
-Artifact
-Astral Cornucopia enters the battlefield with X charge counters on it.
-{T}: Choose a color. Add one mana of that color for each charge counter on Astral Cornucopia.
-"Atraxa, Praetors' Voice"
-{G}{W}{U}{B}
-Legendary Creature — Angel Horror
-"Flying, vigilance, deathtouch, lifelink"
-"At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-4/4
-Avatar of Woe
-{6}{B}{B}
-Creature — Avatar
-"If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast."
-Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)
-{T}: Destroy target creature. It can’t be regenerated.
-6/5
-Azorius Chancery
-Land
-Azorius Chancery enters the battlefield tapped.
-"When Azorius Chancery enters the battlefield, return a land you control to its owner’s hand."
-{T}: Add {W}{U}.
-Bane of the Living
-{2}{B}{B}
-Creature — Insect
-Morph {X}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
-"When Bane of the Living is turned face up, all creatures get -X/-X until end of turn."
-4/3
-Banishing Light
-{2}{W}
-Enchantment
-"When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield."
-Barren Moor
-Land
-Barren Moor enters the battlefield tapped.
-{T}: Add {B}.
-"Cycling {B} ({B}, Discard this card: Draw a card.)"
-Basalt Monolith
-{3}
-Artifact
-Basalt Monolith doesn’t untap during your untap step.
-{T}: Add {C}{C}{C}.
-{3}: Untap Basalt Monolith.
-Beetleback Chief
-{2}{R}{R}
-Creature — Goblin Warrior
-"When Beetleback Chief enters the battlefield, create two 1/1 red Goblin creature tokens."
-2/2
-Bitter Feud
-{4}{R}
-Enchantment
-"As Bitter Feud enters the battlefield, choose two players."
-"If a source controlled by one of the chosen players would deal damage to the other chosen player or a permanent that player controls, that source deals double that damage to that player or permanent instead."
-Blade of Selves
-{2}
-Artifact — Equipment
-"Equipped creature has myriad. (Whenever it attacks, for each opponent other than defending player, you may create a token that’s a copy of that creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)"
-Equip {4}
-Blasphemous Act
-{8}{R}
-Sorcery
-This spell costs {1} less to cast for each creature on the battlefield.
-Blasphemous Act deals 13 damage to each creature.
-Blasted Landscape
-Land
-{T}: Add {C}.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Bogardan Hellkite
-{6}{R}{R}
-Creature — Dragon
-Flash
-Flying
-"When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of targets."
-5/5
-Borderland Behemoth
-{5}{R}{R}
-Creature — Giant Warrior
-Trample
-Borderland Behemoth gets +4/+4 for each other Giant you control.
-4/4
-Boros Cluestone
-{3}
-Artifact
-{T}: Add {R} or {W}.
-"{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card."
-Boros Garrison
-Land
-Boros Garrison enters the battlefield tapped.
-"When Boros Garrison enters the battlefield, return a land you control to its owner’s hand."
-{T}: Add {R}{W}.
-Boros Guildgate
-Land — Gate
-Boros Guildgate enters the battlefield tapped.
-{T}: Add {R} or {W}.
-Boros Signet
-{2}
-Artifact
-"{1}, {T}: Add {R}{W}."
-"Bosh, Iron Golem"
-{8}
-Legendary Artifact Creature — Golem
-Trample
-"{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s converted mana cost to any target."
-6/7
-Bottle Gnomes
-{3}
-Artifact Creature — Gnome
-Sacrifice Bottle Gnomes: You gain 3 life.
-1/3
-Brave the Sands
-{1}{W}
-Enchantment
-Creatures you control have vigilance.
-Each creature you control can block an additional creature each combat.
-Brawn
-{3}{G}
-Creature — Incarnation
-Trample
-"As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample."
-3/3
-Breath of Darigaaz
-{1}{R}
-Sorcery
-Kicker {2} (You may pay an additional {2} as you cast this spell.)
-"Breath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead."
-Bred for the Hunt
-{1}{G}{U}
-Enchantment
-"Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card."
-Buried Alive
-{2}{B}
-Sorcery
-"Search your library for up to three creature cards, put them into your graveyard, then shuffle your library."
-Buried Ruin
-Land
-{T}: Add {C}.
-"{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand."
-Butcher of Malakir
-{5}{B}{B}
-Creature — Vampire Warrior
-Flying
-"Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature."
-5/4
-Caged Sun
-{6}
-Artifact
-"As Caged Sun enters the battlefield, choose a color."
-Creatures you control of the chosen color get +1/+1.
-"Whenever a land’s ability causes you to add one or more mana of the chosen color, add one additional mana of that color."
-Cathars' Crusade
-{3}{W}{W}
-Enchantment
-"Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control."
-Cathodion
-{3}
-Artifact Creature — Construct
-"When Cathodion dies, add {C}{C}{C}."
-3/3
-Cauldron of Souls
-{5}
-Artifact
-"{T}: Choose any number of target creatures. Each of those creatures gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)"
-Champion of Lambholt
-{1}{G}{G}
-Creature — Human Warrior
-Creatures with power less than Champion of Lambholt’s power can’t block creatures you control.
-"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt."
-1/1
-Chaos Warp
-{2}{R}
-Instant
-"The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it’s a permanent card, they put it onto the battlefield."
-Citadel Siege
-{2}{W}{W}
-Enchantment
-"As Citadel Siege enters the battlefield, choose Khans or Dragons."
-"• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control."
-"• Dragons — At the beginning of combat on each opponent’s turn, tap target creature that player controls."
-Coldsteel Heart
-{2}
-Snow Artifact
-Coldsteel Heart enters the battlefield tapped.
-"As Coldsteel Heart enters the battlefield, choose a color."
-{T}: Add one mana of the chosen color.
-Commander's Sphere
-{3}
-Artifact
-{T}: Add one mana of any color in your commander’s color identity.
-Sacrifice Commander’s Sphere: Draw a card.
-Command Tower
-Land
-{T}: Add one mana of any color in your commander’s color identity.
-Corpsejack Menace
-{2}{B}{G}
-Creature — Fungus
-"If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead."
-4/4
-Crib Swap
-{2}{W}
-Tribal Instant — Shapeshifter
-Changeling (This card is every creature type.)
-Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.
-Crystalline Crawler
-{4}
-Artifact Creature — Construct
-Converge — Crystalline Crawler enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.
-Remove a +1/+1 counter from Crystalline Crawler: Add one mana of any color.
-{T}: Put a +1/+1 counter on Crystalline Crawler.
-1/1
-Cultivate
-{2}{G}
-Sorcery
-"Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library."
-Curse of the Nightly Hunt
-{2}{R}
-Enchantment — Aura Curse
-Enchant player
-Creatures enchanted player controls attack each combat if able.
-Custodi Soulbinders
-{3}{W}
-Creature — Human Cleric
-"Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield."
-"{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying."
-0/0
-"Damia, Sage of Stone"
-{4}{B}{G}{U}
-Legendary Creature — Gorgon Wizard
-Deathtouch
-Skip your draw step.
-"At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference."
-4/4
-"Daretti, Scrap Savant"
-{3}{R}
-Legendary Planeswalker — Daretti
-"+2: Discard up to two cards, then draw that many cards."
-"−2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield."
-"−10: You get an emblem with “Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.”"
-"Daretti, Scrap Savant can be your commander."
-Loyalty: 3
-Dark Hatchling
-{4}{B}{B}
-Creature — Horror
-Flying
-"When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can’t be regenerated."
-3/3
-Darksteel Citadel
-Artifact Land
-Indestructible
-{T}: Add {C}.
-Darksteel Ingot
-{3}
-Artifact
-Indestructible
-{T}: Add one mana of any color.
-Darkwater Catacombs
-Land
-"{1}, {T}: Add {U}{B}."
-Dawnbreak Reclaimer
-{4}{W}{W}
-Creature — Angel
-Flying
-"At the beginning of your end step, choose a creature card in an opponent’s graveyard, then that player chooses a creature card in your graveyard. You may return those cards to the battlefield under their owners’ control."
-5/5
-Dawnglare Invoker
-{2}{W}
-Creature — Kor Wizard
-Flying
-{8}: Tap all creatures target player controls.
-2/1
-Deepglow Skate
-{4}{U}
-Creature — Fish
-"When Deepglow Skate enters the battlefield, double the number of each kind of counter on any number of target permanents."
-3/3
-Desecrator Hag
-{2}{B/G}{B/G}
-Creature — Hag
-"When Desecrator Hag enters the battlefield, return to your hand the creature card in your graveyard with the greatest power. If two or more cards are tied for greatest power, you choose one of them."
-2/2
-Desolation Giant
-{2}{R}{R}
-Creature — Giant
-Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)
-"When Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead."
-3/3
-Dimir Aqueduct
-Land
-Dimir Aqueduct enters the battlefield tapped.
-"When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand."
-{T}: Add {U}{B}.
-Dimir Signet
-{2}
-Artifact
-"{1}, {T}: Add {U}{B}."
-Disaster Radius
-{5}{R}{R}
-Sorcery
-"As an additional cost to cast this spell, reveal a creature card from your hand."
-"Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card’s converted mana cost."
-Disdainful Stroke
-{1}{U}
-Instant
-Counter target spell with converted mana cost 4 or greater.
-Dormant Volcano
-Land
-Dormant Volcano enters the battlefield tapped.
-"When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner’s hand."
-{T}: Add {C}{R}.
-Dreadship Reef
-Land
-{T}: Add {C}.
-"{1}, {T}: Put a storage counter on Dreadship Reef."
-"{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B}."
-Dreamborn Muse
-{2}{U}{U}
-Creature — Spirit
-"At the beginning of each player’s upkeep, that player mills X cards, where X is the number of cards in their hand."
-2/2
-Dream Pillager
-{5}{R}{R}
-Creature — Dragon
-Flying
-"Whenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast spells from among those exiled cards."
-4/4
-Dreamstone Hedron
-{6}
-Artifact
-{T}: Add {C}{C}{C}.
-"{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards."
-Drifting Meadow
-Land
-Drifting Meadow enters the battlefield tapped.
-{T}: Add {W}.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Dualcaster Mage
-{1}{R}{R}
-Creature — Human Wizard
-Flash
-"When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy."
-2/2
-Duelist's Heritage
-{2}{W}
-Enchantment
-"Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn."
-Duneblast
-{4}{W}{B}{G}
-Sorcery
-Choose up to one creature. Destroy the rest.
-Earthquake
-{X}{R}
-Sorcery
-Earthquake deals X damage to each creature without flying and each player.
-Elite Scaleguard
-{4}{W}
-Creature — Human Soldier
-"When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)"
-"Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls."
-2/3
-Enduring Scalelord
-{4}{G}{W}
-Creature — Dragon
-Flying
-"Whenever one or more +1/+1 counters are put on another creature you control, you may put a +1/+1 counter on Enduring Scalelord."
-4/4
-Epochrasite
-{2}
-Artifact Creature — Construct
-Epochrasite enters the battlefield with three +1/+1 counters on it if you didn’t cast it from your hand.
-"When Epochrasite dies, exile it with three time counters on it and it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)"
-1/1
-Eternal Witness
-{1}{G}{G}
-Creature — Human Shaman
-"When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand."
-2/1
-Everflowing Chalice
-{0}
-Artifact
-Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
-Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
-{T}: Add {C} for each charge counter on Everflowing Chalice.
-Evolving Wilds
-Land
-"{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-Exotic Orchard
-Land
-{T}: Add one mana of any color that a land an opponent controls could produce.
-Extractor Demon
-{4}{B}{B}
-Creature — Demon
-Flying
-"Whenever another creature leaves the battlefield, you may have target player mill two cards."
-Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)
-5/5
-Fact or Fiction
-{3}{U}
-Instant
-Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.
-Faithless Looting
-{R}
-Sorcery
-"Draw two cards, then discard two cards."
-Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
-Faith's Fetters
-{3}{W}
-Enchantment — Aura
-Enchant permanent
-"When Faith’s Fetters enters the battlefield, you gain 4 life."
-"Enchanted permanent can’t attack or block, and its activated abilities can’t be activated unless they’re mana abilities."
-Fall of the Hammer
-{1}{R}
-Instant
-Target creature you control deals damage equal to its power to another target creature.
-Fathom Mage
-{2}{G}{U}
-Creature — Human Wizard
-"Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)"
-"Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card."
-1/1
-Feldon of the Third Path
-{1}{R}{R}
-Legendary Creature — Human Artificer
-"{2}{R}, {T}: Create a token that’s a copy of target creature card in your graveyard, except it’s an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step."
-2/3
-Fellwar Stone
-{2}
-Artifact
-{T}: Add one mana of any color that a land an opponent controls could produce.
-Festercreep
-{1}{B}
-Creature — Elemental
-Festercreep enters the battlefield with a +1/+1 counter on it.
-"{1}{B}, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn."
-0/0
-Fiery Confluence
-{2}{R}{R}
-Sorcery
-Choose three. You may choose the same mode more than once.
-• Fiery Confluence deals 1 damage to each creature.
-• Fiery Confluence deals 2 damage to each opponent.
-• Destroy target artifact.
-Fire Diamond
-{2}
-Artifact
-Fire Diamond enters the battlefield tapped.
-{T}: Add {R}.
-Flamekin Village
-Land
-"As Flamekin Village enters the battlefield, you may reveal an Elemental card from your hand. If you don’t, Flamekin Village enters the battlefield tapped."
-{T}: Add {R}.
-"{R}, {T}: Target creature gains haste until end of turn."
-Flametongue Kavu
-{3}{R}
-Creature — Kavu
-"When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature."
-4/2
-Fleshbag Marauder
-{2}{B}
-Creature — Zombie Warrior
-"When Fleshbag Marauder enters the battlefield, each player sacrifices a creature."
-3/1
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forest
-Basic Land — Forest
-({T}: Add {G}.)
-Forgotten Ancient
-{3}{G}
-Creature — Elemental
-"Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient."
-"At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures."
-0/3
-Forgotten Cave
-Land
-Forgotten Cave enters the battlefield tapped.
-{T}: Add {R}.
-"Cycling {R} ({R}, Discard this card: Draw a card.)"
-Fumiko the Lowblood
-{2}{R}{R}
-Legendary Creature — Human Samurai
-"Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn.)"
-Creatures your opponents control attack each combat if able.
-3/2
-"Ghave, Guru of Spores"
-{2}{W}{B}{G}
-Legendary Creature — Fungus Shaman
-"Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it."
-"{1}, Remove a +1/+1 counter from a creature you control: Create a 1/1 green Saproling creature token."
-"{1}, Sacrifice a creature: Put a +1/+1 counter on target creature."
-0/0
-Ghost Quarter
-Land
-{T}: Add {C}.
-"{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library."
-"Gisela, Blade of Goldnight"
-{4}{R}{W}{W}
-Legendary Creature — Angel
-"Flying, first strike"
-"If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead."
-"If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up."
-5/5
-Goblin Welder
-{R}
-Creature — Goblin Artificer
-"{T}: Choose target artifact a player controls and target artifact card in that player’s graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield."
-1/1
-Golgari Rot Farm
-Land
-Golgari Rot Farm enters the battlefield tapped.
-"When Golgari Rot Farm enters the battlefield, return a land you control to its owner’s hand."
-{T}: Add {B}{G}.
-Golgari Signet
-{2}
-Artifact
-"{1}, {T}: Add {B}{G}."
-Golgari Signet
-{2}
-Artifact
-"{1}, {T}: Add {B}{G}."
-Gravedigger
-{3}{B}
-Creature — Zombie
-"When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand."
-2/2
-Grave Pact
-{1}{B}{B}{B}
-Enchantment
-"Whenever a creature you control dies, each other player sacrifices a creature."
-Great Furnace
-Artifact Land
-{T}: Add {R}.
-Grip of Phyresis
-{2}{U}
-Instant
-"Gain control of target Equipment, then create a 0/0 black Germ creature token and attach that Equipment to it."
-Hamletback Goliath
-{6}{R}
-Creature — Giant Warrior
-"Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature’s power."
-6/6
-Hammerfist Giant
-{4}{R}{R}
-Creature — Giant Warrior
-{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.
-5/4
-Hardened Scales
-{G}
-Enchantment
-"If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead."
-Herald of the Host
-{3}{W}{W}
-Creature — Angel
-"Flying, vigilance"
-"Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that’s a copy of this creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)"
-4/4
-Hoard-Smelter Dragon
-{4}{R}{R}
-Creature — Dragon
-Flying
-"{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact’s converted mana cost."
-5/5
-Hostility
-{3}{R}{R}{R}
-Creature — Elemental Incarnation
-Haste
-"If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way."
-"When Hostility is put into a graveyard from anywhere, shuffle it into its owner’s library."
-6/6
-Hunted Dragon
-{3}{R}{R}
-Creature — Dragon
-"Flying, haste"
-"When Hunted Dragon enters the battlefield, target opponent creates three 2/2 white Knight creature tokens with first strike."
-6/6
-Ichor Wellspring
-{2}
-Artifact
-"When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card."
-"Ikra Shidiqi, the Usurper"
-{3}{B}{G}
-Legendary Creature — Naga Wizard
-Menace
-"Whenever a creature you control deals combat damage to a player, you gain life equal to that creature’s toughness."
-Partner (You can have two commanders if both have partner.)
-3/7
-Impact Resonance
-{1}{R}
-Instant
-"Impact Resonance deals X damage divided as you choose among any number of target creatures, where X is the greatest amount of damage dealt by a source to a permanent or player this turn."
-Incite Rebellion
-{4}{R}{R}
-Sorcery
-"For each player, Incite Rebellion deals damage to that player and each creature that player controls equal to the number of creatures they control."
-Inferno Titan
-{4}{R}{R}
-Creature — Giant
-{R}: Inferno Titan gets +1/+0 until end of turn.
-"Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets."
-6/6
-Ingot Chewer
-{4}{R}
-Creature — Elemental
-"When Ingot Chewer enters the battlefield, destroy target artifact."
-"Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-3/3
-Inspiring Call
-{2}{G}
-Instant
-Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn.
-"Ishai, Ojutai Dragonspeaker"
-{2}{W}{U}
-Legendary Creature — Bird Monk
-Flying
-"Whenever an opponent casts a spell, put a +1/+1 counter on Ishai, Ojutai Dragonspeaker."
-Partner (You can have two commanders if both have partner.)
-1/1
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Island
-Basic Land — Island
-({T}: Add {U}.)
-Jalum Tome
-{3}
-Artifact
-"{2}, {T}: Draw a card, then discard a card."
-"Jareth, Leonine Titan"
-{3}{W}{W}{W}
-Legendary Creature — Cat Giant
-"Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn."
-{W}: Jareth gains protection from the color of your choice until end of turn.
-4/7
-Juniper Order Ranger
-{3}{G}{W}
-Creature — Human Knight
-"Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger."
-2/4
-Junk Diver
-{3}
-Artifact Creature — Bird
-Flying
-"When Junk Diver dies, return another target artifact card from your graveyard to your hand."
-1/1
-Jwar Isle Refuge
-Land
-Jwar Isle Refuge enters the battlefield tapped.
-"When Jwar Isle Refuge enters the battlefield, you gain 1 life."
-{T}: Add {U} or {B}.
-"Kalemne, Disciple of Iroas"
-{2}{R}{W}
-Legendary Creature — Giant Soldier
-"Double strike, vigilance"
-"Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter."
-"Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have."
-3/3
-Kalemne's Captain
-{3}{W}{W}
-Creature — Giant Soldier
-Vigilance
-"{5}{W}{W}: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-"When Kalemne’s Captain becomes monstrous, exile all artifacts and enchantments."
-5/5
-Kalonian Hydra
-{3}{G}{G}
-Creature — Hydra
-Trample
-Kalonian Hydra enters the battlefield with four +1/+1 counters on it.
-"Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control."
-0/0
-Languish
-{2}{B}{B}
-Sorcery
-All creatures get -4/-4 until end of turn.
-Lhurgoyf
-{2}{G}{G}
-Creature — Lhurgoyf
-Lhurgoyf’s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.
-*/1+*
-Lightning Greaves
-{2}
-Artifact — Equipment
-Equipped creature has haste and shroud. (It can’t be the target of spells or abilities.)
-Equip {0}
-Liquimetal Coating
-{2}
-Artifact
-{T}: Target permanent becomes an artifact in addition to its other types until end of turn.
-Living Death
-{3}{B}{B}
-Sorcery
-"Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield."
-Lonely Sandbar
-Land
-Lonely Sandbar enters the battlefield tapped.
-{T}: Add {U}.
-"Cycling {U} ({U}, Discard this card: Draw a card.)"
-Loreseeker's Stone
-{6}
-Artifact
-"{3}, {T}: Draw three cards. This ability costs {1} more to activate for each card in your hand."
-Loxodon Warhammer
-{3}
-Artifact — Equipment
-Equipped creature gets +3/+0 and has trample and lifelink.
-Equip {3}
-Magma Giant
-{5}{R}{R}
-Creature — Giant
-"When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player."
-5/5
-Magmaquake
-{X}{R}{R}
-Instant
-Magmaquake deals X damage to each creature without flying and each planeswalker.
-Magus of the Wheel
-{2}{R}
-Creature — Human Wizard
-"{1}{R}, {T}, Sacrifice Magus of the Wheel: Each player discards their hand, then draws seven cards."
-3/3
-Manifold Insights
-{2}{U}
-Sorcery
-"Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order."
-Master Biomancer
-{2}{G}{U}
-Creature — Elf Wizard
-Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer’s power and as a Mutant in addition to its other types.
-2/4
-Memory Erosion
-{1}{U}{U}
-Enchantment
-"Whenever an opponent casts a spell, that player mills two cards."
-Merciless Eviction
-{4}{W}{B}
-Sorcery
-Choose one —
-• Exile all artifacts.
-• Exile all creatures.
-• Exile all enchantments.
-• Exile all planeswalkers.
-Meteor Blast
-{X}{R}{R}{R}
-Sorcery
-Meteor Blast deals 4 damage to each of X targets.
-Migratory Route
-{3}{W}{U}
-Sorcery
-Create four 1/1 white Bird creature tokens with flying.
-"Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
-Minds Aglow
-{U}
-Sorcery
-"Join forces — Starting with you, each player may pay any amount of mana. Each player draws X cards, where X is the total amount of mana paid this way."
-Mind Stone
-{2}
-Artifact
-{T}: Add {C}.
-"{1}, {T}, Sacrifice Mind Stone: Draw a card."
-Mirrorweave
-{2}{W/U}{W/U}
-Instant
-Each other creature becomes a copy of target nonlegendary creature until end of turn.
-Mortify
-{1}{W}{B}
-Instant
-Destroy target creature or enchantment.
-Mortivore
-{2}{B}{B}
-Creature — Lhurgoyf
-Mortivore’s power and toughness are each equal to the number of creature cards in all graveyards.
-{B}: Regenerate Mortivore.
-*/*
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mountain
-Basic Land — Mountain
-({T}: Add {R}.)
-Mulldrifter
-{4}{U}
-Creature — Elemental
-Flying
-"When Mulldrifter enters the battlefield, draw two cards."
-"Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-2/2
-Murmuring Bosk
-Land — Forest
-({T}: Add {G}.)
-"As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don’t, Murmuring Bosk enters the battlefield tapped."
-{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.
-Mycosynth Wellspring
-{2}
-Artifact
-"When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
-Myr Battlesphere
-{7}
-Artifact Creature — Myr Construct
-"When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr artifact creature tokens."
-"Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to the player or planeswalker it’s attacking."
-4/7
-Myr Retriever
-{2}
-Artifact Creature — Myr
-"When Myr Retriever dies, return another target artifact card from your graveyard to your hand."
-1/1
-Myr Sire
-{2}
-Artifact Creature — Myr
-"When Myr Sire dies, create a 1/1 colorless Myr artifact creature token."
-1/1
-Necroplasm
-{1}{B}{B}
-Creature — Ooze
-"At the beginning of your upkeep, put a +1/+1 counter on Necroplasm."
-"At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm."
-"Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)"
-1/1
-Nezumi Graverobber
-{1}{B}
-Creature — Rat Rogue
-"{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber."
-2/1
-Nighteyes the Desecrator
-Legendary Creature — Rat Wizard
-{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.
-4/2
-Oblivion Stone
-{3}
-Artifact
-"{4}, {T}: Put a fate counter on target permanent."
-"{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents."
-Opal Palace
-Land
-{T}: Add {C}.
-"{1}, {T}: Add one mana of any color in your commander’s color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of additional +1/+1 counters on it equal to the number of times it’s been cast from the command zone this game."
-Opulent Palace
-Land
-Opulent Palace enters the battlefield tapped.
-"{T}: Add {B}, {G}, or {U}."
-Oreskos Explorer
-{1}{W}
-Creature — Cat Scout
-"When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library."
-2/2
-Orim's Thunder
-{2}{W}
-Instant
-Kicker {R} (You may pay an additional {R} as you cast this spell.)
-"Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent’s converted mana cost to target creature."
-Orzhov Advokist
-{2}{W}
-Creature — Human Advisor
-"At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can’t attack you or a planeswalker you control until your next turn."
-1/4
-Orzhov Signet
-{2}
-Artifact
-"{1}, {T}: Add {W}{B}."
-Palladium Myr
-{3}
-Artifact Creature — Myr
-{T}: Add {C}{C}.
-2/2
-Panic Spellbomb
-{1}
-Artifact
-"{T}, Sacrifice Panic Spellbomb: Target creature can’t block this turn."
-"When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card."
-Patron of the Nezumi
-{5}{B}{B}
-Legendary Creature — Spirit
-Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
-"Whenever a permanent is put into an opponent’s graveyard, that player loses 1 life."
-6/6
-Pentavus
-{7}
-Artifact Creature — Construct
-Pentavus enters the battlefield with five +1/+1 counters on it.
-"{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying."
-"{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus."
-0/0
-Phyrexia's Core
-Land
-{T}: Add {C}.
-"{1}, {T}, Sacrifice an artifact: You gain 1 life."
-Pilgrim's Eye
-{3}
-Artifact Creature — Thopter
-Flying
-"When Pilgrim’s Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library."
-1/1
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Pristine Talisman
-{3}
-Artifact
-{T}: Add {C}. You gain 1 life.
-Putrefy
-{1}{B}{G}
-Instant
-Destroy target artifact or creature. It can’t be regenerated.
-Relic Crush
-{4}{G}
-Instant
-Destroy target artifact or enchantment and up to one other target artifact or enchantment.
-Reliquary Tower
-Land
-You have no maximum hand size.
-{T}: Add {C}.
-Reveillark
-{4}{W}
-Creature — Elemental
-Flying
-"When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield."
-"Evoke {5}{W} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-4/3
-"Reyhan, Last of the Abzan"
-{1}{B}{G}
-Legendary Creature — Human Warrior
-"Reyhan, Last of the Abzan enters the battlefield with three +1/+1 counters on it."
-"Whenever a creature you control dies or is put into the command zone, if it had one or more +1/+1 counters on it, you may put that many +1/+1 counters on target creature."
-Partner (You can have two commanders if both have partner.)
-0/0
-Riddlekeeper
-{2}{U}
-Creature — Homunculus
-"Whenever a creature attacks you or a planeswalker you control, that creature’s controller mills two cards."
-1/4
-Rise from the Grave
-{4}{B}
-Sorcery
-Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.
-Rite of the Raging Storm
-{3}{R}{R}
-Enchantment
-Creatures named Lightning Rager can’t attack you or planeswalkers you control.
-"At the beginning of each player’s upkeep, that player creates a 5/1 red Elemental creature token named Lightning Rager. It has trample, haste, and “At the beginning of the end step, sacrifice this creature.”"
-Ruby Medallion
-{2}
-Artifact
-Red spells you cast cost {1} less to cast.
-Rupture Spire
-Land
-Rupture Spire enters the battlefield tapped.
-"When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}."
-{T}: Add one mana of any color.
-Sandsteppe Citadel
-Land
-Sandsteppe Citadel enters the battlefield tapped.
-"{T}: Add {W}, {B}, or {G}."
-Sandstone Oracle
-{7}
-Artifact Creature — Sphinx
-Flying
-"When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference."
-4/4
-Scavenging Ooze
-{1}{G}
-Creature — Ooze
-"{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life."
-2/2
-Scrap Mastery
-{3}{R}{R}
-Sorcery
-"Each player exiles all artifact cards from their graveyard, then sacrifices all artifacts they control, then puts all cards they exiled this way onto the battlefield."
-Scythe Specter
-{4}{B}{B}
-Creature — Specter
-Flying
-"Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest converted mana cost among cards discarded this way loses life equal to that converted mana cost."
-4/4
-Seaside Citadel
-Land
-Seaside Citadel enters the battlefield tapped.
-"{T}: Add {G}, {W}, or {U}."
-Secluded Steppe
-Land
-Secluded Steppe enters the battlefield tapped.
-{T}: Add {W}.
-"Cycling {W} ({W}, Discard this card: Draw a card.)"
-Seer's Sundial
-{4}
-Artifact
-"Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card."
-Sewer Nemesis
-{3}{B}
-Creature — Horror
-"As Sewer Nemesis enters the battlefield, choose a player."
-Sewer Nemesis’s power and toughness are each equal to the number of cards in the chosen player’s graveyard.
-"Whenever the chosen player casts a spell, that player mills a card."
-*/*
-Shared Trauma
-{B}
-Sorcery
-"Join forces — Starting with you, each player may pay any amount of mana. Each player mills X cards, where X is the total amount of mana paid this way."
-Sign in Blood
-{B}{B}
-Sorcery
-Target player draws two cards and loses 2 life.
-Simic Growth Chamber
-Land
-Simic Growth Chamber enters the battlefield tapped.
-"When Simic Growth Chamber enters the battlefield, return a land you control to its owner’s hand."
-{T}: Add {G}{U}.
-Simic Signet
-{2}
-Artifact
-"{1}, {T}: Add {G}{U}."
-Simic Signet
-{2}
-Artifact
-"{1}, {T}: Add {G}{U}."
-"Skullbriar, the Walking Grave"
-{B}{G}
-Legendary Creature — Zombie Elemental
-Haste
-"Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it."
-Counters remain on Skullbriar as it moves to any zone other than a player’s hand or library.
-1/1
-Slipstream Eel
-{5}{U}{U}
-Creature — Fish Beast
-Slipstream Eel can’t attack unless defending player controls an Island.
-"Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)"
-6/6
-Smoldering Crater
-Land
-Smoldering Crater enters the battlefield tapped.
-{T}: Add {R}.
-"Cycling {2} ({2}, Discard this card: Draw a card.)"
-Solemn Simulacrum
-{4}
-Artifact Creature — Golem
-"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
-"When Solemn Simulacrum dies, you may draw a card."
-2/2
-Solemn Simulacrum
-{4}
-Artifact Creature — Golem
-"When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library."
-"When Solemn Simulacrum dies, you may draw a card."
-2/2
-Solidarity of Heroes
-{1}{G}
-Instant
-Strive — This spell costs {1}{G} more to cast for each target beyond the first.
-Choose any number of target creatures. Double the number of +1/+1 counters on each of them.
-Sol Ring
-{1}
-Artifact
-{T}: Add {C}{C}.
-Spell Crumple
-{1}{U}{U}
-Instant
-"Counter target spell. If that spell is countered this way, put it on the bottom of its owner’s library instead of into that player’s graveyard. Put Spell Crumple on the bottom of its owner’s library."
-Spine of Ish Sah
-{7}
-Artifact
-"When Spine of Ish Sah enters the battlefield, destroy target permanent."
-"When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner’s hand."
-Spitebellows
-{5}{R}
-Creature — Elemental
-"When Spitebellows leaves the battlefield, it deals 6 damage to target creature."
-"Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)"
-6/1
-Spitting Image
-{4}{G/U}{G/U}
-Sorcery
-Create a token that’s a copy of target creature.
-Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)
-Staff of Nin
-{6}
-Artifact
-"At the beginning of your upkeep, draw a card."
-{T}: Staff of Nin deals 1 damage to any target.
-Starstorm
-{X}{R}{R}
-Instant
-Starstorm deals X damage to each creature.
-"Cycling {3} ({3}, Discard this card: Draw a card.)"
-Steel Hellkite
-{6}
-Artifact Creature — Dragon
-Flying
-{2}: Steel Hellkite gets +1/+0 until end of turn.
-{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.
-5/5
-Stinkdrinker Daredevil
-{2}{R}
-Creature — Goblin Rogue
-Giant spells you cast cost {2} less to cast.
-1/3
-Stitch Together
-{B}{B}
-Sorcery
-Return target creature card from your graveyard to your hand.
-Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.
-Stoneshock Giant
-{3}{R}{R}
-Creature — Giant
-"{6}{R}{R}: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)"
-"When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can’t block this turn."
-5/4
-Sublime Exhalation
-{6}{W}
-Sorcery
-Undaunted (This spell costs {1} less to cast for each opponent.)
-Destroy all creatures.
-Sungrass Prairie
-Land
-"{1}, {T}: Add {G}{W}."
-Sunrise Sovereign
-{5}{R}
-Creature — Giant Warrior
-Other Giant creatures you control get +2/+2 and have trample.
-5/5
-Sun Titan
-{4}{W}{W}
-Creature — Giant
-Vigilance
-"Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield."
-6/6
-"Svogthos, the Restless Tomb"
-Land
-{T}: Add {C}.
-"{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with “This creature’s power and toughness are each equal to the number of creature cards in your graveyard.” It’s still a land."
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swamp
-Basic Land — Swamp
-({T}: Add {B}.)
-Swiftfoot Boots
-{2}
-Artifact — Equipment
-Equipped creature has hexproof and haste.
-Equip {1}
-Sylvan Reclamation
-{3}{G}{W}
-Instant
-Exile up to two target artifacts and/or enchantments.
-"Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)"
-Syphon Flesh
-{4}{B}
-Sorcery
-Each other player sacrifices a creature. You create a 2/2 black Zombie creature token for each creature sacrificed this way.
-Syphon Mind
-{3}{B}
-Sorcery
-Each other player discards a card. You draw a card for each card discarded this way.
-"Szadek, Lord of Secrets"
-{3}{U}{U}{B}{B}
-Legendary Creature — Vampire
-Flying
-"If Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player mills that many cards."
-5/5
-Taurean Mauler
-{2}{R}
-Creature — Shapeshifter
-Changeling (This card is every creature type.)
-"Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler."
-2/2
-Temple of the False God
-Land
-{T}: Add {C}{C}. Activate this ability only if you control five or more lands.
-Temple of the False God
-Land
-{T}: Add {C}{C}. Activate this ability only if you control five or more lands.
-Terramorphic Expanse
-Land
-"{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library."
-Tezzeret's Gambit
-{3}{U/P}
-Sorcery
-({U/P} can be paid with either {U} or 2 life.)
-"Draw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-The Mimeoplasm
-{2}{B}{G}{U}
-Legendary Creature — Ooze
-"As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card."
-0/0
-Thought Vessel
-{2}
-Artifact
-You have no maximum hand size.
-{T}: Add {C}.
-Thrummingbird
-{1}{U}
-Creature — Bird Horror
-Flying
-"Whenever Thrummingbird deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)"
-1/1
-Thundercloud Shaman
-{3}{R}{R}
-Creature — Giant Shaman
-"When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature."
-4/4
-Trading Post
-{4}
-Artifact
-"{1}, {T}, Discard a card: You gain 4 life."
-"{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token."
-"{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand."
-"{1}, {T}, Sacrifice an artifact: Draw a card."
-Tranquil Thicket
-Land
-Tranquil Thicket enters the battlefield tapped.
-{T}: Add {G}.
-"Cycling {G} ({G}, Discard this card: Draw a card.)"
-Treasure Cruise
-{7}{U}
-Sorcery
-Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)
-Draw three cards.
-Tribute to the Wild
-{1}{G}
-Instant
-Each opponent sacrifices an artifact or enchantment.
-Triskelavus
-{7}
-Artifact Creature — Construct
-Flying
-Triskelavus enters the battlefield with three +1/+1 counters on it.
-"{1}, Remove a +1/+1 counter from Triskelavus: Create a 1/1 colorless Triskelavite artifact creature token with flying. It has “Sacrifice this creature: This creature deals 1 damage to any target.”"
-1/1
-Troll Ascetic
-{1}{G}{G}
-Creature — Troll Shaman
-Hexproof (This creature can’t be the target of spells or abilities your opponents control.)
-{1}{G}: Regenerate Troll Ascetic.
-3/2
-Tuktuk the Explorer
-{2}{R}
-Legendary Creature — Goblin
-Haste
-"When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token."
-1/1
-Tuskguard Captain
-{2}{G}
-Creature — Human Warrior
-"Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)"
-Each creature you control with a +1/+1 counter on it has trample.
-2/3
-Tyrant's Familiar
-{5}{R}{R}
-Creature — Dragon
-"Flying, haste"
-"Lieutenant — As long as you control your commander, Tyrant’s Familiar gets +2/+2 and has “Whenever Tyrant’s Familiar attacks, it deals 7 damage to target creature defending player controls.”"
-5/5
-Underground River
-Land
-{T}: Add {C}.
-{T}: Add {U} or {B}. Underground River deals 1 damage to you.
-Unnerve
-{3}{B}
-Sorcery
-Each opponent discards two cards.
-Unstable Obelisk
-{3}
-Artifact
-{T}: Add {C}.
-"{7}, {T}, Sacrifice Unstable Obelisk: Destroy target permanent."
-Urza's Incubator
-{3}
-Artifact
-"As Urza’s Incubator enters the battlefield, choose a creature type."
-Creature spells of the chosen type cost {2} less to cast.
-Victory's Herald
-{3}{W}{W}{W}
-Creature — Angel
-Flying
-"Whenever Victory’s Herald attacks, attacking creatures gain flying and lifelink until end of turn."
-4/4
-Vivid Crag
-Land
-Vivid Crag enters the battlefield tapped with two charge counters on it.
-{T}: Add {R}.
-"{T}, Remove a charge counter from Vivid Crag: Add one mana of any color."
-Vivid Meadow
-Land
-Vivid Meadow enters the battlefield tapped with two charge counters on it.
-{T}: Add {W}.
-"{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color."
-Volcanic Offering
-{4}{R}
-Instant
-Destroy target nonbasic land you don’t control and target nonbasic land of an opponent’s choice you don’t control.
-Volcanic Offering deals 7 damage to target creature you don’t control and 7 damage to target creature of an opponent’s choice you don’t control.
-Vorel of the Hull Clade
-{1}{G}{U}
-Legendary Creature — Human Merfolk
-"{G}{U}, {T}: Double the number of each kind of counter on target artifact, creature, or land."
-1/4
-"Vorosh, the Hunter"
-{3}{B}{G}{U}
-Legendary Creature — Dragon
-Flying
-"Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh."
-6/6
-Vow of Flight
-{2}{U}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature gets +2/+2, has flying, and can’t attack you or a planeswalker you control."
-Vow of Malice
-{2}{B}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature gets +2/+2, has intimidate, and can’t attack you or a planeswalker you control. (A creature with intimidate can’t be blocked except by artifact creatures and/or creatures that share a color with it.)"
-Vow of Wildness
-{2}{G}
-Enchantment — Aura
-Enchant creature
-"Enchanted creature gets +3/+3, has trample, and can’t attack you or a planeswalker you control."
-Vulturous Zombie
-{3}{B}{G}
-Creature — Plant Zombie
-Flying
-"Whenever a card is put into an opponent’s graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie."
-3/3
-Warchief Giant
-{3}{R}{R}
-Creature — Giant Warrior
-Haste
-"Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that’s a copy of this creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)"
-5/3
-Warmonger Hellkite
-{4}{R}{R}
-Creature — Dragon
-Flying
-All creatures attack each combat if able.
-{1}{R}: Attacking creatures get +1/+0 until end of turn.
-5/5
-Warstorm Surge
-{5}{R}
-Enchantment
-"Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target."
-Wayfarer's Bauble
-{1}
-Artifact
-"{2}, {T}, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library."
-Whipflare
-{1}{R}
-Sorcery
-Whipflare deals 2 damage to each nonartifact creature.
-Windfall
-{2}{U}
-Sorcery
-"Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way."
-Wind-Scarred Crag
-Land
-Wind-Scarred Crag enters the battlefield tapped.
-"When Wind-Scarred Crag enters the battlefield, you gain 1 life."
-{T}: Add {R} or {W}.
-Wonder
-{3}{U}
-Creature — Incarnation
-Flying
-"As long as Wonder is in your graveyard and you control an Island, creatures you control have flying."
-2/2
-Word of Seizing
-{3}{R}{R}
-Instant
-"Split second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)"
-Untap target permanent and gain control of it until end of turn. It gains haste until end of turn.
-Worn Powerstone
-{3}
-Artifact
-Worn Powerstone enters the battlefield tapped.
-{T}: Add {C}{C}.
-"Wrexial, the Risen Deep"
-{3}{U}{U}{B}
-Legendary Creature — Kraken
-"Islandwalk, swampwalk (This creature can’t be blocked as long as defending player controls an Island or a Swamp.)"
-"Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player’s graveyard without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead."
-5/8
-Wurmcoil Engine
-{6}
-Artifact Creature — Wurm
-"Deathtouch, lifelink"
-"When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink."
-6/6
-Yavimaya Elder
-{1}{G}{G}
-Creature — Human Druid
-"When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library."
-"{2}, Sacrifice Yavimaya Elder: Draw a card."
-2/1
+"('Abzan Falconer', ['{2}{W}', 'Creature — Human Soldier', 'Outlast {W} ({W}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)', 'Each creature you control with a +1/+1 counter on it has flying.', '2/3'])"
+"('Acidic Slime', ['{3}{G}{G}', 'Creature — Ooze', 'Deathtouch (Any amount of damage this deals to a creature is enough to destroy it.)', 'When Acidic Slime enters the battlefield, destroy target artifact, enchantment, or land.', '2/2'])"
+"('Ancient Amphitheater', ['Land', 'As Ancient Amphitheater enters the battlefield, you may reveal a Giant card from your hand. If you don’t, Ancient Amphitheater enters the battlefield tapped.', '{T}: Add {R} or {W}.'])"
+"('Ancient Excavation', ['{2}{U}{B}', 'Instant', 'Draw cards equal to the number of cards in your hand, then discard a card for each card drawn this way.', 'Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)'])"
+"('Angel of Serenity', ['{4}{W}{W}{W}', 'Creature — Angel', 'Flying', 'When Angel of Serenity enters the battlefield, you may exile up to three other target creatures from the battlefield and/or creature cards from graveyards.', 'When Angel of Serenity leaves the battlefield, return the exiled cards to their owners’ hands.', '5/6'])"
+"('Anya, Merciless Angel', ['{3}{R}{W}', 'Legendary Creature — Angel', 'Flying', 'Anya, Merciless Angel gets +3/+3 for each opponent whose life total is less than half their starting life total.', 'As long as an opponent’s life total is less than half their starting life total, Anya has indestructible.', '4/4'])"
+"('Arbiter of Knollridge', ['{6}{W}', 'Creature — Giant Wizard', 'Vigilance', 'When Arbiter of Knollridge enters the battlefield, each player’s life total becomes the highest life total among all players.', '5/5'])"
+"('Arcane Lighthouse', ['Land', '{T}: Add {C}.', '{1}, {T}: Until end of turn, creatures your opponents control lose hexproof and shroud and can’t have hexproof or shroud.'])"
+"('Arcane Sanctum', ['Land', 'Arcane Sanctum enters the battlefield tapped.', '{T}: Add {W}, {U}, or {B}.'])"
+"('Artisan of Kozilek', ['{9}', 'Creature — Eldrazi', 'When you cast this spell, you may return target creature card from your graveyard to the battlefield.', 'Annihilator 2 (Whenever this creature attacks, defending player sacrifices two permanents.)', '10/9'])"
+"('Ash Barrens', ['Land', '{T}: Add {C}.', 'Basic landcycling {1} ({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)'])"
+"('Astral Cornucopia', ['{X}{X}{X}', 'Artifact', 'Astral Cornucopia enters the battlefield with X charge counters on it.', '{T}: Choose a color. Add one mana of that color for each charge counter on Astral Cornucopia.'])"
+"(""Atraxa, Praetors' Voice"", ['{G}{W}{U}{B}', 'Legendary Creature — Angel Horror', 'Flying, vigilance, deathtouch, lifelink', 'At the beginning of your end step, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)', '4/4'])"
+"('Avatar of Woe', ['{6}{B}{B}', 'Creature — Avatar', 'If there are ten or more creature cards total in all graveyards, this spell costs {6} less to cast.', 'Fear (This creature can’t be blocked except by artifact creatures and/or black creatures.)', '{T}: Destroy target creature. It can’t be regenerated.', '6/5'])"
+"('Azorius Chancery', ['Land', 'Azorius Chancery enters the battlefield tapped.', 'When Azorius Chancery enters the battlefield, return a land you control to its owner’s hand.', '{T}: Add {W}{U}.'])"
+"('Bane of the Living', ['{2}{B}{B}', 'Creature — Insect', 'Morph {X}{B}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)', 'When Bane of the Living is turned face up, all creatures get -X/-X until end of turn.', '4/3'])"
+"('Banishing Light', ['{2}{W}', 'Enchantment', 'When Banishing Light enters the battlefield, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield.'])"
+"('Barren Moor', ['Land', 'Barren Moor enters the battlefield tapped.', '{T}: Add {B}.', 'Cycling {B} ({B}, Discard this card: Draw a card.)'])"
+"('Basalt Monolith', ['{3}', 'Artifact', 'Basalt Monolith doesn’t untap during your untap step.', '{T}: Add {C}{C}{C}.', '{3}: Untap Basalt Monolith.'])"
+"('Beetleback Chief', ['{2}{R}{R}', 'Creature — Goblin Warrior', 'When Beetleback Chief enters the battlefield, create two 1/1 red Goblin creature tokens.', '2/2'])"
+"('Bitter Feud', ['{4}{R}', 'Enchantment', 'As Bitter Feud enters the battlefield, choose two players.', 'If a source controlled by one of the chosen players would deal damage to the other chosen player or a permanent that player controls, that source deals double that damage to that player or permanent instead.'])"
+"('Blade of Selves', ['{2}', 'Artifact — Equipment', 'Equipped creature has myriad. (Whenever it attacks, for each opponent other than defending player, you may create a token that’s a copy of that creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)', 'Equip {4}'])"
+"('Blasphemous Act', ['{8}{R}', 'Sorcery', 'This spell costs {1} less to cast for each creature on the battlefield.', 'Blasphemous Act deals 13 damage to each creature.'])"
+"('Blasted Landscape', ['Land', '{T}: Add {C}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Bogardan Hellkite', ['{6}{R}{R}', 'Creature — Dragon', 'Flash', 'Flying', 'When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of targets.', '5/5'])"
+"('Borderland Behemoth', ['{5}{R}{R}', 'Creature — Giant Warrior', 'Trample', 'Borderland Behemoth gets +4/+4 for each other Giant you control.', '4/4'])"
+"('Boros Cluestone', ['{3}', 'Artifact', '{T}: Add {R} or {W}.', '{R}{W}, {T}, Sacrifice Boros Cluestone: Draw a card.'])"
+"('Boros Garrison', ['Land', 'Boros Garrison enters the battlefield tapped.', 'When Boros Garrison enters the battlefield, return a land you control to its owner’s hand.', '{T}: Add {R}{W}.'])"
+"('Boros Guildgate', ['Land — Gate', 'Boros Guildgate enters the battlefield tapped.', '{T}: Add {R} or {W}.'])"
+"('Boros Signet', ['{2}', 'Artifact', '{1}, {T}: Add {R}{W}.'])"
+"('Bosh, Iron Golem', ['{8}', 'Legendary Artifact Creature — Golem', 'Trample', '{3}{R}, Sacrifice an artifact: Bosh, Iron Golem deals damage equal to the sacrificed artifact’s converted mana cost to any target.', '6/7'])"
+"('Bottle Gnomes', ['{3}', 'Artifact Creature — Gnome', 'Sacrifice Bottle Gnomes: You gain 3 life.', '1/3'])"
+"('Brave the Sands', ['{1}{W}', 'Enchantment', 'Creatures you control have vigilance.', 'Each creature you control can block an additional creature each combat.'])"
+"('Brawn', ['{3}{G}', 'Creature — Incarnation', 'Trample', 'As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.', '3/3'])"
+"('Breath of Darigaaz', ['{1}{R}', 'Sorcery', 'Kicker {2} (You may pay an additional {2} as you cast this spell.)', 'Breath of Darigaaz deals 1 damage to each creature without flying and each player. If this spell was kicked, it deals 4 damage to each creature without flying and each player instead.'])"
+"('Bred for the Hunt', ['{1}{G}{U}', 'Enchantment', 'Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, you may draw a card.'])"
+"('Buried Alive', ['{2}{B}', 'Sorcery', 'Search your library for up to three creature cards, put them into your graveyard, then shuffle your library.'])"
+"('Buried Ruin', ['Land', '{T}: Add {C}.', '{2}, {T}, Sacrifice Buried Ruin: Return target artifact card from your graveyard to your hand.'])"
+"('Butcher of Malakir', ['{5}{B}{B}', 'Creature — Vampire Warrior', 'Flying', 'Whenever Butcher of Malakir or another creature you control dies, each opponent sacrifices a creature.', '5/4'])"
+"('Caged Sun', ['{6}', 'Artifact', 'As Caged Sun enters the battlefield, choose a color.', 'Creatures you control of the chosen color get +1/+1.', 'Whenever a land’s ability causes you to add one or more mana of the chosen color, add one additional mana of that color.'])"
+"(""Cathars' Crusade"", ['{3}{W}{W}', 'Enchantment', 'Whenever a creature enters the battlefield under your control, put a +1/+1 counter on each creature you control.'])"
+"('Cathodion', ['{3}', 'Artifact Creature — Construct', 'When Cathodion dies, add {C}{C}{C}.', '3/3'])"
+"('Cauldron of Souls', ['{5}', 'Artifact', '{T}: Choose any number of target creatures. Each of those creatures gains persist until end of turn. (When it dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner’s control with a -1/-1 counter on it.)'])"
+"('Champion of Lambholt', ['{1}{G}{G}', 'Creature — Human Warrior', 'Creatures with power less than Champion of Lambholt’s power can’t block creatures you control.', 'Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Champion of Lambholt.', '1/1'])"
+"('Chaos Warp', ['{2}{R}', 'Instant', 'The owner of target permanent shuffles it into their library, then reveals the top card of their library. If it’s a permanent card, they put it onto the battlefield.'])"
+"('Citadel Siege', ['{2}{W}{W}', 'Enchantment', 'As Citadel Siege enters the battlefield, choose Khans or Dragons.', '• Khans — At the beginning of combat on your turn, put two +1/+1 counters on target creature you control.', '• Dragons — At the beginning of combat on each opponent’s turn, tap target creature that player controls.'])"
+"('Coldsteel Heart', ['{2}', 'Snow Artifact', 'Coldsteel Heart enters the battlefield tapped.', 'As Coldsteel Heart enters the battlefield, choose a color.', '{T}: Add one mana of the chosen color.'])"
+"(""Commander's Sphere"", ['{3}', 'Artifact', '{T}: Add one mana of any color in your commander’s color identity.', 'Sacrifice Commander’s Sphere: Draw a card.'])"
+"('Command Tower', ['Land', '{T}: Add one mana of any color in your commander’s color identity.'])"
+"('Corpsejack Menace', ['{2}{B}{G}', 'Creature — Fungus', 'If one or more +1/+1 counters would be put on a creature you control, twice that many +1/+1 counters are put on it instead.', '4/4'])"
+"('Crib Swap', ['{2}{W}', 'Tribal Instant — Shapeshifter', 'Changeling (This card is every creature type.)', 'Exile target creature. Its controller creates a 1/1 colorless Shapeshifter creature token with changeling.'])"
+"('Crystalline Crawler', ['{4}', 'Artifact Creature — Construct', 'Converge — Crystalline Crawler enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.', 'Remove a +1/+1 counter from Crystalline Crawler: Add one mana of any color.', '{T}: Put a +1/+1 counter on Crystalline Crawler.', '1/1'])"
+"('Cultivate', ['{2}{G}', 'Sorcery', 'Search your library for up to two basic land cards, reveal those cards, and put one onto the battlefield tapped and the other into your hand. Then shuffle your library.'])"
+"('Curse of the Nightly Hunt', ['{2}{R}', 'Enchantment — Aura Curse', 'Enchant player', 'Creatures enchanted player controls attack each combat if able.'])"
+"('Custodi Soulbinders', ['{3}{W}', 'Creature — Human Cleric', 'Custodi Soulbinders enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.', '{2}{W}, Remove a +1/+1 counter from Custodi Soulbinders: Create a 1/1 white Spirit creature token with flying.', '0/0'])"
+"('Damia, Sage of Stone', ['{4}{B}{G}{U}', 'Legendary Creature — Gorgon Wizard', 'Deathtouch', 'Skip your draw step.', 'At the beginning of your upkeep, if you have fewer than seven cards in hand, draw cards equal to the difference.', '4/4'])"
+"('Daretti, Scrap Savant', ['{3}{R}', 'Legendary Planeswalker — Daretti', '+2: Discard up to two cards, then draw that many cards.', '−2: Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.', '−10: You get an emblem with “Whenever an artifact is put into your graveyard from the battlefield, return that card to the battlefield at the beginning of the next end step.”', 'Daretti, Scrap Savant can be your commander.', 'Loyalty: 3'])"
+"('Dark Hatchling', ['{4}{B}{B}', 'Creature — Horror', 'Flying', 'When Dark Hatchling enters the battlefield, destroy target nonblack creature. It can’t be regenerated.', '3/3'])"
+"('Darksteel Citadel', ['Artifact Land', 'Indestructible', '{T}: Add {C}.'])"
+"('Darksteel Ingot', ['{3}', 'Artifact', 'Indestructible', '{T}: Add one mana of any color.'])"
+"('Darkwater Catacombs', ['Land', '{1}, {T}: Add {U}{B}.'])"
+"('Dawnbreak Reclaimer', ['{4}{W}{W}', 'Creature — Angel', 'Flying', 'At the beginning of your end step, choose a creature card in an opponent’s graveyard, then that player chooses a creature card in your graveyard. You may return those cards to the battlefield under their owners’ control.', '5/5'])"
+"('Dawnglare Invoker', ['{2}{W}', 'Creature — Kor Wizard', 'Flying', '{8}: Tap all creatures target player controls.', '2/1'])"
+"('Deepglow Skate', ['{4}{U}', 'Creature — Fish', 'When Deepglow Skate enters the battlefield, double the number of each kind of counter on any number of target permanents.', '3/3'])"
+"('Desecrator Hag', ['{2}{B/G}{B/G}', 'Creature — Hag', 'When Desecrator Hag enters the battlefield, return to your hand the creature card in your graveyard with the greatest power. If two or more cards are tied for greatest power, you choose one of them.', '2/2'])"
+"('Desolation Giant', ['{2}{R}{R}', 'Creature — Giant', 'Kicker {W}{W} (You may pay an additional {W}{W} as you cast this spell.)', 'When Desolation Giant enters the battlefield, destroy all other creatures you control. If it was kicked, destroy all other creatures instead.', '3/3'])"
+"('Dimir Aqueduct', ['Land', 'Dimir Aqueduct enters the battlefield tapped.', 'When Dimir Aqueduct enters the battlefield, return a land you control to its owner’s hand.', '{T}: Add {U}{B}.'])"
+"('Dimir Signet', ['{2}', 'Artifact', '{1}, {T}: Add {U}{B}.'])"
+"('Disaster Radius', ['{5}{R}{R}', 'Sorcery', 'As an additional cost to cast this spell, reveal a creature card from your hand.', 'Disaster Radius deals X damage to each creature your opponents control, where X is the revealed card’s converted mana cost.'])"
+"('Disdainful Stroke', ['{1}{U}', 'Instant', 'Counter target spell with converted mana cost 4 or greater.'])"
+"('Dormant Volcano', ['Land', 'Dormant Volcano enters the battlefield tapped.', 'When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner’s hand.', '{T}: Add {C}{R}.'])"
+"('Dreadship Reef', ['Land', '{T}: Add {C}.', '{1}, {T}: Put a storage counter on Dreadship Reef.', '{1}, Remove X storage counters from Dreadship Reef: Add X mana in any combination of {U} and/or {B}.'])"
+"('Dreamborn Muse', ['{2}{U}{U}', 'Creature — Spirit', 'At the beginning of each player’s upkeep, that player mills X cards, where X is the number of cards in their hand.', '2/2'])"
+"('Dream Pillager', ['{5}{R}{R}', 'Creature — Dragon', 'Flying', 'Whenever Dream Pillager deals combat damage to a player, exile that many cards from the top of your library. Until end of turn, you may cast spells from among those exiled cards.', '4/4'])"
+"('Dreamstone Hedron', ['{6}', 'Artifact', '{T}: Add {C}{C}{C}.', '{3}, {T}, Sacrifice Dreamstone Hedron: Draw three cards.'])"
+"('Drifting Meadow', ['Land', 'Drifting Meadow enters the battlefield tapped.', '{T}: Add {W}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Dualcaster Mage', ['{1}{R}{R}', 'Creature — Human Wizard', 'Flash', 'When Dualcaster Mage enters the battlefield, copy target instant or sorcery spell. You may choose new targets for the copy.', '2/2'])"
+"(""Duelist's Heritage"", ['{2}{W}', 'Enchantment', 'Whenever one or more creatures attack, you may have target attacking creature gain double strike until end of turn.'])"
+"('Duneblast', ['{4}{W}{B}{G}', 'Sorcery', 'Choose up to one creature. Destroy the rest.'])"
+"('Earthquake', ['{X}{R}', 'Sorcery', 'Earthquake deals X damage to each creature without flying and each player.'])"
+"('Elite Scaleguard', ['{4}{W}', 'Creature — Human Soldier', 'When Elite Scaleguard enters the battlefield, bolster 2. (Choose a creature with the least toughness among creatures you control and put two +1/+1 counters on it.)', 'Whenever a creature you control with a +1/+1 counter on it attacks, tap target creature defending player controls.', '2/3'])"
+"('Enduring Scalelord', ['{4}{G}{W}', 'Creature — Dragon', 'Flying', 'Whenever one or more +1/+1 counters are put on another creature you control, you may put a +1/+1 counter on Enduring Scalelord.', '4/4'])"
+"('Epochrasite', ['{2}', 'Artifact Creature — Construct', 'Epochrasite enters the battlefield with three +1/+1 counters on it if you didn’t cast it from your hand.', 'When Epochrasite dies, exile it with three time counters on it and it gains suspend. (At the beginning of your upkeep, remove a time counter. When the last is removed, cast this card without paying its mana cost. It has haste.)', '1/1'])"
+"('Eternal Witness', ['{1}{G}{G}', 'Creature — Human Shaman', 'When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.', '2/1'])"
+"('Everflowing Chalice', ['{0}', 'Artifact', 'Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)', 'Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.', '{T}: Add {C} for each charge counter on Everflowing Chalice.'])"
+"('Evolving Wilds', ['Land', '{T}, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.'])"
+"('Exotic Orchard', ['Land', '{T}: Add one mana of any color that a land an opponent controls could produce.'])"
+"('Extractor Demon', ['{4}{B}{B}', 'Creature — Demon', 'Flying', 'Whenever another creature leaves the battlefield, you may have target player mill two cards.', 'Unearth {2}{B} ({2}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)', '5/5'])"
+"('Fact or Fiction', ['{3}{U}', 'Instant', 'Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.'])"
+"('Faithless Looting', ['{R}', 'Sorcery', 'Draw two cards, then discard two cards.', 'Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)'])"
+"(""Faith's Fetters"", ['{3}{W}', 'Enchantment — Aura', 'Enchant permanent', 'When Faith’s Fetters enters the battlefield, you gain 4 life.', 'Enchanted permanent can’t attack or block, and its activated abilities can’t be activated unless they’re mana abilities.'])"
+"('Fall of the Hammer', ['{1}{R}', 'Instant', 'Target creature you control deals damage equal to its power to another target creature.'])"
+"('Fathom Mage', ['{2}{G}{U}', 'Creature — Human Wizard', 'Evolve (Whenever a creature enters the battlefield under your control, if that creature has greater power or toughness than this creature, put a +1/+1 counter on this creature.)', 'Whenever a +1/+1 counter is put on Fathom Mage, you may draw a card.', '1/1'])"
+"('Feldon of the Third Path', ['{1}{R}{R}', 'Legendary Creature — Human Artificer', '{2}{R}, {T}: Create a token that’s a copy of target creature card in your graveyard, except it’s an artifact in addition to its other types. It gains haste. Sacrifice it at the beginning of the next end step.', '2/3'])"
+"('Fellwar Stone', ['{2}', 'Artifact', '{T}: Add one mana of any color that a land an opponent controls could produce.'])"
+"('Festercreep', ['{1}{B}', 'Creature — Elemental', 'Festercreep enters the battlefield with a +1/+1 counter on it.', '{1}{B}, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.', '0/0'])"
+"('Fiery Confluence', ['{2}{R}{R}', 'Sorcery', 'Choose three. You may choose the same mode more than once.', '• Fiery Confluence deals 1 damage to each creature.', '• Fiery Confluence deals 2 damage to each opponent.', '• Destroy target artifact.'])"
+"('Fire Diamond', ['{2}', 'Artifact', 'Fire Diamond enters the battlefield tapped.', '{T}: Add {R}.'])"
+"('Flamekin Village', ['Land', 'As Flamekin Village enters the battlefield, you may reveal an Elemental card from your hand. If you don’t, Flamekin Village enters the battlefield tapped.', '{T}: Add {R}.', '{R}, {T}: Target creature gains haste until end of turn.'])"
+"('Flametongue Kavu', ['{3}{R}', 'Creature — Kavu', 'When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.', '4/2'])"
+"('Fleshbag Marauder', ['{2}{B}', 'Creature — Zombie Warrior', 'When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.', '3/1'])"
+"('Forest', ['Basic Land — Forest', '({T}: Add {G}.)'])"
+"('Forgotten Ancient', ['{3}{G}', 'Creature — Elemental', 'Whenever a player casts a spell, you may put a +1/+1 counter on Forgotten Ancient.', 'At the beginning of your upkeep, you may move any number of +1/+1 counters from Forgotten Ancient onto other creatures.', '0/3'])"
+"('Forgotten Cave', ['Land', 'Forgotten Cave enters the battlefield tapped.', '{T}: Add {R}.', 'Cycling {R} ({R}, Discard this card: Draw a card.)'])"
+"('Fumiko the Lowblood', ['{2}{R}{R}', 'Legendary Creature — Human Samurai', 'Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (Whenever this creature blocks or becomes blocked, it gets +X/+X until end of turn.)', 'Creatures your opponents control attack each combat if able.', '3/2'])"
+"('Ghave, Guru of Spores', ['{2}{W}{B}{G}', 'Legendary Creature — Fungus Shaman', 'Ghave, Guru of Spores enters the battlefield with five +1/+1 counters on it.', '{1}, Remove a +1/+1 counter from a creature you control: Create a 1/1 green Saproling creature token.', '{1}, Sacrifice a creature: Put a +1/+1 counter on target creature.', '0/0'])"
+"('Ghost Quarter', ['Land', '{T}: Add {C}.', '{T}, Sacrifice Ghost Quarter: Destroy target land. Its controller may search their library for a basic land card, put it onto the battlefield, then shuffle their library.'])"
+"('Gisela, Blade of Goldnight', ['{4}{R}{W}{W}', 'Legendary Creature — Angel', 'Flying, first strike', 'If a source would deal damage to an opponent or a permanent an opponent controls, that source deals double that damage to that player or permanent instead.', 'If a source would deal damage to you or a permanent you control, prevent half that damage, rounded up.', '5/5'])"
+"('Goblin Welder', ['{R}', 'Creature — Goblin Artificer', '{T}: Choose target artifact a player controls and target artifact card in that player’s graveyard. If both targets are still legal as this ability resolves, that player simultaneously sacrifices the artifact and returns the artifact card to the battlefield.', '1/1'])"
+"('Golgari Rot Farm', ['Land', 'Golgari Rot Farm enters the battlefield tapped.', 'When Golgari Rot Farm enters the battlefield, return a land you control to its owner’s hand.', '{T}: Add {B}{G}.'])"
+"('Golgari Signet', ['{2}', 'Artifact', '{1}, {T}: Add {B}{G}.'])"
+"('Gravedigger', ['{3}{B}', 'Creature — Zombie', 'When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.', '2/2'])"
+"('Grave Pact', ['{1}{B}{B}{B}', 'Enchantment', 'Whenever a creature you control dies, each other player sacrifices a creature.'])"
+"('Great Furnace', ['Artifact Land', '{T}: Add {R}.'])"
+"('Grip of Phyresis', ['{2}{U}', 'Instant', 'Gain control of target Equipment, then create a 0/0 black Germ creature token and attach that Equipment to it.'])"
+"('Hamletback Goliath', ['{6}{R}', 'Creature — Giant Warrior', 'Whenever another creature enters the battlefield, you may put X +1/+1 counters on Hamletback Goliath, where X is that creature’s power.', '6/6'])"
+"('Hammerfist Giant', ['{4}{R}{R}', 'Creature — Giant Warrior', '{T}: Hammerfist Giant deals 4 damage to each creature without flying and each player.', '5/4'])"
+"('Hardened Scales', ['{G}', 'Enchantment', 'If one or more +1/+1 counters would be put on a creature you control, that many plus one +1/+1 counters are put on it instead.'])"
+"('Herald of the Host', ['{3}{W}{W}', 'Creature — Angel', 'Flying, vigilance', 'Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that’s a copy of this creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)', '4/4'])"
+"('Hoard-Smelter Dragon', ['{4}{R}{R}', 'Creature — Dragon', 'Flying', '{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact’s converted mana cost.', '5/5'])"
+"('Hostility', ['{3}{R}{R}{R}', 'Creature — Elemental Incarnation', 'Haste', 'If a spell you control would deal damage to an opponent, prevent that damage. Create a 3/1 red Elemental Shaman creature token with haste for each 1 damage prevented this way.', 'When Hostility is put into a graveyard from anywhere, shuffle it into its owner’s library.', '6/6'])"
+"('Hunted Dragon', ['{3}{R}{R}', 'Creature — Dragon', 'Flying, haste', 'When Hunted Dragon enters the battlefield, target opponent creates three 2/2 white Knight creature tokens with first strike.', '6/6'])"
+"('Ichor Wellspring', ['{2}', 'Artifact', 'When Ichor Wellspring enters the battlefield or is put into a graveyard from the battlefield, draw a card.'])"
+"('Ikra Shidiqi, the Usurper', ['{3}{B}{G}', 'Legendary Creature — Naga Wizard', 'Menace', 'Whenever a creature you control deals combat damage to a player, you gain life equal to that creature’s toughness.', 'Partner (You can have two commanders if both have partner.)', '3/7'])"
+"('Impact Resonance', ['{1}{R}', 'Instant', 'Impact Resonance deals X damage divided as you choose among any number of target creatures, where X is the greatest amount of damage dealt by a source to a permanent or player this turn.'])"
+"('Incite Rebellion', ['{4}{R}{R}', 'Sorcery', 'For each player, Incite Rebellion deals damage to that player and each creature that player controls equal to the number of creatures they control.'])"
+"('Inferno Titan', ['{4}{R}{R}', 'Creature — Giant', '{R}: Inferno Titan gets +1/+0 until end of turn.', 'Whenever Inferno Titan enters the battlefield or attacks, it deals 3 damage divided as you choose among one, two, or three targets.', '6/6'])"
+"('Ingot Chewer', ['{4}{R}', 'Creature — Elemental', 'When Ingot Chewer enters the battlefield, destroy target artifact.', 'Evoke {R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '3/3'])"
+"('Inspiring Call', ['{2}{G}', 'Instant', 'Draw a card for each creature you control with a +1/+1 counter on it. Those creatures gain indestructible until end of turn.'])"
+"('Ishai, Ojutai Dragonspeaker', ['{2}{W}{U}', 'Legendary Creature — Bird Monk', 'Flying', 'Whenever an opponent casts a spell, put a +1/+1 counter on Ishai, Ojutai Dragonspeaker.', 'Partner (You can have two commanders if both have partner.)', '1/1'])"
+"('Island', ['Basic Land — Island', '({T}: Add {U}.)'])"
+"('Jalum Tome', ['{3}', 'Artifact', '{2}, {T}: Draw a card, then discard a card.'])"
+"('Jareth, Leonine Titan', ['{3}{W}{W}{W}', 'Legendary Creature — Cat Giant', 'Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.', '{W}: Jareth gains protection from the color of your choice until end of turn.', '4/7'])"
+"('Juniper Order Ranger', ['{3}{G}{W}', 'Creature — Human Knight', 'Whenever another creature enters the battlefield under your control, put a +1/+1 counter on that creature and a +1/+1 counter on Juniper Order Ranger.', '2/4'])"
+"('Junk Diver', ['{3}', 'Artifact Creature — Bird', 'Flying', 'When Junk Diver dies, return another target artifact card from your graveyard to your hand.', '1/1'])"
+"('Jwar Isle Refuge', ['Land', 'Jwar Isle Refuge enters the battlefield tapped.', 'When Jwar Isle Refuge enters the battlefield, you gain 1 life.', '{T}: Add {U} or {B}.'])"
+"('Kalemne, Disciple of Iroas', ['{2}{R}{W}', 'Legendary Creature — Giant Soldier', 'Double strike, vigilance', 'Whenever you cast a creature spell with converted mana cost 5 or greater, you get an experience counter.', 'Kalemne, Disciple of Iroas gets +1/+1 for each experience counter you have.', '3/3'])"
+"(""Kalemne's Captain"", ['{3}{W}{W}', 'Creature — Giant Soldier', 'Vigilance', '{5}{W}{W}: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)', 'When Kalemne’s Captain becomes monstrous, exile all artifacts and enchantments.', '5/5'])"
+"('Kalonian Hydra', ['{3}{G}{G}', 'Creature — Hydra', 'Trample', 'Kalonian Hydra enters the battlefield with four +1/+1 counters on it.', 'Whenever Kalonian Hydra attacks, double the number of +1/+1 counters on each creature you control.', '0/0'])"
+"('Languish', ['{2}{B}{B}', 'Sorcery', 'All creatures get -4/-4 until end of turn.'])"
+"('Lhurgoyf', ['{2}{G}{G}', 'Creature — Lhurgoyf', 'Lhurgoyf’s power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.', '*/1+*'])"
+"('Lightning Greaves', ['{2}', 'Artifact — Equipment', 'Equipped creature has haste and shroud. (It can’t be the target of spells or abilities.)', 'Equip {0}'])"
+"('Liquimetal Coating', ['{2}', 'Artifact', '{T}: Target permanent becomes an artifact in addition to its other types until end of turn.'])"
+"('Living Death', ['{3}{B}{B}', 'Sorcery', 'Each player exiles all creature cards from their graveyard, then sacrifices all creatures they control, then puts all cards they exiled this way onto the battlefield.'])"
+"('Lonely Sandbar', ['Land', 'Lonely Sandbar enters the battlefield tapped.', '{T}: Add {U}.', 'Cycling {U} ({U}, Discard this card: Draw a card.)'])"
+"(""Loreseeker's Stone"", ['{6}', 'Artifact', '{3}, {T}: Draw three cards. This ability costs {1} more to activate for each card in your hand.'])"
+"('Loxodon Warhammer', ['{3}', 'Artifact — Equipment', 'Equipped creature gets +3/+0 and has trample and lifelink.', 'Equip {3}'])"
+"('Magma Giant', ['{5}{R}{R}', 'Creature — Giant', 'When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.', '5/5'])"
+"('Magmaquake', ['{X}{R}{R}', 'Instant', 'Magmaquake deals X damage to each creature without flying and each planeswalker.'])"
+"('Magus of the Wheel', ['{2}{R}', 'Creature — Human Wizard', '{1}{R}, {T}, Sacrifice Magus of the Wheel: Each player discards their hand, then draws seven cards.', '3/3'])"
+"('Manifold Insights', ['{2}{U}', 'Sorcery', 'Reveal the top ten cards of your library. Starting with the next opponent in turn order, each opponent chooses a different nonland card from among them. Put the chosen cards into your hand and the rest on the bottom of your library in a random order.'])"
+"('Master Biomancer', ['{2}{G}{U}', 'Creature — Elf Wizard', 'Each other creature you control enters the battlefield with a number of additional +1/+1 counters on it equal to Master Biomancer’s power and as a Mutant in addition to its other types.', '2/4'])"
+"('Memory Erosion', ['{1}{U}{U}', 'Enchantment', 'Whenever an opponent casts a spell, that player mills two cards.'])"
+"('Merciless Eviction', ['{4}{W}{B}', 'Sorcery', 'Choose one —', '• Exile all artifacts.', '• Exile all creatures.', '• Exile all enchantments.', '• Exile all planeswalkers.'])"
+"('Meteor Blast', ['{X}{R}{R}{R}', 'Sorcery', 'Meteor Blast deals 4 damage to each of X targets.'])"
+"('Migratory Route', ['{3}{W}{U}', 'Sorcery', 'Create four 1/1 white Bird creature tokens with flying.', 'Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)'])"
+"('Minds Aglow', ['{U}', 'Sorcery', 'Join forces — Starting with you, each player may pay any amount of mana. Each player draws X cards, where X is the total amount of mana paid this way.'])"
+"('Mind Stone', ['{2}', 'Artifact', '{T}: Add {C}.', '{1}, {T}, Sacrifice Mind Stone: Draw a card.'])"
+"('Mirrorweave', ['{2}{W/U}{W/U}', 'Instant', 'Each other creature becomes a copy of target nonlegendary creature until end of turn.'])"
+"('Mortify', ['{1}{W}{B}', 'Instant', 'Destroy target creature or enchantment.'])"
+"('Mortivore', ['{2}{B}{B}', 'Creature — Lhurgoyf', 'Mortivore’s power and toughness are each equal to the number of creature cards in all graveyards.', '{B}: Regenerate Mortivore.', '*/*'])"
+"('Mountain', ['Basic Land — Mountain', '({T}: Add {R}.)'])"
+"('Mulldrifter', ['{4}{U}', 'Creature — Elemental', 'Flying', 'When Mulldrifter enters the battlefield, draw two cards.', 'Evoke {2}{U} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '2/2'])"
+"('Murmuring Bosk', ['Land — Forest', '({T}: Add {G}.)', 'As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don’t, Murmuring Bosk enters the battlefield tapped.', '{T}: Add {W} or {B}. Murmuring Bosk deals 1 damage to you.'])"
+"('Mycosynth Wellspring', ['{2}', 'Artifact', 'When Mycosynth Wellspring enters the battlefield or is put into a graveyard from the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.'])"
+"('Myr Battlesphere', ['{7}', 'Artifact Creature — Myr Construct', 'When Myr Battlesphere enters the battlefield, create four 1/1 colorless Myr artifact creature tokens.', 'Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to the player or planeswalker it’s attacking.', '4/7'])"
+"('Myr Retriever', ['{2}', 'Artifact Creature — Myr', 'When Myr Retriever dies, return another target artifact card from your graveyard to your hand.', '1/1'])"
+"('Myr Sire', ['{2}', 'Artifact Creature — Myr', 'When Myr Sire dies, create a 1/1 colorless Myr artifact creature token.', '1/1'])"
+"('Necroplasm', ['{1}{B}{B}', 'Creature — Ooze', 'At the beginning of your upkeep, put a +1/+1 counter on Necroplasm.', 'At the beginning of your end step, destroy each creature with converted mana cost equal to the number of +1/+1 counters on Necroplasm.', 'Dredge 2 (If you would draw a card, you may mill two cards instead. If you do, return this card from your graveyard to your hand.)', '1/1'])"
+"('Nezumi Graverobber', ['{1}{B}', 'Creature — Rat Rogue', '{1}{B}: Exile target card from an opponent’s graveyard. If no cards are in that graveyard, flip Nezumi Graverobber.', '2/1', 'Nighteyes the Desecrator', 'Legendary Creature — Rat Wizard', '{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.', '4/2'])"
+"('Oblivion Stone', ['{3}', 'Artifact', '{4}, {T}: Put a fate counter on target permanent.', '{5}, {T}, Sacrifice Oblivion Stone: Destroy each nonland permanent without a fate counter on it, then remove all fate counters from all permanents.'])"
+"('Opal Palace', ['Land', '{T}: Add {C}.', '{1}, {T}: Add one mana of any color in your commander’s color identity. If you spend this mana to cast your commander, it enters the battlefield with a number of additional +1/+1 counters on it equal to the number of times it’s been cast from the command zone this game.'])"
+"('Opulent Palace', ['Land', 'Opulent Palace enters the battlefield tapped.', '{T}: Add {B}, {G}, or {U}.'])"
+"('Oreskos Explorer', ['{1}{W}', 'Creature — Cat Scout', 'When Oreskos Explorer enters the battlefield, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle your library.', '2/2'])"
+"(""Orim's Thunder"", ['{2}{W}', 'Instant', 'Kicker {R} (You may pay an additional {R} as you cast this spell.)', 'Destroy target artifact or enchantment. If this spell was kicked, it deals damage equal to that permanent’s converted mana cost to target creature.'])"
+"('Orzhov Advokist', ['{2}{W}', 'Creature — Human Advisor', 'At the beginning of your upkeep, each player may put two +1/+1 counters on a creature they control. If a player does, creatures that player controls can’t attack you or a planeswalker you control until your next turn.', '1/4'])"
+"('Orzhov Signet', ['{2}', 'Artifact', '{1}, {T}: Add {W}{B}.'])"
+"('Palladium Myr', ['{3}', 'Artifact Creature — Myr', '{T}: Add {C}{C}.', '2/2'])"
+"('Panic Spellbomb', ['{1}', 'Artifact', '{T}, Sacrifice Panic Spellbomb: Target creature can’t block this turn.', 'When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.'])"
+"('Patron of the Nezumi', ['{5}{B}{B}', 'Legendary Creature — Spirit', 'Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)', 'Whenever a permanent is put into an opponent’s graveyard, that player loses 1 life.', '6/6'])"
+"('Pentavus', ['{7}', 'Artifact Creature — Construct', 'Pentavus enters the battlefield with five +1/+1 counters on it.', '{1}, Remove a +1/+1 counter from Pentavus: Create a 1/1 colorless Pentavite artifact creature token with flying.', '{1}, Sacrifice a Pentavite: Put a +1/+1 counter on Pentavus.', '0/0'])"
+"(""Phyrexia's Core"", ['Land', '{T}: Add {C}.', '{1}, {T}, Sacrifice an artifact: You gain 1 life.'])"
+"(""Pilgrim's Eye"", ['{3}', 'Artifact Creature — Thopter', 'Flying', 'When Pilgrim’s Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.', '1/1'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Pristine Talisman', ['{3}', 'Artifact', '{T}: Add {C}. You gain 1 life.'])"
+"('Putrefy', ['{1}{B}{G}', 'Instant', 'Destroy target artifact or creature. It can’t be regenerated.'])"
+"('Relic Crush', ['{4}{G}', 'Instant', 'Destroy target artifact or enchantment and up to one other target artifact or enchantment.'])"
+"('Reliquary Tower', ['Land', 'You have no maximum hand size.', '{T}: Add {C}.'])"
+"('Reveillark', ['{4}{W}', 'Creature — Elemental', 'Flying', 'When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.', 'Evoke {5}{W} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '4/3'])"
+"('Reyhan, Last of the Abzan', ['{1}{B}{G}', 'Legendary Creature — Human Warrior', 'Reyhan, Last of the Abzan enters the battlefield with three +1/+1 counters on it.', 'Whenever a creature you control dies or is put into the command zone, if it had one or more +1/+1 counters on it, you may put that many +1/+1 counters on target creature.', 'Partner (You can have two commanders if both have partner.)', '0/0'])"
+"('Riddlekeeper', ['{2}{U}', 'Creature — Homunculus', 'Whenever a creature attacks you or a planeswalker you control, that creature’s controller mills two cards.', '1/4'])"
+"('Rise from the Grave', ['{4}{B}', 'Sorcery', 'Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.'])"
+"('Rite of the Raging Storm', ['{3}{R}{R}', 'Enchantment', 'Creatures named Lightning Rager can’t attack you or planeswalkers you control.', 'At the beginning of each player’s upkeep, that player creates a 5/1 red Elemental creature token named Lightning Rager. It has trample, haste, and “At the beginning of the end step, sacrifice this creature.”'])"
+"('Ruby Medallion', ['{2}', 'Artifact', 'Red spells you cast cost {1} less to cast.'])"
+"('Rupture Spire', ['Land', 'Rupture Spire enters the battlefield tapped.', 'When Rupture Spire enters the battlefield, sacrifice it unless you pay {1}.', '{T}: Add one mana of any color.'])"
+"('Sandsteppe Citadel', ['Land', 'Sandsteppe Citadel enters the battlefield tapped.', '{T}: Add {W}, {B}, or {G}.'])"
+"('Sandstone Oracle', ['{7}', 'Artifact Creature — Sphinx', 'Flying', 'When Sandstone Oracle enters the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.', '4/4'])"
+"('Scavenging Ooze', ['{1}{G}', 'Creature — Ooze', '{G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Scavenging Ooze and you gain 1 life.', '2/2'])"
+"('Scrap Mastery', ['{3}{R}{R}', 'Sorcery', 'Each player exiles all artifact cards from their graveyard, then sacrifices all artifacts they control, then puts all cards they exiled this way onto the battlefield.'])"
+"('Scythe Specter', ['{4}{B}{B}', 'Creature — Specter', 'Flying', 'Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest converted mana cost among cards discarded this way loses life equal to that converted mana cost.', '4/4'])"
+"('Seaside Citadel', ['Land', 'Seaside Citadel enters the battlefield tapped.', '{T}: Add {G}, {W}, or {U}.'])"
+"('Secluded Steppe', ['Land', 'Secluded Steppe enters the battlefield tapped.', '{T}: Add {W}.', 'Cycling {W} ({W}, Discard this card: Draw a card.)'])"
+"(""Seer's Sundial"", ['{4}', 'Artifact', 'Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.'])"
+"('Sewer Nemesis', ['{3}{B}', 'Creature — Horror', 'As Sewer Nemesis enters the battlefield, choose a player.', 'Sewer Nemesis’s power and toughness are each equal to the number of cards in the chosen player’s graveyard.', 'Whenever the chosen player casts a spell, that player mills a card.', '*/*'])"
+"('Shared Trauma', ['{B}', 'Sorcery', 'Join forces — Starting with you, each player may pay any amount of mana. Each player mills X cards, where X is the total amount of mana paid this way.'])"
+"('Sign in Blood', ['{B}{B}', 'Sorcery', 'Target player draws two cards and loses 2 life.'])"
+"('Simic Growth Chamber', ['Land', 'Simic Growth Chamber enters the battlefield tapped.', 'When Simic Growth Chamber enters the battlefield, return a land you control to its owner’s hand.', '{T}: Add {G}{U}.'])"
+"('Simic Signet', ['{2}', 'Artifact', '{1}, {T}: Add {G}{U}.'])"
+"('Skullbriar, the Walking Grave', ['{B}{G}', 'Legendary Creature — Zombie Elemental', 'Haste', 'Whenever Skullbriar, the Walking Grave deals combat damage to a player, put a +1/+1 counter on it.', 'Counters remain on Skullbriar as it moves to any zone other than a player’s hand or library.', '1/1'])"
+"('Slipstream Eel', ['{5}{U}{U}', 'Creature — Fish Beast', 'Slipstream Eel can’t attack unless defending player controls an Island.', 'Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)', '6/6'])"
+"('Smoldering Crater', ['Land', 'Smoldering Crater enters the battlefield tapped.', '{T}: Add {R}.', 'Cycling {2} ({2}, Discard this card: Draw a card.)'])"
+"('Solemn Simulacrum', ['{4}', 'Artifact Creature — Golem', 'When Solemn Simulacrum enters the battlefield, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle your library.', 'When Solemn Simulacrum dies, you may draw a card.', '2/2'])"
+"('Solidarity of Heroes', ['{1}{G}', 'Instant', 'Strive — This spell costs {1}{G} more to cast for each target beyond the first.', 'Choose any number of target creatures. Double the number of +1/+1 counters on each of them.'])"
+"('Sol Ring', ['{1}', 'Artifact', '{T}: Add {C}{C}.'])"
+"('Spell Crumple', ['{1}{U}{U}', 'Instant', 'Counter target spell. If that spell is countered this way, put it on the bottom of its owner’s library instead of into that player’s graveyard. Put Spell Crumple on the bottom of its owner’s library.'])"
+"('Spine of Ish Sah', ['{7}', 'Artifact', 'When Spine of Ish Sah enters the battlefield, destroy target permanent.', 'When Spine of Ish Sah is put into a graveyard from the battlefield, return Spine of Ish Sah to its owner’s hand.'])"
+"('Spitebellows', ['{5}{R}', 'Creature — Elemental', 'When Spitebellows leaves the battlefield, it deals 6 damage to target creature.', 'Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it’s sacrificed when it enters the battlefield.)', '6/1'])"
+"('Spitting Image', ['{4}{G/U}{G/U}', 'Sorcery', 'Create a token that’s a copy of target creature.', 'Retrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)'])"
+"('Staff of Nin', ['{6}', 'Artifact', 'At the beginning of your upkeep, draw a card.', '{T}: Staff of Nin deals 1 damage to any target.'])"
+"('Starstorm', ['{X}{R}{R}', 'Instant', 'Starstorm deals X damage to each creature.', 'Cycling {3} ({3}, Discard this card: Draw a card.)'])"
+"('Steel Hellkite', ['{6}', 'Artifact Creature — Dragon', 'Flying', '{2}: Steel Hellkite gets +1/+0 until end of turn.', '{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.', '5/5'])"
+"('Stinkdrinker Daredevil', ['{2}{R}', 'Creature — Goblin Rogue', 'Giant spells you cast cost {2} less to cast.', '1/3'])"
+"('Stitch Together', ['{B}{B}', 'Sorcery', 'Return target creature card from your graveyard to your hand.', 'Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.'])"
+"('Stoneshock Giant', ['{3}{R}{R}', 'Creature — Giant', '{6}{R}{R}: Monstrosity 3. (If this creature isn’t monstrous, put three +1/+1 counters on it and it becomes monstrous.)', 'When Stoneshock Giant becomes monstrous, creatures without flying your opponents control can’t block this turn.', '5/4'])"
+"('Sublime Exhalation', ['{6}{W}', 'Sorcery', 'Undaunted (This spell costs {1} less to cast for each opponent.)', 'Destroy all creatures.'])"
+"('Sungrass Prairie', ['Land', '{1}, {T}: Add {G}{W}.'])"
+"('Sunrise Sovereign', ['{5}{R}', 'Creature — Giant Warrior', 'Other Giant creatures you control get +2/+2 and have trample.', '5/5'])"
+"('Sun Titan', ['{4}{W}{W}', 'Creature — Giant', 'Vigilance', 'Whenever Sun Titan enters the battlefield or attacks, you may return target permanent card with converted mana cost 3 or less from your graveyard to the battlefield.', '6/6'])"
+"('Svogthos, the Restless Tomb', ['Land', '{T}: Add {C}.', '{3}{B}{G}: Until end of turn, Svogthos, the Restless Tomb becomes a black and green Plant Zombie creature with “This creature’s power and toughness are each equal to the number of creature cards in your graveyard.” It’s still a land.'])"
+"('Swamp', ['Basic Land — Swamp', '({T}: Add {B}.)'])"
+"('Swiftfoot Boots', ['{2}', 'Artifact — Equipment', 'Equipped creature has hexproof and haste.', 'Equip {1}'])"
+"('Sylvan Reclamation', ['{3}{G}{W}', 'Instant', 'Exile up to two target artifacts and/or enchantments.', 'Basic landcycling {2} ({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.)'])"
+"('Syphon Flesh', ['{4}{B}', 'Sorcery', 'Each other player sacrifices a creature. You create a 2/2 black Zombie creature token for each creature sacrificed this way.'])"
+"('Syphon Mind', ['{3}{B}', 'Sorcery', 'Each other player discards a card. You draw a card for each card discarded this way.'])"
+"('Szadek, Lord of Secrets', ['{3}{U}{U}{B}{B}', 'Legendary Creature — Vampire', 'Flying', 'If Szadek, Lord of Secrets would deal combat damage to a player, instead put that many +1/+1 counters on Szadek and that player mills that many cards.', '5/5'])"
+"('Taurean Mauler', ['{2}{R}', 'Creature — Shapeshifter', 'Changeling (This card is every creature type.)', 'Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.', '2/2'])"
+"('Temple of the False God', ['Land', '{T}: Add {C}{C}. Activate this ability only if you control five or more lands.'])"
+"('Terramorphic Expanse', ['Land', '{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library.'])"
+"(""Tezzeret's Gambit"", ['{3}{U/P}', 'Sorcery', '({U/P} can be paid with either {U} or 2 life.)', 'Draw two cards, then proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)'])"
+"('The Mimeoplasm', ['{2}{B}{G}{U}', 'Legendary Creature — Ooze', 'As The Mimeoplasm enters the battlefield, you may exile two creature cards from graveyards. If you do, it enters the battlefield as a copy of one of those cards with a number of additional +1/+1 counters on it equal to the power of the other card.', '0/0'])"
+"('Thought Vessel', ['{2}', 'Artifact', 'You have no maximum hand size.', '{T}: Add {C}.'])"
+"('Thrummingbird', ['{1}{U}', 'Creature — Bird Horror', 'Flying', 'Whenever Thrummingbird deals combat damage to a player, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)', '1/1'])"
+"('Thundercloud Shaman', ['{3}{R}{R}', 'Creature — Giant Shaman', 'When Thundercloud Shaman enters the battlefield, it deals damage equal to the number of Giants you control to each non-Giant creature.', '4/4'])"
+"('Trading Post', ['{4}', 'Artifact', '{1}, {T}, Discard a card: You gain 4 life.', '{1}, {T}, Pay 1 life: Create a 0/1 white Goat creature token.', '{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.', '{1}, {T}, Sacrifice an artifact: Draw a card.'])"
+"('Tranquil Thicket', ['Land', 'Tranquil Thicket enters the battlefield tapped.', '{T}: Add {G}.', 'Cycling {G} ({G}, Discard this card: Draw a card.)'])"
+"('Treasure Cruise', ['{7}{U}', 'Sorcery', 'Delve (Each card you exile from your graveyard while casting this spell pays for {1}.)', 'Draw three cards.'])"
+"('Tribute to the Wild', ['{1}{G}', 'Instant', 'Each opponent sacrifices an artifact or enchantment.'])"
+"('Triskelavus', ['{7}', 'Artifact Creature — Construct', 'Flying', 'Triskelavus enters the battlefield with three +1/+1 counters on it.', '{1}, Remove a +1/+1 counter from Triskelavus: Create a 1/1 colorless Triskelavite artifact creature token with flying. It has “Sacrifice this creature: This creature deals 1 damage to any target.”', '1/1'])"
+"('Troll Ascetic', ['{1}{G}{G}', 'Creature — Troll Shaman', 'Hexproof (This creature can’t be the target of spells or abilities your opponents control.)', '{1}{G}: Regenerate Troll Ascetic.', '3/2'])"
+"('Tuktuk the Explorer', ['{2}{R}', 'Legendary Creature — Goblin', 'Haste', 'When Tuktuk the Explorer dies, create Tuktuk the Returned, a legendary 5/5 colorless Goblin Golem artifact creature token.', '1/1'])"
+"('Tuskguard Captain', ['{2}{G}', 'Creature — Human Warrior', 'Outlast {G} ({G}, {T}: Put a +1/+1 counter on this creature. Outlast only as a sorcery.)', 'Each creature you control with a +1/+1 counter on it has trample.', '2/3'])"
+"(""Tyrant's Familiar"", ['{5}{R}{R}', 'Creature — Dragon', 'Flying, haste', 'Lieutenant — As long as you control your commander, Tyrant’s Familiar gets +2/+2 and has “Whenever Tyrant’s Familiar attacks, it deals 7 damage to target creature defending player controls.”', '5/5'])"
+"('Underground River', ['Land', '{T}: Add {C}.', '{T}: Add {U} or {B}. Underground River deals 1 damage to you.'])"
+"('Unnerve', ['{3}{B}', 'Sorcery', 'Each opponent discards two cards.'])"
+"('Unstable Obelisk', ['{3}', 'Artifact', '{T}: Add {C}.', '{7}, {T}, Sacrifice Unstable Obelisk: Destroy target permanent.'])"
+"(""Urza's Incubator"", ['{3}', 'Artifact', 'As Urza’s Incubator enters the battlefield, choose a creature type.', 'Creature spells of the chosen type cost {2} less to cast.'])"
+"(""Victory's Herald"", ['{3}{W}{W}{W}', 'Creature — Angel', 'Flying', 'Whenever Victory’s Herald attacks, attacking creatures gain flying and lifelink until end of turn.', '4/4'])"
+"('Vivid Crag', ['Land', 'Vivid Crag enters the battlefield tapped with two charge counters on it.', '{T}: Add {R}.', '{T}, Remove a charge counter from Vivid Crag: Add one mana of any color.'])"
+"('Vivid Meadow', ['Land', 'Vivid Meadow enters the battlefield tapped with two charge counters on it.', '{T}: Add {W}.', '{T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.'])"
+"('Volcanic Offering', ['{4}{R}', 'Instant', 'Destroy target nonbasic land you don’t control and target nonbasic land of an opponent’s choice you don’t control.', 'Volcanic Offering deals 7 damage to target creature you don’t control and 7 damage to target creature of an opponent’s choice you don’t control.'])"
+"('Vorel of the Hull Clade', ['{1}{G}{U}', 'Legendary Creature — Human Merfolk', '{G}{U}, {T}: Double the number of each kind of counter on target artifact, creature, or land.', '1/4'])"
+"('Vorosh, the Hunter', ['{3}{B}{G}{U}', 'Legendary Creature — Dragon', 'Flying', 'Whenever Vorosh, the Hunter deals combat damage to a player, you may pay {2}{G}. If you do, put six +1/+1 counters on Vorosh.', '6/6'])"
+"('Vow of Flight', ['{2}{U}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+2, has flying, and can’t attack you or a planeswalker you control.'])"
+"('Vow of Malice', ['{2}{B}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +2/+2, has intimidate, and can’t attack you or a planeswalker you control. (A creature with intimidate can’t be blocked except by artifact creatures and/or creatures that share a color with it.)'])"
+"('Vow of Wildness', ['{2}{G}', 'Enchantment — Aura', 'Enchant creature', 'Enchanted creature gets +3/+3, has trample, and can’t attack you or a planeswalker you control.'])"
+"('Vulturous Zombie', ['{3}{B}{G}', 'Creature — Plant Zombie', 'Flying', 'Whenever a card is put into an opponent’s graveyard from anywhere, put a +1/+1 counter on Vulturous Zombie.', '3/3'])"
+"('Warchief Giant', ['{3}{R}{R}', 'Creature — Giant Warrior', 'Haste', 'Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that’s a copy of this creature that’s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)', '5/3'])"
+"('Warmonger Hellkite', ['{4}{R}{R}', 'Creature — Dragon', 'Flying', 'All creatures attack each combat if able.', '{1}{R}: Attacking creatures get +1/+0 until end of turn.', '5/5'])"
+"('Warstorm Surge', ['{5}{R}', 'Enchantment', 'Whenever a creature enters the battlefield under your control, it deals damage equal to its power to any target.'])"
+"(""Wayfarer's Bauble"", ['{1}', 'Artifact', '{2}, {T}, Sacrifice Wayfarer’s Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.'])"
+"('Whipflare', ['{1}{R}', 'Sorcery', 'Whipflare deals 2 damage to each nonartifact creature.'])"
+"('Windfall', ['{2}{U}', 'Sorcery', 'Each player discards their hand, then draws cards equal to the greatest number of cards a player discarded this way.'])"
+"('Wind-Scarred Crag', ['Land', 'Wind-Scarred Crag enters the battlefield tapped.', 'When Wind-Scarred Crag enters the battlefield, you gain 1 life.', '{T}: Add {R} or {W}.'])"
+"('Wonder', ['{3}{U}', 'Creature — Incarnation', 'Flying', 'As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.', '2/2'])"
+"('Word of Seizing', ['{3}{R}{R}', 'Instant', 'Split second (As long as this spell is on the stack, players can’t cast spells or activate abilities that aren’t mana abilities.)', 'Untap target permanent and gain control of it until end of turn. It gains haste until end of turn.'])"
+"('Worn Powerstone', ['{3}', 'Artifact', 'Worn Powerstone enters the battlefield tapped.', '{T}: Add {C}{C}.'])"
+"('Wrexial, the Risen Deep', ['{3}{U}{U}{B}', 'Legendary Creature — Kraken', 'Islandwalk, swampwalk (This creature can’t be blocked as long as defending player controls an Island or a Swamp.)', 'Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player’s graveyard without paying its mana cost. If that spell would be put into a graveyard this turn, exile it instead.', '5/8'])"
+"('Wurmcoil Engine', ['{6}', 'Artifact Creature — Wurm', 'Deathtouch, lifelink', 'When Wurmcoil Engine dies, create a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink.', '6/6'])"
+"('Yavimaya Elder', ['{1}{G}{G}', 'Creature — Human Druid', 'When Yavimaya Elder dies, you may search your library for up to two basic land cards, reveal them, put them into your hand, then shuffle your library.', '{2}, Sacrifice Yavimaya Elder: Draw a card.', '2/1'])"

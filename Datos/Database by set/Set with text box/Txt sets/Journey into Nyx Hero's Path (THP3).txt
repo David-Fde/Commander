@@ -1,41 +1,9 @@
-Axe of the Warmonger
-Hero Artifact — Equipment
-Equipped creature gets +2/+1 and has haste.
-Equip {2}
-Bow of the Hunter
-Hero Artifact — Equipment
-Equipped creature has “{T}: This creature deals 2 damage to any target.”
-Equip {2}
-Cloak of the Philosopher
-Hero Artifact — Equipment
-Equipped creature gets +1/+1.
-{2}: Untap equipped creature.
-Equip {2}
-Enhancement Stickers
-Card
-Equipped creature has vigilance and can block an additional creature each combat.
-"Whenever equipped creature deals damage, put a +1/+1 counter on it."
-"Whenever equipped creature deals damage, scry 1."
-Equipped creature has protection from enchantments.
-Equipped creature has double strike.
-"Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield."
-"Whenever equipped creature deals damage, untap two target lands."
-Hall of Triumph
-{3}
-Legendary Artifact
-"As Hall of Triumph enters the battlefield, choose a color."
-Creatures you control of the chosen color get +1/+1.
-Lash of the Tyrant
-Hero Artifact — Equipment
-Equipped creature gets +1/+2 and has deathtouch.
-Equip {2}
-Spear of the General
-Hero Artifact — Equipment
-Equipped creature gets +2/+0 and has first strike.
-Equip {2}
-The Champion
-Hero
-"{2}, {T}, Exile The Champion: Search your library for a legendary artifact card that isn’t a creature, reveal it, and put it onto the battlefield. Then shuffle your library."
-The Destined
-Hero
-Spells you control that target a creature you control cost {2} less to cast.
+"('Axe of the Warmonger', ['Hero Artifact — Equipment', 'Equipped creature gets +2/+1 and has haste.', 'Equip {2}'])"
+"('Bow of the Hunter', ['Hero Artifact — Equipment', 'Equipped creature has “{T}: This creature deals 2 damage to any target.”', 'Equip {2}'])"
+"('Cloak of the Philosopher', ['Hero Artifact — Equipment', 'Equipped creature gets +1/+1.', '{2}: Untap equipped creature.', 'Equip {2}'])"
+"('Enhancement Stickers', ['Card', 'Equipped creature has vigilance and can block an additional creature each combat.', 'Whenever equipped creature deals damage, put a +1/+1 counter on it.', 'Whenever equipped creature deals damage, scry 1.', 'Equipped creature has protection from enchantments.', 'Equipped creature has double strike.', 'Whenever equipped creature deals damage, put a 1/1 white Soldier creature token onto the battlefield.', 'Whenever equipped creature deals damage, untap two target lands.'])"
+"('Hall of Triumph', ['{3}', 'Legendary Artifact', 'As Hall of Triumph enters the battlefield, choose a color.', 'Creatures you control of the chosen color get +1/+1.'])"
+"('Lash of the Tyrant', ['Hero Artifact — Equipment', 'Equipped creature gets +1/+2 and has deathtouch.', 'Equip {2}'])"
+"('Spear of the General', ['Hero Artifact — Equipment', 'Equipped creature gets +2/+0 and has first strike.', 'Equip {2}'])"
+"('The Champion', ['Hero', '{2}, {T}, Exile The Champion: Search your library for a legendary artifact card that isn’t a creature, reveal it, and put it onto the battlefield. Then shuffle your library.'])"
+"('The Destined', ['Hero', 'Spells you control that target a creature you control cost {2} less to cast.'])"

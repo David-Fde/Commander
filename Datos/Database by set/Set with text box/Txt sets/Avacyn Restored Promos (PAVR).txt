@@ -1,28 +1,5 @@
-Killing Wave
-{X}{B}
-Sorcery
-"For each creature, its controller sacrifices it unless they pay X life."
-Latch Seeker
-{1}{U}{U}
-Creature — Spirit
-Latch Seeker can’t be blocked.
-3/1
-Moonsilver Spear
-{4}
-Artifact — Equipment
-Equipped creature has first strike.
-"Whenever equipped creature attacks, create a 4/4 white Angel creature token with flying."
-Equip {4}
-Restoration Angel
-{3}{W}
-Creature — Angel
-Flash
-Flying
-"When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control."
-3/4
-Silverblade Paladin
-{1}{W}{W}
-Creature — Human Knight
-Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)
-"As long as Silverblade Paladin is paired with another creature, both creatures have double strike."
-2/2
+"('Killing Wave', ['{X}{B}', 'Sorcery', 'For each creature, its controller sacrifices it unless they pay X life.'])"
+"('Latch Seeker', ['{1}{U}{U}', 'Creature — Spirit', 'Latch Seeker can’t be blocked.', '3/1'])"
+"('Moonsilver Spear', ['{4}', 'Artifact — Equipment', 'Equipped creature has first strike.', 'Whenever equipped creature attacks, create a 4/4 white Angel creature token with flying.', 'Equip {4}'])"
+"('Restoration Angel', ['{3}{W}', 'Creature — Angel', 'Flash', 'Flying', 'When Restoration Angel enters the battlefield, you may exile target non-Angel creature you control, then return that card to the battlefield under your control.', '3/4'])"
+"('Silverblade Paladin', ['{1}{W}{W}', 'Creature — Human Knight', 'Soulbond (You may pair this creature with another unpaired creature when either enters the battlefield. They remain paired for as long as you control both of them.)', 'As long as Silverblade Paladin is paired with another creature, both creatures have double strike.', '2/2'])"

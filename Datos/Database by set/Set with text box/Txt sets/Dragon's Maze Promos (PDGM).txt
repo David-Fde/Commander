@@ -1,34 +1,6 @@
-Breaking
-{U}{B}
-Sorcery
-Target player mills eight cards.
-Fuse (You may cast one or both halves of this card from your hand.)
-Entering
-{4}{B}{R}
-Sorcery
-Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.
-Fuse (You may cast one or both halves of this card from your hand.)
-Maze's End
-Land
-Maze’s End enters the battlefield tapped.
-{T}: Add {C}.
-"{3}, {T}, Return Maze’s End to its owner’s hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game."
-"Melek, Izzet Paragon"
-{4}{U}{R}
-Legendary Creature — Weird Wizard
-Play with the top card of your library revealed.
-You may cast instant and sorcery spells from the top of your library.
-"Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy."
-2/4
-Plains
-Basic Land — Plains
-({T}: Add {W}.)
-Render Silent
-{W}{U}{U}
-Instant
-Counter target spell. Its controller can’t cast spells this turn.
-Trostani's Summoner
-{5}{G}{W}
-Creature — Elf Shaman
-"When Trostani’s Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample."
-1/1
+"('Breaking', ['{U}{B}', 'Sorcery', 'Target player mills eight cards.', 'Fuse (You may cast one or both halves of this card from your hand.)', 'Entering', '{4}{B}{R}', 'Sorcery', 'Put a creature card from a graveyard onto the battlefield under your control. It gains haste until end of turn.', 'Fuse (You may cast one or both halves of this card from your hand.)'])"
+"(""Maze's End"", ['Land', 'Maze’s End enters the battlefield tapped.', '{T}: Add {C}.', '{3}, {T}, Return Maze’s End to its owner’s hand: Search your library for a Gate card, put it onto the battlefield, then shuffle your library. If you control ten or more Gates with different names, you win the game.'])"
+"('Melek, Izzet Paragon', ['{4}{U}{R}', 'Legendary Creature — Weird Wizard', 'Play with the top card of your library revealed.', 'You may cast instant and sorcery spells from the top of your library.', 'Whenever you cast an instant or sorcery spell from your library, copy it. You may choose new targets for the copy.', '2/4'])"
+"('Plains', ['Basic Land — Plains', '({T}: Add {W}.)'])"
+"('Render Silent', ['{W}{U}{U}', 'Instant', 'Counter target spell. Its controller can’t cast spells this turn.'])"
+"(""Trostani's Summoner"", ['{5}{G}{W}', 'Creature — Elf Shaman', 'When Trostani’s Summoner enters the battlefield, create a 2/2 white Knight creature token with vigilance, a 3/3 green Centaur creature token, and a 4/4 green Rhino creature token with trample.', '1/1'])"

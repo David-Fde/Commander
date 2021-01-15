@@ -1,22 +1,5 @@
-Arena
-Land
-"{3}, {T}: Tap target creature you control and target creature of an opponent’s choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)"
-Giant Badger
-{1}{G}{G}
-Creature — Badger
-"Whenever Giant Badger blocks, it gets +2/+2 until end of turn."
-2/2
-Mana Crypt
-{0}
-Artifact
-"At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you."
-{T}: Add {C}{C}.
-Sewers of Estark
-{2}{B}{B}
-Instant
-"Choose target creature. If it’s attacking, it can’t be blocked this turn. If it’s blocking, prevent all combat damage that would be dealt this combat by it and each creature it’s blocking."
-Windseeker Centaur
-{1}{R}{R}
-Creature — Centaur
-Vigilance
-2/2
+"('Arena', ['Land', '{3}, {T}: Tap target creature you control and target creature of an opponent’s choice they control. Those creatures fight each other. (Each deals damage equal to its power to the other.)'])"
+"('Giant Badger', ['{1}{G}{G}', 'Creature — Badger', 'Whenever Giant Badger blocks, it gets +2/+2 until end of turn.', '2/2'])"
+"('Mana Crypt', ['{0}', 'Artifact', 'At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.', '{T}: Add {C}{C}.'])"
+"('Sewers of Estark', ['{2}{B}{B}', 'Instant', 'Choose target creature. If it’s attacking, it can’t be blocked this turn. If it’s blocking, prevent all combat damage that would be dealt this combat by it and each creature it’s blocking.'])"
+"('Windseeker Centaur', ['{1}{R}{R}', 'Creature — Centaur', 'Vigilance', '2/2'])"

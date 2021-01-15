@@ -1,7 +1,2 @@
-Goblin
-Token Creature — Goblin
-1/1
-Knight
-Token Creature — Knight
-Vigilance
-2/2
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Knight', ['Token Creature — Knight', 'Vigilance', '2/2'])"

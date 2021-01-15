@@ -1,33 +1,7 @@
-Carnophage
-{B}
-Creature — Zombie
-"At the beginning of your upkeep, tap Carnophage unless you pay 1 life."
-2/2
-Fireblast
-{4}{R}{R}
-Instant
-You may sacrifice two Mountains rather than pay this spell’s mana cost.
-Fireblast deals 4 damage to any target.
-Impulse
-{1}{U}
-Instant
-Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.
-Jackal Pup
-{R}
-Creature — Jackal
-"Whenever Jackal Pup is dealt damage, it deals that much damage to you."
-2/1
-Ophidian
-{2}{U}
-Creature — Snake
-"Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn."
-1/3
-Quirion Ranger
-{G}
-Creature — Elf
-Return a Forest you control to its owner’s hand: Untap target creature. Activate this ability only once each turn.
-1/1
-Swords to Plowshares
-{W}
-Instant
-Exile target creature. Its controller gains life equal to its power.
+"('Carnophage', ['{B}', 'Creature — Zombie', 'At the beginning of your upkeep, tap Carnophage unless you pay 1 life.', '2/2'])"
+"('Fireblast', ['{4}{R}{R}', 'Instant', 'You may sacrifice two Mountains rather than pay this spell’s mana cost.', 'Fireblast deals 4 damage to any target.'])"
+"('Impulse', ['{1}{U}', 'Instant', 'Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.'])"
+"('Jackal Pup', ['{R}', 'Creature — Jackal', 'Whenever Jackal Pup is dealt damage, it deals that much damage to you.', '2/1'])"
+"('Ophidian', ['{2}{U}', 'Creature — Snake', 'Whenever Ophidian attacks and isn’t blocked, you may draw a card. If you do, Ophidian assigns no combat damage this turn.', '1/3'])"
+"('Quirion Ranger', ['{G}', 'Creature — Elf', 'Return a Forest you control to its owner’s hand: Untap target creature. Activate this ability only once each turn.', '1/1'])"
+"('Swords to Plowshares', ['{W}', 'Instant', 'Exile target creature. Its controller gains life equal to its power.'])"

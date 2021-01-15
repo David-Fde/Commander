@@ -1,59 +1,14 @@
-Angel
-Token Creature — Angel
-Flying
-4/4
-Elf Warrior
-Token Creature — Elf Warrior
-1/1
-Fish
-Token Creature — Fish
-"When this creature dies, create a 6/6 blue Whale creature token with “When this creature dies, create a 9/9 blue Kraken creature token.”"
-3/3
-Fish
-Token Creature — Fish
-"When this creature dies, create a 6/6 blue Whale creature token with “When this creature dies, create a 9/9 blue Kraken creature token.”"
-3/3
-Kraken
-Token Creature — Kraken
-9/9
-Goblin
-Token Creature — Goblin
-1/1
-Insect
-Token Creature — Insect
-1/1
-Kobolds of Kher Keep
-Token Creature — Kobold
-0/1
-Kraken
-Token Creature — Kraken
-9/9
-Morph
-Creature
-(You can cover a face-down creature with this reminder card.
-A card with morph can be turned face up any time for its morph cost.)
-2/2
-Skeleton
-Token Creature — Skeleton
-{B}: Regenerate this creature.
-1/1
-Soldier
-Token Creature — Soldier
-1/1
-Spirit
-Token Creature — Spirit
-1/1
-Spirit
-Token Creature — Spirit
-Flying
-1/1
-Stangg Twin
-Token Legendary Creature — Human Warrior
-3/4
-Whale
-Token Creature — Whale
-"When this creature dies, create a 9/9 blue Kraken creature token."
-6/6
-Wolf
-Token Creature — Wolf
-2/2
+"('Angel', ['Token Creature — Angel', 'Flying', '4/4'])"
+"('Elf Warrior', ['Token Creature — Elf Warrior', '1/1'])"
+"('Fish', ['Token Creature — Fish', 'When this creature dies, create a 6/6 blue Whale creature token with “When this creature dies, create a 9/9 blue Kraken creature token.”', '3/3', 'Kraken', 'Token Creature — Kraken', '9/9'])"
+"('Goblin', ['Token Creature — Goblin', '1/1'])"
+"('Insect', ['Token Creature — Insect', '1/1'])"
+"('Kobolds of Kher Keep', ['Token Creature — Kobold', '0/1'])"
+"('Kraken', ['Token Creature — Kraken', '9/9'])"
+"('Morph', ['Creature', '(You can cover a face-down creature with this reminder card.', 'A card with morph can be turned face up any time for its morph cost.)', '2/2'])"
+"('Skeleton', ['Token Creature — Skeleton', '{B}: Regenerate this creature.', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Spirit', ['Token Creature — Spirit', 'Flying', '1/1'])"
+"('Stangg Twin', ['Token Legendary Creature — Human Warrior', '3/4'])"
+"('Whale', ['Token Creature — Whale', 'When this creature dies, create a 9/9 blue Kraken creature token.', '6/6'])"
+"('Wolf', ['Token Creature — Wolf', '2/2'])"
