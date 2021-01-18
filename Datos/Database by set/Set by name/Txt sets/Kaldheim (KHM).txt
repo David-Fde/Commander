@@ -34,17 +34,14 @@ Beskir Shieldmate
 """Big Stabby"""
 """Big Stabby"""
 Binding the Old Gods
-"""Birgi, God of... Something"" // ""Harnfel, Horn of Abundance"""
-"""Birgi, God of... Something"" // ""Harnfel, Horn of Abundance"""
+"""Birgi, God of Tales"" // ""Harnfel, Horn of Abundance"""
+"""Birgi, God of Tales"" // ""Harnfel, Horn of Abundance"""
 Blightstep Pathway // Searstep Pathway
 Blightstep Pathway // Searstep Pathway
 Blizzard Brawl
 Bloodline Pretender
 Blood on the Snow
-<<<<<<< HEAD
-=======
 Blood on the Snow
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Bloodsky Berserker
 Boreal Outrider
 Bound in Gold
@@ -71,12 +68,8 @@ Cyclone Summoner
 Darkbore Pathway // Slitherbore Pathway
 Darkbore Pathway // Slitherbore Pathway
 Deathknell Berserker
-<<<<<<< HEAD
-"""Demonic Lightning"""
-=======
 Demon Bolt
 Demonic Gifts
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Disdainful Stroke
 Divine Gambit
 Dogged Pursuit
@@ -88,6 +81,7 @@ Draugr Necromancer
 Draugr's Helm
 Draugr Thought-Thief
 Dread Rider
+Dream Devourer
 Dual Strike
 Duskwielder
 """Dwarven Hammer"""
@@ -118,10 +112,7 @@ Fire Giant's Fury
 Firja's Retribution
 Forest
 Forging the Tyrite Sword
-<<<<<<< HEAD
-=======
 Frenzied Raider
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Frost Augur
 Frost Bite
 Frost Bite
@@ -161,20 +152,14 @@ Harald Unites the Elves
 Hengegate Pathway // Mistgate Pathway
 Hengegate Pathway // Mistgate Pathway
 Highland Forest
-<<<<<<< HEAD
-"""Horrible Encounter"""
-Ice Tunnel
-Immersturm Predator
-Immersturm Predator
-=======
 Horizon Seeker
 """Horrible Encounter"""
 Icehide Troll
 Ice Tunnel
 Immersturm Predator
 Immersturm Predator
+Immersturm Raider
 Immersturm Skullcairn
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Infernal Pet
 Inga Rune-Eyes
 Inga Rune-Eyes
@@ -232,12 +217,9 @@ Pilfering Hawk
 Plains
 Poison the Cup
 Poison the Cup
-<<<<<<< HEAD
-=======
 Port of Karfell
 """Priest of the Dam"""
 Provoke the Trolls
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Pyre of Heroes
 Pyre of Heroes
 Quakebringer
@@ -262,10 +244,6 @@ Reflections of Littjara
 "Reidane, God of the Worthy // Valkmira, Protector's Shield"
 Renegade Reaper
 Replicating Ring
-<<<<<<< HEAD
-"""Resolute Valkyrie"""
-=======
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 Return Upon the Tide
 Revitalize
 Rimewood Falls
@@ -328,10 +306,7 @@ Swamp
 "Tergrid, God of Fright // Tergrid's Lantern"
 Tergrid's Shadow
 The Bears of Littjara
-<<<<<<< HEAD
-=======
 The Bloodsky Massacre
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 The Raven's Warning
 The Trickster-God's Heist
 The World Tree
@@ -357,10 +332,7 @@ Usher of the Fallen
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 Valkyrie Harbinger
 Valkyrie's Sword
-<<<<<<< HEAD
-=======
 """Valley of Lights"""
->>>>>>> d200eea0a0559c31896697997d35111ced1f5472
 "Varragoth, Bloodsky Sire"
 "Varragoth, Bloodsky Sire"
 Vault Robber

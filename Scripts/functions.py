@@ -21,7 +21,7 @@ def PlainTextToExcel(respuesta):
         if text[0][1] == " ":
             for e in range(len(text)):
                 text[e] = text[e].rstrip()
-                if text[e][0] != "1":
+                if text[e][0] != "1" or text[e][0] != 1:
                     contador = 0
                     while contador < int(text[e][0]):
                         text.append(f"1 {text[e][2:]}")
