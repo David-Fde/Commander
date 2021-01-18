@@ -1,3 +1,0 @@
-Foretell
-Card
-"(After you foretell a card, you can place the exiled card here. You may cast it on a later turn for its foretell cost.)"
