@@ -7,10 +7,14 @@ Alpine Meadow
 Alrund's Epiphany
 Alrund's Epiphany
 Annul
+Arachnoform
 Arctic Treeline
 Armed and Armored
+Arni Brokenbrow
 Arni Slays the Troll
 Ascendant Spirit
+Ascendant Spirit
+Ascent of the Worthy
 Augury Raven
 Avalanche Caller
 Axgard Armory
@@ -19,21 +23,29 @@ Axgard Cavalry
 Barkchannel Pathway // Tidechannel Pathway
 Barkchannel Pathway // Tidechannel Pathway
 Basalt Ravager
+Battershield Warrior
+Battlefield Raptor
 Battle for Bretagard
 Battle of Frost and Fire
 Bearded Axe
 Behold the Multiverse
 Berg Strider
 Beskir Shieldmate
+"""Big Stabby"""
+"""Big Stabby"""
 Binding the Old Gods
+"""Birgi, God of... Something"" // ""Harnfel, Horn of Abundance"""
+"""Birgi, God of... Something"" // ""Harnfel, Horn of Abundance"""
 Blightstep Pathway // Searstep Pathway
 Blightstep Pathway // Searstep Pathway
 Blizzard Brawl
 Bloodline Pretender
+Blood on the Snow
+Blood on the Snow
 Bloodsky Berserker
 Boreal Outrider
 Bound in Gold
-"""Breakneck Berserker"""
+Breakneck Berserker
 Bretagard Stronghold
 Broken Wings
 Burning-Rune Demon
@@ -44,27 +56,34 @@ Cinderheart Giant
 Clarion Spirit
 Cleaving Reaper
 Codespell Cleric
+Colossal Plow
 "Cosima, God of the Voyage // The Omenkeel"
 "Cosima, God of the Voyage // The Omenkeel"
 Cosmos Charger
 Cosmos Charger
+Cosmos Elixir
 Crush the Weak
 Cyclone Summoner
 Cyclone Summoner
 Darkbore Pathway // Slitherbore Pathway
 Darkbore Pathway // Slitherbore Pathway
 Deathknell Berserker
-"""Demonic Lightning"""
+Demon Bolt
+Demonic Gifts
+Disdainful Stroke
 Divine Gambit
 Dogged Pursuit
 Doomskar Oracle
+Doomskar Titan
 """Dragon Dad uwu…"""
 Draugr Necromancer
 Draugr Necromancer
 Draugr's Helm
+Draugr Thought-Thief
 Dread Rider
 Dual Strike
 Duskwielder
+"""Dwarven Hammer"""
 Dwarven Reinforcements
 "Egon, God of Death // Throne of Death"
 "Egon, God of Death // Throne of Death"
@@ -84,6 +103,7 @@ Faceless Haven
 Faceless Haven
 Fall of the Impostor
 Fearless Liberator
+Fearless Pup
 Feed the Serpent
 Fire Giant's Fury
 "Firja, Judge of Valor"
@@ -91,11 +111,15 @@ Fire Giant's Fury
 Firja's Retribution
 Forest
 Forging the Tyrite Sword
+Frenzied Raider
+Frost Augur
 Frost Bite
 Frost Bite
 Frostpeak Yeti
 Frostpyre Arcanist
+"""Frozen Blessing"""
 Funeral Longboat
+"Fynn, the Fangbearer"
 Gates of Istfell
 Giant Ox
 Giant's Amulet
@@ -105,6 +129,8 @@ Glacial Floodplain
 Gladewalker Ritualist
 Glimpse the Cosmos
 Glittering Frost
+"""Glorious Protector"""
+"""Glorious Protector"""
 Gnottvold Recluse
 Gnottvold Slumbermound
 Gods' Hall Guardian
@@ -112,6 +138,7 @@ Goldmaw Champion
 Goldspan Dragon
 Goldspan Dragon
 Goldvein Pick
+Graven Lore
 Grim Draugr
 Guardian Gladewalker
 Hagi Mob
@@ -124,13 +151,21 @@ Harald Unites the Elves
 Hengegate Pathway // Mistgate Pathway
 Hengegate Pathway // Mistgate Pathway
 Highland Forest
+Horizon Seeker
+"""Horrible Encounter"""
+Icehide Troll
 Ice Tunnel
+Immersturm Predator
+Immersturm Predator
+Immersturm Skullcairn
 Infernal Pet
 Inga Rune-Eyes
 Inga Rune-Eyes
+In Search of Greatness
 Invasion of the Giants
 Iron Verdict
 Island
+Jarl of the Forsaken
 Jaspera Sentinel
 "Jorn, God of Winter // Kaldring, the Rimestaff"
 "Jorn, God of Winter // Kaldring, the Rimestaff"
@@ -150,16 +185,21 @@ King Harald's Revenge
 "Koma, Cosmos Serpent"
 "Koma, Cosmos Serpent"
 Koma's Faithful
+Littjara Glade-Warden
 Littjara Kinseekers
+Littjara Mirrorlake
 "Magda, Brazen Outlaw"
 "Magda, Brazen Outlaw"
+"Maja, Bretagard Protector"
 Mammoth Growth
 Masked Vandal
 Masked Vandal
 Maskwood Nexus
 Maskwood Nexus
+"""Master Skald"""
 Moritte of the Frost
 Mountain
+"""My D&D OC"""
 Mystic Reflection
 Mystic Reflection
 "Narfi, Betrayer King"
@@ -174,6 +214,10 @@ Path to the World Tree
 Pilfering Hawk
 Plains
 Poison the Cup
+Poison the Cup
+Port of Karfell
+"""Priest of the Dam"""
+Provoke the Trolls
 Pyre of Heroes
 Pyre of Heroes
 Quakebringer
@@ -184,6 +228,8 @@ Rally the Ranks
 Rally the Ranks
 Rampage of the Valkyries
 Ravenform
+"""Ravenous Lindwurm"""
+Raven Wings
 Realmwalker
 Realmwalker
 Realmwalker
@@ -192,15 +238,16 @@ Reckless Crew
 Reflections of Littjara
 Reflections of Littjara
 Reflections of Littjara
-"""Reidane, God of Justice"" // ""Reidane's Shield"""
-"""Reidane, God of Justice"" // ""Reidane's Shield"""
+"Reidane, God of the Worthy // Valkmira, Protector's Shield"
+"Reidane, God of the Worthy // Valkmira, Protector's Shield"
 Renegade Reaper
 Replicating Ring
-"""Resolute Valkyrie"""
+Return Upon the Tide
 Revitalize
 Rimewood Falls
 Rise of the Dread Marn
 Rise of the Dread Marn
+Rootless Yew
 Roots of Wisdom
 Run Amok
 Run Ashore
@@ -220,8 +267,10 @@ Showdown of the Skalds
 "Sigrid, God-Favored"
 "Sigrid, God-Favored"
 Skemfar Avenger
+Skemfar Avenger
 Skemfar Elderhall
 Skemfar Shadowsage
+Skull Raid
 Smashing Success
 Snakeskin Veil
 Snow-Covered Forest
@@ -238,19 +287,25 @@ Snowfield Sinkhole
 Spectral Steel
 Spirit of the Aldergard
 Squash
+Stalwart Valkyrie
 Starnheim Aspirant
 Starnheim Unleashed
 Starnheim Unleashed
+Story Seeker
+Strategic Planning
 Strategic Planning
 Sulfurous Mire
 Surtland Elementalist
 Surtland Flinger
 """Surtland Frostfire"""
+"Svella, Ice Shaper"
 Swamp
 "Tergrid, God of Fright // Tergrid's Lantern"
 "Tergrid, God of Fright // Tergrid's Lantern"
 Tergrid's Shadow
 The Bears of Littjara
+The Bloodsky Massacre
+The Raven's Warning
 The Trickster-God's Heist
 The World Tree
 Thornmantle Striker
@@ -264,14 +319,18 @@ Tormentor's Helm
 Tundra Fumarole
 Tundra Fumarole
 Tuskeri Firewalker
+Tyrite Sanctum
 Tyvar Kell
 Tyvar Kell
 Undersea Invader
+Usher of the Fallen
 Usher of the Fallen
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 Valkyrie Harbinger
+Valkyrie's Sword
+"""Valley of Lights"""
 "Varragoth, Bloodsky Sire"
 "Varragoth, Bloodsky Sire"
 Vault Robber
@@ -284,9 +343,9 @@ Volatile Fjord
 |lornScs DuJhetmiserc.
 Waking the Trolls
 Warchanter Skald
+"""War Horn Blessing"""
 Weathered Runestone
 Wings of the Cosmos
 Withercrown
 Woodland Chasm
-"""Writing Werewolf Fanfics"""
 Youthful Valkyrie
