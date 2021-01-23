@@ -11,6 +11,7 @@ Arachnoform
 Arctic Treeline
 Armed and Armored
 Arni Brokenbrow
+Arni Brokenbrow
 Arni Slays the Troll
 Ascendant Spirit
 Ascendant Spirit
@@ -34,8 +35,10 @@ Behold the Multiverse
 Berg Strider
 Beskir Shieldmate
 Binding the Old Gods
+Bind the Monster
 "Birgi, God of Storytelling // Harnfel, Horn of Bounty"
 "Birgi, God of Storytelling // Harnfel, Horn of Bounty"
+Blessing of Frost
 Blessing of Frost
 Blightstep Pathway // Searstep Pathway
 Blightstep Pathway // Searstep Pathway
@@ -55,7 +58,6 @@ Burning-Rune Demon
 Calamity Bearer
 Calamity Bearer
 Canopy Tactician
-"""Chill Out"""
 Cinderheart Giant
 Clarion Spirit
 Cleaving Reaper
@@ -66,7 +68,9 @@ Colossal Plow
 Cosmos Charger
 Cosmos Charger
 Cosmos Elixir
+Cosmos Elixir
 Craven Hulk
+Crippling Fear
 Crippling Fear
 Crush the Weak
 Cyclone Summoner
@@ -76,9 +80,11 @@ Darkbore Pathway // Slitherbore Pathway
 Deathknell Berserker
 Demon Bolt
 Demonic Gifts
+Depart the Realm
 Disdainful Stroke
 Divine Gambit
 Dogged Pursuit
+Doomskar
 Doomskar
 Doomskar Oracle
 Doomskar Titan
@@ -86,9 +92,11 @@ Dragonkin Berserker
 Dragonkin Berserker
 Draugr Necromancer
 Draugr Necromancer
+Draugr Recruiter
 Draugr's Helm
 Draugr Thought-Thief
 Dread Rider
+Dream Devourer
 Dream Devourer
 Dual Strike
 Duskwielder
@@ -100,6 +108,7 @@ Elderfang Disciple
 Elderfang Ritualist
 Elderleaf Mentor
 Elven Ambush
+Elven Bow
 Elvish Warmaster
 Elvish Warmaster
 Eradicator Valkyrie
@@ -111,8 +120,6 @@ Esika's Chariot
 Faceless Haven
 Faceless Haven
 Fall of the Impostor
-"""Family Get-Together"""
-"""Family Get-Together"""
 Fearless Liberator
 Fearless Pup
 Feed the Serpent
@@ -129,6 +136,7 @@ Frost Bite
 Frostpeak Yeti
 Frostpyre Arcanist
 Funeral Longboat
+"Fynn, the Fangbearer"
 "Fynn, the Fangbearer"
 Gates of Istfell
 Giant Ox
@@ -149,6 +157,7 @@ Goldspan Dragon
 Goldspan Dragon
 Goldvein Pick
 Graven Lore
+Graven Lore
 Great Hall of Starnheim
 Grim Draugr
 Grizzled Outrider
@@ -160,10 +169,15 @@ Hailstorm Valkyrie
 "Harald, King of Skemfar"
 "Harald, King of Skemfar"
 Harald Unites the Elves
+Haunting Voyage
+Haunting Voyage
 Hengegate Pathway // Mistgate Pathway
 Hengegate Pathway // Mistgate Pathway
 Highland Forest
 Horizon Seeker
+Icebind Pillar
+Icebreaker Kraken
+Icebreaker Kraken
 Icehide Troll
 Ice Tunnel
 Immersturm Predator
@@ -192,7 +206,7 @@ Kaya's Onslaught
 Kaya the Inexorable
 Kaya the Inexorable
 King Harald's Revenge
-"""King Narfi's Betrayal"""
+King Narfi's Betrayal
 "Koll, the Forgemaster"
 "Koll, the Forgemaster"
 "Kolvori, God of Kinship // The Ringhart Crest"
@@ -206,12 +220,16 @@ Littjara Mirrorlake
 "Magda, Brazen Outlaw"
 "Magda, Brazen Outlaw"
 "Maja, Bretagard Protector"
+"Maja, Bretagard Protector"
 Mammoth Growth
 Masked Vandal
 Masked Vandal
 Maskwood Nexus
 Maskwood Nexus
 Master Skald
+Mists of Littjara
+Mistwalker
+Moritte of the Frost
 Moritte of the Frost
 Mountain
 Mystic Reflection
@@ -259,8 +277,10 @@ Reflections of Littjara
 Renegade Reaper
 Replicating Ring
 Resplendent Marshal
+Resplendent Marshal
 Return Upon the Tide
 Revitalize
+Righteous Valkyrie
 Righteous Valkyrie
 Rimewood Falls
 Rise of the Dread Marn
@@ -270,7 +290,13 @@ Roots of Wisdom
 Run Amok
 Run Ashore
 Runed Crown
+Runeforge Champion
+Runeforge Champion
 Rune of Flight
+Rune of Might
+Rune of Mortality
+Rune of Speed
+Rune of Sustenance
 "Sarulf, Realm Eater"
 "Sarulf, Realm Eater"
 Sarulf's Packmate
@@ -315,10 +341,12 @@ Starnheim Unleashed
 Story Seeker
 Strategic Planning
 Strategic Planning
+Struggle for Skemfar
 Sulfurous Mire
 Surtland Elementalist
 Surtland Flinger
 Surtland Frostpyre
+"Svella, Ice Shaper"
 "Svella, Ice Shaper"
 Swamp
 "Tergrid, God of Fright // Tergrid's Lantern"
@@ -326,9 +354,10 @@ Swamp
 Tergrid's Shadow
 The Bears of Littjara
 The Bloodsky Massacre
-"""The First Snowman"""
 The Raven's Warning
+The Three Seasons
 The Trickster-God's Heist
+The World Tree
 The World Tree
 Thornmantle Striker
 Tibalt's Trickery
@@ -341,6 +370,7 @@ Tormentor's Helm
 Tundra Fumarole
 Tundra Fumarole
 Tuskeri Firewalker
+Tyrite Sanctum
 Tyrite Sanctum
 Tyvar Kell
 Tyvar Kell
@@ -358,6 +388,7 @@ Valor of the Worthy
 Vault Robber
 "Vega, the Watcher"
 "Vega, the Watcher"
+Vengeful Reaper
 Village Rites
 Volatile Fjord
 "Vorinclex, Monstrous Raider"
