@@ -31,7 +31,7 @@ def PlainTextToExcel():
     df[lista[opcion][:-4]] = text
     df.to_excel(f"{Datos}\Decklists.xlsx", index=False)
     input("Pulsa una tecla para cerrar")
-return
+    return
 
  
 
