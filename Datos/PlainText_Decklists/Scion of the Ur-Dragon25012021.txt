@@ -1,0 +1,102 @@
+// COMMANDER  
+1 Scion of the Ur-Dragon (C17) 192  
+  
+1 Animate Dead (MB1) 566  
+1 Apostle's Blessing (MB1) 23  
+1 Arcane Signet (C20) 237  
+1 Assassin's Trophy (GRN) 152  
+1 Atarka, World Render (C17) 161  
+1 Blood Crypt (RTR) 238  
+1 Bloodstained Mire (KTK) 230  
+1 Bloom Tender (MB1) 1143  
+1 Boros Charm (GTC) 148  
+1 Breeding Pool (GTC) 240  
+1 Canopy Vista (C20) 261  
+1 Cavern of Souls (MM3) 232  
+1 Cinder Glade (BFZ) 235  
+1 City of Brass (MMA) 221  
+1 Coalition Relic (A25) 223  
+1 Command Tower (C17) 242  
+1 Cultivate (M21) 317  
+1 Curiosity (JMP) 147  
+1 Cyclonic Rift (2XM) 47  
+1 Dance of the Dead (ICE) 118  
+1 Deflecting Swat (C20) 50  
+1 Delay (FUT) 35  
+1 Demonic Tutor (UMA) 93  
+1 Dragonlord Ojutai (MB1) 1418  
+1 Drowned Catacomb (XLN) 253  
+1 Earnest Fellowship (ODY) 21  
+1 Enlightened Tutor (MIR) 14  
+1 Exotic Orchard (C20) 273  
+1 Faeburrow Elder (ELD) 190  
+1 Farseek (MB1) 1206  
+1 Fellwar Stone (CM2) 189  
+1 Fierce Guardianship (C20) 35  
+1 Fiery Islet (MH1) 238  
+1 Fire Covenant (ICE) 289  
+1 Flooded Grove (A25) 239  
+1 Flooded Strand (KTK) 233  
+1 Forbidden Orchard (C16) 296  
+1 Force of Negation (MH1) 52  
+1 Force of Will (ALL) 28  
+1 Forest (2XM) 381  
+1 Godless Shrine (GTC) 242  
+1 Halimar Depths (DDM) 36  
+1 Heroic Intervention (AER) 109  
+1 Island (2XM) 375  
+1 Keen Sense (PLC) 152  
+1 Mana Confluence (JOU) 163  
+1 Mana Crypt (MB1) 1603  
+1 Moltensteel Dragon (NPH) 88 F  
+1 Mountain (2XM) 379  
+1 Mystical Tutor (EMA) 62  
+1 Nahiri, the Harbinger (SOI) 247  
+1 Nature's Lore (MB1) 1276  
+1 Necromancy (VIS) 64  
+1 Niv-Mizzet, the Firemind (GK1) 26 F  
+1 Oko, Thief of Crowns (ELD) 197  
+1 Overgrown Tomb (RTR) 243  
+1 Pact of Negation (A25) 68  
+1 Path of Ancestry (C20) 298  
+1 Pernicious Deed (A25) 212  
+1 Plains (2XM) 373  
+1 Polluted Delta (KTK) 239  
+1 Preordain (MB1) 460  
+1 Reflecting Pool (SHM) 278  
+1 Sacred Foundry (GRN) 254  
+1 Sakura-Tribe Elder (CNS) 177  
+1 Sarkhan, Fireblood (M19) 154  
+1 Savage Summoning (M14) 194  
+1 Scroll Rack (TMP) 308  
+1 Serum Visions (MM3) 49  
+1 Shivan Hellkite (DDG) 60  
+1 Silence (M14) 35  
+1 Silumgar, the Drifting Death (C17) 194  
+1 Skithiryx, the Blight Dragon (2XM) 107  
+1 Skyshroud Claim (NEM) 117  
+1 Sol Ring (C20) 252  
+1 Spellskite (2XM) 289  
+1 Steam Vents (GRN) 257  
+1 Stomping Ground (RNA) 259  
+1 Stormbreath Dragon (THS) 143  
+1 Stubborn Denial (KTK) 56  
+1 Sunken Hollow (BFZ) 249  
+1 Sunpetal Grove (XLN) 257  
+1 Swamp (2XM) 377  
+1 Swiftfoot Boots (C20) 254  
+1 Swords to Plowshares (MB1) 253  
+1 Sylvan Caryatid (THS) 180  
+1 Tainted Strike (SOM) 80  
+1 Teferi, Time Raveler (WAR) 221  
+1 Temple Garden (GRN) 258  
+1 The Ur-Dragon (C17) 48 F  
+1 Toxic Deluge (EMA) 108  
+1 Twilight Mire (A25) 248  
+1 Verdant Catacombs (MM3) 249  
+1 Vindicate (A25) 219  
+1 Waterlogged Grove (MH1) 249  
+1 Watery Grave (GRN) 259  
+1 Windswept Heath (KTK) 248  
+1 Wooded Foothills (KTK) 249  
+1 Worldgorger Dragon (EMA) 154  

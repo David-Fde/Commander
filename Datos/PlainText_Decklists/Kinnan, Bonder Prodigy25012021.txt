@@ -1,0 +1,94 @@
+// COMMANDER  
+1 Kinnan, Bonder Prodigy (IKO) 192  
+  
+1 Arcane Signet (C20) 237  
+1 Arcum's Astrolabe (MH1) 220  
+1 Basalt Monolith (2XM) 232  
+1 Bloom Tender (MB1) 1143  
+1 Blue Sun's Zenith (A25) 44  
+1 Breeding Pool (RNA) 246  
+1 Cavern of Souls (UMA) 237  
+1 Chrome Mox (MRD) 152  
+1 City of Brass (MD1) 15  
+1 Command Tower (C20) 264  
+1 Consecrated Sphinx (IMA) 47  
+1 Counterspell (MB1) 336  
+1 Cyclonic Rift (2XM) 47  
+1 Delay (FUT) 35  
+1 Disallow (AER) 31  
+1 Drift of Phantasms (RAV) 46  
+1 Echo of Eons (MH1) 46  
+1 Eternal Witness (MB1) 1200  
+1 Expropriate (MB1) 370  
+1 Fabled Passage (M21) 246  
+1 Fabricate (HOP) 9  
+1 Fellwar Stone (CM2) 189  
+1 Fierce Guardianship (C20) 35  
+1 Finale of Devastation (PWAR) 160p F  
+1 Flooded Grove (2XM) 318  
+1 Flooded Strand (KTK) 233  
+1 Forbidden Orchard (C16) 296  
+1 Force of Negation (MH1) 52  
+1 Force of Will (ALL) 28  
+1 Freed from the Real (A25) 58  
+1 Gadwick, the Wizened (PELD) 48s F  
+1 Glen Elendra Archmage (UMA) 58  
+1 Gyre Engineer (RNA) 180  
+1 Hinterland Harbor (DOM) 240  
+1 Ice-Fang Coatl (MH1) 203  
+1 Imprisoned in the Moon (EMN) 65  
+1 Incubation Druid (RNA) 131  
+1 Jin-Gitaxias, Core Augur (IMA) 62  
+1 Karn's Temporal Sundering (DOM) 55  
+1 Lightning Greaves (2XM) 267  
+1 Long-Term Plans (SCG) 38  
+1 Mana Confluence (JOU) 163  
+1 Mana Crypt (MB1) 1603  
+1 Merchant Scroll (8ED) 91  
+1 Muddle the Mixture (RAV) 60  
+1 Mystic Confluence (MB1) 440  
+1 Mystical Tutor (EMA) 62  
+1 Narset, Parter of Veils (WAR) 61  
+1 Nezahal, Primal Tide (RIX) 45  
+1 Oko, Thief of Crowns (ELD) 197  
+1 Pact of Negation (A25) 68  
+1 Paradise Druid (WAR) 171  
+1 Paradise Mantle (MMA) 211  
+1 Pemmin's Aura (SCG) 45  
+1 Polluted Delta (KTK) 239  
+1 Pongify (2XM) 62  
+1 Prismatic Vista (MH1) 244  
+1 Prophetic Prism (JMP) 478  
+1 Pull from Tomorrow (AKH) 65  
+1 Reclamation Sage (M19) 196  
+1 Rhystic Study (JMP) 169  
+1 Sidisi's Faithful (DTK) 74  
+1 Simic Signet (C16) 270  
+7 Snow-Covered Forest (MH1) 254  
+5 Snow-Covered Island (MH1) 251  
+1 Sol Ring (C20) 252  
+1 Spell Snare (BBD) 132  
+1 Spellskite (2XM) 289  
+1 Stroke of Genius (C15) 108  
+1 Swiftfoot Boots (C20) 254  
+1 Talisman of Curiosity (MH1) 232  
+1 Teferi, Mage of Zhalfir (IMA) 75  
+1 Temporal Mastery (MB1) 517  
+1 Thassa's Oracle (PTHB) 73s F  
+1 Thieving Skydiver (ZNR) 85  
+1 Trinket Mage (MB1) 533  
+1 Trophy Mage (DDU) 42  
+1 Veil of Summer (M20) 198  
+1 Verdant Catacombs (MM3) 249  
+1 Walking Ballista (2XM) 306  
+1 Waterlogged Grove (MH1) 249  
+1 Windfall (C20) 128  
+1 Windswept Heath (KTK) 248  
+1 Wooded Foothills (KTK) 249  
+1 Worldly Tutor (6ED) 269  
+1 Yavimaya Coast (C20) 322  
+  
+// SIDEBOARD  
+1 Birds of Paradise (MB1) 1138  
+1 Sylvan Caryatid (THS) 180  
+1 Worldly Tutor (6ED) 269  

@@ -1,0 +1,103 @@
+[COMMANDER]  
+1 Sai, Master Thopterist  
+  
+[PLANESWALKERS]  
+1 Narset, Parter of Veils  
+1 Tezzeret, Artifice Master  
+  
+[CRIATURAS]  
+1 Arcbound Ravager  
+1 Chief Engineer  
+1 Chief of the Foundry  
+1 Emry, Lurker of the Loch  
+1 Etherium Sculptor  
+1 Metallic Mimic  
+1 Shimmer Dragon  
+1 Steel Overseer  
+1 Tribute Mage  
+1 Trinket Mage  
+1 Trophy Mage  
+1 Urza, Lord High Artificer  
+  
+[ARTEFACTOS]  
+1 Arcum's Astrolabe  
+1 Chrome Mox  
+1 Coat of Arms  
+1 Crystal Shard  
+1 Everflowing Chalice  
+1 Golden Egg  
+1 Ichor Wellspring  
+1 Idol of Oblivion  
+1 Lightning Greaves  
+1 Midnight Clock  
+1 Mind Stone  
+1 Mystic Forge  
+1 Neurok Stealthsuit  
+1 Prismatic Lens  
+1 Prophetic Prism  
+1 Retrofitter Foundry  
+1 Skullclamp  
+1 Smuggler's Copter  
+1 Sol Ring  
+1 Treasure Map // Treasure Cove  
+1 Witching Well  
+  
+[INSTANTÁNEOS]  
+1 Archmage's Charm  
+1 Counterspell  
+1 Cryptic Command  
+1 Delay  
+1 Disallow  
+1 Force of Negation  
+1 Impulse  
+1 Mystic Confluence  
+1 Spell Snare  
+1 Whir of Invention  
+  
+[CONJUROS]  
+1 Fabricate  
+1 Merchant Scroll  
+1 Preordain  
+1 Reshape  
+1 Serum Visions  
+1 Thoughtcast  
+  
+[ENCANTAMIENTOS]  
+1 Bident of Thassa  
+1 Imprisoned in the Moon  
+1 Kindred Discovery  
+1 Mechanized Production  
+1 Rhystic Study  
+1 The Antiquities War  
+  
+[TIERRAS]  
+1 Academy Ruins  
+1 Arch of Orazca  
+1 Cryptic Caves  
+1 Fabled Passage  
+1 Inventors' Fair  
+1 Rishadan Port  
+1 Sanctum of Eternity  
+23 Snow-Covered Island  
+  
+[SIDEBOARD]  
+1 Ancient Tomb  
+1 Arcane Signet  
+1 Cavern of Souls  
+1 Cyclonic Rift  
+1 Delay  
+1 Fierce Guardianship  
+1 Flooded Strand  
+1 Force of Will  
+1 Mana Crypt  
+1 Pact of Negation  
+1 Polluted Delta  
+  
+[MAYBEBOARD]  
+1 Arcane Denial  
+1 Efficient Construction  
+1 Guild Globe  
+1 Merchant's Dockhand  
+1 Mirrodin Besieged  
+1 Opt  
+1 Servo Schematic
