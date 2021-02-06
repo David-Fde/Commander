@@ -18,7 +18,7 @@ new_list = []
 downloaded_sets = []
 newest_sets = []
 json_database = {}
-numbers = [1,16,31,46] # This list is to get the 4 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
+numbers = [1,16,31,46,61,76] # This list is to get the 6 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
 
 for e in os.listdir(r"..\Datos\Database by set\Set with text box\Xlsx sets"): # Make a list with the allready downloaded sets in the folder.
     downloaded_sets.append(e.split(".xlsx")[0])

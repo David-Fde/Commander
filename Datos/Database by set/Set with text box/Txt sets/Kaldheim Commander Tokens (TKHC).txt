@@ -1,0 +1,8 @@
+"('Bird', ['Token Creature — Bird', 'Flying', '1/1'])"
+"('Boar', ['Token Creature — Boar', '2/2'])"
+"('Elemental', ['Token Creature — Elemental', 'Trample', '7/7'])"
+"('Kithkin Soldier', ['Token Creature — Kithkin Soldier', '1/1'])"
+"('Pegasus', ['Token Creature — Pegasus', 'Flying', '1/1'])"
+"('Servo', ['Token Artifact Creature — Servo', '1/1'])"
+"('Soldier', ['Token Creature — Soldier', '1/1'])"
+"('Thopter', ['Token Artifact Creature — Thopter', 'Flying', '1/1'])"

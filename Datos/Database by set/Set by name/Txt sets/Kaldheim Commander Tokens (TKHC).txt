@@ -1,0 +1,8 @@
+Bird
+Boar
+Elemental
+Kithkin Soldier
+Pegasus
+Servo
+Soldier
+Thopter
