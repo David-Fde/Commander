@@ -1,0 +1,15 @@
+Ape
+Assembly-Worker
+Bat
+Cloud Sprite
+Giant
+Goblin
+Griffin
+Insect
+Knight
+Kobolds of Kher Keep
+Llanowar Elves
+Metallic Sliver
+Saproling
+Soldier
+Spider

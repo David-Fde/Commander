@@ -1,0 +1,2 @@
+"('Soul of Ravnica', ['{4}{U}{U}', 'Creature — Avatar', 'Flying', '{5}{U}{U}: Draw a card for each color among permanents you control.', '{5}{U}{U}, Exile Soul of Ravnica from your graveyard: Draw a card for each color among permanents you control.', '6/6'])"
+"('Soul of Zendikar', ['{4}{G}{G}', 'Creature — Avatar', 'Reach', '{3}{G}{G}: Create a 3/3 green Beast creature token.', '{3}{G}{G}, Exile Soul of Zendikar from your graveyard: Create a 3/3 green Beast creature token.', '6/6'])"

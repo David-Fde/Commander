@@ -1,5 +1,411 @@
+Abrupt Decay
+Aeon Chronicler
+Ajani's Pridemate
+"Akroma, Angel of Fury"
+Akroma's Memorial
+"Alesha, Who Smiles at Death"
+Amrou Scout
+Amrou Seekers
+Ancestral Vision
+Ancient Den
+Ancient Grudge
+Ancient Stirrings
+Angel of Salvation
+Angel's Grace
+Anger of the Gods
+"Arcades, the Strategist"
+Arc Blade
+Arch of Orazca
+Assassinate
+Aven Mindcensor
+Aven Riftwatcher
+Banishing Light
+"Baral, Chief of Compliance"
+Basalt Gargoyle
+Battering Sliver
+Beast Whisperer
+Beast Within
+Become Immense
+Bedlam Reveler
+Benalish Cavalry
+Benalish Commander
+Bewilder
+Big Game Hunter
+Blade of the Sixth Pride
+Blighted Woodland
+Blightspeaker
+Bloodbraid Elf
+Bojuka Bog
+Bonded Fetch
+Bonesplitter Sliver
+Boom // Bust
+Bound in Silence
+Brine Elemental
+Brute Force
+Calciderm
+Calciform Pools
+Careful Consideration
+Castle Raptors
+Cautery Sliver
+Celestial Crusader
 Chalice of the Void
+Char-Rumbler
+Children of Korlis
+Chromatic Star
+Citanul Woodreaders
+Clockwork Hydra
+Cloud Key
+Cloudseeder
+Cloudshredder Sliver
+Coalition Relic
+Coal Stoker
+Conflagrate
+Consuming Aberration
+Contagion Clasp
+Containment Priest
+Coral Trickster
+Corpulent Corpse
+Courser of Kruphix
 Cranial Plating
+Crookclaw Transmuter
+"Crovax, Ascendant Hero"
+Cryptic Annelid
+Crystal Shard
+Cutthroat il-Dal
+Damnation
+Darkheart Sliver
+Dark Withering
+Dead // Gone
+Deadly Grub
+Deathspore Thallid
+Deepcavern Imp
+Delay
+Disdainful Stroke
+Dismember
+Dormant Sliver
+Dovin's Veto
+Draining Whelk
+"Dralnu, Lich Lord"
+Dreadhorde Arcanist
+Dread Return
+Dreadship Reef
+Dreamscape Artist
+Dream Stalker
+Drifter il-Dal
+Dryad Arbor
+Dunerider Outlaw
+Durkwood Baloth
+Duskrider Peregrine
+Edge of Autumn
+Elvish Mystic
+Empty the Warrens
+Enslave
+Epic Experiment
+Errant Doomsayers
+Errant Ephemeron
+Erratic Mutation
+"Etali, Primal Storm"
+Eternal Witness
+Ethereal Armor
+Everflowing Chalice
+Evolutionary Leap
+Evolution Charm
+Exquisite Firecraft
+Extirpate
+Faceless Devourer
+Farseek
+Fathom Seer
+"Fblthp, the Lost"
+"Feather, the Redeemed"
+Feebleness
+Feldon of the Third Path
+Field of Ruin
+Firemaw Kavu
+Firewake Sliver
+Flagstones of Trokair
+Flickerwisp
+Foresee
+Fortify
+Fungal Reaches
+Fungus Sliver
+Fury Sliver
+Gaea's Anthem
+Gathan Raiders
+Gauntlet of Power
+Gemhide Sliver
+Gemstone Caverns
+Giant Dustwasp
+Glittering Wish
+Goblin Engineer
+Gorgon Recluse
+Gossamer Phantasm
+Grapeshot
+Grave Scrabbler
+Gray Merchant of Asphodel
+Greater Gargadon
+Greenseeker
+"Grenzo, Dungeon Warden"
+Griffin Guide
+Grinning Ignus
+Gurmag Angler
+Harmonic Sliver
+Harmonize
+Harvester of Souls
+Haze of Rage
+Heartwood Storyteller
+Hedron Archive
+Henchfiend of Ukor
+Hivestone
+Hollow One
+Homing Sliver
+Hypergenesis
+Ichor Slick
+Imperiosaur
+Infiltrator il-Kor
+Intangible Virtue
+"Ith, High Arcanist"
+Ivory Giant
+"Jaya Ballard, Task Mage"
+Jhoira of the Ghitu
+Jhoira's Timebug
+Jodah's Avenger
+Judge Unworthy
+Kaervek the Merciless
+Kavu Primarch
+Keen Sense
+Keldon Halberdier
+Kher Keep
+"Kiki-Jiki, Mirror Breaker"
+Knight of Sursi
+Knight of the Holy Nimbus
+Knight of the Reliquary
+Kor Dirge
+Krosan Grip
+Laboratory Maniac
+Lava Spike
+"Lavinia, Azorius Renegade"
+Leveler
+Leyline of the Void
+Life and Limb
+Lightning Axe
+Liliana's Triumph
+Lingering Souls
+Living End
+Llanowar Mentor
+Logic Knot
+Looter il-Kor
+Lost Auramancers
 Lotus Bloom
+Lotus Bloom
+Lymph Sliver
+Magus of the Future
+Magus of the Moon
+Mana Tithe
+Mangara of Corondor
+Manifold Key
+Mass of Ghouls
+Master of the Pearl Trident
+Might of Old Krosa
+Might Sliver
+Mindstab
+Minions' Murmurs
+Mire Boa
+Mirri the Cursed
+Mirror Entity
+Mogg War Marshal
+Molten Rain
+Molten Slagheap
+Momentary Blink
+Monastery Swiftspear
+Mortify
+Muck Drubb
+Mulldrifter
+Muraganda Petroglyphs
+Mycologist
+Mystical Teachings
+Mystic Confluence
+Mystic Sanctuary
+Nantuko Shaman
+Nature's Claim
+Necrotic Sliver
+Needlepeak Spider
+Nether Traitor
+Nightshade Assassin
+Ninja of the Deep Hours
+Orcish Cannonade
+Outrider en-Kor
+Pact of Negation
+Pact of the Titan
+Palace Jailer
+Pallid Mycoderm
+Panharmonicon
+Paradise Plume
+Paradoxical Outcome
+Past in Flames
 Path to Exile
+Pendelhaven Elder
+Penumbra Spider
+Phantom Wurm
+Phthisis
+Piracy Charm
+Pit Keeper
+Ponder
+Pongify
+Porphyry Nodes
+Poultice Sliver
+Premature Burial
+Primal Forcemage
+Primal Plasma
+Primeval Titan
+Prismatic Lens
+Prized Amalgam
+Prodigal Pyromancer
+Psychotic Episode
+Pulmonic Sliver
+Qasali Pridemage
+"Radha, Heir to Keld"
+Rakdos Charm
+Ramunap Ruins
+Rathi Trapper
+Read the Bones
+Reality Acid
+Rebuff the Wicked
+Reckless Wurm
+Reclamation Sage
+Reflex Sliver
+Reiterate
 Relentless Rats
+Remand
+Repeal
+Restoration Angel
+Restore Balance
+Return to Dust
+Riddle of Lightning
+Ridged Kusite
+Rift Bolt
+Rift Elemental
+Riftmarked Knight
+Riftwing Cloudskate
+Riptide Pilferer
+Rough // Tumble
+Saffi Eriksdotter
+Saltblast
+Saltcrusted Steppe
+Saltfield Recluse
+Sangrophage
+Sanguine Bond
+Sarcomite Myr
+Scryb Ranger
+Seal of Primordium
+Search for Tomorrow
+Secret Plans
+Sedge Sliver
+Sengir Nosferatu
+Serra Avenger
+Shade of Trokair
+Shaper Parasite
+Shivan Meteor
+Shivan Sand-Mage
+Shriekmaw
+Sidewinder Sliver
+Sigil of the Empty Throne
+Silence
+Simian Spirit Guide
+Sinew Sliver
+Skirk Shaman
+Skittering Monstrosity
+Slaughter Pact
+"Slimefoot, the Stowaway"
+Slipstream Serpent
+Sliver Legion
+Sliversmith
+Smallpox
+Snapback
+Solemn Simulacrum
+Sorcerous Spyglass
+Spell Burst
+Spiketail Drakeling
+Spinneret Sliver
+Sporesower Thallid
+Sporoloth Ancient
+"Sram, Senior Edificer"
+Stingscourger
+Stinkweed Imp
+Stonecloaker
+Stonehorn Dignitary
+Stormcloud Djinn
+Storm Entity
+Stormfront Riders
+Strangling Soot
+Street Wraith
+Strength in Numbers
+Stronghold Rats
+Stuffy Doll
+Sudden Death
+Sudden Shock
+Sudden Spoiling
+Sulfur Elemental
+Summoner's Pact
+Sunlance
+Swarmyard
+Sylvan Scrying
+"Talrand, Sky Summoner"
+Tarmogoyf
+"Tasigur, the Golden Fang"
+"Teferi, Mage of Zhalfir"
+Temporal Isolation
+Temur Ascendancy
+Temur Battle Rage
+Tendrils of Corruption
+Terramorphic Expanse
+Thallid Germinator
+Thallid Shell-Dweller
+Thelonite Hermit
+Thelon of Havenwood
+Thick-Skinned Goblin
+Think Twice
+Thornweald Archer
+Thoughtseize
+Thraben Inspector
+Thragtusk
+Thrill of the Hunt
+Tidehollow Sculler
+Timebender
+Time of Need
+Tolarian Sentinel
+Tolaria West
+Tombstalker
+Treasure Cruise
+Trespasser il-Vec
+Trinket Mage
+Tromp the Domains
+True-Name Nemesis
+Trygon Predator
+Two-Headed Sliver
+Uktabi Drake
+Urborg Syphon-Mage
+"Urborg, Tomb of Yawgmoth"
+Urza's Factory
+Utopia Mycon
+Utopia Vow
+Vampire Hexmage
+Vandalblast
+Vanquisher's Banner
+Veiling Oddity
+"Venser, Shaper Savant"
+Vesuva
+Vesuvan Shapeshifter
+Virulent Sliver
+Walk the Aeons
+Wastes
+Watcher Sliver
+Wheel of Fate
+Whip-Spine Drake
+Whitemane Lion
+Wipe Away
+Yavimaya Dryad
+"Yawgmoth, Thran Physician"
+Yixlid Jailer
+Young Pyromancer
+Zealous Conscripts
+Zulaport Cutthroat

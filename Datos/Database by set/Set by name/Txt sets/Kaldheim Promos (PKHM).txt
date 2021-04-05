@@ -1,12 +1,10 @@
 "Alrund, God of the Cosmos // Hakka, Whispering Raven"
-"Alrund, God of the Cosmos // Hakka, Whispering Raven"
 Alrund's Epiphany
 Alrund's Epiphany
 Arni Brokenbrow
 Arni Brokenbrow
 Ascendant Spirit
 Ascendant Spirit
-Barkchannel Pathway // Tidechannel Pathway
 Barkchannel Pathway // Tidechannel Pathway
 Battle for Bretagard
 Battle for Bretagard
@@ -15,10 +13,8 @@ Battle Mammoth
 Battle of Frost and Fire
 Battle of Frost and Fire
 "Birgi, God of Storytelling // Harnfel, Horn of Bounty"
-"Birgi, God of Storytelling // Harnfel, Horn of Bounty"
 Blessing of Frost
 Blessing of Frost
-Blightstep Pathway // Searstep Pathway
 Blightstep Pathway // Searstep Pathway
 Blood on the Snow
 Blood on the Snow
@@ -26,7 +22,6 @@ Burning-Rune Demon
 Burning-Rune Demon
 Calamity Bearer
 Calamity Bearer
-"Cosima, God of the Voyage // The Omenkeel"
 "Cosima, God of the Voyage // The Omenkeel"
 Cosmos Charger
 Cosmos Charger
@@ -37,7 +32,6 @@ Crippling Fear
 Cyclone Summoner
 Cyclone Summoner
 Darkbore Pathway // Slitherbore Pathway
-Darkbore Pathway // Slitherbore Pathway
 Doomskar
 Doomskar
 Dragonkin Berserker
@@ -47,12 +41,10 @@ Draugr Necromancer
 Dream Devourer
 Dream Devourer
 "Egon, God of Death // Throne of Death"
-"Egon, God of Death // Throne of Death"
 Elvish Warmaster
 Elvish Warmaster
 Eradicator Valkyrie
 Eradicator Valkyrie
-"Esika, God of the Tree // The Prismatic Bridge"
 "Esika, God of the Tree // The Prismatic Bridge"
 Esika's Chariot
 Esika's Chariot
@@ -68,12 +60,10 @@ Goldspan Dragon
 Graven Lore
 Graven Lore
 "Halvar, God of Battle // Sword of the Realms"
-"Halvar, God of Battle // Sword of the Realms"
 Harald Unites the Elves
 Harald Unites the Elves
 Haunting Voyage
 Haunting Voyage
-Hengegate Pathway // Mistgate Pathway
 Hengegate Pathway // Mistgate Pathway
 Icebreaker Kraken
 Icebreaker Kraken
@@ -82,12 +72,10 @@ Immersturm Predator
 In Search of Greatness
 In Search of Greatness
 "Jorn, God of Winter // Kaldring, the Rimestaff"
-"Jorn, God of Winter // Kaldring, the Rimestaff"
 Kaya the Inexorable
 Kaya the Inexorable
 King Narfi's Betrayal
 King Narfi's Betrayal
-"Kolvori, God of Kinship // The Ringhart Crest"
 "Kolvori, God of Kinship // The Ringhart Crest"
 "Koma, Cosmos Serpent"
 "Koma, Cosmos Serpent"
@@ -116,7 +104,6 @@ Reckless Crew
 Reflections of Littjara
 Reflections of Littjara
 "Reidane, God of the Worthy // Valkmira, Protector's Shield"
-"Reidane, God of the Worthy // Valkmira, Protector's Shield"
 Resplendent Marshal
 Resplendent Marshal
 Righteous Valkyrie
@@ -138,7 +125,6 @@ Skemfar Avenger
 Starnheim Unleashed
 Starnheim Unleashed
 "Tergrid, God of Fright // Tergrid's Lantern"
-"Tergrid, God of Fright // Tergrid's Lantern"
 The Bears of Littjara
 The Bears of Littjara
 The Bloodsky Massacre
@@ -150,7 +136,6 @@ The World Tree
 Tibalt's Trickery
 Tibalt's Trickery
 "Toralf, God of Fury // Toralf's Hammer"
-"Toralf, God of Fury // Toralf's Hammer"
 "Toski, Bearer of Secrets"
 "Toski, Bearer of Secrets"
 Tundra Fumarole
@@ -159,7 +144,6 @@ Tyrite Sanctum
 Tyrite Sanctum
 Tyvar Kell
 Tyvar Kell
-"Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Valki, God of Lies // Tibalt, Cosmic Impostor"
 "Varragoth, Bloodsky Sire"
 "Varragoth, Bloodsky Sire"

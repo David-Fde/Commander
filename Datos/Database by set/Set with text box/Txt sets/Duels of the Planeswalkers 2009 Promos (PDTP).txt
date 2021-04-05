@@ -1,0 +1,1 @@
+"('Garruk Wildspeaker', ['{2}{G}{G}', 'Legendary Planeswalker — Garruk', '+1: Untap two target lands.', '−1: Create a 3/3 green Beast creature token.', '−4: Creatures you control get +3/+3 and gain trample until end of turn.', 'Loyalty: 3'])"
