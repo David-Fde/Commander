@@ -1,9 +1,50 @@
 "Adrix and Nev, Twincasters"
 "Adrix and Nev, Twincasters"
+"Alibou, Ancient Witness"
+Ancient Den
+Angel of the Ruins
+Arcane Signet
+Archaeomancer's Map
+Audacious Reshapers
+Battlemage's Bracers
+Boros Locket
+"Bosh, Iron Golem"
 "Breena, the Demagogue"
 "Breena, the Demagogue"
+Bronze Guardian
+Combustible Gearhulk
+Commander's Sphere
+Cursed Mirror
+"Daretti, Scrap Savant"
+Darksteel Citadel
+Digsite Engineer
+Duplicant
+Excavation Technique
+Faithless Looting
+Feldon of the Third Path
+Great Furnace
+Hedron Archive
+Hellkite Tyrant
+Ichor Wellspring
+"Laelia, the Blade Reforged"
+"Losheel, Clockwork Scholar"
+Meteor Golem
+Mind Stone
+Monologue Tax
+Myr Battlesphere
 "Osgir, the Reconstructor"
 "Osgir, the Reconstructor"
+Ruin Grinder
+Sculpting Steel
+Solemn Simulacrum
+Sol Ring
+Steel Hellkite
+Steel Overseer
+Study Hall
+Thopter Engineer
+Thousand-Year Elixir
+Triplicate Titan
+Wake the Past
 "Willowdusk, Essence Seer"
 "Willowdusk, Essence Seer"
 "Zaffai, Thunder Conductor"

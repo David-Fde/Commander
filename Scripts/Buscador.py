@@ -1,16 +1,24 @@
 import pickle
 import os
 
-contador = "Y"
+lista = ["Y","y","S","s","Yes","Si","yes","si"]
+
+check = "Y"
 
 with open(r'..\Datos\Mtg_Database.pickle', 'rb') as handle:
     b = pickle.load(handle)
 
-while contador == "Y":
+while check in lista:
 
     entrada = str(input("Busqueda: "))
     print("\n")
-    print(b[f"{entrada}"])
+    try:
+        print(b[f"{entrada}"])
+    except:
+        print("Carta no encontrada")
     print("\n")
-    contador = str(input("¿Buscar otra carta? Y/N  "))
+    check = str(input("¿Buscar otra carta? Y/N  "))
     os.system("cls")
+    
+else:
+    exit()
