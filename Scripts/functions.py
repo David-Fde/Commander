@@ -85,3 +85,27 @@ def UpdatePickleDatabase():
 
     with open(r'..\Datos\Mtg_Database.pickle', 'wb') as handle: # Save mtg Database in .pickle format.
         pickle.dump(Mtg_Database, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        
+        
+def menu():
+    os.system("cls")
+    print("1. Actualizar Base de datos" + "\n" + 
+          "2. Buscador de Cartas" + "\n"
+          "3. Salir" + "\n"
+          )
+
+    respuesta = input("Opción: ")
+    
+    return respuesta
+
+def answer_menu(respuesta):
+    lista_respuestas = ["1","2"]
+    while respuesta in lista_respuestas:
+        if respuesta == "1":
+            os.startfile(r"Update_Database.py")
+            functions.UpdatePickleDatabase()
+        elif respuesta == "2":
+            os.startfile(r"Buscador.py")
+            functions.UpdatePickleDatabase()
+        elif respuesta == "3":
+            exit()
