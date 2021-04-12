@@ -8,46 +8,25 @@ with open(r'..\Datos\Mtg_Database.pickle', 'rb') as handle:
 def find():
   name=name_var.get()
   name_var.set("")
-  
-  text.insert('1.0', name) 
-  text.pack(side=tk.BOTTOM)
-  
 
-#to create a window
+  try:
+    text.delete('1.0', tk.END)
+    text.insert(tk.END, b[f"{name}"])
+  except:
+    text.delete('1.0', tk.END)
+    text.insert(tk.END, "Carta no encontrada")
+
 root = tk.Tk()
-
-root.geometry("600x400")
-
+root.title("Mtg App")
+text = tk.Text(root)
 name_var=tk.StringVar()
-
-#root window is the parent window
-fram = tk.Frame(root)
-
-name_label = tk.Label(fram,text='Busqueda:').pack(side=tk.LEFT)
-
-# creating a entry for input
-# name using widget Entry
+name_label = tk.Label(root, text = 'Busqueda: ', font=('calibre',10, 'bold'))
 name_entry = tk.Entry(root,textvariable = name_var, font=('calibre',10,'normal'))
+sub_btn=tk.Button(root,text = 'Submit', command = find)
 
-
-#adding of single line text box
-edit = tk.Entry(fram) 
-  
-#positioning of text box
-edit.pack(side=tk.LEFT, fill=tk.BOTH, expand=1) 
-  
-#setting focus
-edit.focus_set() 
-  
-#adding of search button
-butt = tk.Button(fram, text='Find')  
-butt.pack(side=tk.RIGHT) 
-fram.pack(side=tk.TOP)
-
-#text box in root window
-text = tk.Text(root) 
-
-butt.config(command=find)
+name_label.grid(row=0,column=0)
+name_entry.grid(row=1,column=0)
+sub_btn.grid(row=2,column=0)
+text.grid(row=3,column=1)
 
 root.mainloop()
-
