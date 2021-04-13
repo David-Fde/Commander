@@ -5,7 +5,7 @@ window = tkinter.Tk()
 window.title("GUI")
 
 # pack is used to show the object in the window
-#label = tkinter.Label(window, text = "Hello World!", font=("Arial Bold",20)).pack()
+label = tkinter.Label(window, text = "Hello World!", font=("Arial Bold",20))
 
 txt = tkinter.Entry(window,width=10)
 txt.grid(column=1,row=0)
