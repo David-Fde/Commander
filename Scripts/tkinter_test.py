@@ -1,30 +1,35 @@
-import tkinter  # tkinter with small t for python 3
-#import ttk  # nicer widgets
+from tkinter import *
+from PIL import Image, ImageTk
 
-root = tkinter.Tk()
+def resize_image(event):
+    new_width = event.width
+    new_height = event.height
 
-mainFrame = tkinter.Frame(root)
-mainFrame.grid()
-button = tkinter.Button(mainFrame, text="dummy")
-button.grid()
+    image = copy_of_image.resize((new_width, new_height))
+    photo = ImageTk.PhotoImage(image)
 
+    label.config(image=photo)
+    label.image = photo  # avoid garbage collection
 
-entryFrame = tkinter.Frame(mainFrame, width=454, height=20)
-entryFrame.grid(row=0, column=1)
+root = Tk()
+root.title("Title")
+root.geometry('600x600')
 
-# allow the column inside the entryFrame to grow    
-entryFrame.columnconfigure(0, weight=10)  
+frame = Frame(root, relief='raised', borderwidth=2)
+frame.pack(fill=BOTH, expand=YES)
+frame.pack_propagate(False)
 
-# By default the frame will shrink to whatever is inside of it and 
-# ignore width & height. We change that:
-entryFrame.grid_propagate(False)
-# as far as I know you can not set this for x / y separately so you
-# have to choose a proper height for the frame or do something more sophisticated
+copy_of_image = Image.open(r"C:\Users\dfernandez\Documents\Proyectos_Python\Commander\Scripts\Background.png")
+photo = ImageTk.PhotoImage(copy_of_image)
 
-# input entry
-inValue = tkinter.StringVar()
-inValueEntry = tkinter.Entry(entryFrame, textvariable=inValue)
-inValueEntry.grid(sticky="we")
+label = Label(frame, image=photo)
+label.place(x=0, y=0, relwidth=1, relheight=1)
+label.bind('<Configure>', resize_image)
 
+center_frame = Frame(frame, relief='raised', borderwidth=2)
+center_frame.place(relx=0.5, rely=0.5, anchor=CENTER)
+
+Label(center_frame, text='Full Name', width=8).pack()
+Label(center_frame, text='Education', width=8).pack()
 
 root.mainloop()
