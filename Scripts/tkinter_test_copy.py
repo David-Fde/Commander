@@ -1,27 +1,35 @@
-import tkinter as tk
+# Import module
+from tkinter import *
 
-def increase():
-    value = int(lbl_value["text"])
-    lbl_value["text"] = f"{value + 1}"
+# Create object
+root = Tk()
 
-def decrease():
-    value = int(lbl_value["text"])
-    lbl_value["text"] = f"{value - 1}"
+# Adjust size
+root.geometry("1000x500")
 
+# Add image file
+bg = PhotoImage(file = r"C:\Users\dfernandez\Documents\Proyectos_Python\Commander\Scripts\Background.png")
 
-window = tk.Tk()
+# Show image using label
+label1 = Label( root, image = bg)
+label1.place(x = 0, y = 0)
 
-window.rowconfigure(0, minsize=50, weight=1)
-window.columnconfigure([0, 1, 2], minsize=50, weight=1)
+label2 = Label( root, text = "Welcome")
+label2.pack(pady = 50)
 
-btn_decrease = tk.Button(master=window, text="-", command=decrease)
-btn_decrease.grid(row=0, column=0, sticky="nsew")
+# Create Frame
+frame1 = Frame(root)
+frame1.pack(pady = 20 )
 
-lbl_value = tk.Label(master=window, text="0")
-lbl_value.grid(row=0, column=1)
+# Add buttons
+button1 = Button(frame1,text="Exit")
+button1.pack(pady=20)
 
-btn_increase = tk.Button(master=window, text="+", command=increase)
-btn_increase.grid(row=0, column=2, sticky="nsew")
+button2 = Button( frame1, text = "Start")
+button2.pack(pady = 20)
 
+button3 = Button( frame1, text = "Reset")
+button3.pack(pady = 20)
 
-window.mainloop()
+# Execute tkinter
+root.mainloop()
