@@ -1,5 +1,6 @@
 "Adrix and Nev, Twincasters"
 "Adrix and Nev, Twincasters"
+"Adrix and Nev, Twincasters"
 Aether Gale
 Aetherspouts
 Ageless Entity
@@ -47,6 +48,7 @@ Boros Locket
 "Bosh, Iron Golem"
 Brainstorm
 Brass's Bounty
+"Breena, the Demagogue"
 "Breena, the Demagogue"
 "Breena, the Demagogue"
 Bronze Guardian
@@ -249,6 +251,7 @@ Orzhov Basilica
 Orzhov Signet
 "Osgir, the Reconstructor"
 "Osgir, the Reconstructor"
+"Osgir, the Reconstructor"
 Oversimplify
 Oversimplify
 Paradise Plume
@@ -398,12 +401,14 @@ Well of Lost Dreams
 Wildfire Devils
 "Willowdusk, Essence Seer"
 "Willowdusk, Essence Seer"
+"Willowdusk, Essence Seer"
 Windborn Muse
 Witch's Clinic
 Witch's Clinic
 Yavimaya Coast
 "Yedora, Grave Gardener"
 "Yedora, Grave Gardener"
+"Zaffai, Thunder Conductor"
 "Zaffai, Thunder Conductor"
 "Zaffai, Thunder Conductor"
 "Zetalpa, Primal Dawn"
