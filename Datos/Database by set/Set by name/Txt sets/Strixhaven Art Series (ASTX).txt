@@ -29,6 +29,7 @@ Harness Infinity // Harness Infinity
 Infuriate // Infuriate
 Inquisition of Kozilek // Inquisition of Kozilek
 Introduction to Prophecy // Introduction to Prophecy
+Island // Island
 "Jadzi, Oracle of Arcavios // Jadzi, Oracle of Arcavios"
 "Kasmina, Enigma Sage // Kasmina, Enigma Sage"
 "Kianne, Dean of Substance // Kianne, Dean of Substance"

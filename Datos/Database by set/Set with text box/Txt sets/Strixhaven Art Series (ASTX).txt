@@ -28,6 +28,7 @@
 "('Infuriate', ['Card', 'Infuriate', 'Card'])"
 "('Inquisition of Kozilek', ['Card', 'Inquisition of Kozilek', 'Card'])"
 "('Introduction to Prophecy', ['Card', 'Introduction to Prophecy', 'Card'])"
+"('Island', ['Card', 'Island', 'Card'])"
 "('Jadzi, Oracle of Arcavios', ['Card', 'Jadzi, Oracle of Arcavios', 'Card'])"
 "('Kasmina, Enigma Sage', ['Card', 'Kasmina, Enigma Sage', 'Card'])"
 "('Kianne, Dean of Substance', ['Card', 'Kianne, Dean of Substance', 'Card'])"
