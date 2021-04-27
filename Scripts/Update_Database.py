@@ -6,6 +6,7 @@ from selenium.webdriver.common.keys import Keys
 import time
 import pandas as pd
 import os
+import functions
 
 PATH = r"C:\Program Files (x86)\chromedriver.exe" # Path to chrome driver, needed for use selenium in chrome.
 driver = webdriver.Chrome(PATH)
@@ -19,6 +20,7 @@ downloaded_sets = []
 newest_sets = []
 json_database = {}
 numbers = [1,16,31,46,61,76] # This list is to get the 6 newest sets from skryfall, the data got from skryfall has a set name each 15 positions.
+exclude = ["Strixhaven: School of Mages"] # There is a conflict with Strixhaven: School of Mages Tokens.
 
 for e in os.listdir(r"..\Datos\Database by set\Set with text box\Xlsx sets"): # Make a list with the allready downloaded sets in the folder.
     downloaded_sets.append(e.split(".xlsx")[0])
@@ -34,6 +36,12 @@ driver2.quit()
 for x,y in enumerate(new_list): # Filter the skryfall set list to only keep the 6 newest sets.
     if x in numbers:
         newest_sets.append(y)
+
+try: 
+    for e in exclude:
+        newest_sets.remove(e)
+except:
+    pass
 
 try: # Wait until there is a set displayed in tgbucket.
     search_set = WebDriverWait(driver, 20).until(
@@ -94,6 +102,7 @@ def Datadownload(entrada, url):
                     df.to_csv(f"{url}\Txt sets\{e}.txt", header=None, index=None) # Export the new set to txt.
                 except:
                     pass
+    functions.UpdatePickleDatabase()
 
 Datadownload(long_list, set_by_name)
 Datadownload(text_spoiler, set_with_text_box)

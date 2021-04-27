@@ -7,15 +7,13 @@ import time
 import pandas as pd
 import os
 import pyautogui
+import functions
 
 PATH = r"C:\Program Files (x86)\chromedriver.exe" # Path to chrome driver, needed for use selenium in chrome.
 driver = webdriver.Chrome(PATH)
 driver.get("https://tugbucket.net/tests/salvation/mtg_sets/")
 set_by_name = r"..\Datos\Database by set\Set by name"
 set_with_text_box = r"..\Datos\Database by set\Set with text box"
-new_list = []
-downloaded_sets = []
-newest_sets = []
 json_database = {}
 
 #pyautogui.hotkey('win', 'm') # Minimize all windows.
@@ -79,6 +77,8 @@ def Datadownload(entrada, url, set_to_update):
                     df.to_csv(f"{url}\Txt sets\{e}.txt", header=None, index=None) # Export the new set to txt.
                 except:
                     pass
+
+    functions.UpdatePickleDatabase()
                 
 Datadownload(long_list, set_by_name, set_to_update)
 Datadownload(text_spoiler, set_with_text_box, set_to_update)

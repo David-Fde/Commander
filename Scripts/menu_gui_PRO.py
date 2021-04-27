@@ -2,6 +2,8 @@ from tkinter import *
 from PIL import Image, ImageTk
 import os
 import pickle
+import functions
+import time
 
 with open(r'..\Datos\Mtg_Database.pickle', 'rb') as handle:
     b = pickle.load(handle)
@@ -18,6 +20,7 @@ def resize_image(event):
 
 def Update_database():
   os.system("Update_Database.py")
+  
 
 def Seeker(event=None):
   name=name_var.get()
@@ -36,13 +39,12 @@ def Seeker(event=None):
   except:
     search_text.delete('1.0', END)
     search_text.insert(END, "Card not found")
-
+  
 
 root = Tk()
 root.title("Mtg App")
 root.geometry('1000x500')
 name_var=StringVar()
-
 frame = Frame(root, relief='raised', borderwidth=2)
 frame.pack(fill=BOTH, expand=YES)
 frame.pack_propagate(False)
@@ -64,17 +66,17 @@ textframe.place(relx=0.34, rely=0.8, anchor=CENTER)
 loading_frame = Frame(frame, relief='raised', borderwidth=2)
 loading_frame.place(relx=0.1, rely=0.17, anchor=CENTER)
 search_text = Text(textframe, width=79, height=10)
-loading_text = Text(loading_frame, width=15, height=1)
+#loading_text = Text(loading_frame, width=15, height=1)
 
 
-Button(top_frame, text='Update Database', command=Update_database , width=20, height=2, bg="#fae4b3", relief=RIDGE).pack(side=TOP)
+Button(top_frame, text='Update Database', command=Update_database, width=20, height=2, bg="#fae4b3", relief=RIDGE).pack(side=TOP)
 submit_btn = Button(bottomframe,text = 'Submit', command = Seeker)
 Label(bottomframe, text='Enter Card Name: ', width=14).pack(side=LEFT)
 entrada = Entry(bottomframe,textvariable = name_var, font=('calibre',10,'normal')).pack(side=LEFT)
 root.bind('<Return>', lambda event=None: submit_btn.invoke()) # Click submit by pressing Enter using lambda to doing it continuosly.
 
 search_text.pack()
-loading_text.pack()
+#loading_text.pack()
 submit_btn.pack(side=RIGHT)
 
 root.mainloop()

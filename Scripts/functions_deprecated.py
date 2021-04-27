@@ -11,6 +11,54 @@ import time
 PlainText_Decklists = r"..\Datos\PlainText_Decklists"
 Datos = r"..\Datos"
 
+def PlainTextToExcel():
+    lista = os.listdir(PlainText_Decklists)
+    contador = 1
+    for e in lista:
+        print(f"Opción{contador}: {e}")
+        contador += 1
+    opcion = int(input("Opción: "))
+    opcion -= 1
+    df = pd.read_excel(f"{Datos}\Decklists.xlsx", header=0)
+    f = open(PlainText_Decklists + f"\{lista[opcion]}","r+")
+    text = f.read()
+    text = text.splitlines()
+    if text[0][1] == " ":
+        for e in range(len(text)):
+            text[e] = text[e].rstrip()
+            if text[e][0] != "1" or text[e][0] != 1:
+                contador = 0
+                while contador < int(text[e][0]):
+                    text.append(f"1 {text[e][2:]}")
+                    contador += 1
+                text.remove(text[e])
+        for e in range(len(text)):
+            text[e] = text[e][2:]
+    df[lista[opcion][:-4]] = text
+    df.to_excel(f"{Datos}\Decklists.xlsx", index=False)
+    input("Pulsa una tecla para cerrar")
+    return
+
+ 
+
+def ExcelToPlainText():
+    column = [str(input("Nombre del Comandante: "))]
+    Excel_Decklists = f"{Datos}\Decklists.xlsx"
+    df = pd.read_excel(Excel_Decklists, usecols=column)
+    if column in df.columns:
+        lista = []
+        lista.append(column[0])
+        for e in df[column[0]]:
+            lista.append(e)
+        with open(PlainText_Decklists + f"\{column[0]}.txt", "w") as output:
+            for item in lista:
+                output.write(str(item))
+                output.write("\n")
+    return
+
+
+
+
 def UpdatePickleDatabase():
     Mtg_Database = {}
     decklist = pd.read_excel(r"..\Datos\Decklists.xlsx")
@@ -43,6 +91,30 @@ def UpdatePickleDatabase():
 
     with open(r'..\Datos\Mtg_Database.pickle', 'wb') as handle: # Save mtg Database in .pickle format.
         pickle.dump(Mtg_Database, handle, protocol=pickle.HIGHEST_PROTOCOL)
+        
+        
+def menu():
+    os.system("cls")
+    print("1. Actualizar Base de datos" + "\n" + 
+          "2. Buscador de Cartas" + "\n"
+          "3. Salir" + "\n"
+          )
+
+    respuesta = input("Opción: ")
+    
+    return respuesta
+
+def answer_menu(respuesta):
+    lista_respuestas = ["1","2"]
+    while respuesta in lista_respuestas:
+        if respuesta == "1":
+            os.startfile(r"Update_Database.py")
+            functions.UpdatePickleDatabase()
+        elif respuesta == "2":
+            os.startfile(r"Buscador.py")
+            functions.UpdatePickleDatabase()
+        elif respuesta == "3":
+            exit()
 
 def Update_database():
     PATH = r"C:\Program Files (x86)\chromedriver.exe" # Path to chrome driver, needed for use selenium in chrome.
