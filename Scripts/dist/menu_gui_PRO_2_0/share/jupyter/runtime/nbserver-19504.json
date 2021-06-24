@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\dfernandez\\Desktop\\Logs_Elix",
+  "password": false,
+  "pid": 19504,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "f1392a72f947e8557ad83351da309b89b14fe621403a0085",
+  "url": "http://localhost:8888/"
+}

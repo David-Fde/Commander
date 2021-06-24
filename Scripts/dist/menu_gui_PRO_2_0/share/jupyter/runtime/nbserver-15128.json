@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\dfernandez\\Documents\\Proyectos_Python\\Txt_to_Excel",
+  "password": false,
+  "pid": 15128,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "66049de2ce238545ea299c66e68472f534d12cc005a1704b",
+  "url": "http://localhost:8888/"
+}

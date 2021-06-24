@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\dfernandez\\Documents\\Proyectos_Python\\Pruebas_SASPy",
+  "password": false,
+  "pid": 17000,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "96a4c42e42b8a41d01580ecd85f77cf2759109ab8f4148a9",
+  "url": "http://localhost:8888/"
+}

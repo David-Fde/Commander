@@ -1,0 +1,21 @@
+Beast
+Bird
+Clue
+Clue
+Construct
+Crab
+Elemental
+Food
+Food
+Goblin
+Golem
+Insect
+Phyrexian Germ
+Squirrel
+Thopter
+Timeless Dragon
+Timeless Witness
+Treasure
+Treasure
+Zombie
+Zombie Army

@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\dfernandez\\Documents\\Proyectos_Python\\Coin",
+  "password": false,
+  "pid": 12300,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "b213cf7a647449723aa809351f41dce590f60f1d2bf61f17",
+  "url": "http://localhost:8888/"
+}

@@ -1,1 +1,1 @@
-C:\Users\dfernandez\AppData\Local\Programs\Python\Python38\python.exe "C:\Users\dfernandez\Documents\Proyectos_Python\Commander\Scripts\menu_gui_PRO.py"
+C:\Users\dfernandez\AppData\Local\Programs\Python\Python38\python.exe "C:\Users\dfernandez\Documents\Proyectos_Python\Commander\Scripts\menu_gui_PRO_2_0.py"

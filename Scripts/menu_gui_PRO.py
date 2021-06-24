@@ -6,7 +6,7 @@ import functions
 import time
 
 with open(r'..\Datos\Mtg_Database.pickle', 'rb') as handle:
-    b = pickle.load(handle)
+    database = pickle.load(handle)
 
 def resize_image(event):
     new_width = event.width
@@ -19,8 +19,7 @@ def resize_image(event):
     label.image = photo  # avoid garbage collection
 
 def Update_database():
-  os.system("Update_Database.py")
-  
+  os.system("Update_Database.py")  
 
 def Seeker(event=None):
   name=name_var.get()
@@ -28,13 +27,13 @@ def Seeker(event=None):
 
   try:  
     search_text.delete('1.0', END)
-    result = b[f"{name}"]
+    result = database[f"{name}"]
     for e in result:
       if len(e) > 79:
-        search_text.insert(END, e.replace("'","")[:78] + "\n")
+        search_text.insert(END, " " + e.replace("'","")[:78] + "\n")
         search_text.insert(END, " " + e.replace("'","")[78:])
       else:
-        search_text.insert(END, e.replace("'","") + "\n")
+        search_text.insert(END, " " + e.replace("'","") + "\n")
 
   except:
     search_text.delete('1.0', END)
@@ -76,7 +75,7 @@ entrada = Entry(bottomframe,textvariable = name_var, font=('calibre',10,'normal'
 root.bind('<Return>', lambda event=None: submit_btn.invoke()) # Click submit by pressing Enter using lambda to doing it continuosly.
 
 search_text.pack()
-#loading_text.pack()
+#sloading_text.pack()
 submit_btn.pack(side=RIGHT)
 
 root.mainloop()

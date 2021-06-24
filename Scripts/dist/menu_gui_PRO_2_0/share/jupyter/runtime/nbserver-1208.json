@@ -1,0 +1,12 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "C:\\Users\\dfernandez\\Documents\\Proyectos_Python\\Calculadora_Masa_Madre",
+  "password": false,
+  "pid": 1208,
+  "port": 8888,
+  "secure": false,
+  "sock": "",
+  "token": "cbfc5409e486bf2c0bfc8c5179bacae56bffa212ef28df80",
+  "url": "http://localhost:8888/"
+}
