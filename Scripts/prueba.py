@@ -1,20 +1,27 @@
 import tkinter as tk
-from PIL import Image, ImageTk
-from urllib import urlopen
-from io import BytesIO, StringIO
-
+from tkinter import *
 root = tk.Tk()
 
-URL = "http://www.universeofsymbolism.com/images/ram-spirit-animal.jpg"
-u = urlopen(URL)
-raw_data = u.read()
-u.close()
+frame = Frame(root)
+frame.pack(side="top", expand=True, fill="both")
 
-im = Image.open(StringIO(raw_data))
-photo = ImageTk.PhotoImage(im)
+lab = Label(frame, text="hiiii")
+lab.grid(row=0, column=0, padx=10, pady=5)
 
-label = tk.Label(image=photo)
-label.image = photo
-label.pack()
+def clearFrame():
+    # destroy all widgets from frame
+    for widget in frame.winfo_children():
+       widget.destroy()
+    
+    # this will clear frame and frame will be empty
+    # if you want to hide the empty panel then
+    frame.pack_forget()
 
+frame.but = Button(frame, text="clear frame", command=clearFrame)
+frame.but.grid(row=0, column=1, padx=10, pady=5)
+
+# then whenever you add data in frame then you can show that frame
+lab2 = Label(frame, text="hiiii")
+lab2.grid(row=1, column=0, padx=10, pady=5)
+frame.pack()
 root.mainloop()
