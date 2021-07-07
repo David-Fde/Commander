@@ -76,7 +76,7 @@ def Seeker(event=None):
 root = tk.Tk()
 root.title("Mtg App") #Titulo
 root.geometry('1200x700') # Tamaño de la pantalla
-root.attributes("-fullscreen", True) # Pantalla completa
+#root.attributes("-fullscreen", True) # Pantalla completa
 name_var=StringVar()
 frame = Frame(root, relief='raised', borderwidth=2)
 frame.pack(fill=BOTH, expand=YES)
