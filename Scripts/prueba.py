@@ -1,27 +1,32 @@
-import tkinter as tk
-from tkinter import *
-root = tk.Tk()
+from Tkinter import *
+import tkMessageBox
+import Tkinter
 
-frame = Frame(root)
-frame.pack(side="top", expand=True, fill="both")
+top = Tk()
 
-lab = Label(frame, text="hiiii")
-lab.grid(row=0, column=0, padx=10, pady=5)
+Lb1 = Listbox(top)
+Lb1.insert(1, "Python")
+Lb1.insert(2, "Perl")
+Lb1.insert(3, "C")
+Lb1.insert(4, "PHP")
+Lb1.insert(5, "JSP")
+Lb1.insert(6, "Ruby")
 
-def clearFrame():
-    # destroy all widgets from frame
-    for widget in frame.winfo_children():
-       widget.destroy()
-    
-    # this will clear frame and frame will be empty
-    # if you want to hide the empty panel then
-    frame.pack_forget()
+Lb1.pack()
+top.mainloop()
 
-frame.but = Button(frame, text="clear frame", command=clearFrame)
-frame.but.grid(row=0, column=1, padx=10, pady=5)
 
-# then whenever you add data in frame then you can show that frame
-lab2 = Label(frame, text="hiiii")
-lab2.grid(row=1, column=0, padx=10, pady=5)
-frame.pack()
-root.mainloop()
+from Tkinter import *
+
+root = Tk()
+scrollbar = Scrollbar(root)
+scrollbar.pack( side = RIGHT, fill = Y )
+
+mylist = Listbox(root, yscrollcommand = scrollbar.set )
+for line in range(100):
+   mylist.insert(END, "This is line number " + str(line))
+
+mylist.pack( side = LEFT, fill = BOTH )
+scrollbar.config( command = mylist.yview )
+
+mainloop()
